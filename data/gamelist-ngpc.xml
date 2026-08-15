@@ -1,12 +1,10 @@
 <?xml version="1.0"?>
 <gameList>
 	<game id="47043">
-		<path>./Neo Turf Masters (World) (En,Ja).zip</path>
 		<name>Big Tournament Golf</name>
 		<desc>In diesem Golfspiel wählt der Spieler einen von sechs verfügbaren Golfern und nimmt an einer Reihe von Golfplätzen auf der ganzen Welt teil, darunter Japan (Fujiyama Oriental Golf Club), Amerika (Grand Canyon Golf Course), Australien (Blue Lagoon Golf Course) und Deutschland (Baden Golf Course). Das Spiel verfügt über zwei Spielmodi. Der erste ist Stroke Play, bei dem der Spieler versucht, die höchste Punktzahl zu erreichen, indem er alle 18 Löcher spielt. Die zweite ist Match Play, bei dem zwei Spieler gegeneinander antreten, um zu sehen, wer mehr von den 18 Löchern gewinnen kann.</desc>
 		<genre>Sport / Golf</genre>
 		<image>./images/Neo Turf Masters (World) (En,Ja)-image.png</image>
-		<video>./videos/Neo Turf Masters (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Neo Turf Masters (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Neo Turf Masters (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -14,20 +12,16 @@
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>1222a2eca8db9b54f044fa2fe2f50a61</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>1222A2ECA8DB9B54F044FA2FE2F50A61</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013156" />
 	</game>
 	<game id="51139">
-		<path>./Cool Cool Jam (Japan).zip</path>
 		<name>Cool Cool Jam</name>
 		<desc>Ein Junge und ein Mädchen werden für 1.000 Jahre in die Zukunft versetzt. Um nach Hause zurückzukehren, müssen sie eine beliebte und erfolgreiche Musikgruppe gründen.
 Das Spiel kann von einem oder zwei Spielern gespielt werden. Im Zwei-Spieler-Modus spielt sich das Spiel wie ein Duo. Die Spieler spielen abwechselnd und erhalten am Ende eine Nachricht. Das Spiel verfügt außerdem über einen Einzelspieler-Story-Modus, der Abenteuerspielelemente enthält. Im Spiel können verschiedene Instrumente verwendet werden. Jedes Instrument hat einen anderen Spielstil.</desc>
 		<genre>Musik und Tanz / Rythmus</genre>
 		<image>./images/Cool Cool Jam (Japan)-image.png</image>
-		<video>./videos/Cool Cool Jam (Japan)-video.mp4</video>
 		<marquee>./images/Cool Cool Jam (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Cool Cool Jam (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -35,20 +29,16 @@ Das Spiel kann von einem oder zwei Spielern gespielt werden. Im Zwei-Spieler-Mod
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<players>2</players>
-		<md5>a4567e247b16d07e9c9085c5b35bd8c9</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>A4567E247B16D07E9C9085C5B35BD8C9</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013159" />
 	</game>
 	<game id="47047">
-		<path>./Puzzle Link 2 (USA, Europe).zip</path>
 		<name>Puzzle Link 2</name>
 		<desc>Das Gameplay von Puzzle Link 2 ist im Großen und Ganzen identisch mit dem ersten Spiel: Puzzle Link ist ein Spiel, bei dem Blöcke gleicher Farbe aufgelöst werden müssen. Ständig scrollen neue Blöcke von oben in den Bildschirm. Das Spiel ist beendet, wenn die ersten Blöcke den unteren Bildschirmrand erreichen. Du kannst Blöcke auflösen, indem du auf sie schießt. Die Schüsse bilden dort, wo sie auftreffen, eine Linie. Wenn diese Linie ansonsten nicht verbundene Blöcke derselben Farbe verbindet, werden sie aufgelöst.
 In Puzzle Link 2 gibt es neue Modi. Wie im Original gibt es die Standard-Herausforderungs- und Puzzlerunden. Neu in der Serie ist jedoch das Spiel im Marathon-Stil, bei dem Sie immer wieder Spielsteine eliminieren, während das Spiel langsamer wird. In diesem Modus erscheinen mehr Power-Ups, je schneller der Spieler arbeitet. Hier erhalten Sie drei Schüsse, die das gleichfarbige Plättchen vom Spielbrett entfernen. Das Spiel bietet außerdem Verbindungskabelunterstützung für zwei Spieler.</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Puzzle Link 2 (USA, Europe)-image.png</image>
-		<video>./videos/Puzzle Link 2 (USA, Europe)-video.mp4</video>
 		<marquee>./images/Puzzle Link 2 (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Puzzle Link 2 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -56,15 +46,12 @@ In Puzzle Link 2 gibt es neue Modi. Wie im Original gibt es die Standard-Herausf
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1</players>
-		<md5>9b30216da76c9de87caea93f13977396</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>9B30216DA76C9DE87CAEA93F13977396</cheevosHash>
 		<cheevosId>14624</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013203" />
 	</game>
 	<game id="47027">
-		<path>./Crush Roller (World) (En,Ja).zip</path>
 		<name>Crush Roller</name>
 		<desc>Crush Roller ist ein Spiel für den Neo Geo Pocket Color, das auf dem Arcade-Spiel Make Trax aus dem Jahr 1981 basiert, das in Europa und Asien als Crush Roller veröffentlicht wurde.
 Ziel des Spiels ist es, das gesamte Labyrinth mit einem Pinsel auszumalen. Während du malst, laufen zwei Feinde durch das Labyrinth. Wenn sie dich treffen, verlierst du ein Leben.
@@ -73,7 +60,6 @@ Hin und wieder taucht ein anderes Lebewesen auf, das Spuren in Ihrem Gemälde hi
 Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegensatz zur Arcade-Version verfügt die Neo Geo Pocket Color-Version über mehrere Level.</desc>
 		<genre>Action / Labyrinth</genre>
 		<image>./images/Crush Roller (World) (En,Ja)-image.png</image>
-		<video>./videos/Crush Roller (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Crush Roller (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Crush Roller (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -81,20 +67,16 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<developer>ADK</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>100f6086bbcd6bccd2ac6f79242f5a87</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>100F6086BBCD6BCCD2AC6F79242F5A87</cheevosHash>
 		<cheevosId>13712</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013206" />
 	</game>
 	<game id="47070">
-		<path>./Baseball Stars Color - Pocket Sports Series (World) (En,Ja).zip</path>
 		<name>Baseball Stars Color</name>
 		<desc>Baseball Stars Color ist ein Sportspiel über Baseball. Das Spiel ähnelt NESs „Baseball Stars“, verfügt jedoch über weniger realistische Charaktere und weniger realistisches Gameplay. Sie leiten Ihr eigenes Baseballteam und spielen eine Reihe von Spielen. Das Spiel folgt den typischen Baseballregeln: Ein Spieler wirft den Ball, der zweite schlägt den Ball, jemand fängt ihn usw. Jeder Charakter hat seine eigenen Statistiken.</desc>
 		<genre>Sport / Baseball</genre>
 		<image>./images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-image.png</image>
-		<video>./videos/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Baseball Stars Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -103,19 +85,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>SNK</publisher>
 		<family>Baseball Stars</family>
 		<players>1-2</players>
-		<md5>6f9f680b659369448f01508501c5a709</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>6F9F680B659369448F01508501C5A709</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013210" />
 	</game>
 	<game id="47053">
-		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
 		<name>Choujou Kessen Saikyou Fighters : SNK vs. Capcom</name>
 		<desc>SNK vs. Capcom: The Match of the Millennium ist ein Kampfspiel für Neo Geo Pocket Color. Sie können zwischen 18 Kämpfern von SNK oder Capcom in einer „super deformierten“ Version wählen, wobei Sie wissen, dass 8 weitere verfügbar sind, wenn Sie den Einzelspielermodus beenden. Es stehen weitere Spieloptionen zur Verfügung, die es zwei Spielern ermöglichen, im Tag-Modus zu spielen oder an Minispielen namens Olympics teilzunehmen.</desc>
 		<genre>Kampf</genre>
 		<image>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-image.png</image>
-		<video>./videos/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -124,19 +102,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>SNK</publisher>
 		<family>SNK Vs. Capcom</family>
 		<players>1-2</players>
-		<md5>dd285dbdb0e46a1b0e8ea9a5d840e070</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>DD285DBDB0E46A1B0E8EA9A5D840E070</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013213" />
 	</game>
 	<game id="47071">
-		<path>./Big Bang Pro Wrestling (Japan) (En,Ja).zip</path>
 		<name>Big Bang Pro Wrestling</name>
 		<desc>Nur eine Handvoll Top-Wrestler können ihren Fans zu Hause ihr Gesicht im Fernsehen zeigen. Auf der I.E.W-Matte ist diese Regel keine Ausnahme. Bei einer seit 300 Jahren praktizierten Veranstaltung sind nur die besten Leistungen gefragt. In diesem Jahr kehrt der große König der I.E.W., Joseph Steel, zurück, um seinen Thron zu verteidigen. Die Geschichte von acht Top-Wrestlern, die um den größten Preis im Ring, den I.E.W-Champion-Gürtel, kämpfen, beginnt gleich ...</desc>
 		<genre>Sport / Wrestling</genre>
 		<image>./images/Big Bang Pro Wrestling (Japan) (En,Ja)-image.png</image>
-		<video>./videos/Big Bang Pro Wrestling (Japan) (En,Ja)-video.mp4</video>
 		<marquee>./images/Big Bang Pro Wrestling (Japan) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Big Bang Pro Wrestling (Japan) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.6</rating>
@@ -144,20 +118,16 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<developer>S-Neo</developer>
 		<publisher>SNK</publisher>
 		<players>2</players>
-		<md5>184dc284995dc20ddce599426b9cac7d</md5>
 		<lang>en,jp</lang>
 		<region>jp</region>
-		<cheevosHash>184DC284995DC20DDCE599426B9CAC7D</cheevosHash>
 		<cheevosId>26881</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013215" />
 	</game>
 	<game id="47048">
-		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
 		<name>Samurai Spirits! 2</name>
 		<desc>Eine der legendären Kampfspielserien von SNK ist wieder da! In Samurai Shodown II können Sie in eine der Rollen von 15 Kriegern schlüpfen, während Sie sich Ihren Weg durch das Land bahnen, um die bösen Mizuki zu besiegen! Haue, trete und schneide deine Gegner in zwei Hälften... tu, was immer nötig ist... lebe durch das Schwert und stirb durch seine Klinge.</desc>
 		<genre>Kampf / Versus</genre>
 		<image>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-image.png</image>
-		<video>./videos/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -166,20 +136,16 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>SNK</publisher>
 		<family>Samurai Shodown</family>
 		<players>1-2</players>
-		<md5>9b11b2632f926301096a40491042a089</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>9B11B2632F926301096A40491042A089</cheevosHash>
 		<cheevosId>13349</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013217" />
 	</game>
 	<game id="47038">
-		<path>./King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
 		<name>King of Fighters R-2</name>
 		<desc>Die KOF-Serie verwendet erneut den japanischen „SD“-Stil (Super-Deformed) (verbessert) und debütiert auf der neuen Handheld-Konsole von SNK. Der Titel bietet die gleichen Gameplay-Features wie sein Arcade-/Konsolen-Pendant The King of Fighters '98, wie z. B. die Möglichkeit, zwischen zwei Spielmodi (Fortgeschritten oder Extra) zu wählen, eine identische Anpassung der Kampfphasen und das zusätzliche „Advantage System“. ” (direkt mit den Leistungsanzeigen verbunden) und die Chance, mit einer angetriebenen Version des „Franchise-Chefs“ Rugal Bernstein zu kämpfen.</desc>
 		<genre>Kampf / Versus</genre>
 		<image>./images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-image.png</image>
-		<video>./videos/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -188,19 +154,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>SNK</publisher>
 		<family>The King of Fighters</family>
 		<players>1-2</players>
-		<md5>269ee4a53a63ec36f996fd9d205513ae</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>269EE4A53A63EC36F996FD9D205513AE</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013221" />
 	</game>
 	<game id="87587">
-		<path>./Puyo Pop (World) (En,Ja) (v06).zip</path>
 		<name>Puyo Puyo Tsuu</name>
 		<desc>Das Ziel dieses Puzzlespiels besteht darin, Ihr Gitter von fallenden Mustern, sogenannten Puyos, zu befreien, indem Sie Ketten aus vier oder mehr Puyos derselben Farbe in einer geraden Linie oder in einem von mehreren geometrischen Mustern bilden. Was dieses Spiel für zwei Spieler so herausfordernd macht, ist die Tatsache, dass, wenn Sie eine Puyos-Kette von Ihrem Spielfeld entfernen, ein zufälliges Stück auf das Spielfeld Ihres Gegners fällt. Je mehr Puyos Sie leeren, desto mehr füllen Sie das Feld Ihres Gegners, und wenn Sie dessen Feld so weit füllen können, dass es bis zum Rand gefüllt ist, haben Sie das Spiel gewonnen.</desc>
 		<genre>Puzzle / Fallen</genre>
 		<image>./images/Puyo Pop (World) (En,Ja) (v06)-image.png</image>
-		<video>./videos/Puyo Pop (World) (En,Ja) (v06)-video.mp4</video>
 		<marquee>./images/Puyo Pop (World) (En,Ja) (v06)-marquee.png</marquee>
 		<thumbnail>./images/Puyo Pop (World) (En,Ja) (v06)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -209,19 +171,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>SNK</publisher>
 		<family>Puyo Puyo</family>
 		<players>1</players>
-		<md5>d40dc57b9cc3a30a2400f8cfd8724578</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>D40DC57B9CC3A30A2400F8CFD8724578</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013222" />
 	</game>
 	<game id="47042">
-		<path>./NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).zip</path>
 		<name>NeoGeo Cup '98 Plus</name>
 		<desc>Neo Geo Cup '98 Plus ist ein Fußballspiel für den Neo Geo Pocket. Das Spiel bietet Einzelspiel, Kopf-an-Kopf-Spiel (mithilfe eines Verbindungskabels) und Story-Modus. Sie können wählen, ob Sie gegen eines von 16 internationalen Teams spielen möchten. Jedes Team hat seine eigenen kollektiven Statistiken. Auf dem Spielfeld können Sie Pässe, Schüsse, Dribblings, Slidings und Angriffe ausführen. Im Story-Modus müssen Sie in einer Reihe von Turnieren so viele Spiele wie möglich gewinnen. Vor und während der Spiele können Sie die Spielfeldformationen ändern und Spieler wechseln. Für jedes gewonnene Spiel erhalten Sie ein Preisgeld, mit dem Sie Gegenstände für Ihr Team kaufen können. Diese Gegenstände verbessern normalerweise einen Wert, verringern jedoch einen anderen.</desc>
 		<genre>Sport / Fußball</genre>
 		<image>./images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-image.png</image>
-		<video>./videos/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.6</rating>
@@ -229,19 +187,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<players>1</players>
-		<md5>a6c3369f28558e4a9719dc54d50be713</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>A6C3369F28558E4A9719DC54D50BE713</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013226" />
 	</game>
 	<game id="47050">
-		<path>./SNK Gals' Fighters (USA, Europe).zip</path>
 		<name>SNK Gals Fighters</name>
 		<desc>Dieses Spiel ist ein exklusiver Neo Geo Pocket Color und daher für eine Nische für Spiele bestimmt. Obwohl die Grundidee mehr Sympathie hervorrief (ein Kampfspiel, das nur aus weiblichen Persönlichkeiten und prominenten Persönlichkeiten der Firma besteht), wurde sie nicht von einem Kader schlecht ausgenutzt, der ihnen schadet (sie sind nur diese Persönlichkeiten). ) und hat eine sehr begrenzte Lebensdauer. Haben Sie schon Blue Mary, Vice, Mature, Jenet, Hotaru, King, Kasumi, Vanessa, Chizuru, Cham Cham, Yuki, Rosa, Benimaru, Charlotte (hast du den Fehler gefunden)?... Klar, das ist eins Ein kleines Spiel ohne Vorsatz, es war mehr entbehrlich als das Original. Ich bevorzuge das gleiche wie SNK vs. Capcom auf der gleichen Konsole, wenn Sie die Wahl haben, die sehr vollständig und interessant ist.</desc>
 		<genre>Kampf</genre>
 		<image>./images/SNK Gals' Fighters (USA, Europe)-image.png</image>
-		<video>./videos/SNK Gals' Fighters (USA, Europe)-video.mp4</video>
 		<marquee>./images/SNK Gals' Fighters (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/SNK Gals' Fighters (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -249,20 +203,16 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>08922d2bdc6c80d56ddf50836ccad77c</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>08922D2BDC6C80D56DDF50836CCAD77C</cheevosHash>
 		<cheevosId>13423</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013228" />
 	</game>
 	<game id="47032">
-		<path>./Evolution - Eternal Dungeons (Europe) (v03).zip</path>
 		<name>Evolution - Eternal Dungeons</name>
 		<desc>Eine tragbare Version von Evolution: The World of Sacred Device. Eternal Dungeon erzählt die Geschichte des jungen Entdeckers Mag Launcher und seiner Suche nach dem legendären Evolutia, einem Gegenstand von immenser Macht. Die Grundvoraussetzung des Spiels besteht darin, Quests rund um die Stadt zu erfüllen, dann eine Gruppe zusammenzustellen und zu versuchen, die vielen Dungeons des Spiels zu räumen, Ihre Charaktere zu zermahlen und die Beute und Erfahrung zu sammeln, die Sie brauchen, um das Spiel voranzubringen. Planen und kaufen Sie Gegenstände, Ausrüstung, und Upgrades für deinen Cy-Frame, einen Roboteraufsatz, der es Mag ermöglicht, ihre Kampffähigkeiten zu verbessern. Wie für eine tragbare Version zu erwarten war, wurde das Gameplay im Vergleich zur ursprünglichen Dreamcast-Version erheblich herabgestuft. Die Stadtnavigation erfolgt menügesteuert und alle Grafiken sind jetzt von oben nach unten gerichtete 2D-Sprites, wobei alle Dungeons vorab entworfen und nicht mehr zufällig generiert werden. Der Kampf läuft rundenbasiert ab und nutzt ein Menüsystem, aus dem Sie Ihre Aktionen für jedes Gruppenmitglied (bis zu 3) auswählen und ausführen, ohne dass sich sonst etwas ändert.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Evolution - Eternal Dungeons (Europe) (v03)-image.png</image>
-		<video>./videos/Evolution - Eternal Dungeons (Europe) (v03)-video.mp4</video>
 		<marquee>./images/Evolution - Eternal Dungeons (Europe) (v03)-marquee.png</marquee>
 		<thumbnail>./images/Evolution - Eternal Dungeons (Europe) (v03)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -270,19 +220,15 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<developer>Sting</developer>
 		<publisher>SEGA</publisher>
 		<players>1-2</players>
-		<md5>277ce8138fbf2d493c0478bfdb30e21f</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>277CE8138FBF2D493C0478BFDB30E21F</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013231" />
 	</game>
 	<game id="47051">
-		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
 		<name>SNK vs. Capcom : Card Fighters Clash - Capcom Version</name>
 		<desc>Nehmen Sie in diesem NGPC-Kartenspiel mit Ihrem Capcom-Deck am Card Fighter's Clash-Turnier teil. Sammle alle 300 Karten der SNK- und Capcom-Franchises und duelliere und tausche mit deinen Freunden im erweiterten Link-Modus. Mit einer ähnlichen Mechanik wie CCGs wie Yu-Gi-Oh und beliebten Charakteren von SNK und Capcom bietet Card Fighters Clash sowohl ein Sammel- als auch ein Strategiespiel. Dieses Spiel ermöglicht auch die Verbindung zwischen SNK und Capcom: Match of the Millennium, um Sammelpunkte zu übertragen.</desc>
 		<genre>Strategie</genre>
 		<image>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-image.png</image>
-		<video>./videos/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-video.mp4</video>
 		<marquee>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -291,20 +237,16 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>Capcom</publisher>
 		<family>SNK Vs. Capcom</family>
 		<players>1-2</players>
-		<md5>3bcc1c9ef59a75e3c2e6b49be6b84bab</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>3BCC1C9EF59A75E3C2E6B49BE6B84BAB</cheevosHash>
 		<cheevosId>14395</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013232" />
 	</game>
 	<game id="47052">
-		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
 		<name>SNK vs. Capcom - Card Fighters Clash - SNK Version</name>
 		<desc>Nehmen Sie in diesem NGPC-Kartenspiel mit Ihrem SNK-Deck am Card Fighter's Clash-Turnier teil. Sammle alle 300 Karten der SNK- und Capcom-Franchises und duelliere und tausche mit deinen Freunden im erweiterten Link-Modus. Mit CCG-ähnlichen Mechaniken wie Yu-Gi-Oh und beliebten Charakteren von SNK und Capcom bietet Card Fighters Clash sowohl ein Strategiespiel als auch ein Strategiespiel. Dieses Spiel ermöglicht auch die Verbindung zwischen SNK und Capcom: Match of the Millennium, um Sammelpunkte zu übertragen.</desc>
 		<genre>Strategie</genre>
 		<image>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-image.png</image>
-		<video>./videos/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-video.mp4</video>
 		<marquee>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -313,21 +255,17 @@ Wenn das gesamte Labyrinth vollständig bemalt ist, haben Sie gewonnen. Im Gegen
 		<publisher>Capcom</publisher>
 		<family>SNK Vs. Capcom</family>
 		<players>1-2</players>
-		<md5>74e8381e94565e21a3197449bb4423bf</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>74E8381E94565E21A3197449BB4423BF</cheevosHash>
 		<cheevosId>14395</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013234" />
 	</game>
 	<game id="47041">
-		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
 		<name>Metal Slug : 2nd Mission</name>
 		<desc>Übernehmen Sie erneut die Kontrolle über den Metal Slug-Panzer auf dem NGPC, dieses Mal, um die Rebellen-Streitmacht „Phantom“ zu besiegen. Reisen Sie über 38 nichtlineare Schlachtfelder, um feindliche Truppen zu besiegen und Geiseln zu befreien. Steuern Sie den Metal Slug-Panzer, den Slug Flyer-Kampfjet und das Slug Sub-U-Boot und feuern Sie das schwere Maschinengewehr, den Raketenwerfer und die Kanone ab.
 Eine Liste geretteter Geiseln und ein Zeitangriffsmodus verleihen dieser Version Tiefe.</desc>
 		<genre>Shooter / Run and Gun</genre>
 		<image>./images/Metal Slug - 2nd Mission (World) (En,Ja)-image.png</image>
-		<video>./videos/Metal Slug - 2nd Mission (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Metal Slug - 2nd Mission (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Metal Slug - 2nd Mission (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -336,20 +274,16 @@ Eine Liste geretteter Geiseln und ein Zeitangriffsmodus verleihen dieser Version
 		<publisher>SNK</publisher>
 		<family>Metal Slug</family>
 		<players>1</players>
-		<md5>816b37b41aebe5055d5ef2c079997e7d</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>816B37B41AEBE5055D5EF2C079997E7D</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013237" />
 	</game>
 	<game id="87554">
-		<path>./Dive Alert - Matt's Version (USA, Europe).zip</path>
 		<name>Dive Alert : Matt's Version</name>
 		<desc>Dive Alert – Matt's Version ist ein Rollenspiel. Es gibt eine andere Version von Dive Alert namens Dive Alert: Becky's Version. Beide Spiele ähneln eher der Pokémon-Serie (Rot/Blau usw.), bei der es sich im Wesentlichen um das gleiche Spiel mit kleinen Unterschieden handelt.
 Der Spieler übernimmt die Kontrolle über einen Charakter namens Matt. Das Spiel spielt in der Zukunft und die Welt ist größtenteils von Wasser umgeben. Das einzige Land ist ein kleiner Ort namens Terra. Um auf Terra akzeptiert zu werden, muss der Spieler seinen Wert unter Beweis stellen, indem er seine Fähigkeiten als U-Boot-Kommandant unter Beweis stellt und alle feindlichen Schiffe zerstört.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Dive Alert - Matt's Version (USA, Europe)-image.png</image>
-		<video>./videos/Dive Alert - Matt's Version (USA, Europe)-video.mp4</video>
 		<marquee>./images/Dive Alert - Matt's Version (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Dive Alert - Matt's Version (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.5</rating>
@@ -357,14 +291,11 @@ Der Spieler übernimmt die Kontrolle über einen Charakter namens Matt. Das Spie
 		<developer>Sacnoth</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>0c38b2d5d1a2be15d6c15c6b16b7bc98</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>0C38B2D5D1A2BE15D6C15C6B16B7BC98</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013239" />
 	</game>
 	<game id="47034">
-		<path>./Faselei! (USA, Europe).zip</path>
 		<name>Faselei!</name>
 		<desc>Faselei! ist ein taktisches Rollenspiel, das von Sacnoth entwickelt und von SNK für den NGPC veröffentlicht wurde.
 Dieses Spiel ist einer der seltenen Titel auf NGPC, der von einem musikalischen Thema inklusive Gesang profitiert.
@@ -375,7 +306,6 @@ Es stehen mehrere Optionen und Optimierungsmöglichkeiten zur Verfügung, die je
 Die verschiedenen Stützpunkte (äquivalent zu Städten) ermöglichen es, Nebenquests abzuschließen, Gegenstände zu kaufen und vor allem zu sparen.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Faselei! (USA, Europe)-image.png</image>
-		<video>./videos/Faselei! (USA, Europe)-video.mp4</video>
 		<marquee>./images/Faselei! (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Faselei! (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -383,15 +313,12 @@ Die verschiedenen Stützpunkte (äquivalent zu Städten) ermöglichen es, Nebenq
 		<developer>Sacnoth</developer>
 		<publisher>SNK</publisher>
 		<players>1</players>
-		<md5>f580078164dc2b8dffb9f38eeec1035d</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>F580078164DC2B8DFFB9F38EEEC1035D</cheevosHash>
 		<cheevosId>13167</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013241" />
 	</game>
 	<game id="47035">
-		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
 		<name>Garou Densetsu : First Contact</name>
 		<desc>Fatal Fury: First Contact ist ein „Pocket-Remix“ von Real Bout Fatal Fury 2, der fast das gesamte ursprüngliche Gameplay, die Charaktere und die Einstellungen beibehält.
 First Contact enthält auch einen einzigartigen Charakter: Lao (der Kämpfer, der in der Intro-Animation von RBFF2 eine Niederlage gegen Xiangfei und Rick erlitten hat), nur im VS-Modus spielbar.
@@ -399,7 +326,6 @@ Dies ist das zweite Kampfspiel, das speziell für das NGP portiert wurde und uns
 SNK hat uns hier hervorragende Konvertierungsarbeit geleistet, da wir die gleichen Spielgefühle wie bei RBFF2 beibehalten, die Persönlichkeiten und Bewegungen der Protagonisten nahezu intakt sind und der Übergang in den „Chibi“-Modus gelungen ist.</desc>
 		<genre>Kampf / Versus</genre>
 		<image>./images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-image.png</image>
-		<video>./videos/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -408,20 +334,16 @@ SNK hat uns hier hervorragende Konvertierungsarbeit geleistet, da wir die gleich
 		<publisher>SNK</publisher>
 		<family>Fatal Fury</family>
 		<players>1-2</players>
-		<md5>8f3175df433b78dfa1a0663f493e1fea</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>8F3175DF433B78DFA1A0663F493E1FEA</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013242" />
 	</game>
 	<game id="47033">
-		<path>./Fantastic Night Dreams - Cotton (Europe).zip</path>
 		<name>Fantastic Night Dreams - Cotton</name>
 		<desc>Fantastic Night Dreams Cotton ist ein 2D-Side-Scrolling-Shooter, in dem der Spieler die Rolle der jungen Hexe Cotton übernimmt, die sich auf ihrem magischen Besen auf die Suche nach ihren Lieblingssüßigkeiten macht. Zum Glück für uns führt ihre Besessenheit sie auf den Weg mehrerer bedrohlicher Schrecken, die sie zerstören muss.
 Das Spiel verfügt über ein Erfahrungssystem, bei dem der Spieler seine Waffe mit den gesammelten Kraftkristallen umso mehr verbessern kann, je mehr Feinde er tötet. Der Spieler kann seine Waffen auch für Spezialangriffe aufladen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
 		<image>./images/Fantastic Night Dreams - Cotton (Europe)-image.png</image>
-		<video>./videos/Fantastic Night Dreams - Cotton (Europe)-video.mp4</video>
 		<marquee>./images/Fantastic Night Dreams - Cotton (Europe)-marquee.png</marquee>
 		<thumbnail>./images/Fantastic Night Dreams - Cotton (Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -430,20 +352,16 @@ Das Spiel verfügt über ein Erfahrungssystem, bei dem der Spieler seine Waffe m
 		<publisher>SNK</publisher>
 		<family>Cotton</family>
 		<players>1</players>
-		<md5>5a2a155706a201a1c0227c7fe671256f</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>5A2A155706A201A1C0227C7FE671256F</cheevosHash>
 		<cheevosId>11692</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013244" />
 	</game>
 	<game id="87588">
-		<path>./Bust-A-Move Pocket (USA).zip</path>
 		<name>Bust-A-Move Pocket</name>
 		<desc>Das klassische Spiel Bubble Bobble ist der Vorgänger von Puzzle Bobble. Ihr Ziel in jeder Stufe ist es, alle Blasen zu zerstören, indem Sie drei oder mehr derselben Farbe zerbrechen. Das Spiel enthält einen Zwei-Spieler-Modus, bei dem jeder Spieler zuerst versucht, alle Blasen zu zerstören.</desc>
 		<genre>Puzzle / Werfen</genre>
 		<image>./images/Bust-A-Move Pocket (USA)-image.png</image>
-		<video>./videos/Bust-A-Move Pocket (USA)-video.mp4</video>
 		<marquee>./images/Bust-A-Move Pocket (USA)-marquee.png</marquee>
 		<thumbnail>./images/Bust-A-Move Pocket (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -452,15 +370,12 @@ Das Spiel verfügt über ein Erfahrungssystem, bei dem der Spieler seine Waffe m
 		<publisher>SNK</publisher>
 		<family>Puzzle Bobble</family>
 		<players>1-2</players>
-		<md5>d91fd1c6c941bc2bde4ada3580fe408f</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>D91FD1C6C941BC2BDE4ADA3580FE408F</cheevosHash>
 		<cheevosId>11573</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013246" />
 	</game>
 	<game id="47025">
-		<path>./Biomotor Unitron (USA, Europe).zip</path>
 		<name>Biomotor Unitron</name>
 		<desc>Nach dem Einschlag eines Meteoriten und dem Aufkommen einer neuen Energiequelle wurde der Bau von Riesenrobotern auf der ganzen Welt populär.
 Diese Roboter werden bei der Organisation von Arenakämpfen eingesetzt, um den höchsten Titel „Meister der Meister“ zu erlangen.
@@ -469,7 +384,6 @@ Es gibt mehr als 200 mögliche Waffenkombinationen, wobei jede Waffe Stärken un
 Die Kämpfe basieren wie bei vielen J-RPGs der damaligen Zeit auf einem Menü, aus dem man die gewünschte Aktion auswählt.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Biomotor Unitron (USA, Europe)-image.png</image>
-		<video>./videos/Biomotor Unitron (USA, Europe)-video.mp4</video>
 		<marquee>./images/Biomotor Unitron (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Biomotor Unitron (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -477,15 +391,12 @@ Die Kämpfe basieren wie bei vielen J-RPGs der damaligen Zeit auf einem Menü, a
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>f4bbe8cf42074b75c8a911bf7b0562d5</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>F4BBE8CF42074B75C8A911BF7B0562D5</cheevosHash>
 		<cheevosId>11572</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013249" />
 	</game>
 	<game id="47040">
-		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
 		<name>Metal Slug : 1st Mission</name>
 		<desc>Als Mitglied der Eliteeinheit „Wanderfalken“ haben Sie die Aufgabe, den bösen Colonel Bildegaarn zu eliminieren.
 Mit Hilfe des Multitasking-Panzers „Metal Slug“ sowie des „Slug Flyer“, Ihres Blasters und Ihrer Geschicklichkeit können Sie die 17 Missionen meistern, die es Ihnen ermöglichen, die Welt vor der Tyrannei zu retten .
@@ -493,7 +404,6 @@ Der Aufbau der Level und das Gameplay laden durch skalierten Fortschritt und „
 Durch das Speichern im Spiel kann der Spieler die Konsole ausschalten und das Spiel fortsetzen, ohne das Erworbene zu verlieren.</desc>
 		<genre>Shooter / Run and Gun</genre>
 		<image>./images/Metal Slug - 1st Mission (World) (En,Ja)-image.png</image>
-		<video>./videos/Metal Slug - 1st Mission (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Metal Slug - 1st Mission (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Metal Slug - 1st Mission (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -502,21 +412,17 @@ Durch das Speichern im Spiel kann der Spieler die Konsole ausschalten und das Sp
 		<publisher>SNK</publisher>
 		<family>Metal Slug</family>
 		<players>1</players>
-		<md5>054d066ca6ebcf0b0020dbeea2e80762</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>054D066CA6EBCF0B0020DBEEA2E80762</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013251" />
 	</game>
 	<game id="87560">
-		<path>./Magical Drop Pocket (USA, Europe).zip</path>
 		<name>Magical Drop Pocket</name>
 		<desc>Die Kernmechanik von Magical Drop Pocket ähnelt der von Magical Drop III. Die einzige Ausnahme besteht darin, dass das Schlachtfeld aus sechs statt sieben Spalten besteht, ähnlich wie bei den Super Famicom-Portierungen der ersten beiden Magical Drop-Spiele.
 Das Spiel bietet Story, Selbstherausforderung und Freundesherausforderung; Diese entsprechen den Standardmodi 1P VS Com, Solo und 2P VS, die in anderen Magical Drop-Spielen enthalten sind. Story verfügt über fünf Schwierigkeitsstufen, Self Challenge über drei.
 Wie viele andere Handheld-Puzzlespiele dieser Zeit gibt es in Story keinen „echten“ KI-Gegner; Stattdessen versucht der Spieler, eine Anzeige zu füllen, indem er Ketten erstellt. Während der Spieler versucht, diese Anzeige zu füllen, greift die KI in zufälligen Abständen an.</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Magical Drop Pocket (USA, Europe)-image.png</image>
-		<video>./videos/Magical Drop Pocket (USA, Europe)-video.mp4</video>
 		<marquee>./images/Magical Drop Pocket (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Magical Drop Pocket (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -525,22 +431,18 @@ Wie viele andere Handheld-Puzzlespiele dieser Zeit gibt es in Story keinen „ec
 		<publisher>SNK</publisher>
 		<family>Magical Drop</family>
 		<players>1-2</players>
-		<md5>6acfef5fe57d592ea7321e0e440c4ecf</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>6ACFEF5FE57D592EA7321E0E440C4ECF</cheevosHash>
 		<cheevosId>14270</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013252" />
 	</game>
 	<game id="47028">
-		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
 		<name>Beast Busters: Yami no Seitai Heiki</name>
 		<desc>Dark Arms: Beast Buster 1999 ist ein Rollenspiel für Neo Geo Pocket Color. Es ist ein Spin-off des Arcade-Spiels Beast Busters.
 Parallel zu unserer Welt finden wir das Reich der Dunkelheit. Als Spieler erhalten Sie Zugang zu dieser Paralleldimension, nachdem Sie einen Pakt mit dem Meister des Dunklen Reiches unterzeichnet haben. In seinem Königreich soll man Monster fangen. Diese werden verwendet, um Ihre biologischen Waffen anzutreiben: Dark Arms. Deine Waffen gewinnen mit jedem verzehrten Monster an Fähigkeiten und können sich zu stärkerer Ausrüstung entwickeln. Sie können im Dunklen Reich auch Samen finden, die sich in neue Waffen verwandeln.
 Das Spiel bietet Rätsel, die gelöst werden müssen, und eine große Auswahl an Monstern/Untoten.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-image.png</image>
-		<video>./videos/Dark Arms - Beast Buster 1999 (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -548,20 +450,16 @@ Das Spiel bietet Rätsel, die gelöst werden müssen, und eine große Auswahl an
 		<developer>Noise Factory</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>4fb30b1b905ed1f975efb9a8fceb9a62</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>4FB30B1B905ED1F975EFB9A8FCEB9A62</cheevosHash>
 		<cheevosId>10297</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013254" />
 	</game>
 	<game id="87590">
-		<path>./Rockman - Battle &amp; Fighters (Japan).zip</path>
 		<name>Rockman - Battle &amp; Fighters</name>
 		<desc>Rockman Battle &amp; Fighters ist ein Kampfspiel, das den beiden Arcade-Titeln Mega Man: The Power Battle und Mega Man 2: The Power Fighters ähnelt. Als einer von vier Charakteren (Mega Man, Proto Man, Bass und Duo) wählt der Spieler zwischen drei Gruppen von Bosskämpfen mit verschiedenen Robotermeistern aus der Serie. Die Kämpfe werden linear in beliebiger Reihenfolge ausgetragen und nachdem jeder Boss besiegt wurde, wird dem Arsenal des Spielers eine Spezialwaffe hinzugefügt. Jeder Boss ist gegenüber einer bestimmten Waffe schwach, daher wird der Spieler ermutigt, die Reihenfolge, in der er den Bossen gegenübersteht, strategisch zu planen. Zwei Spieler können ein Verbindungskabel verwenden, um Datenbankinformationen zwischen Systemen zu übertragen, es wird jedoch kein Koop- oder Versus-Spiel unterstützt.</desc>
 		<genre>Kampf</genre>
 		<image>./images/Rockman - Battle &amp; Fighters (Japan)-image.png</image>
-		<video>./videos/Rockman - Battle &amp; Fighters (Japan)-video.mp4</video>
 		<marquee>./images/Rockman - Battle &amp; Fighters (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Rockman - Battle &amp; Fighters (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -570,20 +468,16 @@ Das Spiel bietet Rätsel, die gelöst werden müssen, und eine große Auswahl an
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>1ca3a6b4e23c51bdab70182c3406e73d</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>1CA3A6B4E23C51BDAB70182C3406E73D</cheevosHash>
 		<cheevosId>12895</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013257" />
 	</game>
 	<game id="87585">
-		<path>./Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
 		<name>Pocket Tennis Color : Pocket Sports Series</name>
 		<desc>Dieser Sportfavorit bietet acht spielbare Charaktere und genug Tennis-Action, um jeden Fan glücklich zu machen. Genießen Sie ein realistisches Spiel, das Ihnen eine vollständige Palette an Schlägen bietet, darunter Lobs, schnelle Schmetterbälle und mehr. Im Ausstellungsmodus wird ein einzelnes Spiel gegen den Computer oder, mit dem NeoGeo Cable Link (separat erhältlich), gegen einen Freund ausgetragen. Im Turniermodus treten Sie gegen eine starke Konkurrenz an, um zu sehen, ob Sie das Zeug zum Titel haben. Speichern Sie Ihre Spielergebnisse, damit Sie später prahlen können. Im Rekordmodus können Sie sich entspannen und Ihre Erfolge auf dem Platz genießen, indem Sie Ihre Rekorde und Trophäen ansehen.</desc>
 		<genre>Sport / Tennis</genre>
 		<image>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-image.png</image>
-		<video>./videos/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -591,20 +485,16 @@ Das Spiel bietet Rätsel, die gelöst werden müssen, und eine große Auswahl an
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1</players>
-		<md5>8b7105aee46be795f1ee0a0f9efdb445</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>8B7105AEE46BE795F1EE0A0F9EFDB445</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013300" />
 	</game>
 	<game id="47046">
-		<path>./Puzzle Link (USA, Europe).zip</path>
 		<name>Puzzle Link</name>
 		<desc>Puzzle Link est un jeu où les blocs de couleur correspondante doivent être dissous. De nouveaux blocs défilent constamment dans l'écran depuis le haut. Le jeu est terminé lorsque les premiers blocs atteignent le bas de l'écran. Vous pouvez dissoudre les blocs en leur tirant dessus. Les tirs forment une ligne à l'endroit de leur impact. Si cette ligne relie des blocs de la même couleur qui ne sont pas reliés entre eux, ils se dissolvent.
 Il existe trois modes différents : Dans "Normal", vous devez relier deux blocs spéciaux qui apparaissent après un certain temps. Si vous parvenez à terminer le niveau dans le temps imparti, vous débloquerez l'une des 50 cartes à collectionner. Dans le mode "Clair", vous devez éliminer une constellation donnée de blocs. Le mode "Bataille" est un mode de liaison à deux joueurs.</desc>
 		<genre>Puzzle / Werfen</genre>
 		<image>./images/Puzzle Link (USA, Europe)-image.png</image>
-		<video>./videos/Puzzle Link (USA, Europe)-video.mp4</video>
 		<marquee>./images/Puzzle Link (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Puzzle Link (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -612,19 +502,15 @@ Il existe trois modes différents : Dans "Normal", vous devez relier deux blocs 
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1</players>
-		<md5>df694e1f69ded1df68a4ac52a13fb44a</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>DF694E1F69DED1DF68A4AC52A13FB44A</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T013302" />
 	</game>
 	<game id="47064">
-		<path>./Last Blade, The - Beyond the Destiny (USA, Europe).zip</path>
 		<name>The Last Blade : Beyond the Destiny</name>
 		<desc>1863. Das verborgene Geheimnis der Geschichte wird gelüftet. In der Zeit, die vor 135 Jahren als „Bakumatsu“ bekannt war, herrschte Chaos! Es gehört ganz Ihnen: Ein neuartiges Waffenkampfspiel, in dem Kraft- und Geschwindigkeitswaffen sowie verschiedene Abwehrbewegungen eingesetzt werden können, um eine neue Sensation im Videospiel-Nervenkitzel zu erleben!</desc>
 		<genre>Kampf</genre>
 		<image>./images/Last Blade, The - Beyond the Destiny (USA, Europe)-image.png</image>
-		<video>./videos/Last Blade, The - Beyond the Destiny (USA, Europe)-video.mp4</video>
 		<marquee>./images/Last Blade, The - Beyond the Destiny (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Last Blade, The - Beyond the Destiny (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -633,20 +519,16 @@ Il existe trois modes différents : Dans "Normal", vous devez relier deux blocs 
 		<publisher>SNK</publisher>
 		<family>The Last Blade</family>
 		<players>1-2</players>
-		<md5>83fa4cb3c629aa57c12f9cec52c5a53d</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>83FA4CB3C629AA57C12F9CEC52C5A53D</cheevosHash>
 		<cheevosId>14271</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013304" />
 	</game>
 	<game id="47054">
-		<path>./Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).zip</path>
 		<name>Sonic the Hedgehog - Pocket Adventure</name>
 		<desc>Sonic the Hedgehog: Pocket Adventure ist der erste Auftritt des blauen Igels auf einer anderen Plattform als SEGA und findet auf Neo Geo Pocket Color statt. Wie immer will Eggman die Chaos Emeralds an sich reißen, um die Welt zu beherrschen. Es liegt an Ihnen, ihn durch Levels aufzuhalten, die von den allerersten Abenteuern des Igels auf Megadrive inspiriert sind, aber auch im Stil von Sonic Adventure gehalten sind.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-image.png</image>
-		<video>./videos/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Sonic The Hedgehog - Pocket Adventure (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -655,20 +537,16 @@ Il existe trois modes différents : Dans "Normal", vous devez relier deux blocs 
 		<publisher>SNK</publisher>
 		<family>Sonic</family>
 		<players>1-2</players>
-		<md5>6123e8a783b146bdcdc6a9fa95abb0bd</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>6123E8A783B146BDCDC6A9FA95ABB0BD</cheevosHash>
 		<cheevosId>11719</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T013307" />
 	</game>
 	<game id="51140">
-		<path>./Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
 		<name>Cool Boarders Pocket</name>
 		<desc>Cool Boarders Pocket unterscheidet sich von anderen Spielen der Cool Boarders-Reihe. Es bietet eine isometrische (Luft-)Ansicht anstelle einer Third-Person-Perspektive. Das Spiel verfügt über zwei Spielmodi: einen Freeride-Modus, in dem der Spieler ohne Einschränkungen durch einen Hindernisparcours surft, bis er das Ziel erreicht, und einen Überlebensmodus, in dem der Spieler durch die Rennhindernisse surft, bis ihm die Gesundheit ausgeht. Das Spiel ermöglicht es dem Spieler, einen von zwei Charakteren auszuwählen; Eine Snowboarderin oder ein Snowboarder.</desc>
 		<genre>Sport / Ski</genre>
 		<image>./images/Cool Boarders Pocket (Japan, Europe) (En,Ja)-image.png</image>
-		<video>./videos/Cool Boarders Pocket (Japan, Europe) (En,Ja)-video.mp4</video>
 		<marquee>./images/Cool Boarders Pocket (Japan, Europe) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Cool Boarders Pocket (Japan, Europe) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.45</rating>
@@ -677,14 +555,11 @@ Il existe trois modes différents : Dans "Normal", vous devez relier deux blocs 
 		<publisher>SNK</publisher>
 		<family>Cool Boarders</family>
 		<players>1</players>
-		<md5>57b757bec66c0e53220593b78c63c6c0</md5>
 		<lang>en,jp</lang>
 		<region>eu</region>
-		<cheevosHash>57B757BEC66C0E53220593B78C63C6C0</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102640" />
 	</game>
 	<game id="47044">
-		<path>./Pac-Man (World) (En,Ja).zip</path>
 		<name>Pac-Man</name>
 		<desc>Pac-Man, eines der beliebtesten und einflussreichsten Spiele der 1980er Jahre, spielt einen kleinen gelben Punktmampfer, der sich durch ein Labyrinth arbeitet, um es von den verschiedenen Punkten und Früchten zu befreien, die auf dem Brett leben.
 
@@ -693,7 +568,6 @@ Pac-Mans Ziel wird ständig von vier Geistern herausgefordert: dem schüchternen
 Pac-Man kann seinen Verfolgern den Spieß umdrehen, indem er eine der vier Power-Pills rund um das Labyrinth isst. Während dieser Zeit werden die Geister blau und Pac-Man kann sie für Bonuspunkte essen. Dies dauert nur eine begrenzte Zeit, da die Augen der Geister zurück zu ihrer mittleren Box schweben und sich regenerieren, um Pac-Man erneut zu verfolgen.</desc>
 		<genre>Action / Labyrinth</genre>
 		<image>./images/Pac-Man (World) (En,Ja)-image.png</image>
-		<video>./videos/Pac-Man (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Pac-Man (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Pac-Man (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -702,20 +576,16 @@ Pac-Man kann seinen Verfolgern den Spieß umdrehen, indem er eine der vier Power
 		<publisher>SNK</publisher>
 		<family>Pac-Man</family>
 		<players>1</players>
-		<md5>ac5ad76d5e6614ae576c2c837f0fab1d</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>AC5AD76D5E6614AE576C2C837F0FAB1D</cheevosHash>
 		<cheevosId>13350</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102641" />
 	</game>
 	<game id="51151">
-		<path>./Delta Warp (Japan) (En,Ja).zip</path>
 		<name>Delta Warp</name>
 		<desc>Delta Warp is a puzzle game released in 2000 for the Neo Geo Pocket Color. The game involves the player moving triangular shaped tiles across a board whilst avoiding hazards such as ice. Delta Warp was released only in Japan but features English text menus and the simple gameplay style means it can be played by non-Japanese readers.</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Delta Warp (Japan) (En,Ja)-image.png</image>
-		<video>./videos/Delta Warp (Japan) (En,Ja)-video.mp4</video>
 		<marquee>./images/Delta Warp (Japan) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Delta Warp (Japan) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -723,20 +593,16 @@ Pac-Man kann seinen Verfolgern den Spieß umdrehen, indem er eine der vier Power
 		<developer>Iosys</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>11d8b930b69b5305757d6aec331023a9</md5>
 		<lang>en,jp</lang>
 		<region>jp</region>
-		<cheevosHash>11D8B930B69B5305757D6AEC331023A9</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102644" />
 	</game>
 	<game id="47031">
-		<path>./Dive Alert - Becky's Version (USA, Europe).zip</path>
 		<name>Dive Alert - Becky's Version</name>
 		<desc>Dive Alert – Becky's Version ist ein Rollenspiel. Es gibt eine andere Version von Dive Alert namens Dive Alert: Matt's Version. Beide Spiele ähneln eher der Pokémon-Serie (Rot/Blau usw.), bei der es sich im Wesentlichen um das gleiche Spiel mit kleinen Unterschieden handelt.
 Der Spieler übernimmt die Kontrolle über eine Figur namens Becky. Das Spiel spielt in der Zukunft und die Welt ist größtenteils von Wasser umgeben. Das einzige Land ist ein kleiner Ort namens Terra. Um auf Terra akzeptiert zu werden, muss der Spieler seinen Wert unter Beweis stellen, indem er seine Fähigkeiten als U-Boot-Kommandant unter Beweis stellt und alle feindlichen Schiffe zerstört.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Dive Alert - Becky's Version (USA, Europe)-image.png</image>
-		<video>./videos/Dive Alert - Becky's Version (USA, Europe)-video.mp4</video>
 		<marquee>./images/Dive Alert - Becky's Version (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Dive Alert - Becky's Version (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.55</rating>
@@ -744,21 +610,17 @@ Der Spieler übernimmt die Kontrolle über eine Figur namens Becky. Das Spiel sp
 		<developer>Sacnoth</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>c148b30103de704eeed63dfe7a7d6100</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>C148B30103DE704EEED63DFE7A7D6100</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102647" />
 	</game>
 	<game id="47029">
-		<path>./Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip</path>
 		<name>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji</name>
 		<desc>A side story to the original Ogre Battle game for the SNES, Zenobia no Ouji's side-story takes place during the fourteenth chapter ("The Capital of Milano") of the original game.
 
 Much like its predecessor, the game is a unique blend of traditional RPG and strategy gameplay. As the hero of the game, you lead a growing army of troops as you progress through the game in a series of pivotal battles. Before each battle you are given the option to setup your army into distinct groups. Then you are given a mission on the map and you can then set your army out to do your bidding. As your unit groups travel along the map on the way to their given objective, they'll happen along enemy unit groups. When they meet, the game switches to an isometric-view of the automated turn-based battle that ensues.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)-image.png</image>
-		<video>./videos/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)-video.mp4</video>
 		<marquee>./images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -767,21 +629,17 @@ Much like its predecessor, the game is a unique blend of traditional RPG and str
 		<publisher>Quest</publisher>
 		<family>Ogre Battle</family>
 		<players>1-2</players>
-		<md5>26d0557d8a465aa8f430d5e4d94c679a</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>26D0557D8A465AA8F430D5E4D94C679A</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102650" />
 	</game>
 	<game id="87600">
-		<path>./Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).zip</path>
 		<name>Kikou Seiki Unitron</name>
 		<desc>Kikou Seiki Unitron (auf Englisch: Armor Chronicles Unitron) ist eine Fortsetzung von Bio-Motor Unitron, die zuvor veröffentlicht wurde und nur dem japanischen Markt vorbehalten war.
 Die Geschichte führt uns 400 Jahre nach den Ereignissen von Bio-Motor Unitron. Das Gameplay bleibt gegenüber dem ersten Werk unverändert, nämlich die Verbesserung seines Unitron durch Reisen durch Dungeons und Städte sowie menübasierte Kämpfe.
 Die Verwendung des Link NGPC-Kabels ermöglicht Unitron-Konflikte zwischen Freunden.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)-image.png</image>
-		<video>./videos/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)-video.mp4</video>
 		<marquee>./images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -789,19 +647,15 @@ Die Verwendung des Link NGPC-Kabels ermöglicht Unitron-Konflikte zwischen Freun
 		<developer>Yumekobo</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>67eda4af4c84c71667d0e0fb7b4c7873</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>67EDA4AF4C84C71667D0E0FB7B4C7873</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102652" />
 	</game>
 	<game id="87593">
-		<path>./SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).zip</path>
 		<name>SNK vs. Capcom : Card Fighters 2 Expand Edition</name>
 		<desc>SNK vs. Capcom: Card Fighter's Clash 2 Expand Edition continues the mascot packed trading card game action that began with the original.</desc>
 		<genre>Kartenspiele</genre>
 		<image>./images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)-image.png</image>
-		<video>./videos/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)-video.mp4</video>
 		<marquee>./images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)-marquee.png</marquee>
 		<thumbnail>./images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -810,20 +664,16 @@ Die Verwendung des Link NGPC-Kabels ermöglicht Unitron-Konflikte zwischen Freun
 		<publisher>SNK</publisher>
 		<family>SNK Vs. Capcom</family>
 		<players>1-2</players>
-		<md5>ebc0e8c33d1a5e5be5457ad988233feb</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>EBC0E8C33D1A5E5BE5457AD988233FEB</cheevosHash>
 		<cheevosId>14397</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102655" />
 	</game>
 	<game id="47049">
-		<path>./Shanghai Mini (World) (En,Ja).zip</path>
 		<name>Shanghai Mini</name>
 		<desc>Das Spiel umfasst die Modi Classic, Tournoi und Dynastie. Der klassische Modus ist ein normales Spiel mit sechs Abschnitten auf verschiedenen Seiten. Im Tournee-Modus trotzte das Spiel der Tour de Shanghai und kämpfte gegen den Shanghai Master in verschiedenen Plateaukonfigurationen während der Zeit. Die Dynastie ist ein Wettbewerb zu zweit – gegen einen Befehlshaber oder einen menschlichen Gegner (erfordert ein Verbindungskabel).</desc>
 		<genre>Strategie</genre>
 		<image>./images/Shanghai Mini (World) (En,Ja)-image.png</image>
-		<video>./videos/Shanghai Mini (World) (En,Ja)-video.mp4</video>
 		<marquee>./images/Shanghai Mini (World) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Shanghai Mini (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -831,10 +681,8 @@ Die Verwendung des Link NGPC-Kabels ermöglicht Unitron-Konflikte zwischen Freun
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<players>1-2</players>
-		<md5>7c262a2c6390445170d0bf83290c939c</md5>
 		<lang>jp,en</lang>
 		<region>jp</region>
-		<cheevosHash>7C262A2C6390445170D0BF83290C939C</cheevosHash>
 		<cheevosId>16705</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102656" />
 	</game>

@@ -1,12 +1,10 @@
 <?xml version="1.0"?>
 <gameList>
 	<game id="3976">
-		<path>./Zone of the Enders - The Fist of Mars (USA).zip</path>
 		<name>Zone of the Enders : The Fist of Mars</name>
 		<desc>Zone of the Enders - The Fist of Mars führt jene Geschichte über einen intergalaktischen Krieg fort, die bereits in dem erfolgreichen PlayStation2-Spiel Zone of the Enders ihren Anfang nahm. Der Spieler kontrolliert eine Vielzahl diverser Fahrzeuge und riesige, bemannte Kampfroboter, genannt "LEV". In dem rundenbasierten Kampf werden strategische Entscheidungen auf einer zweidimensionalen Karte getroffen, ehe die Action zum Zuge kommt: Mittels des neuartigen IAS-Systems kann der Spieler direkt in den Kampf eingreifen und mit viel Geschick und Reaktion den Schaden bei gegnerischen Einheiten erhöhen oder den eigenen reduzieren.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Zone of the Enders - The Fist of Mars (USA)-image.png</image>
-		<video>./videos/Zone of the Enders - The Fist of Mars (USA)-video.mp4</video>
 		<marquee>./images/Zone of the Enders - The Fist of Mars (USA)-marquee.png</marquee>
 		<thumbnail>./images/Zone of the Enders - The Fist of Mars (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -15,19 +13,15 @@
 		<publisher>Konami</publisher>
 		<family>Zone of the Enders</family>
 		<players>1</players>
-		<md5>b9c0646696297fb21cfad315c434cc2a</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>B9C0646696297FB21CFAD315C434CC2A</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T005927" />
 	</game>
 	<game id="4483">
-		<path>./Denki Blocks! (USA) (En,Es).zip</path>
 		<name>Denki Blocks!</name>
 		<desc>Denki Blocks! verwendet ein einziges, einfaches digitales Spielzeugset, um eine Sammlung von „Puzzlespielen“ bereitzustellen. Denki Blocks! wird gespielt, indem Blöcke auf einem Brett herumgeschoben werden. Wenn sich gleichfarbige Blöcke berühren, kleben sie zusammen und bilden Klumpen. Manchmal muss der Spieler alle Blöcke derselben Farbe auf jede erdenkliche Weise verbinden. Manchmal müssen bestimmte Formen hergestellt werden.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Denki Blocks! (USA) (En,Es)-image.png</image>
-		<video>./videos/Denki Blocks! (USA) (En,Es)-video.mp4</video>
 		<marquee>./images/Denki Blocks! (USA) (En,Es)-marquee.png</marquee>
 		<thumbnail>./images/Denki Blocks! (USA) (En,Es)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -35,21 +29,17 @@
 		<developer>Doki Denki</developer>
 		<publisher>Rage Software</publisher>
 		<players>1-4</players>
-		<md5>8b7a6c21e2619dbfb5064c76d074f582</md5>
 		<lang>es,en</lang>
 		<region>us</region>
-		<cheevosHash>8B7A6C21E2619DBFB5064C76D074F582</cheevosHash>
 		<cheevosId>6759</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005932" />
 	</game>
 	<game id="84406">
-		<path>./Pokemon - Emerald Version (USA, Europe).zip</path>
 		<name>Pokémon : Emerald Version</name>
 		<desc>Die Smaragd-Edition von Pokemon entführt den Spieler aufs Neue in das sagenumwobene Land Hoenn, das auch der Schauplatz von Pokemon Rubin und Saphir war. Im Mittelpunkt dieses neuen Spiels steht das fliegende Drachen-Pokemon Rayquaza, das von den Spielern an der Spitze des Sky Pillar aufgespürt werden muss. Kaum aufgeweckt, stürzt er sich in den Zweikampf mit Kyogre und Groudon, den zwei wichtigsten Pokemon der Editionen Rubin und Saphir. 
 Speziell für die Smaragd-Edition wurde das Land Hoenn um etliche spannende Features erweitert. Acht verschiedene "Battling Areas" laden zu actiongeladenen Kämpfen ein. Auf den beiden Inseln Navel Rock und Birth Island können Spieler die drei Pokemon Lugia, Ho-oh und Deoxys aufspüren. Außerdem erlaubt ein neues Kommunikationstool, auch über große Entfernungen mit anderen Trainern Kontakt zu halten, Erfahrungen austauschen und eventuelle Revanchekämpfe zu vereinbaren.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - Emerald Version (USA, Europe)-image.png</image>
-		<video>./videos/Pokemon - Emerald Version (USA, Europe)-video.mp4</video>
 		<marquee>./images/Pokemon - Emerald Version (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon - Emerald Version (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -58,20 +48,16 @@ Speziell für die Smaragd-Edition wurde das Land Hoenn um etliche spannende Feat
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1-5</players>
-		<md5>605b89b67018abcea91e693a4dd25be3</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>605B89B67018ABCEA91E693A4DD25BE3</cheevosHash>
 		<cheevosId>668</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005942" />
 	</game>
 	<game id="4290">
-		<path>./Summon Night - Swordcraft Story 2 (USA).zip</path>
 		<name>Summon Night : Swordcraft Story 2</name>
 		<desc>In Summon Night: Swordcraft 2 ist der Spieler ein Waisenkind aus dem Clan der Colthearts, das von einem Craftknight (einem Schmied</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Summon Night - Swordcraft Story 2 (USA)-image.png</image>
-		<video>./videos/Summon Night - Swordcraft Story 2 (USA)-video.mp4</video>
 		<marquee>./images/Summon Night - Swordcraft Story 2 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Summon Night - Swordcraft Story 2 (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -80,20 +66,16 @@ Speziell für die Smaragd-Edition wurde das Land Hoenn um etliche spannende Feat
 		<publisher>Atlus</publisher>
 		<family>Summon Night</family>
 		<players>1</players>
-		<md5>03eea2d57de9c16b5f10055e8e4e2893</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>03EEA2D57DE9C16B5F10055E8E4E2893</cheevosHash>
 		<cheevosId>2589</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005944" />
 	</game>
 	<game id="3809">
-		<path>./Wario Land 4 (USA, Europe).zip</path>
 		<name>Wario Land 4</name>
 		<desc>Wario Land 4 schickt dich mit Wario in eine gewaltige Pyramide voller Fallen, Rätsel und Schätze. Du sprintest durch verwinkelte Räume, nutzt Warios Verwandlungsformen für neue Wege und suchst nach jeder kostbaren Beute, während dir die Zeit im Nacken sitzt. Zum ersten Mal ist Wario nicht unverwundbar, was die Hatz durch über 20 detailverliebte Level spürbar spannender macht. Mini-Games, trickreiche Gegner und überraschende Effekte halten dich ständig auf Trab, bis du schließlich alle Geheimnisse der Pyramide gelüftet hast.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Wario Land 4 (USA, Europe)-image.png</image>
-		<video>./videos/Wario Land 4 (USA, Europe)-video.mp4</video>
 		<marquee>./images/Wario Land 4 (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Wario Land 4 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -102,20 +84,16 @@ Speziell für die Smaragd-Edition wurde das Land Hoenn um etliche spannende Feat
 		<publisher>Nintendo</publisher>
 		<family>Wario</family>
 		<players>1</players>
-		<md5>5fe47355a33e3fabec2a1607af88a404</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>5FE47355A33E3FABEC2A1607AF88A404</cheevosHash>
 		<cheevosId>800</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005946" />
 	</game>
 	<game id="84730">
-		<path>./Super Robot Taisen - Original Generation 2 (USA).zip</path>
 		<name>Super Robot Taisen : Original Generation 2</name>
 		<desc>Die Schlacht wütet weiter! Nach einem brutalen Krieg gegen die außerirdische Armada kehrt langsam Frieden auf dem Planeten Erde ein. Doch die Welt kann sich nicht lange ausruhen, denn neue Kräfte tauchen auf und drohen, die Erde erneut in die Knie zu zwingen. Setzen Sie all Ihre Gerissenheit und Ihr taktisches Geschick ein, um die besten und klügsten Mech-Piloten zu befehligen, die die Welt je gesehen hat, und die Menschheit vor Feinden zu retten, die die menschliche Rasse beherrschen - oder schlimmer noch, ihre Existenz vernichten wollen.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Super Robot Taisen - Original Generation 2 (USA)-image.png</image>
-		<video>./videos/Super Robot Taisen - Original Generation 2 (USA)-video.mp4</video>
 		<marquee>./images/Super Robot Taisen - Original Generation 2 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Super Robot Taisen - Original Generation 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -124,21 +102,17 @@ Speziell für die Smaragd-Edition wurde das Land Hoenn um etliche spannende Feat
 		<publisher>Atlus</publisher>
 		<family>Super Robot Wars</family>
 		<players>1</players>
-		<md5>f3d168d87d3e2ae25dbec012471cd9b5</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>F3D168D87D3E2AE25DBEC012471CD9B5</cheevosHash>
 		<cheevosId>9383</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005950" />
 	</game>
 	<game id="3803">
-		<path>./Shining Force - Resurrection of the Dark Dragon (USA).zip</path>
 		<name>Shining Force : Resurrection of the Dark Dragon</name>
 		<desc>Shining Force ist ein rundenbasiertes taktisches RPG. Die Kämpfe finden in quadratischen Rastern statt, wobei jede Einheit ein Feld einnimmt. Jede Einheit kann sich bis zu einer bestimmten Anzahl von Feldern auf dem Schlachtfeld bewegen, die durch ihre Bewegungsstatistik bestimmt wird. Abhängig von ihrer Position im Verhältnis zu Feinden und Verbündeten kann eine Einheit auch eine Aktion ausführen: angreifen, einen Zauber wirken, einen Gegenstand benutzen oder das Gebiet durchsuchen. Einige Befehle, wie das Ausrüsten oder Ablegen von Gegenständen, zählen nicht als Aktionen. Die Reihenfolge der Züge wird durch die Geschicklichkeitspunkte der Einheit und einen Zufallswert bestimmt.
 Jede verbündete Einheit hat auch eine Klasse, die eine Reihe von Fähigkeiten für diese Einheit definiert und bestimmt, zu welchen Zaubern und Ausrüstungen sie Zugang hat. Eine Einheit kann auf jeder Stufe zwischen 10 und 20 in eine andere Klasse befördert werden. Bei der Beförderung wird die Stufe des Charakters auf 1 zurückgesetzt und die Statistiken werden um einen festen Betrag reduziert, obwohl sie höher beginnen, wenn der Charakter auf einer höheren Stufe befördert worden wäre.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Shining Force - Resurrection of the Dark Dragon (USA)-image.png</image>
-		<video>./videos/Shining Force - Resurrection of the Dark Dragon (USA)-video.mp4</video>
 		<marquee>./images/Shining Force - Resurrection of the Dark Dragon (USA)-marquee.png</marquee>
 		<thumbnail>./images/Shining Force - Resurrection of the Dark Dragon (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -147,19 +121,15 @@ Jede verbündete Einheit hat auch eine Klasse, die eine Reihe von Fähigkeiten f
 		<publisher>THQ</publisher>
 		<family>Shining Force</family>
 		<players>1</players>
-		<md5>6a1b056d8a006e069466c08c69de56c0</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>6A1B056D8A006E069466C08C69DE56C0</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T005954" />
 	</game>
 	<game id="3862">
-		<path>./Boktai 2 - Solar Boy Django (USA).zip</path>
 		<name>Boktai 2 : Solar Boy Django</name>
 		<desc>Boktai 2 ist die Fortsetztung zu Hideo Kojimas innovativen Action-Adventure, welches Sonnenlicht in das Spielgeschehen miteinbezieht. Der Spieler schlüpft erneut in die Rolle von Django, dem Solar Boy, und muss die Welt von Boktai ein weiteres Mal erkunden. Dabei erleben die Spieler fantastische Rätsel gepaart mit dem typisch genialen wie ideenreichen Gameplay von Hideo Kojima.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Boktai 2 - Solar Boy Django (USA)-image.png</image>
-		<video>./videos/Boktai 2 - Solar Boy Django (USA)-video.mp4</video>
 		<marquee>./images/Boktai 2 - Solar Boy Django (USA)-marquee.png</marquee>
 		<thumbnail>./images/Boktai 2 - Solar Boy Django (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -168,19 +138,15 @@ Jede verbündete Einheit hat auch eine Klasse, die eine Reihe von Fähigkeiten f
 		<publisher>Konami</publisher>
 		<family>Boktai</family>
 		<players>1-4</players>
-		<md5>31231965d6a43d935e3629a67e06e0bb</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>31231965D6A43D935E3629A67E06E0BB</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T005956" />
 	</game>
 	<game id="3790">
-		<path>./Mario Kart - Super Circuit (USA).zip</path>
 		<name>Mario Kart : Super Circuit</name>
 		<desc>Alle Ihre Lieblings-Kart-Renncharaktere sind zurück und bereit, Vollgas zu geben! Auf dem Game Boy Advance erwarten Sie 20 brandneue Strecken, vollgepackt mit klassischen Power-Ups und vorbereitet für die Art rasanter Rennen, die nur Mario Kart: Super Circuit bieten kann. Es ist Zeit, im Grand Prix Gas zu geben, deine Freunde herauszufordern, gegen deinen eigenen Geist anzutreten, im Kampfmodus gegeneinander anzutreten und die Kraft in deiner Handfläche zu spüren!</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/Mario Kart - Super Circuit (USA)-image.png</image>
-		<video>./videos/Mario Kart - Super Circuit (USA)-video.mp4</video>
 		<marquee>./images/Mario Kart - Super Circuit (USA)-marquee.png</marquee>
 		<thumbnail>./images/Mario Kart - Super Circuit (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -189,20 +155,16 @@ Jede verbündete Einheit hat auch eine Klasse, die eine Reihe von Fähigkeiten f
 		<publisher>Nintendo</publisher>
 		<family>Mario Kart</family>
 		<players>1-4</players>
-		<md5>784a036ff1aae709e90167186639b75e</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>784A036FF1AAE709E90167186639B75E</cheevosHash>
 		<cheevosId>533</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T005958" />
 	</game>
 	<game id="4074">
-		<path>./Kurukuru Kururin (Europe).zip</path>
 		<name>Kurukuru Kururin</name>
 		<desc>Kuru Kuru Kururin ist ein innovatives Knobelspiel, bei dem der Hauptcharakter in einem Hubschrauber sitz und in kürzester Zeit durch ein Labyrinth navigieren muß. Die Bewegungen müssen zeitlich abgestimmt und präzise sein, denn sobald die Rotorblätter eine Wand berühren bekommt man eine Zeitstrafe von 3 Sekunden. Die Aufgabe des Protagonisten ist es, seine Brüder aufzusammeln, die ihm dann zur Seite stehen. Er findet auch zahlreiche Power-ups, die es ihm erlauben das Erscheinungsbild seines Hubschraubers anzupassen.</desc>
 		<genre>Action / Labyrinth</genre>
 		<image>./images/Kurukuru Kururin (Europe)-image.png</image>
-		<video>./videos/Kurukuru Kururin (Europe)-video.mp4</video>
 		<marquee>./images/Kurukuru Kururin (Europe)-marquee.png</marquee>
 		<thumbnail>./images/Kurukuru Kururin (Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -210,15 +172,12 @@ Jede verbündete Einheit hat auch eine Klasse, die eine Reihe von Fähigkeiten f
 		<developer>Eighting</developer>
 		<publisher>Nintendo</publisher>
 		<players>1-4</players>
-		<md5>48f3bc6bf59c34f057bd98b29fd7b848</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>48F3BC6BF59C34F057BD98B29FD7B848</cheevosHash>
 		<cheevosId>5377</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010000" />
 	</game>
 	<game id="3837">
-		<path>./Harvest Moon - Friends of Mineral Town (USA).zip</path>
 		<name>Harvest Moon : Friends of Mineral Town</name>
 		<desc>Der beliebteste Farmer der Nintendo Fans ist endlich wieder da!
 In Harvest Moon Friends of Mineral Town trifft der Harvest Moon-Fan auf alte Freunde aus Harvest Moon - Back to Nature aber darüber hinaus gibt es natürlich viele Neuerungen:
@@ -226,7 +185,6 @@ Die Familie hat die alte Farm verkommen lassen und nun braucht es viel Kraft und
 Vor lauter Arbeit dürfen Freunde und Freizeit nicht zu kurz kommen! Denn so lernt der Farmer die Frau fürs Leben kennen, mit der er eine Familie gründen kann.
 Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<image>./images/Harvest Moon - Friends of Mineral Town (USA)-image.png</image>
-		<video>./videos/Harvest Moon - Friends of Mineral Town (USA)-video.mp4</video>
 		<marquee>./images/Harvest Moon - Friends of Mineral Town (USA)-marquee.png</marquee>
 		<thumbnail>./images/Harvest Moon - Friends of Mineral Town (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -235,20 +193,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>Natsume</publisher>
 		<family>Harvest Moon</family>
 		<players>1</players>
-		<md5>80355c831a7a25b0f70dc021ebd344f1</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>80355C831A7A25B0F70DC021EBD344F1</cheevosHash>
 		<cheevosId>4853</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010005" />
 	</game>
 	<game id="3860">
-		<path>./Kirby - Nightmare in Dream Land (USA).zip</path>
 		<name>Kirby : Nightmare in Dream Land</name>
 		<desc>Kirbys Fähigkeit, seine Feinde aufzusaugen und ihre Fähigkeiten zu imitieren, macht ihn zu einem der vielseitigsten Spielcharaktere aller Zeiten. Kirby kann alle 24 Fähigkeiten einsetzen, die er von seinen Feinden übernehmen kann, um knifflige Hindernisse zu überwinden. Wenn Kirby einen Gegner einsaugt, kann er ihn verschlucken und sich in eine Kirby-Kopie dieses Gegners verwandeln. Das Arsenal an Fähigkeiten, die er rauben kann, umfasst Laserstrahlen, Bumerangs, Feuerstöße, Stacheln, Regenschirme und vieles mehr. Es gibt auch Fähigkeiten, die eher witzig als nützlich sind. Aber das ist eben Kirby - ihm zuzusehen macht Spaß, mit ihm zu spielen ist ein Vergnügen.ichzeitig.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Kirby - Nightmare in Dream Land (USA)-image.png</image>
-		<video>./videos/Kirby - Nightmare in Dream Land (USA)-video.mp4</video>
 		<marquee>./images/Kirby - Nightmare in Dream Land (USA)-marquee.png</marquee>
 		<thumbnail>./images/Kirby - Nightmare in Dream Land (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -257,20 +211,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>Nintendo</publisher>
 		<family>Kirby</family>
 		<players>1-4</players>
-		<md5>35ae64b0f27e60107c14ab956f6cdf70</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>35AE64B0F27E60107C14AB956F6CDF70</cheevosHash>
 		<cheevosId>770</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010007" />
 	</game>
 	<game id="4161">
-		<path>./Puyo Pop Fever (Europe) (En,Fr,De,Es,It).zip</path>
 		<name>Puyo Pop Fever</name>
 		<desc>Puyo Pop Fever für den GBA ist ein Puzzlespiel, in dem es darum geht, Puyos der gleichen Farbe in eine Reihe zu bringen, damit sie verschwinden. Wenn du es schaffst, mehrere Reihen hintereinander zu bilden, kannst du deinen Gegner blockieren, der gerade dabei ist, das gleiche Puzzle zu lösen wie du. Neben dem klassischen Modus entdecken Sie auch Varianten des Spiels, die das Gameplay aus anderen Blickwinkeln betrachten.</desc>
 		<genre>Puzzle / Fallen</genre>
 		<image>./images/Puyo Pop Fever (Europe) (En,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Puyo Pop Fever (Europe) (En,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Puyo Pop Fever (Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Puyo Pop Fever (Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -279,20 +229,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>THQ</publisher>
 		<family>Puyo Puyo</family>
 		<players>1</players>
-		<md5>8d7c792d3c715f48833d0390b4eebc45</md5>
 		<lang>it,es,de,fr,en</lang>
 		<region>eu</region>
-		<cheevosHash>8D7C792D3C715F48833D0390B4EEBC45</cheevosHash>
 		<cheevosId>6401</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010008" />
 	</game>
 	<game id="4169">
-		<path>./Scurge - Hive (USA) (En,Fr,Es).zip</path>
 		<name>Scurge : Hive</name>
 		<desc>..Vor 48 Stunden wurde ein Notsignal von einem abgelegenen Forschungslabor gesendet, das einen virulenten Organismus untersuchte, der als Geißel identifiziert wurde. Als Kopfgeldjägerin Jenosa Arma werden Sie geschickt, um jegliche Technologie aus der Anlage zu bergen. Ausgestattet mit Ihrem Können, streng geheimen Projektilhandschuhen und einem Prototyp-Kampfanzug treten Sie gegen über 50 Arten infizierter biologischer, mechanischer und energiebasierter Kreaturen an. Da die Geißel nicht nur die Kontrolle über den Planeten übernimmt, sondern auch durch Ihre eigenen Adern fließt, können Sie sich auf ununterbrochene, intensive Kämpfe freuen, während Sie sowohl um Belohnung als auch ums Überleben kämpfen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Scurge - Hive (USA) (En,Fr,Es)-image.png</image>
-		<video>./videos/Scurge - Hive (USA) (En,Fr,Es)-video.mp4</video>
 		<marquee>./images/Scurge - Hive (USA) (En,Fr,Es)-marquee.png</marquee>
 		<thumbnail>./images/Scurge - Hive (USA) (En,Fr,Es)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -300,20 +246,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<developer>Orbital</developer>
 		<publisher>Southpeak Interactive</publisher>
 		<players>1</players>
-		<md5>2cd38e2e2d2bbc3eeee2833b8667e962</md5>
 		<lang>es,fr,en</lang>
 		<region>us</region>
-		<cheevosHash>2CD38E2E2D2BBC3EEEE2833B8667E962</cheevosHash>
 		<cheevosId>6161</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010010" />
 	</game>
 	<game id="3852">
-		<path>./Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).zip</path>
 		<name>Sonic Advance 2</name>
 		<desc>Sonic kehrt für ein weiteres Abenteuer zurück, um die Welt erneut vor Dr. Eggman zu retten. Dieses Mal wird er von seinen Freunden Tails, Knuckles, Cream und Rabbit begleitet, die alle über einzigartige Fähigkeiten verfügen, um besondere Bereiche in den Levels zu erreichen. Allerdings musst du das Spiel zuerst mit Sonic abschließen, um die anderen Charaktere freizuschalten. Chaos-Smaragde und Spezialringe sind in den Levels verteilt. Um die Smaragde zu sammeln, musst du die versteckten Spezialringe finden und die Bonusstufe meistern. Die Smaragde sind notwendig, damit sich Sonic für den letzten Kampf mit Dr. Eggman in Super Sonic verwandeln kann. Mit einem Verbindungskabel kannst du außerdem Chaos sammeln und mit Sonic Adventure 2: Battle auf dem Gamecube verbinden.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -322,20 +264,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>SEGA</publisher>
 		<family>Sonic</family>
 		<players>1-4</players>
-		<md5>3fb865c5f142a8fc1f82105bfc6b8935</md5>
 		<lang>it,es,fr,de,jp,en</lang>
 		<region>us</region>
-		<cheevosHash>3FB865C5F142A8FC1F82105BFC6B8935</cheevosHash>
 		<cheevosId>557</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010012" />
 	</game>
 	<game id="84408">
-		<path>./Pokemon - FireRed Version (USA, Europe) (Rev 1).zip</path>
 		<name>Pokémon FireRed Version</name>
 		<desc>In diesem Abenteuer reist du durch die Region Kanto, baust eine enge Bindung zu deinen Pokémon auf und fängst verschiedene Arten, um den Pokédex zu vervollständigen. Fordere andere Trainer heraus, stelle dich Team Rocket entgegen und kämpfe gegen die Arenaleiter, um alle acht Orden zu erlangen. Mit diesen in deinem Besitz kannst du die Top Vier herausfordern und schließlich in einem letzten, entscheidenden Kampf gegen den amtierenden Champ antreten. Dein Ziel: Werde der beste Trainer und schnapp sie dir alle!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - FireRed Version (USA, Europe) (Rev 1)-image.png</image>
-		<video>./videos/Pokemon - FireRed Version (USA, Europe) (Rev 1)-video.mp4</video>
 		<marquee>./images/Pokemon - FireRed Version (USA, Europe) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon - FireRed Version (USA, Europe) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -344,20 +282,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1-4</players>
-		<md5>51901a6e40661b3914aa333c802e24e8</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>51901A6E40661B3914AA333C802E24E8</cheevosHash>
 		<cheevosId>515</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010015" />
 	</game>
 	<game id="84931">
-		<path>./WarioWare, Inc. - Mega Microgame$! (USA).zip</path>
 		<name>WarioWare, Inc. : Mega Microgame$!</name>
 		<desc>Rasante Action! Mach dich auf ein blitzschnelles Gameplay gefasst während du dich durch über 200 bizarre Mikrospiele spielst die von einer verrückten Crew von Warios Kumpanen entworfen wurden! Es gibt sogar Wettbewerbe für zwei Spieler die auf einem einzigen Game Boy Advance gespielt werden können! Nimm es in die Hand und spiel! Die extrem einfache Steuerung macht den Einstieg in jedes Spiel leicht ... bis die Spiele schneller ... und schneller ... und SCHNELLER werden!</desc>
 		<genre>Gelegenheitsspiel</genre>
 		<image>./images/WarioWare, Inc. - Mega Microgame$! (USA)-image.png</image>
-		<video>./videos/WarioWare, Inc. - Mega Microgame$! (USA)-video.mp4</video>
 		<marquee>./images/WarioWare, Inc. - Mega Microgame$! (USA)-marquee.png</marquee>
 		<thumbnail>./images/WarioWare, Inc. - Mega Microgame$! (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -366,20 +300,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<publisher>Nintendo</publisher>
 		<family>Wario</family>
 		<players>1-4</players>
-		<md5>a2d26dc774cec9a0b47388a5dd727b03</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A2D26DC774CEC9A0B47388A5DD727B03</cheevosHash>
 		<cheevosId>802</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010017" />
 	</game>
 	<game id="3832">
-		<path>./Shining Soul II (USA).zip</path>
 		<name>Shining Soul II</name>
 		<desc>Shining Soul II erzählt von einer Welt, in der das Gleichgewicht zwischen Licht und Dunkelheit erneut zerbricht, weil die Menschen die frühere Bedrohung längst vergessen haben. Nach düsteren Vorzeichen, einem ermordeten Propheten und finsteren Intrigen am Königshof liegt es wieder an einem neuen Helden, sich der wachsenden Finsternis entgegenzustellen. Was zunächst mit einem Turnier am Schloss beginnt, entwickelt sich schon bald zu einer weit größeren Reise voller Gefahren, Monster und Geheimnisse. Besonders reizvoll ist dabei, dass sich die Figuren nicht nur durch Ausrüstung und Kämpfe weiterentwickeln, sondern auch durch den direkten Umgang mit Gefahren widerstandsfähiger werden. So verbindet das Abenteuer eine klassische Rettung-der-Welt-Geschichte mit viel Tempo und stetigem Fortschritt.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Shining Soul II (USA)-image.png</image>
-		<video>./videos/Shining Soul II (USA)-video.mp4</video>
 		<marquee>./images/Shining Soul II (USA)-marquee.png</marquee>
 		<thumbnail>./images/Shining Soul II (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -387,20 +317,16 @@ Ein tolles Farmer-Familienleben ist zum Greifen nahe!</desc>
 		<developer>Nex Entertainment</developer>
 		<publisher>THQ</publisher>
 		<players>1-4</players>
-		<md5>f4a655e23638e79eacf44a456faee6a4</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>F4A655E23638E79EACF44A456FAEE6A4</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010021" />
 	</game>
 	<game id="3937">
-		<path>./Metal Slug Advance (USA).zip</path>
 		<name>Metal Slug Advance</name>
 		<desc>Traditionsreiche Arcade-Ballerei für unterwegs: Als Comic-Söldner auf brandgefährlicher Hosentaschen-Mission.
 Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt es zu einem schwerwiegenden Zwischenfall: Walter und Tyra, frischgebackene Rekruten der PF-Einheit, stehen unter fremdem Beschuss. Ein unbekannter Feind attackiert die Neuzugänge des eigens von der Regierung gegründeten Elite-Kaders. Nun rücken die Greenhorns zu Fuß als auch mit unterschiedlichen Vehikeln der fremden Militärmacht auf den Leib.</desc>
 		<genre>Shooter / Run and Gun</genre>
 		<image>./images/Metal Slug Advance (USA)-image.png</image>
-		<video>./videos/Metal Slug Advance (USA)-video.mp4</video>
 		<marquee>./images/Metal Slug Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Metal Slug Advance (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -409,20 +335,16 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Ignition Entertainment</publisher>
 		<family>Metal Slug</family>
 		<players>1</players>
-		<md5>6838eb5df807a0f3299ad76066d59d26</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>6838EB5DF807A0F3299AD76066D59D26</cheevosHash>
 		<cheevosId>514</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010026" />
 	</game>
 	<game id="3798">
-		<path>./Castlevania - Harmony of Dissonance (USA).zip</path>
 		<name>Castlevania : Harmony of Dissonance</name>
 		<desc>Schnapp dir erneut die magische Peitsche deiner Vorfahren und stell dich den Kreaturen der Unterwelt, um deine Freunde aus der Gewalt des Grafen Dracula zu befreien. Erforsche eine komplett neue und noch umfangreichere Spielwelt mit atemberaubender Grafik. Setze das neue Magiesystem geschickt ein um in deinem Abenteuer zu bestehen und lüfte das Geheimnis von Castlevania.</desc>
 		<genre>Abenteuer</genre>
 		<image>./images/Castlevania - Harmony of Dissonance (USA)-image.png</image>
-		<video>./videos/Castlevania - Harmony of Dissonance (USA)-video.mp4</video>
 		<marquee>./images/Castlevania - Harmony of Dissonance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Castlevania - Harmony of Dissonance (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -431,20 +353,16 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Konami</publisher>
 		<family>Castlevania</family>
 		<players>1</players>
-		<md5>ea589465486d15e91ba94165c8024b55</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>EA589465486D15E91BA94165C8024B55</cheevosHash>
 		<cheevosId>2353</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010032" />
 	</game>
 	<game id="4199">
-		<path>./Rebelstar - Tactical Command (USA).zip</path>
 		<name>Rebelstar : Tactical Command</name>
 		<desc>In dem rundenbasierten Strategiespiel Rebelstar kannst du als Anführer einer Revolte spielen: Tactical Command. Das Arelianische Imperium hat vor 70 Jahren die Kontrolle über die Erde übernommen und ist seitdem ein unterdrückerisches Regime, das die Welt mit Angst und marodierenden Schocktruppen kontrolliert. Du kannst zurückschlagen, indem du ein Team von Rebellen ausrüstest und sie im Kampf kontrollierst. Rebelstar: Tactical Command enthält eine Kampagne, ein Scharmützel, einen Multiplayer-Hotseat und einen Multiplayer-Link-Modus.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Rebelstar - Tactical Command (USA)-image.png</image>
-		<video>./videos/Rebelstar - Tactical Command (USA)-video.mp4</video>
 		<marquee>./images/Rebelstar - Tactical Command (USA)-marquee.png</marquee>
 		<thumbnail>./images/Rebelstar - Tactical Command (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -452,19 +370,15 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<developer>Codo Games</developer>
 		<publisher>Atari SA</publisher>
 		<players>1-2</players>
-		<md5>c4874d3f181e4293f27f25ad52763e50</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C4874D3F181E4293F27F25AD52763E50</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010034" />
 	</game>
 	<game id="3784">
-		<path>./Dragon Ball - Advanced Adventure (USA).zip</path>
 		<name>Dragon Ball : Advanced Adventure</name>
 		<desc>Jede Suche hat einen Anfang, jede Saga ihren Ursprung. In Dragonball - Advanced Adventure übernimmst Du wahlweise die Rolle der Helden Goku oder Krillin, um sämtliche Schlüsselmomente der Originalserie hautnah zu erleben: Stell Dich der Red Ribbon Army, gewinne die World Tournament und zerstöre Piccolos finstere Absichten! Neben drei unterschiedlichen Spielmodi für ein bis zwei Spieler sorgen zahlreiche Mini-Games für weitere Action.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Dragon Ball - Advanced Adventure (USA)-image.png</image>
-		<video>./videos/Dragon Ball - Advanced Adventure (USA)-video.mp4</video>
 		<marquee>./images/Dragon Ball - Advanced Adventure (USA)-marquee.png</marquee>
 		<thumbnail>./images/Dragon Ball - Advanced Adventure (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -473,19 +387,15 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Bandai</publisher>
 		<family>Dragon Ball</family>
 		<players>1-2</players>
-		<md5>442bab94b7b3ba7e4a8799d18de52731</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>442BAB94B7B3BA7E4A8799D18DE52731</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010037" />
 	</game>
 	<game id="4000">
-		<path>./Klonoa - Empire of Dreams (USA).zip</path>
 		<name>Klonoa : Empire of Dreams</name>
 		<desc>Klonoa: Empire of Dreams ist ein Jump'n'Run-Spiel, das für den Gameboy Advance erschienen ist. Ein böser Tyrann hat verfügt, dass Träumen verboten ist. Und natürlich spielst du einen Helden, der gegen diese Regel verstoßen hat und eingesperrt wird. Du musst ausbrechen und die Schurken aus dem Königreich vertreiben.</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Klonoa - Empire of Dreams (USA)-image.png</image>
-		<video>./videos/Klonoa - Empire of Dreams (USA)-video.mp4</video>
 		<marquee>./images/Klonoa - Empire of Dreams (USA)-marquee.png</marquee>
 		<thumbnail>./images/Klonoa - Empire of Dreams (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -494,19 +404,15 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Infogrames</publisher>
 		<family>Klonoa</family>
 		<players>1</players>
-		<md5>f4f23f40e29451150b46d4bbdef63f13</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>F4F23F40E29451150B46D4BBDEF63F13</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010039" />
 	</game>
 	<game id="3912">
-		<path>./Bomberman Tournament (USA, Europe).zip</path>
 		<name>Bomberman Tournament</name>
 		<desc>Am Rande der Galaxie befindet sich ein kleiner Planet namens Phantarion. Aus der Intro-Szene zu Beginn des Spiels geht hervor, dass fünf Meteore (die 5 Dastardly Bombers) auf dem Planeten angekommen sind. Bald darauf wurde eine Festung mit einem großen Turm errichtet, und das ganze Land um sie herum begann neben der Festung immer mehr zu frieren. Die Leute von Phantarion schickten einen Hilferuf, den Professor Ein erhielt, und er schickte Bomberman Max, um Nachforschungen anzustellen. Als Max den Planeten erreicht hat, macht er sich auf den Weg zur Basis des Turms. Sobald er drinnen ist, wird er mit einer riesigen vogelförmigen Kreatur konfrontiert (die später als einer der 5 düsteren Bomber in einem verwandelten Zustand angesehen wird). Max wird mit einem Schlag vom Vogel besiegt und irgendwo in den Turm geschickt. Als Professor Ein eine Woche später mit Bomberman Kontakt aufnimmt, teilt ihm Bomberman mit, dass sie jeglichen Kontakt zu Max verloren haben. Dann wird Bomberman von Professor Ein zum Turm der Phantarion-Festung geschickt, um Max zu finden und zu retten. Danach beginnt er damit, vom Spieler behandelt zu werden.</desc>
 		<genre>Action / Labyrinth</genre>
 		<image>./images/Bomberman Tournament (USA, Europe)-image.png</image>
-		<video>./videos/Bomberman Tournament (USA, Europe)-video.mp4</video>
 		<marquee>./images/Bomberman Tournament (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Bomberman Tournament (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -515,20 +421,16 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Activision</publisher>
 		<family>Bomberman</family>
 		<players>1-4</players>
-		<md5>79aef9bbe1378adfbd688cd66e11a7be</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>79AEF9BBE1378ADFBD688CD66E11A7BE</cheevosHash>
 		<cheevosId>509</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010043" />
 	</game>
 	<game id="4027">
-		<path>./Mario Golf - Advance Tour (USA).zip</path>
 		<name>Mario Golf : Advance Tour</name>
 		<desc>Dieses Spiel kombiniert Elemente einer Simulation mit denen eines Rollenspiels. Schnapp dir deine Golfschläger und mach dich auf den Weg zum perfekten Golfspieler. Bestehe im Story-Modus gegen eine Auswahl anspruchsvoller Gegner auf clever gestalteten Golfplätzen und verbessere deine Fähigkeiten. Meisterst du alle Herausforderungen, tittst du am Ende vielleicht sogar gegen Mario und seine Freunde an.</desc>
 		<genre>Sport / Golf</genre>
 		<image>./images/Mario Golf - Advance Tour (USA)-image.png</image>
-		<video>./videos/Mario Golf - Advance Tour (USA)-video.mp4</video>
 		<marquee>./images/Mario Golf - Advance Tour (USA)-marquee.png</marquee>
 		<thumbnail>./images/Mario Golf - Advance Tour (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -537,21 +439,17 @@ Eine ferne Insel im Süden des Pazifiks. Während eines Trainingseinsatzes kommt
 		<publisher>Nintendo</publisher>
 		<family>Mario Golf</family>
 		<players>1-4</players>
-		<md5>2e8814e664675572a43b01900bbbb16b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>2E8814E664675572A43B01900BBBB16B</cheevosHash>
 		<cheevosId>532</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010045" />
 	</game>
 	<game id="3935">
-		<path>./Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).zip</path>
 		<name>Astro Boy : Omega Factor</name>
 		<desc>Astroboy, der Roboter-Superheld mit dem Geist eines Menschen, fliegt in ein düsengetriebenes Abenteuer, um die Roboterwieder mit den Menschen zu vereinen. In Zusammenarbeit mit Tezuka Productions und Sony Pictures Television hat das SONICTEAM-Studio von SEGA das Universum von Astro Boy detailgetreu nachgebildet. Dies erhöht nicht nur den Bekanntheitsgrad der Marke, sondern ist zugleich auch ein Tribut an ein klassisches Symbol der japanischen Animes, das zur Zeit als Serie im amerikanischen Cartoon Network läuft. 
 In Astro Boy setzt der Spieler Astros Raketenfüße, Armkanone, 100.000 PS-Stärke, Röntgenblick und andere spezielle Fähigkeiten ein, um Metro City zu retten. Mit jedem gelösten Fall entwickeln sich Astros Fähigkeiten weiter, was ihm hilft, mit Atlas, Acheron, dem Blauen Ritter und anderen seine Kräfte zu messen!</desc>
 		<genre>Verschiedene</genre>
 		<image>./images/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -560,20 +458,16 @@ In Astro Boy setzt der Spieler Astros Raketenfüße, Armkanone, 100.000 PS-Stär
 		<publisher>THQ</publisher>
 		<family>Astro Boy</family>
 		<players>1</players>
-		<md5>c518725055083f6096f3268cf608acda</md5>
 		<lang>it,es,fr,de,jp,en</lang>
 		<region>us</region>
-		<cheevosHash>C518725055083F6096F3268CF608ACDA</cheevosHash>
 		<cheevosId>2203</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010047" />
 	</game>
 	<game id="4005">
-		<path>./Megaman - Battle Network 6 - Cybeast Gregar (USA).zip</path>
 		<name>Mega Man Battle Network 6 : Cybeast Gregar</name>
 		<desc>In Mega Man Battle Network 6 hat Lans Vater einen Jobtransfer erhalten und die Familie zieht nach Cyber ​​City, einer Stadt, die für die Durchführung verschiedener technologischer Experimente bekannt ist.  Lan wird neue Leute kennenlernen und neue Freundschaften in der realen Welt schließen, während Mega Man sich mit hilfreichen Navis anfreundet und im virtuellen Flugzeug auf gefährliche neue Feinde trifft.  Zusammen werden sie Bedrohungen ausgesetzt sein, die weitaus mächtiger und gefährlicher sind als je zuvor.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Megaman - Battle Network 6 - Cybeast Gregar (USA)-image.png</image>
-		<video>./videos/Megaman - Battle Network 6 - Cybeast Gregar (USA)-video.mp4</video>
 		<marquee>./images/Megaman - Battle Network 6 - Cybeast Gregar (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman - Battle Network 6 - Cybeast Gregar (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -582,19 +476,15 @@ In Astro Boy setzt der Spieler Astros Raketenfüße, Armkanone, 100.000 PS-Stär
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1-2</players>
-		<md5>5acc75848bb1ffd3d6d8705554ee333d</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>5ACC75848BB1FFD3D6D8705554EE333D</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010049" />
 	</game>
 	<game id="3889">
-		<path>./F-Zero - Maximum Velocity (USA, Europe).zip</path>
 		<name>F-Zero : Maximum Velocity</name>
 		<desc>Alle galaktischen Geschwindigkeitsbegrenzungen stehen kurz vor der Zerstörung!  F-Zero Maximum Velocity ist da und die Zukunft des Rennsports ist am schönsten.  Es erwarten Sie neue Fahrzeuge und neue Originaltöne. Egal, ob Sie ein Super Nintendo-Veteran oder ein Rennanfänger sind, Sie werden auf jeden Fall ein paar Übungsrunden benötigen.  Auch wenn Sie den Grand Prix dominieren können, müssen Sie Ihre Freunde schlagen, denn mit dem Game Boy Advance Link-Kabel können Sie mit bis zu drei menschlichen Rivalen konkurrieren.  Machen Sie sich bereit für den Sprung, den Absturz und den Turbo auf Ihrem Weg zum intergalaktischen Ruhm.</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/F-Zero - Maximum Velocity (USA, Europe)-image.png</image>
-		<video>./videos/F-Zero - Maximum Velocity (USA, Europe)-video.mp4</video>
 		<marquee>./images/F-Zero - Maximum Velocity (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/F-Zero - Maximum Velocity (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -603,22 +493,18 @@ In Astro Boy setzt der Spieler Astros Raketenfüße, Armkanone, 100.000 PS-Stär
 		<publisher>Nintendo</publisher>
 		<family>F-Zero</family>
 		<players>1-4</players>
-		<md5>55c14323547aa4f83e5eede98d0417f3</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>55C14323547AA4F83E5EEDE98D0417F3</cheevosHash>
 		<cheevosId>507</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010054" />
 	</game>
 	<game id="3770">
-		<path>./Dragon Ball Z - The Legacy of Goku II (USA).zip</path>
 		<name>Dragon Ball Z : The Legacy of Goku 2</name>
 		<desc>Dragon Ball Z Das Erbe des Goku II ist ein Action Adventure Spiel.
 
 Das Spiel handelt in der Zukunft, sowie in der Gegenwart. In der Zukunft zerstören zwei Androide die Zivilisation der Erde. Der mittlerweile erwachsene Sohn des Goku, Gohan trainiert in dem Spiel die Trunks im Kampf gegen die Androiden. Gohan, der außergewöhnliche Kräfte besitzt, ist dennoch nicht im Stande die Übermacht zu bezwingen. Mit dem Ende des ersten Teiles des Spiels Das Erbe des Goku, geht hier der zweite Teil weiter. Die Gegenwart sieht hier so aus, dass ein Jahr vergangen ist, seitdem Goku seinen Erzfeind Frieza auf dem Planeten Nemesik besiegt hat. Gokus Familie wartet indes hoffnungsvoll auf eine Nachricht von Goku und seinen jetzigen Aufenthaltsort, als sie unerwartet mit dem wiedrbelebten Frieza und dessen Vater, King Cold, konfrontiert werden. Ein geheimnisvoller Teenager taucht auf und Friezas Plan zur Zerstörung der Erde, wird zunächst verhindert. Der Jugendliche verkündet unheilvolles über die Zukunft der Erde, doch er ahnt nicht, das es noch eine schlimmere Bedrohung für die Erde gibt, das Spiel beginnt.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Dragon Ball Z - The Legacy of Goku II (USA)-image.png</image>
-		<video>./videos/Dragon Ball Z - The Legacy of Goku II (USA)-video.mp4</video>
 		<marquee>./images/Dragon Ball Z - The Legacy of Goku II (USA)-marquee.png</marquee>
 		<thumbnail>./images/Dragon Ball Z - The Legacy of Goku II (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -627,15 +513,12 @@ Das Spiel handelt in der Zukunft, sowie in der Gegenwart. In der Zukunft zerstö
 		<publisher>Infogrames</publisher>
 		<family>Dragon Ball Z</family>
 		<players>1</players>
-		<md5>4e1565aa1f0627c2bf5e51019440cb70</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>4E1565AA1F0627C2BF5E51019440CB70</cheevosHash>
 		<cheevosId>759</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010059" />
 	</game>
 	<game id="4064">
-		<path>./Megaman Zero 2 (USA).zip</path>
 		<name>Mega Man Zero 2</name>
 		<desc>Ein Jahr nach den Ereignissen in Mega Man Zero findet sich der Held in einem weiteren Kampf um die Rettung der Welt wieder. Gefangen zwischen den Reploiden und den Menschen hat Neo Arcadias neuer Kommandant Zero dazu gebracht, ihr zu helfen, obwohl ihre Gründe ungewiss sind.
 
@@ -644,7 +527,6 @@ Um das Problem zu beheben, muss sich Zero Level für Level durchkämpfen und sic
 Neu in der Serie ist ein Herausforderungsmodus für zwei Spieler, bei dem derjenige gewinnt, der das Level als Erster abschließt.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Megaman Zero 2 (USA)-image.png</image>
-		<video>./videos/Megaman Zero 2 (USA)-video.mp4</video>
 		<marquee>./images/Megaman Zero 2 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman Zero 2 (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -653,20 +535,16 @@ Neu in der Serie ist ein Herausforderungsmodus für zwei Spieler, bei dem derjen
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1-2</players>
-		<md5>182363b0698322e1864ced6e9eed7ead</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>182363B0698322E1864CED6E9EED7EAD</cheevosHash>
 		<cheevosId>783</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010101" />
 	</game>
 	<game id="3773">
-		<path>./Advance Wars 2 - Black Hole Rising (USA).zip</path>
 		<name>Advance Wars 2 : Black Hole Rising</name>
 		<desc>Jetzt heißt es volle Konzentration für alle Hobbystrategen! Sturm, der böse Anführer der Black-Hole-Armee, ist zurück und versucht Marco-Land zu erobern. Ausgerüstet mit vielen neuen Waffensystemen und mit Hilfe seiner neuen Kommandanten fordert Sturm die Spieler zu gewaltigen Schlachten heraus. Zum Glück verfügen auch die eigenen Truppen von Orange Star, Blue Moon, Vellow Comet und Green Earth über zahlreiche neue Möglichkeiten. Mit verbesserter Taktik und mit einer ausgetüftelten Strategie können Sie die Schlacht für sich entscheiden.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Advance Wars 2 - Black Hole Rising (USA)-image.png</image>
-		<video>./videos/Advance Wars 2 - Black Hole Rising (USA)-video.mp4</video>
 		<marquee>./images/Advance Wars 2 - Black Hole Rising (USA)-marquee.png</marquee>
 		<thumbnail>./images/Advance Wars 2 - Black Hole Rising (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -675,22 +553,18 @@ Neu in der Serie ist ein Herausforderungsmodus für zwei Spieler, bei dem derjen
 		<publisher>Nintendo</publisher>
 		<family>Advance Wars</family>
 		<players>1-4</players>
-		<md5>46599031ef71117c587bd3666c326c07</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>46599031EF71117C587BD3666C326C07</cheevosHash>
 		<cheevosId>2593</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010107" />
 	</game>
 	<game id="4609">
-		<path>./Polarium Advance (USA).zip</path>
 		<name>Polarium Advance</name>
 		<desc>Die Regeln bei Polarium sind einfach, jedoch, wie bei allen großartigen Rätselspielen, schwer zu meistern.
 Jede Stufe präsentiert ein Raster aus schwarzen und weißen Steinen. Um ein Puzzle abzuschließen, musst du eine Route bestimmen, indem du bestimmte Steine umdrehst und das Raster zu einer einzigen Farbe änderst ... und das alles in einem Zug!
 Polarium Advance beinhaltet 365 Puzzles, eins für jeden Tag des Jahres! Es gibt auch einen Spiel-auf-Zeit-Modus gegen die Uhr und einen Puzzle-Erstellungsmodus, sodass du für deine Freunde eigene Knobelaufgaben erstellen kannst.</desc>
 		<genre>Strategie</genre>
 		<image>./images/Polarium Advance (USA)-image.png</image>
-		<video>./videos/Polarium Advance (USA)-video.mp4</video>
 		<marquee>./images/Polarium Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Polarium Advance (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -698,19 +572,15 @@ Polarium Advance beinhaltet 365 Puzzles, eins für jeden Tag des Jahres! Es gibt
 		<developer>Mitchell</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
-		<md5>a3e8563f64ae52332c7a7eceec73f5ff</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A3E8563F64AE52332C7A7ECEEC73F5FF</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010108" />
 	</game>
 	<game id="3988">
-		<path>./Megaman &amp; Bass (USA).zip</path>
 		<name>Mega Man &amp; Bass</name>
 		<desc>Ein neuer Gegner hat eine Kriegserklärung abgegeben und will die Weltherrschaft an sich reißen. Wer ist diese neue Gefahr? Der Robot King. King hat ultra-geheime Roboter-Baupläne gestohlen, um eine Armee böser Roboter aufzustellen. Er hat erklärt, dass Roboter, die sich den Menschen als überlegen erweisen, die Erde beherrschen sollten. Die Regierung nimmt diese Drohung äußert ernst und hat Mega Man mit der Untersuchung beauftragt. Zusammen mit seinem alten Widersacher Bass kämpft Mega Man erneut, um die Welt zu retten.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Megaman &amp; Bass (USA)-image.png</image>
-		<video>./videos/Megaman &amp; Bass (USA)-video.mp4</video>
 		<marquee>./images/Megaman &amp; Bass (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman &amp; Bass (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -719,20 +589,16 @@ Polarium Advance beinhaltet 365 Puzzles, eins für jeden Tag des Jahres! Es gibt
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>88792ae1fbc74f4a5425d0c6f0482023</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>88792AE1FBC74F4A5425D0C6F0482023</cheevosHash>
 		<cheevosId>2179</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010110" />
 	</game>
 	<game id="83900">
-		<path>./Iridion II (USA).zip</path>
 		<name>Iridion II</name>
 		<desc>Nach den Ereignissen in Iridion 3D verschwanden die Kräfte des Iridion vollständig, was die Menschheit dazu veranlasste in den Weltraum zu reisen und die Planeten der Heimatgalaxie des Iridion zu kolonisieren. Nach Hunderten von friedlichen Jahren kehrte das Iridion-Imperium jedoch zurück und griff die menschlichen Kolonisten an, um ihre Planeten zurückzuerobern. Der Spieler übernimmt die Kontrolle über die SHN-27, die unterwegs ist, um die Menschheit ein weiteres Mal vor den Iridions zu retten.</desc>
 		<genre>Shooter / Flugzeug, 3. Pers.</genre>
 		<image>./images/Iridion II (USA)-image.png</image>
-		<video>./videos/Iridion II (USA)-video.mp4</video>
 		<marquee>./images/Iridion II (USA)-marquee.png</marquee>
 		<thumbnail>./images/Iridion II (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -741,20 +607,16 @@ Polarium Advance beinhaltet 365 Puzzles, eins für jeden Tag des Jahres! Es gibt
 		<publisher>Vivendi Universal Games</publisher>
 		<family>Iridion</family>
 		<players>1</players>
-		<md5>553e8c9a80190617ec13fa2a06487f2d</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>553E8C9A80190617EC13FA2A06487F2D</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010114" />
 	</game>
 	<game id="3941">
-		<path>./Gunstar Super Heroes (USA).zip</path>
 		<name>Gunstar Super Heroes</name>
 		<desc>Eines der beliebtesten 2D-Spiele aller Zeiten, Gunstar Heroes, bekommt endlich einen Nachfolger, der von Treasure entwickelt wird - dem legendären Team, das schon für das Original verantwortlich war. Red und Blue, die Stars von Gunstar Future Heroes, müssen erneut dafür sorgen, dass ein sehr mächtiger Stein nicht in die Hände eines finsteren Imperiums fällt, das den Gott des Ruins wiedererwecken will.
 Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Wegen, und die Story passt sich dabei dem gewählten Schwierigkeitsgrad an, so dass sie insgesamt sechs unterschiedliche Verläufe nehmen kann. Der Spieler bezwingt mit Schnellfeuer, Maschinenpistolen, Laser und Sprengstoff sechs originelle Level und stellt sich gewaltigen Endgegnern, die den gesamten GBA-Bildschirm einnehmen.</desc>
 		<genre>Shooter / Run and Gun</genre>
 		<image>./images/Gunstar Super Heroes (USA)-image.png</image>
-		<video>./videos/Gunstar Super Heroes (USA)-video.mp4</video>
 		<marquee>./images/Gunstar Super Heroes (USA)-marquee.png</marquee>
 		<thumbnail>./images/Gunstar Super Heroes (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -763,20 +625,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>SEGA</publisher>
 		<family>Gunstar</family>
 		<players>1</players>
-		<md5>a5b75829debc9262b08076a94c8473eb</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A5B75829DEBC9262B08076A94C8473EB</cheevosHash>
 		<cheevosId>5077</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010119" />
 	</game>
 	<game id="3763">
-		<path>./Final Fantasy IV Advance (USA).zip</path>
 		<name>Final Fantasy IV Advance</name>
 		<desc>Final Fantasy IV Advance ist ein Remake des klassischen Rollenspiels, das ursprünglich 1991 für den Super Nintendo erschien. Das Spiel wurde von Square Enix entwickelt und im Jahr 2005 für den Game Boy Advance veröffentlicht. Die Geschichte handelt von dem dunklen Ritter Cecil, der die grausamen Befehle seines Königs in Frage stellt. Daraufhin wird er verbannt und begibt sich auf eine Reise, um Verbündete zu sammeln und die Welt vor einer bösartigen Bedrohung zu retten. Das Spiel verfügt über eine aktualisierte Grafik, die den Charakteren ein neues Aussehen verleiht und verbesserte Cutscenes bietet. Der Kampf ist rundenbasiert und erlaubt es dem Spieler, ein Team von Charakteren mit einzigartigen Fähigkeiten und Zaubern zu steuern. Das Spiel bietet außerdem neue Dungeons und zusätzliche Inhalte im Vergleich zur Originalversion. Final Fantasy IV Advance gilt als ein Klassiker des RPG-Genres und als eines der einflussreichsten Spiele seiner Zeit.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Final Fantasy IV Advance (USA)-image.png</image>
-		<video>./videos/Final Fantasy IV Advance (USA)-video.mp4</video>
 		<marquee>./images/Final Fantasy IV Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fantasy IV Advance (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -785,20 +643,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Nintendo</publisher>
 		<family>Final Fantasy</family>
 		<players>1</players>
-		<md5>c74dd5cc3ab6e5d4ac53b1677e1abd69</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C74DD5CC3AB6E5D4AC53B1677E1ABD69</cheevosHash>
 		<cheevosId>763</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010124" />
 	</game>
 	<game id="3822">
-		<path>./Kirby &amp; The Amazing Mirror (USA).zip</path>
 		<name>Kirby &amp; the Amazing Mirror</name>
 		<desc>Die Spiegelwelt wurde von einem bösen Schatten überfallen und Kirby muss den Tag retten! Zum Glück muss er es nicht alleine schaffen! Er wurde in vier Kirbys unterschiedlicher Farbe aufgeteilt und mit seinem treuen Handy kann er seine farbenfrohen Klone anrufen, um mitzuhelfen!</desc>
 		<genre>Plattform</genre>
 		<image>./images/Kirby &amp; The Amazing Mirror (USA)-image.png</image>
-		<video>./videos/Kirby &amp; The Amazing Mirror (USA)-video.mp4</video>
 		<marquee>./images/Kirby &amp; The Amazing Mirror (USA)-marquee.png</marquee>
 		<thumbnail>./images/Kirby &amp; The Amazing Mirror (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -807,20 +661,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Nintendo</publisher>
 		<family>Kirby</family>
 		<players>1-4</players>
-		<md5>df5efe075b35859529ebf82a4d824458</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>DF5EFE075B35859529EBF82A4D824458</cheevosHash>
 		<cheevosId>769</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010125" />
 	</game>
 	<game id="3879">
-		<path>./F-Zero - GP Legend (USA).zip</path>
 		<name>F-Zero : GP Legend</name>
 		<desc>Wir schreiben das Jahr 2201 n. Chr. Und stehen kurz vor dem Einstieg in die Welt der ultraschnellen F-ZERO Grand Prix-Rennen, die auf speziell gebauten Rennstrecken im gesamten Universum stattfinden.  Übernimm die Kontrolle über acht verschiedene Charaktere - darunter den mysteriösen Captain Falcon, den neuen Rennstar Rick Wheeler und den bösen Mr. Black Shadow -, während du durch eine actionreiche Geschichte rennst, die mehrere Planeten umfasst!</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/F-Zero - GP Legend (USA)-image.png</image>
-		<video>./videos/F-Zero - GP Legend (USA)-video.mp4</video>
 		<marquee>./images/F-Zero - GP Legend (USA)-marquee.png</marquee>
 		<thumbnail>./images/F-Zero - GP Legend (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -829,20 +679,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Nintendo</publisher>
 		<family>F-Zero</family>
 		<players>1-4</players>
-		<md5>b6984ca369145367ab79eb33f2f3480e</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>B6984CA369145367AB79EB33F2F3480E</cheevosHash>
 		<cheevosId>5343</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010127" />
 	</game>
 	<game id="3833">
-		<path>./Boktai - The Sun Is in Your Hand (USA).zip</path>
 		<name>Boktai : The Sun Is in Your Hand</name>
 		<desc>Boktai: The Sun Is in Your Hand ist das erste Game Boy Advance-Spiel, das Sonnenlicht zur Beeinflussung des Gameplays nutzt. Im Spiel verfolgen Sie die Abenteuer von Django, einem jungen Vampirjäger auf der Suche nach der Befreiung der Welt vom Bösen. Als Django musst du Fallen überwinden, Feinde besiegen und dich durch die tiefsten Teile der Dungeons kämpfen. Achten Sie auf die Menge an Sonnenlicht – Django ist tagsüber stärker, während die Vampire nachts stärker sind. Das Spiel verfügt über einen Sonnensensor auf der Patrone und ein Echtzeituhrsystem.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Boktai - The Sun Is in Your Hand (USA)-image.png</image>
-		<video>./videos/Boktai - The Sun Is in Your Hand (USA)-video.mp4</video>
 		<marquee>./images/Boktai - The Sun Is in Your Hand (USA)-marquee.png</marquee>
 		<thumbnail>./images/Boktai - The Sun Is in Your Hand (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -851,20 +697,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Konami</publisher>
 		<family>Boktai</family>
 		<players>1-4</players>
-		<md5>ff75c62ab690410cc8fca24204d783e9</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>FF75C62AB690410CC8FCA24204D783E9</cheevosHash>
 		<cheevosId>568</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010133" />
 	</game>
 	<game id="3886">
-		<path>./Megaman Zero 4 (USA).zip</path>
 		<name>Mega Man Zero 4</name>
 		<desc>The Zero Knuckle ... mit dem bösesten neuen Werkzeug in Zeros Arsenal können Sie die Waffen Ihrer Feinde stehlen und sie im Kampf einsetzen. Setzen Sie dies zusammen mit unzähligen anderen coolen Aktionen ein, um gegen die neo-arkadische Armee zu kämpfen, den bösen Dr. Weil zu besiegen und der Karawane der Menschen zu helfen, den Frieden und die Sicherheit von Area Zero zu erreichen.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Megaman Zero 4 (USA)-image.png</image>
-		<video>./videos/Megaman Zero 4 (USA)-video.mp4</video>
 		<marquee>./images/Megaman Zero 4 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman Zero 4 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -873,20 +715,16 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>0d1e88bdb09ff68adf9877a121325f9c</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>0D1E88BDB09FF68ADF9877A121325F9C</cheevosHash>
 		<cheevosId>784</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010138" />
 	</game>
 	<game id="3751">
-		<path>./Legend of Zelda, The - The Minish Cap (USA).zip</path>
 		<name>The Legend of Zelda : The Minish Cap</name>
 		<desc>„The Legend of Zelda: The Minish Cap“ ist das zwölfte Spiel der Hauptreihe und erschien für den Game Boy Advance. Prinzessin Zelda besucht Link zu Hause, wo Onkel Alberich gerade arbeitet und ihr erzählt, dass Link noch schläft. Doch als Alberich Link weckt, geht er in den Arbeitsraum. Zelda nimmt Link mit auf ein Minishfestival, bei dem Link eine Waffe von Alberich dem König von Hyrule überreichen soll. Während des Festivals gewinnt ein Teilnehmer eines Schwertkampfturniers, Vaati, und wird zum Schloss Hyrule geschickt, um seinen Preis abzuholen. Doch Vaati offenbart, dass er die Truhe, in der Kreaturen verbannt wurden, haben möchte. Dabei zerstört er die Truhe und versteinert Zelda. Um Zelda zu retten, muss Link die Minish suchen, die ihm helfen, das Schwert zu reparieren. Sie erklären ihm, dass er die vier Elemente sammeln muss, um das Schwert zu vervollständigen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Legend of Zelda, The - The Minish Cap (USA)-image.png</image>
-		<video>./videos/Legend of Zelda, The - The Minish Cap (USA)-video.mp4</video>
 		<marquee>./images/Legend of Zelda, The - The Minish Cap (USA)-marquee.png</marquee>
 		<thumbnail>./images/Legend of Zelda, The - The Minish Cap (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -895,22 +733,18 @@ Beide Charaktere bestreiten dasselbe Abenteuer, allerdings auf verschiedenen Weg
 		<publisher>Nintendo</publisher>
 		<family>The Legend of Zelda</family>
 		<players>1</players>
-		<md5>a104896da0047abe8bee2a6e3f4c7290</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A104896DA0047ABE8BEE2A6E3F4C7290</cheevosHash>
 		<cheevosId>559</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010144" />
 	</game>
 	<game id="4582">
-		<path>./Racing Gears Advance (USA).zip</path>
 		<name>Racing Gears Advance</name>
 		<desc>Dieses Handheld-Rennspiel bietet eine Reihe lizenzierter Autos, mehrere Rennstrecken und Rundkurse sowie eine Reihe herausfordernder Gegner. Zu diesen Standardelementen kommt noch eines hinzu: Waffen. Jetzt können Sie wählen, ob Sie mit Nitro am Gegner vor Ihnen vorbeifahren oder ihn mit einer Rakete verlangsamen möchten.
 Mit jedem Fahrzeug- und Fahrerpaar können Sie im Übungsmodus Rennen fahren, um sich mit den Strecken vertraut zu machen, oder einen Meisterschaftsmodus wählen, um eine Reihe von Strecken zu absolvieren. Nach jedem Rennen müssen Sie einen Teil des verdienten Geldes (entweder durch die Platzierung oder das Aufsammeln von Geldsymbolen während des Rennens) ausgeben, um Ihr Auto zu reparieren und – wenn möglich – aufzurüsten. Die Upgrades können Ihr Auto als Rennmaschine (z. B. größerer Motor oder bessere Bremsen) oder als Kriegsmaschine (z. B. durch Hinzufügen weiterer Waffenschächte oder Kauf eines neuen Waffentyps) verbessern.
 Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie hinter ein Hindernis. Allerdings gibt es unter den kurvigen Straßen auch ein paar Abkürzungen, die es erfordern, über die Grenzen der Straße hinaus zu denken und gelegentlich einen Sprung ins Ungewisse zu wagen.</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/Racing Gears Advance (USA)-image.png</image>
-		<video>./videos/Racing Gears Advance (USA)-video.mp4</video>
 		<marquee>./images/Racing Gears Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Racing Gears Advance (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -918,19 +752,15 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<developer>Orbital Media</developer>
 		<publisher>Zoo Digital Publishing</publisher>
 		<players>1-4</players>
-		<md5>1dac1484f1d66158b1cfae3da7c79af9</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>1DAC1484F1D66158B1CFAE3DA7C79AF9</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010148" />
 	</game>
 	<game id="4024">
-		<path>./Final Fight One (USA).zip</path>
 		<name>Final Fight One</name>
 		<desc>La acción clásica de arcade no está disponible en el sistema Game Boy Advance en Final Fight One.  Hay problemas en Metro City.  Los miembros de Mad Gear Gang han secuestrado a Jessica, la hija del alcalde, y el tiempo corre.  El alcalde, un ex luchador callejero, llama a los grandes para que ayuden, alistando al equipo de mano de hierro de Cody y Guy.  Ahora, es una carrera contrarreloj para recorrer la ciudad, derrotar a un ejército de secuaces de Mad Gear Gang y rescatar a Jessica antes de que sea demasiado tarde.</desc>
 		<genre>Kampf</genre>
 		<image>./images/Final Fight One (USA)-image.png</image>
-		<video>./videos/Final Fight One (USA)-video.mp4</video>
 		<marquee>./images/Final Fight One (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fight One (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -939,20 +769,16 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<publisher>Ubisoft</publisher>
 		<family>Final Fight</family>
 		<players>1-2</players>
-		<md5>c6af74aeeabfd6d7ee2875e355f49af2</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C6AF74AEEABFD6D7EE2875E355F49AF2</cheevosHash>
 		<cheevosId>3706</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010153" />
 	</game>
 	<game id="4151">
-		<path>./Lunar Legend (USA).zip</path>
 		<name>Lunar Legend</name>
 		<desc>Lunar Legend ist ein Rollenspiel für den Gameboy Advance, dessen Handlung in einer mittelalterlichen Fantasy-Welt spielt. Basierend auf den Spielen der Serie, die auf Sega-CD und Playstation 1 veröffentlicht wurden, erzählt Lunar Legend die Geschichte von Alex, einem Drachenmeisterlehrling, dessen Ziel es ist, so stark zu werden wie sein Held Dyne.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Lunar Legend (USA)-image.png</image>
-		<video>./videos/Lunar Legend (USA)-video.mp4</video>
 		<marquee>./images/Lunar Legend (USA)-marquee.png</marquee>
 		<thumbnail>./images/Lunar Legend (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -960,20 +786,16 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<developer>Game Arts</developer>
 		<publisher>Ubisoft</publisher>
 		<players>1-2</players>
-		<md5>ae5ee35f0aadf386cb6918a2d83f5a3b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>AE5EE35F0AADF386CB6918A2D83F5A3B</cheevosHash>
 		<cheevosId>6834</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010154" />
 	</game>
 	<game id="4080">
-		<path>./Double Dragon Advance (USA).zip</path>
 		<name>Double Dragon Advance</name>
 		<desc>Nachdem ein Atomkrieg die Welt in Schutt und Asche gelegt hat, treten kriminelle Banden als neue Herrscher aus den Ruinen hervor und übernehen  die Kontrolle über die Stadt. Die Zwillingsbrüder Jimmy und Billy Lee überleben das katastrophale Ereignis mit intakten Kampfkunstfähigkeiten, doch Billys Freundin wird bald von mysteriösen Schlägern entführt. Jetzt liegt es an euch, beide Brüder durch verschiedene Level voller Feinde und Bossgegner zu steuern. Egal, ob Du alleine oder kooperativ mit einem Freund spielst, Du musst neue Techniken und den Umgang mit Waffen beherrschen, um das Mädchen zu finden und die Bösewichte zu erledigen.</desc>
 		<genre>Beat'em Up</genre>
 		<image>./images/Double Dragon Advance (USA)-image.png</image>
-		<video>./videos/Double Dragon Advance (USA)-video.mp4</video>
 		<marquee>./images/Double Dragon Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Double Dragon Advance (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -982,20 +804,16 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<publisher>Atlus</publisher>
 		<family>Double Dragon</family>
 		<players>1-2</players>
-		<md5>9f738e440d5a6ebbe5e5dcf8b727bbb3</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>9F738E440D5A6EBBE5E5DCF8B727BBB3</cheevosHash>
 		<cheevosId>2138</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010158" />
 	</game>
 	<game id="3761">
-		<path>./Golden Sun - The Lost Age (USA, Europe).zip</path>
 		<name>Golden Sun : The Lost Age</name>
 		<desc>Eine neue Epoche dämmert...und die Helden aus Golden Sun versinken in den Strudeln der Vergangenheit. Die Welt steht am Rande eines Schlundes unendlicher Dunkelheit. Eine neue Gruppe von Abenteurer ist vielleicht ihre allerletzte Hoffnung, vielleicht aber auch ihr Untergang. Verfolgt von den Helden aus dem ersten Golden Sun-Epos müssen sie sich beeilen, ihr Schicksal zu erfüllen, bevor die Welt dem namenlosen Vergessen anheim fällt.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Golden Sun - The Lost Age (USA, Europe)-image.png</image>
-		<video>./videos/Golden Sun - The Lost Age (USA, Europe)-video.mp4</video>
 		<marquee>./images/Golden Sun - The Lost Age (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Golden Sun - The Lost Age (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1004,20 +822,16 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<publisher>Nintendo</publisher>
 		<family>Golden Sun</family>
 		<players>1-2</players>
-		<md5>8efe8b2aaed97149e897570cd123ff6e</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>8EFE8B2AAED97149E897570CD123FF6E</cheevosHash>
 		<cheevosId>2592</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010200" />
 	</game>
 	<game id="84394">
-		<path>./Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).zip</path>
 		<name>Pokémon Mystery Dungeon : Red Rescue Team</name>
 		<desc>In "Pokémon Mystery Dungeon: Team Rot" erwacht der Spieler eines Morgens als Pokémon in einer Welt, die von unerklärlichen Naturkatastrophen verwüstet wurde. Zusammen mit einem Partner bildet der Spieler ein Rettungsteam, um herauszufinden, was hinter den mysteriösen Ereignissen steckt und das Rätsel zu lösen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)-image.png</image>
-		<video>./videos/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)-video.mp4</video>
 		<marquee>./images/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1026,15 +840,12 @@ Das Streckendesign nutzt die isometrische Ansicht und stellt das Auto fast nie h
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1</players>
-		<md5>2100cf6f17e12cd34f1513647dfa506b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>2100CF6F17E12CD34F1513647DFA506B</cheevosHash>
 		<cheevosId>2816</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010203" />
 	</game>
 	<game id="3769">
-		<path>./Metroid - Zero Mission (USA).zip</path>
 		<name>Metroid : Zero Mission</name>
 		<desc>In dieser preisgekrönten Neuauflage des ersten Metroid-Abenteuers schlüpfst du in die Rolle der Kopfgeldjägerin Samus Aran, um den Planeten Zebes zum allerersten Mal zu infiltrieren und schließlich die Weltraumpiraten und das Mother Brain zu besiegen. Aber auf Zebes ist nicht alles so, wie du dich zu erinnern glaubst!
 
@@ -1043,7 +854,6 @@ Metroid: Zero Mission bietet komplett neu designte Level basierend auf den klass
 Außerdem wirst du feststellen, dass das Spiel nach dem Sieg über Mother Brain noch lange nicht vorbei ist!</desc>
 		<genre>Plattform</genre>
 		<image>./images/Metroid - Zero Mission (USA)-image.png</image>
-		<video>./videos/Metroid - Zero Mission (USA)-video.mp4</video>
 		<marquee>./images/Metroid - Zero Mission (USA)-marquee.png</marquee>
 		<thumbnail>./images/Metroid - Zero Mission (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1052,22 +862,18 @@ Außerdem wirst du feststellen, dass das Spiel nach dem Sieg über Mother Brain 
 		<publisher>Nintendo</publisher>
 		<family>Metroid</family>
 		<players>1</players>
-		<md5>ebbce58109988b6da61ebb06c7a432d5</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>EBBCE58109988B6DA61EBB06C7A432D5</cheevosHash>
 		<cheevosId>534</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010212" />
 	</game>
 	<game id="3834">
-		<path>./Street Fighter Alpha 3 (USA).zip</path>
 		<name>Street Fighter Alpha 3</name>
 		<desc>Street Fighter Alpha 3 ist ein 1-gegen-1-Kampfvideospiel, das wiederum der dritte Teil der Alpha-Sub-Saga der Street Fighter-Saga ist, deren Handlung sich vor Street Fighter II befindet, jedoch nach dem ersten Teil ( in Japan ist es als Street Fighter Zero 3 bekannt).
 Es enthält praktisch alle Kämpfer der Street Fighter 2- und Alpha-Saga, die von den 18 Kämpfern von SF Alpha 2 bis zu mehr als dreißig in diesem SF Alpha 3 reicht. In Bezug auf seine Vorgänger hat es viele neue Funktionen, eine der meisten Wichtig ist die Möglichkeit, für jeden Charakter einen Kampfstil zu wählen (ISMs in Modus A, Modus V und Modus X) und ein verfeinertes Gameplay. Auf der anderen Seite bleibt das Erscheinungsbild der Grafiken im Anime-Stil viel ausgefallener und weniger elegant als die ursprüngliche Saga, insbesondere der zeitgenössische Street Fighter III.
 Es wurde in Arcade und auf mehreren Konsolen veröffentlicht, von denen einige sehr neu sind. Dies zeigt, dass SF Alpha 3 ein Spiel mit einer sehr guten Grafikqualität ist, das über die Jahre beibehalten wird. In den Konsolenversionen hatten sie unterschiedliche Taglines im Titel, um sie unterscheiden zu können</desc>
 		<genre>Kampf</genre>
 		<image>./images/Street Fighter Alpha 3 (USA)-image.png</image>
-		<video>./videos/Street Fighter Alpha 3 (USA)-video.mp4</video>
 		<marquee>./images/Street Fighter Alpha 3 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Street Fighter Alpha 3 (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -1076,15 +882,12 @@ Es wurde in Arcade und auf mehreren Konsolen veröffentlicht, von denen einige s
 		<publisher>Capcom</publisher>
 		<family>Street Fighter</family>
 		<players>1-2</players>
-		<md5>91d5986bcb918e636f17e99eb73b923b</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>91D5986BCB918E636F17E99EB73B923B</cheevosHash>
 		<cheevosId>808</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010216" />
 	</game>
 	<game id="3845">
-		<path>./Sonic Advance (USA) (En,Ja).zip</path>
 		<name>Sonic Advance</name>
 		<desc>Sonic the Hedgehog ist da und erlebt sein erstes Abenteuer auf einer Nintendo-Konsole. Sonic Advance kombiniert Elemente aus der ursprünglichen Sonic-Serie auf Segas Genesis sowie aus der Dreamcast Sonic Adventure-Serie.
 
@@ -1095,7 +898,6 @@ Sammle unterwegs Chaos Emeralds, um dich für mehr Geschwindigkeit in Super Soni
 Und als ob das noch nicht genug wäre, können Sie mit Ihren Freunden auch 4-Spieler-Kampfmodi spielen, indem Sie einen Spielwagen zwischen 4 GBAs verwenden.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Sonic Advance (USA) (En,Ja)-image.png</image>
-		<video>./videos/Sonic Advance (USA) (En,Ja)-video.mp4</video>
 		<marquee>./images/Sonic Advance (USA) (En,Ja)-marquee.png</marquee>
 		<thumbnail>./images/Sonic Advance (USA) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1104,20 +906,16 @@ Und als ob das noch nicht genug wäre, können Sie mit Ihren Freunden auch 4-Spi
 		<publisher>SEGA</publisher>
 		<family>Sonic</family>
 		<players>1-4</players>
-		<md5>49ecc8ef1988e7ae81fbda1b4cf71eed</md5>
 		<lang>jp,en</lang>
 		<region>us</region>
-		<cheevosHash>49ECC8EF1988E7AE81FBDA1B4CF71EED</cheevosHash>
 		<cheevosId>793</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010221" />
 	</game>
 	<game id="4165">
-		<path>./Konami Krazy Racers (USA).zip</path>
 		<name>Konami Krazy Racers</name>
 		<desc>Konami Krazy Racers ist ein Kart-Rennspiel mit super deformierten Rennfahrern. Es enthält berühmte Konami-Figuren wie Goemon (aus Ganbare Goemon), Dracula (aus Castlevania) und Vic Viper (aus Gradius). Es gibt 16 Strecken, auf denen man Rennen fahren kann, und man kann Münzen sammeln, um Gegenstände zu kaufen. Das Gameplay ist ähnlich wie bei Mario Kart.</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/Konami Krazy Racers (USA)-image.png</image>
-		<video>./videos/Konami Krazy Racers (USA)-video.mp4</video>
 		<marquee>./images/Konami Krazy Racers (USA)-marquee.png</marquee>
 		<thumbnail>./images/Konami Krazy Racers (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1125,22 +923,18 @@ Und als ob das noch nicht genug wäre, können Sie mit Ihren Freunden auch 4-Spi
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<players>1-2</players>
-		<md5>c1d1bb9da3a5566a34a92dac25e6bc04</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C1D1BB9DA3A5566A34A92DAC25E6BC04</cheevosHash>
 		<cheevosId>2543</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010225" />
 	</game>
 	<game id="3843">
-		<path>./Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).zip</path>
 		<name>Sonic Advance 3</name>
 		<desc>Eggman hat die Welt in sieben Teile zerlegt, nun muss der Spieler die sieben Chaos Emeralds finden, um die Welt wiederherzustellen.
 
 Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit einem Freund im Koop-Modus oder in einem der vielen Mehrspielermodi wie dem Ringrennen spielen. Das Spiel enthält Funktionen von Sonic Advance und Sonic Advance 2, aber mit mehr Optionen wie der Auswahl von zwei Charakteren im Story-Modus (einem Haupt- und einem Folgecharakter).</desc>
 		<genre>Plattform</genre>
 		<image>./images/Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1149,20 +943,16 @@ Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit
 		<publisher>THQ</publisher>
 		<family>Sonic</family>
 		<players>1-4</players>
-		<md5>e0533faf6aa36e3111669574f1c5df92</md5>
 		<lang>it,es,fr,de,jp,en</lang>
 		<region>us</region>
-		<cheevosHash>E0533FAF6AA36E3111669574F1C5DF92</cheevosHash>
 		<cheevosId>794</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010227" />
 	</game>
 	<game id="3987">
-		<path>./Megaman Zero 3 (USA).zip</path>
 		<name>Mega Man Zero 3</name>
 		<desc>Im aufregenden dritten Teil der Mega Man Zero-Reihe muss der Roboterheld ein weiteres Mal Neo Arcadia retten. Dieses Mal vor einem gigantischen Reploid namens Omega! Zum Glück verfügt Zero dafür über ein noch mächtigeres Arsenal an Waffen und Ausrüstung. Neue Anpassungschips ersetzen das altbekannte Form-System, und du kannst diese Chips beliebig kombinieren, um für jede Situation gerüstet zu sein. Das Cyber-Elf-System wurde ebenfalls komplett überarbeitet. Außerdem wird Zeros neue Recoil Rod-Waffe dafür sorgen, dass seine Gegner ins Schwitzen kommen! </desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Megaman Zero 3 (USA)-image.png</image>
-		<video>./videos/Megaman Zero 3 (USA)-video.mp4</video>
 		<marquee>./images/Megaman Zero 3 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman Zero 3 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1171,20 +961,16 @@ Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>aa1d5eeffcd5e4577db9ee6d9b1100f9</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>AA1D5EEFFCD5E4577DB9EE6D9B1100F9</cheevosHash>
 		<cheevosId>625</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010232" />
 	</game>
 	<game id="84396">
-		<path>./Pokemon Pinball - Ruby &amp; Sapphire (USA).zip</path>
 		<name>Pokémon Pinball : Ruby &amp; Sapphire</name>
 		<desc>PokÃ©mon Flipper: Rubin &amp; Saphir hat alle Features die man von einem Flipper Spiel erwartet,mit bonus Tischen,vielen Bumpern und Wege Massiv Punkte zu erzielen. So wie bei jedem Flipper Videospiel steuert man die Flossen mit dem linken Knopf des Steuerkreuzes und dem A-Knopf und benutzt die R/L Trigger um den Tisch zu schütteln. Der Unterschied ist, dass alles an PokÃ©mon angelehnt ist. Statt eines normalen Balls verwendet man einen PokÃ©ball. Statt normalen Bumpern schießst man den Ball gegen PokÃ©mon und das ultimative Ziel ist es natürlich sie "alle zu fagen". Das Spiel beinhaltet 200 PokÃ©mon, 2 Haupttische und Link Kabel Unterstützung.</desc>
 		<genre>Flipper</genre>
 		<image>./images/Pokemon Pinball - Ruby &amp; Sapphire (USA)-image.png</image>
-		<video>./videos/Pokemon Pinball - Ruby &amp; Sapphire (USA)-video.mp4</video>
 		<marquee>./images/Pokemon Pinball - Ruby &amp; Sapphire (USA)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon Pinball - Ruby &amp; Sapphire (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1193,20 +979,16 @@ Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1</players>
-		<md5>ba6d0fbff297b8937d3c8e7f2c25fa0f</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>BA6D0FBFF297B8937D3C8E7F2C25FA0F</cheevosHash>
 		<cheevosId>789</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010234" />
 	</game>
 	<game id="4094">
-		<path>./Megaman - Battle Network 3 - Blue Version (USA).zip</path>
 		<name>Mega Man Battle Network 3 : Blue Version</name>
 		<desc>Schließen Sie sich Mega Mega.EXE, seinem Kumpel Lan und seinen Freunden an und bewahren Sie das Netz vor Cyber-Chaos im bislang umfangreichsten Battle Network-Abenteuer. Finden Sie zusammen mit der White-Version alle Änderungen des Kampfstils von Mega Man, der "Giga Class" -Chips, der Gegner und entdecken Sie weitere Überraschungen nur für Sie!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Megaman - Battle Network 3 - Blue Version (USA)-image.png</image>
-		<video>./videos/Megaman - Battle Network 3 - Blue Version (USA)-video.mp4</video>
 		<marquee>./images/Megaman - Battle Network 3 - Blue Version (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman - Battle Network 3 - Blue Version (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1215,20 +997,16 @@ Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1-2</players>
-		<md5>6fe31df0144759b34ad666badaacc442</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>6FE31DF0144759B34AD666BADAACC442</cheevosHash>
 		<cheevosId>774</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010236" />
 	</game>
 	<game id="4491">
-		<path>./Jazz Jackrabbit (USA, Europe).zip</path>
 		<name>Jazz Jackrabbit</name>
 		<desc>Jazz, eine Mischung aus Bugs Bunny und Han Solo, hat seine üblichen Tricks, um die Welt zu retten, aber dieses Mal gibt es einen noch größeren Anreiz: Geld.In diesem exklusiven GBA-Titel muss Jazz 24 Levels erkunden, um so viel Geld wie möglich zu verdienen. Mit diesem Geld kann er dann neue Waffen kaufen, mit denen er den Feind vernichten kann, z. B. die übliche Auswahl an Blastern, Raketenwerfern und Flammenwerfern.Neben dem Einzelspieler-Abenteuer sind auch Mehrspieler-Modi für bis zu 4 Personen enthalten, wobei die Spielmodi vom üblichen Deathmatch-Stil bis zum Capture the Flag reichen.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Jazz Jackrabbit (USA, Europe)-image.png</image>
-		<video>./videos/Jazz Jackrabbit (USA, Europe)-video.mp4</video>
 		<marquee>./images/Jazz Jackrabbit (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Jazz Jackrabbit (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.3</rating>
@@ -1237,20 +1015,16 @@ Sonic Advance 3 ist ein Sonic-Spiel mit dem gewissen Etwas: Der Spieler kann mit
 		<publisher>Jaleco</publisher>
 		<family>Jazz Jackrabbit</family>
 		<players>1-4</players>
-		<md5>693bbcab772317e7e295a2b52dca175d</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>693BBCAB772317E7E295A2B52DCA175D</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010240" />
 	</game>
 	<game id="3787">
-		<path>./Final Fantasy I &amp; II - Dawn of Souls (USA).zip</path>
 		<name>Final Fantasy I &amp; II : Dawn of Souls</name>
 		<desc>Final Fantasy I: Erleben Sie Final Fantasy auf eine Art und Weise, wie Sie es sich nie vorgestellt haben, mit verbesserter Grafik und dem brandneuen Dungeon "Soul of Chaos". Schlüpfen Sie in die Rolle der vier Krieger des Lichts und bringen Sie Ordnung in ihre chaotische Welt!
 Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine fesselndere Handlung. Erleben Sie in dieser verbesserten Edition zusätzlich "Soul of Rebirth", eine nie zuvor erzählte Saga der Helden, die ihr Leben gaben, um ihre Welt zu retten!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Final Fantasy I &amp; II - Dawn of Souls (USA)-image.png</image>
-		<video>./videos/Final Fantasy I &amp; II - Dawn of Souls (USA)-video.mp4</video>
 		<marquee>./images/Final Fantasy I &amp; II - Dawn of Souls (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fantasy I &amp; II - Dawn of Souls (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1259,20 +1033,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Nintendo</publisher>
 		<family>Final Fantasy</family>
 		<players>1</players>
-		<md5>5d29999685413c4d2bec10d3160f6ee6</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>5D29999685413C4D2BEC10D3160F6EE6</cheevosHash>
 		<cheevosId>762</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010245" />
 	</game>
 	<game id="83989">
-		<path>./Klonoa 2 - Dream Champ Tournament (USA).zip</path>
 		<name>Klonoa 2 : Dream Champ Tournament</name>
 		<desc>Klonoas Schlappohren werden spitz. Vollgepackt mit Fallen, Hoverboard-Rennen und verrückten Puzzles ist dies der Beginn eines außergewöhnlichen Abenteuers. Die Spielarena von Klonoa 2 ist mit Vorfreude und einem Hauch von Geheimnis gefüllt - dieses Turnier verheißt mehr, als das Auge zu sehen mag. Der Wettbewerb ist hart, aber Klonoa ist nicht aus der Fassung zu bringen.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Klonoa 2 - Dream Champ Tournament (USA)-image.png</image>
-		<video>./videos/Klonoa 2 - Dream Champ Tournament (USA)-video.mp4</video>
 		<marquee>./images/Klonoa 2 - Dream Champ Tournament (USA)-marquee.png</marquee>
 		<thumbnail>./images/Klonoa 2 - Dream Champ Tournament (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1281,20 +1051,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Namco</publisher>
 		<family>Klonoa</family>
 		<players>1</players>
-		<md5>cb1603c3cc3ed8a37f87b3971b0270d5</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>CB1603C3CC3ED8A37F87B3971B0270D5</cheevosHash>
 		<cheevosId>5530</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010247" />
 	</game>
 	<game id="83783">
-		<path>./Gradius Galaxies (USA).zip</path>
 		<name>Gradius Galaxies</name>
 		<desc>Die seitlich scrollende Action von Gradius Galaxies erinnert an die Anfänge der Arcade-Shooter - Welle um Welle von Gegnern jagt dich durch 8 völlig neue Levels, und kolossale Endbosse füllen den Bildschirm mit einer Konstellation aus schwerem Feuer. Schnallen Sie sich fest an die Steuerung der Vic Viper, einem schnellen und tödlichen Angriffsschiff. Wählen Sie die Waffenkonfiguration, darunter Zwillingskanonen, Photonenraketen und Strahlenlaser, und verbessern Sie diese Waffen während des Spiels, indem Sie Power-Ups einsammeln.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
 		<image>./images/Gradius Galaxies (USA)-image.png</image>
-		<video>./videos/Gradius Galaxies (USA)-video.mp4</video>
 		<marquee>./images/Gradius Galaxies (USA)-marquee.png</marquee>
 		<thumbnail>./images/Gradius Galaxies (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1303,19 +1069,15 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Konami</publisher>
 		<family>Gradius</family>
 		<players>1</players>
-		<md5>6f16195283a6f16fc73c95c69f131b68</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>6F16195283A6F16FC73C95C69F131B68</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010249" />
 	</game>
 	<game id="3812">
-		<path>./Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Broken Sword: The Shadow of the Templars</name>
 		<desc>Ein ruhiger Drink in einem Pariser Café ist für den jungen Amerikaner George Stobbart der Beginn eines mysteriösen Point and Click Adventures. Unwissentlich wird er in ein Netz archaischer und finsterer Verschwörungen hineingezogen, deren Ursprünge bis ins frühe 14. Jahrhundert und den tödlichen Orden der Tempelritter zurückreichen. Tauchen Sie ein in ein globales Adventure-Spiel, lösen Sie kryptische Rätsel und kämpfen Sie ums Überleben. Erfreuen Sie sich an über 60 wunderschön animierten Charakteren an über 70 atemberaubenden, handgezeichneten Orten.</desc>
 		<genre>Abenteuer / Point und Klick</genre>
 		<image>./images/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1324,15 +1086,12 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Bam Entertainment</publisher>
 		<family>Broken Sword</family>
 		<players>1</players>
-		<md5>5bf98eb8cc6247b4edf7b9b5b08dbab9</md5>
 		<lang>it,es,de,fr,en</lang>
 		<region>us</region>
-		<cheevosHash>5BF98EB8CC6247B4EDF7B9B5B08DBAB9</cheevosHash>
 		<cheevosId>7438</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010250" />
 	</game>
 	<game id="84292">
-		<path>./Ninja Five-0 (USA).zip</path>
 		<name>Ninja Five-O</name>
 		<desc>Take on the role of Ninja Five-O as he uses all his skill, stealth and magic to rescue hostages and defeat his enemies. Master the art of ninja swords, shuriken throwing stars and ancient ninjitsu magic!
 
@@ -1342,7 +1101,6 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 * Unique enemy boss characters for each level.</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Ninja Five-0 (USA)-image.png</image>
-		<video>./videos/Ninja Five-0 (USA)-video.mp4</video>
 		<marquee>./images/Ninja Five-0 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Ninja Five-0 (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -1350,20 +1108,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<developer>Hudson Soft</developer>
 		<publisher>Konami</publisher>
 		<players>1</players>
-		<md5>04244f72a9b8f17ee33e0b5bff2b8b1f</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>04244F72A9B8F17EE33E0B5BFF2B8B1F</cheevosHash>
 		<cheevosId>4740</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010252" />
 	</game>
 	<game id="4007">
-		<path>./WarioWare - Twisted! (USA, Australia).zip</path>
 		<name>WarioWare : Twisted!</name>
 		<desc>Nachdem Wario versehentlich die Spin-Technologie entdeckt hat, ruft er die Entwickler von WarioWare, Inc. zusammen, um eine neue Reihe wilder Minispiele zu entwickeln. WarioWare: Verdreht! Behält den rasanten Gameplay-Stil des ursprünglichen WarioWare bei und führt einen neuen Gyro-Sensor ein, mit dem Sie das Gameplay steuern können, indem Sie den Game Boy Advance SP nach links und rechts drehen. Die neuen Steuerelemente spielen in mehr als 200 Minispielen mit. Spielen Sie sie alle durch, um Souvenirs wie Bonusspiele, Figuren und Instrumente freizuschalten.</desc>
 		<genre>Gelegenheitsspiel</genre>
 		<image>./images/WarioWare - Twisted! (USA, Australia)-image.png</image>
-		<video>./videos/WarioWare - Twisted! (USA, Australia)-video.mp4</video>
 		<marquee>./images/WarioWare - Twisted! (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/WarioWare - Twisted! (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1372,20 +1126,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Nintendo</publisher>
 		<family>Wario</family>
 		<players>1</players>
-		<md5>89579f4dfe1ed24a7cd16a6a61a72a17</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>89579F4DFE1ED24A7CD16A6A61A72A17</cheevosHash>
 		<cheevosId>801</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010254" />
 	</game>
 	<game id="3762">
-		<path>./Mario &amp; Luigi - Superstar Saga (USA).zip</path>
 		<name>Mario &amp; Luigi : Superstar Saga</name>
 		<desc>Eine böse Hexe hat die schöne Rede von Prinzessin Peach durch Sprengstoff ersetzt! Mario und Luigi müssen ihr erneut zu Hilfe kommen, aber dieses Mal nutzen sie die Hilfe von Bowser, ihrem Erzfeind. Mario und Luigi müssen neue Bewegungen lernen und ihre Kräfte bündeln, um Feinde abzuwehren und näher an das Schloss der Hexe heranzukommen. Führe diesen ungewöhnlichen Haufen durch eine Fülle von Minispielen wie Border Jump und Mystery Carts. Kombiniere die Kräfte von Mario und Luigi, um spezielle Tag-Team-Moves auszuführen. Tauchen Sie ein in diese helle, cartoonartige und humorvolle Welt, komplett mit Hitmusik aus früheren Mario-Spielen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Mario &amp; Luigi - Superstar Saga (USA)-image.png</image>
-		<video>./videos/Mario &amp; Luigi - Superstar Saga (USA)-video.mp4</video>
 		<marquee>./images/Mario &amp; Luigi - Superstar Saga (USA)-marquee.png</marquee>
 		<thumbnail>./images/Mario &amp; Luigi - Superstar Saga (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1394,20 +1144,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Nintendo</publisher>
 		<family>Mario &amp; Luigi</family>
 		<players>1-4</players>
-		<md5>4b1a5897d89d9e74ec7f630eefdfd435</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>4B1A5897D89D9E74EC7F630EEFDFD435</cheevosHash>
 		<cheevosId>771</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010255" />
 	</game>
 	<game id="83304">
-		<path>./Car Battler Joe (USA).zip</path>
 		<name>Car Battler Joe</name>
 		<desc>Car Battler Joe ist ein spannendes Actionspiel rund um den futuristischen Sport "Car Battles". Dies sind Autokämpfe wobei es darum geht die gegnerischen Wagen zu verschrotten, indem Sie viele verschiedene Waffen oder Tricks einsetzen. Im Story-Modus schlüpfen Sie in die Rolle des ehrgeizigen Jungen Joe Todoroki und werden vom unerfahrenen Erstling zu einem echten "Car Battler". Verdienen Sie Ihr Geld, indem Sie abwechslungsreiche Aufgaben erledigen. Kaufen Sie hunderte von neuen Teilen um Ihr Auto aufzurüsten, und tunen Sie dieses. Es gibt 3 Millionen verschiedene Kombinationsmöglichkeiten!</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/Car Battler Joe (USA)-image.png</image>
-		<video>./videos/Car Battler Joe (USA)-video.mp4</video>
 		<marquee>./images/Car Battler Joe (USA)-marquee.png</marquee>
 		<thumbnail>./images/Car Battler Joe (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1415,20 +1161,16 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<developer>Ancient</developer>
 		<publisher>Natsume</publisher>
 		<players>1-4</players>
-		<md5>37a569f4b2ee0818f89117a5cc958e83</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>37A569F4B2EE0818F89117A5CC958E83</cheevosHash>
 		<cheevosId>13110</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010257" />
 	</game>
 	<game id="3871">
-		<path>./Mario vs. Donkey Kong (USA, Australia).zip</path>
 		<name>Mario vs. Donkey Kong</name>
 		<desc>Mario und der Affe treffen wieder aufeinander! In diesem herausfordernden und aufpolierten Plattform-Spaß für Nintendo Game Boy Advance stehen sich die zwei Nintendo-Ikonen wieder einmal als Rivalen gegenüber. Mario muss die Mini-Mario-Spielzeuge retten, die der niederträchtige Kong aus Toads Laden geklaut hat. In sechs unglaublich einfallsreichen Welten, die vor komplizierten Rätseln und die Reflexe fordernden Gefahren nur so strotzen findest du Schlüssel, lernst neue Moves und suchst nach den Mini-Marios. Ein wahres Heer von altbekannten Mario-Quälgeistern wie z. B. Shy Guys, Piranha Plants und Bob-ombs ist mit von der Partie, um dich von deiner Aufgabe abzuhalten. Aber du schaffst das schon, oder?</desc>
 		<genre>Puzzle</genre>
 		<image>./images/Mario vs. Donkey Kong (USA, Australia)-image.png</image>
-		<video>./videos/Mario vs. Donkey Kong (USA, Australia)-video.mp4</video>
 		<marquee>./images/Mario vs. Donkey Kong (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Mario vs. Donkey Kong (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1437,19 +1179,15 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Nintendo</publisher>
 		<family>Donkey Kong</family>
 		<players>1</players>
-		<md5>ceda12928a686878795def3b413ccfc2</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>CEDA12928A686878795DEF3B413CCFC2</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010258" />
 	</game>
 	<game id="3760">
-		<path>./Final Fantasy Tactics Advance (USA).zip</path>
 		<name>Final Fantasy Tactics Advance</name>
 		<desc>Marche und einige seiner Freunde sind wie so oft in ihrer Heimatstadt St. Ivalice unterwegs und finden dabei ein Buch voller Magie. Alsbald wird Marche in eine Fantasiewelt transportiert, wo er seine verlorgen gegangenen Freunde finden muss. Der Titel kombiniert viele Elemente des Originals. So müsst ihr euch um das Inventar und die Kampfkraft eurer Teammitglieder kümmern. Mit Hilfe des Linkkabels könnt ihr zudem zusammen kämpfen, Gegenstände tauschen oder einen Clan gründen.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Final Fantasy Tactics Advance (USA)-image.png</image>
-		<video>./videos/Final Fantasy Tactics Advance (USA)-video.mp4</video>
 		<marquee>./images/Final Fantasy Tactics Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fantasy Tactics Advance (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1458,14 +1196,11 @@ Final Fantasy II: Final Fantasy II bot den Spielern tiefere Charaktere und eine 
 		<publisher>Square Enix</publisher>
 		<family>Final Fantasy</family>
 		<players>1</players>
-		<md5>cd99cdde3d45554c1b36fbeb8863b7bd</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>CD99CDDE3D45554C1B36FBEB8863B7BD</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010304" />
 	</game>
 	<game id="3983">
-		<path>./Rhythm Tengoku (Japan) (Rev 1).zip</path>
 		<name>Rhythm Tengoku</name>
 		<desc>Rhythm Tengoku ist ein Musikspiel, bei dem es um gutes Timing und Rhythmus geht. Die Musik des Spiels stammt von der Plattenfirma J.P. ROOM und wurde von dem Team entwickelt, das für Wario Ware verantwortlich ist. Das merkt man auch an der eigenwilligen Präsentation des Spiels.
 
@@ -1474,7 +1209,6 @@ Wie bei Wario Ware ist das Spiel eigentlich eine Reihe von kürzeren Spielen, di
 Die Spieler schlagen im Takt mit einem Karate-Experten, während Töpfe und Steine geworfen werden; zupfen Haare von einer Zwiebel; marschieren im Takt eines Lehrers; schlagen einen Baseball, während der Bildschirm ein- und ausgezoomt wird; schießen Geister mit Pfeilen ab; hacken Dämonen als Samurai und vieles mehr. Am Ende jeder Reihe von Stages gibt es eine "Remix-Stage" - in dieser Stage werden Teile der zuvor gespielten Stages kombiniert und nach dem Zufallsprinzip auf den Spieler geworfen, während ein einziger Song gespielt wird.</desc>
 		<genre>Musik und Tanz / Rythmus</genre>
 		<image>./images/Rhythm Tengoku (Japan) (Rev 1)-image.png</image>
-		<video>./videos/Rhythm Tengoku (Japan) (Rev 1)-video.mp4</video>
 		<marquee>./images/Rhythm Tengoku (Japan) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Rhythm Tengoku (Japan) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1483,20 +1217,16 @@ Die Spieler schlagen im Takt mit einem Karate-Experten, während Töpfe und Stei
 		<publisher>Nintendo</publisher>
 		<family>Rhythm Heaven</family>
 		<players>1</players>
-		<md5>5b2d4704ce570d89ae956025bd1036db</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>5B2D4704CE570D89AE956025BD1036DB</cheevosHash>
 		<cheevosId>4033</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010305" />
 	</game>
 	<game id="4173">
-		<path>./Drill Dozer (USA).zip</path>
 		<name>Drill Dozer</name>
 		<desc>Drill Dozer für den GBA ist ein Actionspiel, in dem du eine kleine Figur steuerst, die auf der Spur eines von Räubern gestohlenen Edelsteins ist. Der Spieler bewegt sich in einem Gerät namens Breakall Drillbot, das in der Lage ist, alles auf seinem Weg zu zerquetschen. Ändern Sie die Rotation des Geräts mit den Triggern der Konsole, um sich schnell fortzubewegen.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Drill Dozer (USA)-image.png</image>
-		<video>./videos/Drill Dozer (USA)-video.mp4</video>
 		<marquee>./images/Drill Dozer (USA)-marquee.png</marquee>
 		<thumbnail>./images/Drill Dozer (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1504,20 +1234,16 @@ Die Spieler schlagen im Takt mit einem Karate-Experten, während Töpfe und Stei
 		<developer>Game Freak</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
-		<md5>14dab12e795098988d46b96885170538</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>14DAB12E795098988D46B96885170538</cheevosHash>
 		<cheevosId>760</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010309" />
 	</game>
 	<game id="3785">
-		<path>./Dragon Ball Z - Buu's Fury (USA).zip</path>
 		<name>Dragon Ball Z : Buu's Fury</name>
 		<desc>Dragon Ball Z: Buu's Fury beginnt mit der Andere Welt Turnier Saga und setzt sich in der Kid Buu Saga fort, dem letzten Kapitel der Geschichte von Dragon Ball Z. In einem Spiel, das Action- und Rollenspielelemente mit Erkundung, Feinden, Bossgegnern, Rätseln und Quests kombiniert, ist es Ihr ultimatives Ziel, Buu zu besiegen. Wählen Sie für jede Mission den besten Charakter Goku, Vegeta, Gohan, Goten oder Trunks, erstellen Sie bei Bedarf Fusionscharaktere und entfesseln Sie mächtige Angriffskombinationen und Super-Moves.</desc>
 		<genre>Kampf</genre>
 		<image>./images/Dragon Ball Z - Buu's Fury (USA)-image.png</image>
-		<video>./videos/Dragon Ball Z - Buu's Fury (USA)-video.mp4</video>
 		<marquee>./images/Dragon Ball Z - Buu's Fury (USA)-marquee.png</marquee>
 		<thumbnail>./images/Dragon Ball Z - Buu's Fury (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1526,21 +1252,17 @@ Die Spieler schlagen im Takt mit einem Karate-Experten, während Töpfe und Stei
 		<publisher>Atari SA</publisher>
 		<family>Dragon Ball Z</family>
 		<players>1-2</players>
-		<md5>3a74fce97f1ea2b28c2a50ec3df0acee</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>3A74FCE97F1EA2B28C2A50EC3DF0ACEE</cheevosHash>
 		<cheevosId>754</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010311" />
 	</game>
 	<game id="3780">
-		<path>./Castlevania - Circle of the Moon (USA).zip</path>
 		<name>Castlevania : Circle of the Moon</name>
 		<desc>Bekämpfe die Wurzeln des Bösen!
 Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der äußeren Grenze des österreichischen Imperiums erhebt sich eine dunkle Macht aus ihrer Verbannung. Ein brandneues Kapitel aus der legendären Castlevania-Serie öffnet sich zum ersten Mal auf dem Game Boy Advance.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Castlevania - Circle of the Moon (USA)-image.png</image>
-		<video>./videos/Castlevania - Circle of the Moon (USA)-video.mp4</video>
 		<marquee>./images/Castlevania - Circle of the Moon (USA)-marquee.png</marquee>
 		<thumbnail>./images/Castlevania - Circle of the Moon (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1549,20 +1271,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Konami</publisher>
 		<family>Castlevania</family>
 		<players>1</players>
-		<md5>50a1089600603a94e15ecf287f8d5a1f</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>50A1089600603A94E15ECF287F8D5A1F</cheevosHash>
 		<cheevosId>745</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010317" />
 	</game>
 	<game id="3907">
-		<path>./Megaman - Battle Network (USA).zip</path>
 		<name>Mega Man Battle Network</name>
 		<desc>In ferner Zukunft hackt sich der junge Internet-Kämpfer Lan in das hochmoderne Internet ein und nimmt zusammen mit seinem PET (Personal Information Terminal) den Kampf gegen die organisierte Internet-Kriminalität auf. Lan's PET ist kein gewöhnlicher Netzwerk-Navigator: Es ist MegaMan.exe, der berühmte Cyber-Held, der sich in das von Kriminalität verseuchte Internet einschleust, um dort zerstörerische Computer-Viren auszulöschen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Megaman - Battle Network (USA)-image.png</image>
-		<video>./videos/Megaman - Battle Network (USA)-video.mp4</video>
 		<marquee>./images/Megaman - Battle Network (USA)-marquee.png</marquee>
 		<thumbnail>./images/Megaman - Battle Network (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1571,20 +1289,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Ubisoft</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>9ff40cf640575211202b7bda5487abbb</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>9FF40CF640575211202B7BDA5487ABBB</cheevosHash>
 		<cheevosId>575</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010322" />
 	</game>
 	<game id="3765">
-		<path>./Final Fantasy VI Advance (USA).zip</path>
 		<name>Final Fantasy VI Advance</name>
 		<desc>Ein uralter Konflikt entflammt von neuem. Tausend Jahre nach Ende des Magi-Kriegs hat Imperator Gestahl die Macht der Magie wiedererweckt und will die Welt unterjochen - nur wenige Rebellen können ihm die Stirn bieten. Terras Magie, Edgars Gadgets, Sabins Fäuste - befehlige mehr als ein Dutzend Heroen im Kampf gegen die Bedrohung! Beschwöre eine Vielzahl von Epern und erlebe ein episches Abenteuer!</desc>
 		<genre>Kampf</genre>
 		<image>./images/Final Fantasy VI Advance (USA)-image.png</image>
-		<video>./videos/Final Fantasy VI Advance (USA)-video.mp4</video>
 		<marquee>./images/Final Fantasy VI Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fantasy VI Advance (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1593,19 +1307,15 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Nintendo</publisher>
 		<family>Final Fantasy</family>
 		<players>1</players>
-		<md5>d1c3d1798a3f347fbab41f151c99dece</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>D1C3D1798A3F347FBAB41F151C99DECE</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010327" />
 	</game>
 	<game id="3776">
-		<path>./Castlevania - Aria of Sorrow (USA).zip</path>
 		<name>Castlevania : Aria of Sorrow</name>
 		<desc>Die Fortsetzung von Konamis populären Castlevania-Serie - mit noch unglaublicher Action, packendem Gameplay und hochentwickelter Grafik...Wir schreiben das Jahr 2035. Du und deine Freundin sind im Schloss des Herrn der Finsternis gefangen. Nutze all deine Fähigkeiten um hinter die Geheimnisse des Schlosses zu kommen. Bekämpfe ganze Scharen von Ungeheuern mit Zahlreichen verschiedenen Waffen und Magie. Nimm die Seelen deiner Gegner gefangen um neue Fähigkeiten zu erlangen. Versuche zu entkommen und stell dich deinem Schicksal! Einzigartige Plattform-Action mit Adventure- und Rollenspiel-Elementen</desc>
 		<genre>Action / Abenteuer</genre>
 		<image>./images/Castlevania - Aria of Sorrow (USA)-image.png</image>
-		<video>./videos/Castlevania - Aria of Sorrow (USA)-video.mp4</video>
 		<marquee>./images/Castlevania - Aria of Sorrow (USA)-marquee.png</marquee>
 		<thumbnail>./images/Castlevania - Aria of Sorrow (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1614,20 +1324,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Konami</publisher>
 		<family>Castlevania</family>
 		<players>1</players>
-		<md5>e7470df4d241f73060d14437011b90ce</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>E7470DF4D241F73060D14437011B90CE</cheevosHash>
 		<cheevosId>510</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010329" />
 	</game>
 	<game id="3757">
-		<path>./Fire Emblem (USA, Australia).zip</path>
 		<name>Fire Emblem</name>
 		<desc>Der lange Weg nach Caelin. Im Lande Elibe, einer fantastischen Welt voller Mythen und Sagen, bahnt sich Großes an. In den Ebenen von Sacae entdeckt das Bauernmädchen Lyn, dass sie die Enkelin eines der mächtigsten Männer von Elibe ist, des Marquis von Caelin. Doch nicht genug, dass ihr Großvater nicht die geringste Ahnung von Lyns Existenz hat, obendrein versucht auch noch der Bruder des Marquis, die Macht über Caelin an sich zu reißen. Doch nicht er ist der rechtmäßige Erbe des Throns, diese Ehre gebührt einzig und allein Lyn. Also schart sie ihre Freunde um sich und macht sich auf, ihr angestammtes Recht einzufordern. Auf ihrem Weg durch die wunderschönen Landschaften von Elibe, durch Dörfer, Städte und Wälder wird der Party eines schnell klar: Es gibt zahlreiche Feinde, die verhindern wollen, dass Lyn ihr Ziel erreicht. Der Spieler kann Lyn und ihr Gefolge durch mehr als 30 gefahrvolle Missionen führen und so dafür sorgen, dass die Herrschaft über Caelin nicht in die falschen Hände gerät.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Fire Emblem (USA, Australia)-image.png</image>
-		<video>./videos/Fire Emblem (USA, Australia)-video.mp4</video>
 		<marquee>./images/Fire Emblem (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Fire Emblem (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1636,20 +1342,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Nintendo</publisher>
 		<family>Fire Emblem</family>
 		<players>1-4</players>
-		<md5>f1a1b9742fcd467a531dd4314c4e7d19</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>F1A1B9742FCD467A531DD4314C4E7D19</cheevosHash>
 		<cheevosId>554</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010337" />
 	</game>
 	<game id="3909">
-		<path>./Tactics Ogre - The Knight of Lodis (USA).zip</path>
 		<name>Tactics Ogre : The Knight of Lodis</name>
 		<desc>Übernehmen Sie die Rolle von Alphonse, einem Ritter aus Galizien, der auf eine Mission geschickt wurde, um die Absichten des verdächtigen Regierungsorgans des Heiligen Lodis-Reiches zu untersuchen und das Geheimnis von Ovis zu lösen. Unterwegs werden Sie viele Prüfungen und Schwierigkeiten erleben, aber Sie müssen die unerbittlichen Schlachten überleben und die Fähigkeiten Ihrer Charaktere entwickeln, um Ihr wahres Schicksal zu offenbaren.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Tactics Ogre - The Knight of Lodis (USA)-image.png</image>
-		<video>./videos/Tactics Ogre - The Knight of Lodis (USA)-video.mp4</video>
 		<marquee>./images/Tactics Ogre - The Knight of Lodis (USA)-marquee.png</marquee>
 		<thumbnail>./images/Tactics Ogre - The Knight of Lodis (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1658,20 +1360,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Atlus</publisher>
 		<family>Tactics Ogre</family>
 		<players>1</players>
-		<md5>5d4f385e4e1cfa4a057d0ac828993906</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>5D4F385E4E1CFA4A057D0AC828993906</cheevosHash>
 		<cheevosId>5029</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010341" />
 	</game>
 	<game id="4087">
-		<path>./Contra Advance - The Alien Wars EX (USA).zip</path>
 		<name>Contra Advance : The Alien Wars EX</name>
 		<desc>Mit Contra Advance: The Alien Wars EX für Game Boy Advance präsentiert Konami of Europe den legendären Klassiker jetzt auch für Nintendos Handheld. Basierned auf den Bestseller für SNES, bietet der Titel außerdem noch eine Reihe actionreicher neuer Level, durch die sich ein oder zwei schwerbewaffnete Spieler im Kampf gegen zahlreiche angriffslustige Aliens ihren Weg bahnen müssen.</desc>
 		<genre>Shooter / Run and Gun</genre>
 		<image>./images/Contra Advance - The Alien Wars EX (USA)-image.png</image>
-		<video>./videos/Contra Advance - The Alien Wars EX (USA)-video.mp4</video>
 		<marquee>./images/Contra Advance - The Alien Wars EX (USA)-marquee.png</marquee>
 		<thumbnail>./images/Contra Advance - The Alien Wars EX (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1680,20 +1378,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Konami</publisher>
 		<family>Contra</family>
 		<players>1-2</players>
-		<md5>78672ead9f35f00e467f8c7d308acdfc</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>78672EAD9F35F00E467F8C7D308ACDFC</cheevosHash>
 		<cheevosId>2424</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010342" />
 	</game>
 	<game id="3767">
-		<path>./Metroid Fusion (USA).zip</path>
 		<name>Metroid Fusion</name>
 		<desc>Metroid Fusion ist chronologisch der letzte Teil der Metroid-Saga und erschien für den Game Boy Advance. Der Untertitel Fusion bezieht sich dabei darauf, dass Samus in diesem Spiel eine gezwungene Fusion mit Metroid-DNS eingeht. Sie bekommt ein auf Metroid-Basis hergestelltes Serum verabreicht, da sie von sogenannten X, einer enorm bedrohlichen amöben Lebensform, infiziert wird. Durch diesen Vorfall übernahm Samus einige Fähigkeiten und Schwächen der Metroids und ist deshalb in der Lage die X zu absorbieren. Die Überreste ihres kontaminierten Power Suit passten sich diesen Umständen ebenfalls an und wurden zum Fusion Suit.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Metroid Fusion (USA)-image.png</image>
-		<video>./videos/Metroid Fusion (USA)-video.mp4</video>
 		<marquee>./images/Metroid Fusion (USA)-marquee.png</marquee>
 		<thumbnail>./images/Metroid Fusion (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1702,20 +1396,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Nintendo</publisher>
 		<family>Metroid</family>
 		<players>1</players>
-		<md5>af5040fc0f579800151ee2a683e2e5b5</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>AF5040FC0F579800151EE2A683E2E5B5</cheevosHash>
 		<cheevosId>785</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010345" />
 	</game>
 	<game id="4261">
-		<path>./Guilty Gear X - Advance Edition (USA).zip</path>
 		<name>Guilty Gear X : Advance Edition</name>
 		<desc>Guilty Gear X für den Gameboy Advance ist ein 2D-Kampfspiel. Es gibt noch einen Gear (eine biologische Waffe) auf der Erde und die Regierung bietet demjenigen, der ihn eliminiert, ein schönes Paket an. Es melden sich 14 Freiwillige, die alle sehr unterschiedlich in ihrem Kampfstil sind. Jetzt sind Sie an der Reihe. Füllen Sie Ihre Spannungsanzeige auf und lassen Sie im richtigen Moment den ultimativen Angriff los.</desc>
 		<genre>Kampf / Versus</genre>
 		<image>./images/Guilty Gear X - Advance Edition (USA)-image.png</image>
-		<video>./videos/Guilty Gear X - Advance Edition (USA)-video.mp4</video>
 		<marquee>./images/Guilty Gear X - Advance Edition (USA)-marquee.png</marquee>
 		<thumbnail>./images/Guilty Gear X - Advance Edition (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -1724,20 +1414,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Sammy Corporation</publisher>
 		<family>Guilty Gear</family>
 		<players>1-2</players>
-		<md5>509139bb43b0fa487056e6068c46ab70</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>509139BB43B0FA487056E6068C46AB70</cheevosHash>
 		<cheevosId>6209</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010346" />
 	</game>
 	<game id="84484">
-		<path>./River City Ransom EX (USA).zip</path>
 		<name>River City Ransom EX</name>
 		<desc>Der böse Slick hat Ryans Freundin gekidnappt und die Highschool in seine Gewalt gebracht. Der Spieler schlüpft entweder in die Rolle von Ryan oder Alex und muss sich durch die gnadenlosen Gangs von River City kämpfen, bevor er sich Slick stellen und sein Mädchen befreien kann.</desc>
 		<genre>Beat'em Up</genre>
 		<image>./images/River City Ransom EX (USA)-image.png</image>
-		<video>./videos/River City Ransom EX (USA)-video.mp4</video>
 		<marquee>./images/River City Ransom EX (USA)-marquee.png</marquee>
 		<thumbnail>./images/River City Ransom EX (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1746,20 +1432,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Atlus</publisher>
 		<family>Kunio-Kun</family>
 		<players>1</players>
-		<md5>0b95fb20b9f487eb64431e9db9f75c7f</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>0B95FB20B9F487EB64431E9DB9F75C7F</cheevosHash>
 		<cheevosId>2509</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010350" />
 	</game>
 	<game id="3778">
-		<path>./Final Fantasy V Advance (USA).zip</path>
 		<name>Final Fantasy V Advance</name>
 		<desc>Final Fantasy V Advance erzählt von Bartz, der zusammen mit seinem Chocobo, Prinzessin Lenna, dem geheimnisvollen Galuf und der Piratin Faris versucht, die vier Kristalle zu retten, die das Gleichgewicht der Welt bewahren. Doch ein dunkler Zauberer droht, diese Macht zu zerstören. Auf ihrer Reise erkunden sie eine riesige Fantasy-Welt, sprechen mit Bewohnern, stellen sich gefährlichen Monstern und enthüllen nach und nach das Geheimnis der Kristalle. Mit jedem Sieg steigen sie in der Erfahrung, erlernen neue Fähigkeiten und finden stärkere Waffen und Rüstungen. Die Advance-Version bietet zusätzlich einen völlig neuen Dungeon mit 30 Ebenen und exklusiven Schätzen – eine echte Herausforderung für erfahrene Abenteurer.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Final Fantasy V Advance (USA)-image.png</image>
-		<video>./videos/Final Fantasy V Advance (USA)-video.mp4</video>
 		<marquee>./images/Final Fantasy V Advance (USA)-marquee.png</marquee>
 		<thumbnail>./images/Final Fantasy V Advance (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1768,20 +1450,16 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Nintendo</publisher>
 		<family>Final Fantasy</family>
 		<players>1</players>
-		<md5>9ed82843cc54876362be56faccb15d75</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>9ED82843CC54876362BE56FACCB15D75</cheevosHash>
 		<cheevosId>764</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010355" />
 	</game>
 	<game id="3782">
-		<path>./Advance Wars (USA) (Rev 1).zip</path>
 		<name>Advance Wars</name>
 		<desc>Mit Advance Wars für den Game Boy Advance können Strategie-Fans beweisen, was sie taktisch draufhaben! In der Rolle verschiedener Kommandanten muss der Spieler seine jeweilige Truppe zum Sieg führen. Für die Missionen stehen unterschiedliche Einheiten zur Verfügung (Infanterie, Luftwaffe, Marine), die mit verschiedenen Eigenschaften wie Beweglichkeit, Angriffsstärke und Reichweite ausgerüstet sind. Auf 114 Schauplätzen werden Konflikte mit feindlichen Truppen, zahlreichen Waffen und diversen Transportmitteln simuliert. Den gefährlichen Kontrahenten können sich bis zu 4 Freunde gleichzeitig mit nur einem Spielmodul im Multiplayer-Modus entgegenstellen, und das sogar mit nur einem Game Boy Advance!</desc>
 		<genre>Strategie</genre>
 		<image>./images/Advance Wars (USA) (Rev 1)-image.png</image>
-		<video>./videos/Advance Wars (USA) (Rev 1)-video.mp4</video>
 		<marquee>./images/Advance Wars (USA) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Advance Wars (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1790,14 +1468,11 @@ Man schreibt das Jahr 1830.In den Gemäuern eines verfallenen Schlosses an der �
 		<publisher>Nintendo</publisher>
 		<family>Advance Wars</family>
 		<players>1-4</players>
-		<md5>04775a93461d24cf1a7e3346d244e516</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>04775A93461D24CF1A7E3346D244E516</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010400" />
 	</game>
 	<game id="3856">
-		<path>./Megaman Zero (USA, Europe).zip</path>
 		<name>Mega Man Zero</name>
 		<desc>Die legendären Helden der Reploids, X und Zero, haben den bösen Sigma vor langer Zeit besiegt, und eine neue Armee wurde geschaffen, um den Ausbruch des Maverick-Virus zu verhindern. Doch im Laufe der Zeit wurde die Armee immer repressiver und begann, eine paranoide Art von Gerechtigkeit zu üben. Es heißt, dass ihr Anführer, einst ein großer Krieger, kalt und berechnend geworden ist und jeden Reploid eliminiert, der es wagt, sich ihm zu widersetzen.
 
@@ -1806,7 +1481,6 @@ In diesen dunklen Zeiten wird ein Held gebraucht, und genau den haben Ciel und i
 Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus der Vergangenheit zu retten ... das Schicksal der Freiheit ruht auf seinen Schultern.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
 		<image>./images/Megaman Zero (USA, Europe)-image.png</image>
-		<video>./videos/Megaman Zero (USA, Europe)-video.mp4</video>
 		<marquee>./images/Megaman Zero (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Megaman Zero (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -1815,20 +1489,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Capcom</publisher>
 		<family>Mega Man</family>
 		<players>1</players>
-		<md5>b24a17d080a01a404cbf018ba42b9803</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>B24A17D080A01A404CBF018BA42B9803</cheevosHash>
 		<cheevosId>782</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010401" />
 	</game>
 	<game id="3753">
-		<path>./Golden Sun (USA, Europe).zip</path>
 		<name>Golden Sun</name>
 		<desc>Ein episches Abenteuer erhebt sich aus der Dunkelheit! Die Mächte der Finsternis suchen nach der verlorenen Kunst der Alchemie. Langsam kommen sie ihrem Ziel näher und die Zukunft der Menschheit liegt im Unklaren. Du und deine Freunde seid die letzte Hoffnung! Ausgestattet mit mächtigen Waffen, einem Arsenal an magischen Formeln und mit der Hilfe elementarer Kreaturen müsst ihr einen Weg finden, das drohenden Unheil von der Welt abzuwenden!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Golden Sun (USA, Europe)-image.png</image>
-		<video>./videos/Golden Sun (USA, Europe)-video.mp4</video>
 		<marquee>./images/Golden Sun (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Golden Sun (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1837,20 +1507,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Nintendo</publisher>
 		<family>Golden Sun</family>
 		<players>1-2</players>
-		<md5>1cdd7f33c9a27061201e1d1ce029a700</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>1CDD7F33C9A27061201E1D1CE029A700</cheevosHash>
 		<cheevosId>767</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010403" />
 	</game>
 	<game id="4253">
-		<path>./Super Robot Taisen - Original Generation (USA).zip</path>
 		<name>Super Robot Taisen : Original Generation</name>
 		<desc>Im Gegensatz zu einigen anderen Werken der Saga enthält Super Robot Taisen: Original Generation enthält nur Originalkreationen des Entwicklers Banpresto. Der Spieler kann diese Episode beginnen, indem er einen der beiden vorgeschlagenen Protagonisten verkörpert, die jeweils ihr eigenes Szenario haben. Zum ersten Mal in der Serie kann der Spieler seine Roboter individuell gestalten und ihre Ausrüstung und Waffen auswählen.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Super Robot Taisen - Original Generation (USA)-image.png</image>
-		<video>./videos/Super Robot Taisen - Original Generation (USA)-video.mp4</video>
 		<marquee>./images/Super Robot Taisen - Original Generation (USA)-marquee.png</marquee>
 		<thumbnail>./images/Super Robot Taisen - Original Generation (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1859,20 +1525,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>505 Games</publisher>
 		<family>Super Robot Wars</family>
 		<players>1</players>
-		<md5>7146102bb4d37865198dbe6881d2af9a</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>7146102BB4D37865198DBE6881D2AF9A</cheevosHash>
 		<cheevosId>5176</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010405" />
 	</game>
 	<game id="3768">
-		<path>./Sword of Mana (USA, Australia).zip</path>
 		<name>Sword of Mana</name>
 		<desc>Sword of Mana ist ein Remake von Mystic Quest und verbindet Action-Adventure mit Rollenspielelementen. Du steuerst frei durch die Spielwelt und kämpfst in Echtzeit gegen Gegner, während Werte wie Angriff oder Verteidigung den Schaden bestimmen. Bei Levelaufstiegen kannst du Berufsklassen wählen, was den Figuren unterschiedliche Stärken verleiht. Die Geschichte dreht sich diesmal nicht nur um den Helden mit dem Schwert, sondern auch um eine Heldin, die als zweite Hauptfigur eingeführt wurde. Beide besitzen ihre eigenen Handlungsstränge, die sich im Verlauf verweben. Der Antagonist ist der finstere Schattenherrscher, der die Welt bedroht.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Sword of Mana (USA, Australia)-image.png</image>
-		<video>./videos/Sword of Mana (USA, Australia)-video.mp4</video>
 		<marquee>./images/Sword of Mana (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Sword of Mana (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -1881,20 +1543,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Nintendo</publisher>
 		<family>Mana</family>
 		<players>1-2</players>
-		<md5>c7e5d28e7c430454aeff766961095561</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C7E5D28E7C430454AEFF766961095561</cheevosHash>
 		<cheevosId>4206</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010406" />
 	</game>
 	<game id="4268">
-		<path>./Summon Night - Swordcraft Story (USA).zip</path>
 		<name>Summon Night : Swordcraft Story</name>
 		<desc>Beschwörungsnacht: Swordcraft Story ist ein Rollenspiel, das in der seltsamen Welt von Lyndbaum spielt, einem heiligen Land, das mit vier magischen Dimensionen verbunden ist, aus denen Beschwörer Geister, so genannte Guardian Beasts, herbeirufen können, um ihre Wünsche zu erfüllen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Summon Night - Swordcraft Story (USA)-image.png</image>
-		<video>./videos/Summon Night - Swordcraft Story (USA)-video.mp4</video>
 		<marquee>./images/Summon Night - Swordcraft Story (USA)-marquee.png</marquee>
 		<thumbnail>./images/Summon Night - Swordcraft Story (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1903,20 +1561,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Atlus</publisher>
 		<family>Summon Night</family>
 		<players>1-2</players>
-		<md5>abfa372f860d0f10037bf28cc78de409</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>ABFA372F860D0F10037BF28CC78DE409</cheevosHash>
 		<cheevosId>2588</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010408" />
 	</game>
 	<game id="84485">
-		<path>./Riviera - The Promised Land (USA).zip</path>
 		<name>Riviera : The Promised Land</name>
 		<desc>In Riviera: The Promised Land folgst du zwei tapferen Kriegern, die mit göttlichen Waffen bewaffnet sind, auf einer Mission, um die Dämonen ein für alle Mal zu besiegen. Das Abenteuer bietet mehr als 30 Stunden Rollenspiel-Gameplay, einschließlich Minispielen, mehreren Enden sowie geheimen Wegen und Gegenständen. Das einzigartige Gegenstandssystem des Spiels lässt die Items je nach den Charakteren, die sie ausrüsten, unterschiedlich funktionieren.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Riviera - The Promised Land (USA)-image.png</image>
-		<video>./videos/Riviera - The Promised Land (USA)-video.mp4</video>
 		<marquee>./images/Riviera - The Promised Land (USA)-marquee.png</marquee>
 		<thumbnail>./images/Riviera - The Promised Land (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -1924,20 +1578,16 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<developer>Sting Entertainment</developer>
 		<publisher>Atlus</publisher>
 		<players>1</players>
-		<md5>16b5f1c6f8567cbe42f7562fccbb6426</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>16B5F1C6F8567CBE42F7562FCCBB6426</cheevosHash>
 		<cheevosId>5512</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010412" />
 	</game>
 	<game id="3759">
-		<path>./Fire Emblem - The Sacred Stones (USA, Australia).zip</path>
 		<name>Fire Emblem : The Sacred Stones</name>
 		<desc>Das Königreich Renais ist in Trümmern, nachdem es von einem vermeintlichen Verbündeten überfallen wurde. Im taktischen Rollenspiel Fire Emblem: The Sacred Stones für den GBA musst du den Thronfolgern Erika und Ephraim dabei helfen, Renais wieder aufzubauen und die Ursache für den Krieg herauszufinden, der ihre Nation verwüstet hat. Ein Klassenwechselsystem ermöglicht es dir, deine Charaktere in einem oder mehreren Bereichen zu spezialisieren und zu stärken.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Fire Emblem - The Sacred Stones (USA, Australia)-image.png</image>
-		<video>./videos/Fire Emblem - The Sacred Stones (USA, Australia)-video.mp4</video>
 		<marquee>./images/Fire Emblem - The Sacred Stones (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Fire Emblem - The Sacred Stones (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1946,19 +1596,15 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Nintendo</publisher>
 		<family>Fire Emblem</family>
 		<players>1-4</players>
-		<md5>005531fef9efbb642095fb8f64645236</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>005531FEF9EFBB642095FB8F64645236</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T010414" />
 	</game>
 	<game id="3819">
-		<path>./Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).zip</path>
 		<name>Mario Tennis: Power Tour</name>
 		<desc>Eins der beliebtesten Sport- und Funspiele aller Zeiten wird mobil, denn jetzt gibt's Mario Tennis endlich auch für den Game Boy Advance. Bis zu 4 Mitspieler können hier in verschiedene Rollen schlüpfen und sich auf drei "klassischen" Tenniscourts sowie etlichen abgedrehten Funplätzen wilde Zweikämpfe liefern. Neue, phantastische animierte Features bieten ein Fest fürs Auge, während der rasante Mix aus realistischen Matches und durchgeknallten Spaßturnieren auch abgebrühten Tennisprofis den Schweiß auf die Stirn treiben wird. In mehr als 10 verschiedenen Spielmodi können sich bis zu 4 Spieler die Bälle um die Ohren hauen, bei diversen Minispielen wichtige Erfahrungen sammeln und Schlag für Schlag dem Champion-Status ein Stück näher kommen. Jeder Spieler hat zudem die Möglichkeit, individuelle Fähigkeiten der Figuren für sich zu nutzen, Bowser kann z. B. wahre Wuchtbrummen übers Netz schicken und kann so sein eigenes Spiel kontinuierlich verbessern. Und ob als cooler Einzel-Champ oder im Mehrspielermodus, Mario Tennis Advance bietet auch auf dem Game Boy Advance den ultimativen Partyspaß.</desc>
 		<genre>Sport / Tennis</genre>
 		<image>./images/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -1967,22 +1613,18 @@ Zero ist in eine Zeit gekommen, die er nicht kennt, um sie vor einer Gestalt aus
 		<publisher>Nintendo</publisher>
 		<family>Mario Tennis</family>
 		<players>1-4</players>
-		<md5>928c0bd4cf82b3fd6f34b53d4fd02e69</md5>
 		<lang>it,es,de,fr,en</lang>
 		<region>us</region>
-		<cheevosHash>928C0BD4CF82B3FD6F34B53D4FD02E69</cheevosHash>
 		<cheevosId>2171</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010420" />
 	</game>
 	<game id="4178">
-		<path>./Sigma Star Saga (USA, Europe).zip</path>
 		<name>Sigma Star Saga</name>
 		<desc>Ian Recker, ein Spion der Erde, wird undercover als Gefangener geschickt, um in die Krill-Armee aufgenommen zu werden. Er wird mit einer parasitären Rüstung ausgestattet, die ihm mehr Kraft verleiht und die Fähigkeit, mit Krill-Schiffen zu verschmelzen, die lebende Organismen sind. Er entdeckt jedoch bald, dass in diesem Krieg nicht alles so ist, wie es scheint, und Recker muss sich entscheiden, für welche Seite er kämpft.
 
 Sigma Star Saga ist eine Mischung aus Side-Scrolling-Shooter und RPG. Die Spieler interagieren mit Charakteren, erkunden die Oberwelt und werden häufig von zufälligen Schiffen zu Kämpfen gerufen. Um einen Kampf erfolgreich abzuschließen, muss der Spieler eine vorgegebene Anzahl von Gegnern besiegen und erhält mit jedem besiegten Feind Erfahrung. Während der Spieler die Oberwelt erkundet, kann er auch Waffendaten entdecken, mit denen er seinen Schuss mit über 15.000 verschiedenen Waffenkombinationen anpassen kann, wobei er Fähigkeiten wie Schnellfeuer, Vertikalschuss und Erfahrungsgewinn nutzen kann.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Sigma Star Saga (USA, Europe)-image.png</image>
-		<video>./videos/Sigma Star Saga (USA, Europe)-video.mp4</video>
 		<marquee>./images/Sigma Star Saga (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Sigma Star Saga (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -1990,20 +1632,16 @@ Sigma Star Saga ist eine Mischung aus Side-Scrolling-Shooter und RPG. Die Spiele
 		<developer>Wayforward</developer>
 		<publisher>Atari SA</publisher>
 		<players>1</players>
-		<md5>29b048b4b36b3fda168850003f2ee844</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>29B048B4B36B3FDA168850003F2EE844</cheevosHash>
 		<cheevosId>5179</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010422" />
 	</game>
 	<game id="83793">
-		<path>./GT Advance 3 - Pro Concept Racing (USA).zip</path>
 		<name>GT Advance 3 : Pro Concept Racing</name>
 		<desc>Setzen Sie sich hinter das Steuer der weltbesten Rallye-Autos und fahren Sie um den Globus, um die Meisterschaft zu gewinnen. Hören Sie Ihrem Navigator zu, wenn er Ihnen auf 14 aufreibenden Etappen durch mehr als 40 einzigartige Strecken mit unterschiedlichen Wetter- und Geländebedingungen hilft. Fliegen Sie über Sprünge oder umfahren Sie Hindernisse auf Ihrem Weg an die Spitze des Rallye-Rennzirkus. Verbinden Sie sich mit einem Freund über das GBA-Link-Kabel, um sich ein spannendes Kopf-an-Kopf-Rennen zu liefern, oder schauen Sie sich die Action im Replay-Modus noch einmal an.</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/GT Advance 3 - Pro Concept Racing (USA)-image.png</image>
-		<video>./videos/GT Advance 3 - Pro Concept Racing (USA)-video.mp4</video>
 		<marquee>./images/GT Advance 3 - Pro Concept Racing (USA)-marquee.png</marquee>
 		<thumbnail>./images/GT Advance 3 - Pro Concept Racing (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
@@ -2012,20 +1650,16 @@ Sigma Star Saga ist eine Mischung aus Side-Scrolling-Shooter und RPG. Die Spiele
 		<publisher>THQ</publisher>
 		<family>GT Advance</family>
 		<players>1</players>
-		<md5>c283484d8f35b059bbff9e4d852c5420</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>C283484D8F35B059BBFF9E4D852C5420</cheevosHash>
 		<cheevosId>7027</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T010426" />
 	</game>
 	<game id="3792">
-		<path>./Fire Emblem - Fuuin no Tsurugi (Japan).zip</path>
 		<name>Fire Emblem : Fuuin no Tsurugi</name>
 		<desc>Fire Emblem: Fūin no Tsurugi ist ein rundenbasiertes taktisches Rollenspiel, in dem Spieler eine kleine Gruppe von Einheiten um ein quadratisches Gitter bewegen und ihre Feinde bekämpfen, um ein bestimmtes vordefiniertes Ziel zu erreichen. Es erinnert an andere taktische RPGs mit Features wie Charakterklassen und der Möglichkeit aufzusteigen.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Fire Emblem - Fuuin no Tsurugi (Japan)-image.png</image>
-		<video>./videos/Fire Emblem - Fuuin no Tsurugi (Japan)-video.mp4</video>
 		<marquee>./images/Fire Emblem - Fuuin no Tsurugi (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Fire Emblem - Fuuin no Tsurugi (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -2034,20 +1668,16 @@ Sigma Star Saga ist eine Mischung aus Side-Scrolling-Shooter und RPG. Die Spiele
 		<publisher>Nintendo</publisher>
 		<family>Fire Emblem</family>
 		<players>1</players>
-		<md5>8643fe7632d4895dcaaca230475e70fb</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>8643FE7632D4895DCAACA230475E70FB</cheevosHash>
 		<cheevosId>4879</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102143" />
 	</game>
 	<game id="4022">
-		<path>./F-Zero - Climax (Japan).zip</path>
 		<name>F-Zero : Climax</name>
 		<desc>F-Zero Climax ist die sechste Folge der F-Zero-Serie und die dritte, die für den Game Boy Advance veröffentlicht wird.  Dies ist das erste F-Zero-Spiel, das über einen integrierten Track-Editor verfügt, ohne dass eine Erweiterung oder ein Add-On erforderlich ist.  Benutzerdefinierte Titel können für die zukünftige Verwendung in einem von 30 Steckplätzen gespeichert und über ein Verbindungskabel mit anderen Spielern ausgetauscht werden.  Wenn der Speicher voll ist oder keine Verbindungskabelverbindung hergestellt werden kann, kann das Spiel ein Passwort für den Titel generieren.  Wenn es in eine F-Zero Climax-Kassette eingegeben wird, generiert das Kennwort den Titel sofort.</desc>
 		<genre>Rennen, Fahren</genre>
 		<image>./images/F-Zero - Climax (Japan)-image.png</image>
-		<video>./videos/F-Zero - Climax (Japan)-video.mp4</video>
 		<marquee>./images/F-Zero - Climax (Japan)-marquee.png</marquee>
 		<thumbnail>./images/F-Zero - Climax (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -2056,22 +1686,18 @@ Sigma Star Saga ist eine Mischung aus Side-Scrolling-Shooter und RPG. Die Spiele
 		<publisher>Nintendo</publisher>
 		<family>F-Zero</family>
 		<players>1-4</players>
-		<md5>8d27b349bca44d938b67f9a28712f6c9</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>8D27B349BCA44D938B67F9A28712F6C9</cheevosHash>
 		<cheevosId>6083</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102145" />
 	</game>
 	<game id="84411">
-		<path>./Pokemon - Ruby Version (USA, Europe) (Rev 2).zip</path>
 		<name>Pokémon Ruby Version</name>
 		<desc>Dein Abenteuer beginnt mit deinem Umzug nach Wurzelheim, das in der Hoenn-Region liegt. Durch dein/e Nachbar/in lernst du Professor Birk kennen, von dem du deinen Pokédex und dein erstes Pokémon bekommst. Ab hier beginnt dein Pokémonabenteuer. Reise durch die Region, fange alle Pokémon um deinen Pokédex zu vervollständigen und verhindere die Machenschaften von Team Magma, deren Mitglieder du immer wieder auf deiner Reise triffst. Sobald du alle 8 Orden gewonnen hast, kannst du dich den Top-Vier und anschließend dem Champ widmen. Besiegst du die Top-Vier und den Champ, nimmst du seinen Platz ein!
 
 Schnapp sie dir alle!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - Ruby Version (USA, Europe) (Rev 2)-image.png</image>
-		<video>./videos/Pokemon - Ruby Version (USA, Europe) (Rev 2)-video.mp4</video>
 		<marquee>./images/Pokemon - Ruby Version (USA, Europe) (Rev 2)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon - Ruby Version (USA, Europe) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -2080,22 +1706,18 @@ Schnapp sie dir alle!</desc>
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1-4</players>
-		<md5>3e1b2065b3837c14ffbd03fe205fdfd7</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>3E1B2065B3837C14FFBD03FE205FDFD7</cheevosHash>
 		<cheevosId>790</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102147" />
 	</game>
 	<game id="3774">
-		<path>./Mother 3 (Japan).zip</path>
 		<name>Mother 3</name>
 		<desc>Mother 3 ist ein Top-Down-Rollenspiel. Der Spielercharakter (die vom Spieler gesteuerten Charaktere wechseln häufig) reist mit seiner Gruppe auf den Nowhere Islands umher, spricht mit Leuten und treibt die Handlung voran. Es ist möglich, zu "flitzen", was nicht nur eine schnellere Fortbewegung ermöglicht, sondern auch schwächere Feinde aus dem Weg zu räumen (oder einige Objekte/Charaktere zu rammen).
 
 Im Spiel gibt es viele Feinde zu bekämpfen. Die Kämpfe sind rundenbasiert; in jeder Runde kann ein Charakter mit seiner Waffe angreifen, eine Spezialfähigkeit einsetzen (einige Charaktere haben mächtige psychische Fähigkeiten, andere haben verschiedene Spezialfähigkeiten), einen Gegenstand benutzen oder versuchen, wegzulaufen. Die Kämpfe verfügen über ein musikalisches Combo-System, bei dem das Antippen einer Taste im Rhythmus der Hintergrundmusik dem Gegner zusätzlichen Schaden zufügt. Die Charaktere haben "rollende HP-Meter"; wenn sie Schaden erleiden, verlieren sie nicht sofort alle HP, sondern ihre HP nehmen langsam ab; auf diese Weise kann ein Charakter, selbst wenn er großen Schaden erleidet, mit nur leichten Verletzungen überleben, wenn es gelingt, den Kampf schnell zu beenden. Durch gewonnene Kämpfe erhalten die Charaktere Erfahrung (und werden dadurch stärker) und später im Spiel Geld (bekannt als "DP"), das in Geschäften verwendet werden kann, um bessere Ausrüstung oder nützliche Gegenstände zu kaufen.</desc>
 		<genre>Rollenspiele / Japanisches Rollenspiel</genre>
 		<image>./images/Mother 3 (Japan)-image.png</image>
-		<video>./videos/Mother 3 (Japan)-video.mp4</video>
 		<marquee>./images/Mother 3 (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Mother 3 (Japan)-thumb.png</thumbnail>
 		<rating>0.95</rating>
@@ -2104,20 +1726,16 @@ Im Spiel gibt es viele Feinde zu bekämpfen. Die Kämpfe sind rundenbasiert; in 
 		<publisher>Nintendo</publisher>
 		<family>Mother</family>
 		<players>1</players>
-		<md5>af8b0b175f7ec8914cb87b3161ba1aaa</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>AF8B0B175F7EC8914CB87B3161BA1AAA</cheevosHash>
 		<cheevosId>677</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102152" />
 	</game>
 	<game id="84712">
-		<path>./Super Mario Advance 2 - Super Mario World (USA, Australia).zip</path>
 		<name>Super Mario World: Super Mario Advance 2</name>
 		<desc>„Super Mario World: Super Mario Advance 2“ bringt den Klassiker vom Super NES auf den Game Boy Advance. Bowser und seine Koopalings haben Dinosaur Island übernommen, und Mario und Luigi müssen mit Yoshi reiten, P-Schalter finden, geheime Pfade entdecken und Feuerbälle sprengen, um die Insel zu retten. Mit allen 96 Levels, von der Star Road bis zum Wald der Illusionen, bietet das Spiel das komplette Abenteuer mit neuen Funktionen. Spiele als Mario oder Luigi, der höher springen und fliegen kann. Außerdem kannst du im Mehrspielermodus das Arcade-Spiel „Mario Bros.“ mit bis zu vier Spielern genießen.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Super Mario Advance 2 - Super Mario World (USA, Australia)-image.png</image>
-		<video>./videos/Super Mario Advance 2 - Super Mario World (USA, Australia)-video.mp4</video>
 		<marquee>./images/Super Mario Advance 2 - Super Mario World (USA, Australia)-marquee.png</marquee>
 		<thumbnail>./images/Super Mario Advance 2 - Super Mario World (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2126,21 +1744,17 @@ Im Spiel gibt es viele Feinde zu bekämpfen. Die Kämpfe sind rundenbasiert; in 
 		<publisher>Nintendo</publisher>
 		<family>Mario</family>
 		<players>1-2</players>
-		<md5>2f660377581b7e48c06131f56c791b72</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>2F660377581B7E48C06131F56C791B72</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102158" />
 	</game>
 	<game id="3898">
-		<path>./Donkey Kong Country 2 (USA).zip</path>
 		<name>Donkey Kong Country 2</name>
 		<desc>Donkey Kong ist zurück, aber oh... er ist in der Gewalt von Feinden und muss gerettet werden. Diddy übernimmt das Kommando und wird in diesem epischen Jump'n'Run-Abenteuer von seiner neuen Freundin Dixie unterstützt. Befreie DK mit Hilfe von Rhinozerossen, Straußen und Fässern und bringe seine Bananen in Sicherheit!
 
 In Donkey Kong Country 2 kannst du auch gegen drei deiner Freunde gleichzeitig in spaßigen Minispielen wie Straußenrennen und Hubschrauberjagden antreten. Zahlreiche Trick-Kombinationen der beiden Affen und Dutzende Level machen das Spiel zu einem wahren Affentheater - im positiven Sinne, versteht sich!</desc>
 		<genre>Plattform</genre>
 		<image>./images/Donkey Kong Country 2 (USA)-image.png</image>
-		<video>./videos/Donkey Kong Country 2 (USA)-video.mp4</video>
 		<marquee>./images/Donkey Kong Country 2 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Donkey Kong Country 2 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2149,20 +1763,16 @@ In Donkey Kong Country 2 kannst du auch gegen drei deiner Freunde gleichzeitig i
 		<publisher>Nintendo</publisher>
 		<family>Donkey Kong</family>
 		<players>1-4</players>
-		<md5>a1f160ee30ed36edea341a6f1c6a4efc</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A1F160EE30ED36EDEA341A6F1C6A4EFC</cheevosHash>
 		<cheevosId>751</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102159" />
 	</game>
 	<game id="84714">
-		<path>./Super Mario Advance 3 - Yoshi's Island (USA).zip</path>
 		<name>Yoshi's Island: Super Mario Advance 3</name>
 		<desc>Yoshi's Island: Super Mario Advance 3 lässt uns den Ursprung der Brüder Mario und Luigi entdecken. Während ein Storch die beiden Babys zu ihren Eltern bringt schlägt ihn der Zauberer Kamek, um ihn daran zu hindern sein Ziel zu erreichen. Kamek hat vorausgesagt, dass Mario und Luigi in der Zukunft ein Problem für seinen Meister Bowser darstellen würden. Kamek gelingt es Luigi zu entführen, aber Mario landet auf Yoshis Insel. Die beiden organisieren sich, damit Mario seinen Bruder wieder findet.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Super Mario Advance 3 - Yoshi's Island (USA)-image.png</image>
-		<video>./videos/Super Mario Advance 3 - Yoshi's Island (USA)-video.mp4</video>
 		<marquee>./images/Super Mario Advance 3 - Yoshi's Island (USA)-marquee.png</marquee>
 		<thumbnail>./images/Super Mario Advance 3 - Yoshi's Island (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2171,20 +1781,16 @@ In Donkey Kong Country 2 kannst du auch gegen drei deiner Freunde gleichzeitig i
 		<publisher>Nintendo</publisher>
 		<family>Yoshi</family>
 		<players>1</players>
-		<md5>bb09508c782f37934c9519c5f8a7350c</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>BB09508C782F37934C9519C5F8A7350C</cheevosHash>
 		<cheevosId>5234</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102201" />
 	</game>
 	<game id="3876">
-		<path>./Sonic Battle (USA) (En,Ja,Fr,De,Es,It).zip</path>
 		<name>Sonic Battle</name>
 		<desc>„Sonic Battle“ ist ein schnelles Kampfspiel mit isometrischer 3D-Ansicht und 2D-Charakter-Sprites. Mit neun Charakteren und fünf Spielmodi wie Story, Kampf und Minispiele bietet das Spiel abwechslungsreiche Action. Spieler können Angriffe für Luft, Boden und Schutz individuell anpassen und aus insgesamt neun Spezialangriffen wählen, die während des Matches flexibel geändert werden können. Ein trainierbarer Robotercharakter ermöglicht es, Fähigkeiten und Techniken individuell zu verbessern, während jedes Detail seines Stils angepasst werden kann. Das Spiel bietet umfangreiche Inhalte und eine hohe Wiederspielbarkeit für alle, die alle Charaktere und Moves freischalten möchten.</desc>
 		<genre>Kampf</genre>
 		<image>./images/Sonic Battle (USA) (En,Ja,Fr,De,Es,It)-image.png</image>
-		<video>./videos/Sonic Battle (USA) (En,Ja,Fr,De,Es,It)-video.mp4</video>
 		<marquee>./images/Sonic Battle (USA) (En,Ja,Fr,De,Es,It)-marquee.png</marquee>
 		<thumbnail>./images/Sonic Battle (USA) (En,Ja,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.6</rating>
@@ -2193,20 +1799,16 @@ In Donkey Kong Country 2 kannst du auch gegen drei deiner Freunde gleichzeitig i
 		<publisher>THQ</publisher>
 		<family>Sonic</family>
 		<players>1-4</players>
-		<md5>100579ef01225c620560f88e65ca423a</md5>
 		<lang>it,es,fr,de,jp,en</lang>
 		<region>us</region>
-		<cheevosHash>100579EF01225C620560F88E65CA423A</cheevosHash>
 		<cheevosId>2188</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102206" />
 	</game>
 	<game id="84036">
-		<path>./Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA).zip</path>
 		<name>The Legend of Zelda : A Link to the Past &amp; Four Swords</name>
 		<desc>„The Legend of Zelda: A Link to the Past &amp; Four Swords“ bringt das legendäre Abenteuer von Link auf den GBA und bleibt dem Original treu. Die Mischung aus Oberwelt-Erkundung und Dungeon-Kämpfen sorgt für ein spannendes Erlebnis, bei dem Link erneut Prinzessin Zelda retten muss. Dabei müssen zahlreiche Hindernisse überwunden, Gegenstände gesammelt und Herzcontainer aufgefüllt werden, während die Welt von Hyrule voller Geheimnisse steckt. Zusätzlich enthält das Modul mit „Four Swords“ ein weiteres Abenteuer, in dem bis zu vier Spieler gemeinsam Rätsel lösen und Schätze bergen. Ein zeitloses Abenteuer, das stundenlangen Spielspaß garantiert.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)-image.png</image>
-		<video>./videos/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)-video.mp4</video>
 		<marquee>./images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)-marquee.png</marquee>
 		<thumbnail>./images/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2215,22 +1817,18 @@ In Donkey Kong Country 2 kannst du auch gegen drei deiner Freunde gleichzeitig i
 		<publisher>Nintendo</publisher>
 		<family>The Legend of Zelda</family>
 		<players>1-4</players>
-		<md5>3287ca66e5cc285a9fe3a922051e84c6</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>3287CA66E5CC285A9FE3A922051E84C6</cheevosHash>
 		<cheevosId>580</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102207" />
 	</game>
 	<game id="4051">
-		<path>./Advance Guardian Heroes (USA).zip</path>
 		<name>Advance Guardian Heroes</name>
 		<desc>Advance Guardian Heroes ist die Fortsetzung des Sega Saturn-Klassikers Guardian Heroes. Es ist ein Side-Scrolling-Action-Spiel. Sie wählen aus 3 Charakteren, zu denen ein legendärer Seelenheld aus einer anderen Welt kommt. Du musst die Kontrolle über das legendäre Seelenschwert aus dem Grab des Seelenhelden übernehmen und die Welt retten.
 
 Es gibt 2 Spielmodi, den Story-Modus, den Sie alleine oder kooperativ mit einem anderen Spieler spielen können und einen VS. Modus, in dem bis zu 4 Spieler gegeneinander kämpfen können.</desc>
 		<genre>Beat'em Up</genre>
 		<image>./images/Advance Guardian Heroes (USA)-image.png</image>
-		<video>./videos/Advance Guardian Heroes (USA)-video.mp4</video>
 		<marquee>./images/Advance Guardian Heroes (USA)-marquee.png</marquee>
 		<thumbnail>./images/Advance Guardian Heroes (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -2239,22 +1837,18 @@ Es gibt 2 Spielmodi, den Story-Modus, den Sie alleine oder kooperativ mit einem 
 		<publisher>Ubisoft</publisher>
 		<family>Guardian Heroes</family>
 		<players>1-4</players>
-		<md5>a26c440065d89f56275644ffa34140ef</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>A26C440065D89F56275644FFA34140EF</cheevosHash>
 		<cheevosId>7643</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102211" />
 	</game>
 	<game id="83803">
-		<path>./Gyakuten Saiban (Japan) (Rev 1).zip</path>
 		<name>Gyakuten Saiban</name>
 		<desc>The player is Ryuuichi Naruhodou, assigned to his first case. The player will have to press the witnesses for more information, carefully examine the evidences, and have the gut to yell "Objection!" to successfully defend their defendant.
 
 There are four cases in total. In each case, Ryuuichi has to follow the story carefully, examine every scene carefully, and find all evidences to win the court battles!</desc>
 		<genre>Abenteuer</genre>
 		<image>./images/Gyakuten Saiban (Japan) (Rev 1)-image.png</image>
-		<video>./videos/Gyakuten Saiban (Japan) (Rev 1)-video.mp4</video>
 		<marquee>./images/Gyakuten Saiban (Japan) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Gyakuten Saiban (Japan) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2263,21 +1857,17 @@ There are four cases in total. In each case, Ryuuichi has to follow the story ca
 		<publisher>Capcom</publisher>
 		<family>Ace Attorney</family>
 		<players>1</players>
-		<md5>c5780d2cd4873e19434e54595722ed5d</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>C5780D2CD4873E19434E54595722ED5D</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102213" />
 	</game>
 	<game id="3952">
-		<path>./Yoshi Topsy-Turvy (USA).zip</path>
 		<name>Yoshi : Topsy-Turvy</name>
 		<desc>Juhuu, Yoshi ist wieder da! Yoshi Island wurde von einem geheimnisvollen Geist in einem verzauberten Buch eingeschlossen. Daher macht sich der grüne Dinosaurier auf in ein brandneues Abenteuer, das ein bisschen anders ist als man das sonst so kennt. Im Game Pak ist nämlich ein Bewegungssensor eingebaut, der bewirkt, dass sich Yoshis Welt um ihn herum dreht, wenn du deinen Game Boy Advance auf und ab bewegst.
 
 Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskante Level zu führen, in denen du an Wänden hoch klettern und sogar auf einem Ball durch die Gegend rollen kannst, um Yoshis Freunde zu retten. Wenn du dir einen Stern krallst, erreichst du das nächste Level. Yoshis neuestes Abenteuer wird alle Spieler anziehen, die Spaß am Jump'n'Run-Genre haben...</desc>
 		<genre>Plattform</genre>
 		<image>./images/Yoshi Topsy-Turvy (USA)-image.png</image>
-		<video>./videos/Yoshi Topsy-Turvy (USA)-video.mp4</video>
 		<marquee>./images/Yoshi Topsy-Turvy (USA)-marquee.png</marquee>
 		<thumbnail>./images/Yoshi Topsy-Turvy (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -2286,20 +1876,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Yoshi</family>
 		<players>1</players>
-		<md5>e66d2e98947a5bd1068228e4084b06da</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>E66D2E98947A5BD1068228E4084B06DA</cheevosHash>
 		<cheevosId>12820</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102217" />
 	</game>
 	<game id="3863">
-		<path>./Super Street Fighter II Turbo - Revival (USA).zip</path>
 		<name>Super Street Fighter II Turbo Revival</name>
 		<desc>Capcoms zeitloses Meisterwerk, Street Fighter™ II, hat den Game Boy Advance mit dieser einzigartigen Version erobert: 16 Kämpfer und mehr Modi, als sich Fans von Kampfspielen wünschen können!nnSuper Street Fighter II Turbo Revival bietet mehr als ein halbes Dutzend unterschiedliche Modi, von Arcade bis Team-Kampf und Zeit-Attacke zu Missionen. Und natürlich sind alle deine Lieblingskämpfer dabei, von Akuma bis Zangief.</desc>
 		<genre>Kampf</genre>
 		<image>./images/Super Street Fighter II Turbo - Revival (USA)-image.png</image>
-		<video>./videos/Super Street Fighter II Turbo - Revival (USA)-video.mp4</video>
 		<marquee>./images/Super Street Fighter II Turbo - Revival (USA)-marquee.png</marquee>
 		<thumbnail>./images/Super Street Fighter II Turbo - Revival (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -2308,20 +1894,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Capcom</publisher>
 		<family>Street Fighter</family>
 		<players>1-2</players>
-		<md5>7a36a7486ef2c534111ee417b8acf9b7</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>7A36A7486EF2C534111EE417B8ACF9B7</cheevosHash>
 		<cheevosId>2585</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102222" />
 	</game>
 	<game id="84724">
-		<path>./Super Robot Taisen A (Japan).zip</path>
 		<name>Super Robot Taisen A</name>
 		<desc>Die Geschichte von Super Robot Wars A dreht sich um eine Organisation namens Shadow-Mirror, die in einer Parallelwelt existiert, in der sich die Ereignisse anders abgespielt haben als in der Welt des Originalspiels, so dass sich der Zustand der Welten unterscheidet, auch wenn er manchmal ein wenig ähnlich ist. Ihr Anführer, Vindel Mauser, wünscht sich eine Welt des ewigen Krieges, um die Menschheit durch Krieg zu verbessern. Sein Plan ist es, seine Agenten in eine andere Dimension zu schicken, die Verteidigungskräfte der Welt auszuspionieren, um Anpassungen am Angriff vorzunehmen, und sie schließlich zu erobern.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
 		<image>./images/Super Robot Taisen A (Japan)-image.png</image>
-		<video>./videos/Super Robot Taisen A (Japan)-video.mp4</video>
 		<marquee>./images/Super Robot Taisen A (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Super Robot Taisen A (Japan)-thumb.png</thumbnail>
 		<releasedate>20010921T000000</releasedate>
@@ -2329,19 +1911,15 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Banpresto</publisher>
 		<family>Super Robot Wars</family>
 		<players>1</players>
-		<md5>a5a84ac11de577f929c19996fa15a25e</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>A5A84AC11DE577F929C19996FA15A25E</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102225" />
 	</game>
 	<game id="3840">
-		<path>./Mother 1+2 (Japan).zip</path>
 		<name>Mother 1+2</name>
 		<desc>Mother erzählt die Geschichte von Ninten, einem 12-jährigen Jungen, der mit seinen übersinnlichen Kräften um die Welt reist, um acht Melodien zu sammeln, um den Planeten vor einer bösen Rasse von bewusstseinskontrollierenden Außerirdischen zu retten. Mother 2 erzählt die Geschichte von Ness, einem Jungen, der ebenfalls mit seinen übersinnlichen Kräften um die Welt reist, um acht Melodien zu sammeln, um die Zukunft vor einem Außerirdischen des puren Bösen zu retten, der beabsichtigt, die gesamte Realität zum Schrecken der ewigen Dunkelheit zu verurteilen.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Mother 1+2 (Japan)-image.png</image>
-		<video>./videos/Mother 1+2 (Japan)-video.mp4</video>
 		<marquee>./images/Mother 1+2 (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Mother 1+2 (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -2350,20 +1928,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Mother</family>
 		<players>1-4</players>
-		<md5>f41e36204356974c94fabf7d144dd32a</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>F41E36204356974C94FABF7D144DD32A</cheevosHash>
 		<cheevosId>2595</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102229" />
 	</game>
 	<game id="84409">
-		<path>./Pokemon - LeafGreen Version (USA, Europe) (Rev 1).zip</path>
 		<name>Pokémon LeafGreen Version</name>
 		<desc>In der Region Kanto beginnt dein Abenteuer, in dem du eine enge Verbindung zu deinen Pokémon aufbaust und verschiedene Arten fängst, um den Pokédex zu vervollständigen. Stelle dich anderen Trainern in spannenden Kämpfen, bekämpfe Team Rocket und besiege die Arenaleiter, um alle acht Orden zu erlangen. Mit diesen kannst du die Top Vier herausfordern und schließlich in einem entscheidenden Duell gegen den amtierenden Champ antreten. Dein Ziel: Werde der beste Trainer und schnapp sie dir alle!</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - LeafGreen Version (USA, Europe) (Rev 1)-image.png</image>
-		<video>./videos/Pokemon - LeafGreen Version (USA, Europe) (Rev 1)-video.mp4</video>
 		<marquee>./images/Pokemon - LeafGreen Version (USA, Europe) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Pokemon - LeafGreen Version (USA, Europe) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -2372,20 +1946,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Pokémon</family>
 		<players>1-4</players>
-		<md5>9d33a02159e018d09073e700e1fd10fd</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>9D33A02159E018D09073E700E1FD10FD</cheevosHash>
 		<cheevosId>788</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102235" />
 	</game>
 	<game id="83420">
-		<path>./Densetsu no Stafy (Japan).zip</path>
 		<name>Densetsu no Stafy</name>
 		<desc>Am Anfang bewegte Stafy Dinge im Pufftop-Palast, bis er stolperte und einige Dinge fallen ließ. Eines davon fiel ins Meer, der magische Krug. Ein Gegenstand der das böse Wesen namens Ogura versiegelt.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
 		<image>./images/Densetsu no Stafy (Japan)-image.png</image>
-		<video>./videos/Densetsu no Stafy (Japan)-video.mp4</video>
 		<marquee>./images/Densetsu no Stafy (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Densetsu no Stafy (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
@@ -2393,20 +1963,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<developer>TOSE</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
-		<md5>06ed08799b2f163076fe9fc0cfe65a4c</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>06ED08799B2F163076FE9FC0CFE65A4C</cheevosHash>
 		<cheevosId>5619</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102237" />
 	</game>
 	<game id="3813">
-		<path>./Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).zip</path>
 		<name>Super Mario Advance 4 : Super Mario Bros. 3</name>
 		<desc>In Super Mario Advance 4: Super Mario Bros. 3 begleitest du Mario auf seinem größten Abenteuer im Mushroom Kingdom. Bowsers sieben Kinder haben die Zauberstäbe der Könige gestohlen und sie in Tiere verwandelt. Nur Mario kann die Truppen von Bowser aufhalten, die Stäbe zurückholen und das Königreich retten. Dich erwarten 8 verschiedene Welten mit über 80 Levels voller Abwechslung. Mit neuen Moves wie Schwimmen, Rutschen oder Fliegen in speziellen Outfits und mit mächtigen Power-Ups eröffnen sich dir viele Möglichkeiten. Mario spricht diesmal sogar, was das Spiel noch lebendiger macht. Zusätzlich gibt es Items wie die Wolke, mit der du ganze Welten überspringen kannst. Und auch Mehrspielerspaß ist garantiert – zu zweit in Super Mario Bros. oder zu viert in Mario Bros. Classics.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
 		<image>./images/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)-image.png</image>
-		<video>./videos/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)-video.mp4</video>
 		<marquee>./images/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)-marquee.png</marquee>
 		<thumbnail>./images/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
@@ -2415,19 +1981,15 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Super Mario Bros</family>
 		<players>1-4</players>
-		<md5>605286b3aedeffba70bf46b834b120b1</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>605286B3AEDEFFBA70BF46B834B120B1</cheevosHash>
 		<scrap name="ScreenScraper" date="20260814T102243" />
 	</game>
 	<game id="3857">
-		<path>./Donkey Kong Country 3 (USA).zip</path>
 		<name>Donkey Kong Country 3</name>
 		<desc>Das ist ein Fest für Affenfans: Donkey Kong Country 3 setzt die Erfolgsgeschichte eines der besten und erfolgreichsten Jump 'n Runs fort und, wie nicht anders zu erwarten, noch eins oben drauf. Bei diesem Spiel kann Dixie Kong so richtig zeigen, was in ihr steckt, unterstützt vom kleinen Kiddy, der hier sein Debüt im Dschungel gibt. Und die Aufgaben, die vor den beiden liegen, sind nicht ohne: Donkey und Diddy müssen befreit werden, und auf dem Weg dorthin warten viele Herausforderungen auf die beiden wackeren Affen. 8 phantastische Welten voller Geheimnisse, unglaubliche 48 Ebenen und Tonnen von Bonusebenen sorgen für ein nicht enden wollendes Spielvergnügen. Dabei kommen Game Boy Advance-Fans nicht nur in den Genuss vieler Features, die bereits die Vorgängerspiele so einzigartig gemacht haben, es gibt auch jede Menge Neues zu entdecken wie exklusive neue Minigames und neue tierische Helfer: Ellie den Elefanten und Squawk den Papagei. Donkey Kong Country 3 ist nicht nur die Fortsetzung einer der erfolgreichsten Dschungelsagas, sondern schlicht ein Highlight im Bereich Jump'n Run.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Donkey Kong Country 3 (USA)-image.png</image>
-		<video>./videos/Donkey Kong Country 3 (USA)-video.mp4</video>
 		<marquee>./images/Donkey Kong Country 3 (USA)-marquee.png</marquee>
 		<thumbnail>./images/Donkey Kong Country 3 (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
@@ -2436,20 +1998,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Donkey Kong</family>
 		<players>1-2</players>
-		<md5>f577a97d679e669f8063910eb060e864</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>F577A97D679E669F8063910EB060E864</cheevosHash>
 		<cheevosId>752</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102248" />
 	</game>
 	<game id="3831">
-		<path>./Donkey Kong Country (USA).zip</path>
 		<name>Donkey Kong Country</name>
 		<desc>In Donkey Kong Country für Gameboy Advance spielst du als Nintendos berühmter Gorilla. King K. Rool hat Donkeys Bananen gestohlen, und er beschließt, sich auf die Suche nach ihnen zu machen. Zwei Charaktere sind spielbar, Donkey ist größer und stärker, während Diddy schneller ist. Es ist möglich, zu zweit zu spielen, entweder abwechselnd oder in Teams. Tiere helfen dir, bestimmte Levels zu meistern und die Kremlings zu besiegen.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Donkey Kong Country (USA)-image.png</image>
-		<video>./videos/Donkey Kong Country (USA)-video.mp4</video>
 		<marquee>./images/Donkey Kong Country (USA)-marquee.png</marquee>
 		<thumbnail>./images/Donkey Kong Country (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
@@ -2458,20 +2016,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Donkey Kong</family>
 		<players>1-2</players>
-		<md5>b3806462180cda73d1f8f48d72236394</md5>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>B3806462180CDA73D1F8F48D72236394</cheevosHash>
 		<cheevosId>750</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102252" />
 	</game>
 	<game id="83992">
-		<path>./Klonoa Heroes - Densetsu no Star Medal (Japan).zip</path>
 		<name>Klonoa Heroes : Densetsu no Star Medal</name>
 		<desc>„Klonoa Heroes: Densetsu no Star Medal“ kombiniert klassische Action-Elemente mit Rollenspiel-Features. Der Spieler steuert Klonoa, Guntz oder Pango aus der Vogelperspektive und kämpft sich durch Feinde, um Erfahrungspunkte in Form von Traumsplittern und Gold zu sammeln. Klonoa nutzt erneut seinen Windring, der diesmal blaue oder rote „Windkugeln“ abfeuern kann. Guntz verwendet Handfeuerwaffen, Pango setzt Bomben ein, wobei die Waffen mit der passenden Farbe mehr Schaden an Gegnern mit derselben Farbaffinität verursachen. Neue Waffen können im Spiel erworben werden, während der Spieler die Fähigkeiten und Strategien der Charaktere auf ihrem Abenteuer weiterentwickelt.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Klonoa Heroes - Densetsu no Star Medal (Japan)-image.png</image>
-		<video>./videos/Klonoa Heroes - Densetsu no Star Medal (Japan)-video.mp4</video>
 		<marquee>./images/Klonoa Heroes - Densetsu no Star Medal (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Klonoa Heroes - Densetsu no Star Medal (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -2480,20 +2034,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Namco</publisher>
 		<family>Klonoa</family>
 		<players>1</players>
-		<md5>46d2a77e4fd8429e6b7bf79c0679770e</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>46D2A77E4FD8429E6B7BF79C0679770E</cheevosHash>
 		<cheevosId>4753</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102253" />
 	</game>
 	<game id="4614">
-		<path>./Kururin Paradise (Japan).zip</path>
 		<name>Kururin Paradise</name>
 		<desc>Kururin Paradise für den Game Boy Advance ist ein Action-/Reflexionsspiel, in dem du eine kleine blaue Figur steuerst, die eine fliegende Maschine bedient. Um die Level zu durchqueren, musst du darauf achten, dass die Rotorblätter der Maschine nicht gegen die Umgebung stoßen. Eine ziemlich schwierige Aufgabe, denn die Rotorblätter drehen sich ständig.</desc>
 		<genre>Action / Labyrinth</genre>
 		<image>./images/Kururin Paradise (Japan)-image.png</image>
-		<video>./videos/Kururin Paradise (Japan)-video.mp4</video>
 		<marquee>./images/Kururin Paradise (Japan)-marquee.png</marquee>
 		<thumbnail>./images/Kururin Paradise (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
@@ -2501,20 +2051,16 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<developer>Eighting</developer>
 		<publisher>Nintendo</publisher>
 		<players>1-4</players>
-		<md5>b77c57c60fc0dcba3b2ddd3e2f1c5f86</md5>
 		<lang>jp</lang>
 		<region>jp</region>
-		<cheevosHash>B77C57C60FC0DCBA3B2DDD3E2F1C5F86</cheevosHash>
 		<cheevosId>13772</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102256" />
 	</game>
 	<game id="3820">
-		<path>./Super Mario Advance (USA, Europe).zip</path>
 		<name>Super Mario Advance</name>
 		<desc>Super Mario Advance ist die Adaption von Super Mario Bros 2 auf NBA, die auf NES veröffentlicht wurde. Diese Episode markiert einen Wendepunkt in der Serie, da sie die Möglichkeit bietet, seinen Charakter zu wählen. Verkörpern Sie das berühmte Tandem der Mustachio-Klempner, Prinzessin Peach oder ihre Begleiterin Toad, in einem magischen Abenteuer. Sie müssen die Bewohner der Traumwelt vor den Fängen der unedlen Warze, des batrachischen Tyrannen, retten. Diese Version bietet als Bonus eine überarbeitete Version des Spiels Mario Bros.</desc>
 		<genre>Plattform</genre>
 		<image>./images/Super Mario Advance (USA, Europe)-image.png</image>
-		<video>./videos/Super Mario Advance (USA, Europe)-video.mp4</video>
 		<marquee>./images/Super Mario Advance (USA, Europe)-marquee.png</marquee>
 		<thumbnail>./images/Super Mario Advance (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
@@ -2523,10 +2069,8 @@ Deine Aufgabe im Spiel ist es, den unerschrockenen Dino durch zahlreiche riskant
 		<publisher>Nintendo</publisher>
 		<family>Mario</family>
 		<players>1-4</players>
-		<md5>ff6b0c48065389b888c7a78731d4b58d</md5>
 		<lang>en</lang>
 		<region>eu</region>
-		<cheevosHash>FF6B0C48065389B888C7A78731D4B58D</cheevosHash>
 		<cheevosId>505</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T102302" />
 	</game>

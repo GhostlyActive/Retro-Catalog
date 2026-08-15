@@ -12,11 +12,17 @@ short verdicts and the grouping are mine.
 ```
 index.html                   the page: curated data by hand + a generated block
 data/gamelist-<console>.xml  the scraped data, one file per console
+data/texte.js                the long descriptions, loaded after first paint
 images/small                 128 px cover — the box in each list row
 images/large                 400 px cover — the detail sheet
 images/screenshot            480 px screenshot — the detail sheet
-tools/build.mjs              rebuilds the generated block and the images
+tools/build.mjs              rebuilds the generated block, the texts and the images
 ```
+
+The long descriptions are two thirds of the payload but are only ever read one at
+a time, so they sit in `data/texte.js` and load once the list is up. That keeps
+the first request at 101 KB instead of 389 KB. They arrive as a classic script
+rather than a fetch, so opening `index.html` straight from the folder still works.
 
 ## Rebuilding
 
@@ -33,6 +39,12 @@ so the original scrape folder is only needed for games that are new:
 ```bash
 node tools/build.mjs --quelle /path/to/information
 ```
+
+The build also strips `path`, `md5`, `cheevosHash`, `video`, `multidisk` and the
+play counters out of the gamelists as it reads them. `data/` is served publicly
+by GitHub Pages, and ROM filenames with checksums have no business being there.
+Nothing the build needs is lost, and a freshly dropped gamelist is cleaned on the
+next run.
 
 Two things worth remembering:
 

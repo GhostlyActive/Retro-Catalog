@@ -65,6 +65,13 @@ const QUALITAET = { small: 50, large: 45, screenshot: 45 };
 // Die Seite skaliert stattdessen im Browser mit harten Kanten hoch.
 const NICHT_VERGROESSERN = new Set(['screenshot']);
 
+// Felder, die aus den gamelists fliegen, bevor sie im Repo landen. data/ wird von
+// GitHub Pages mit ausgeliefert; Prüfsummen und ROM-Dateinamen wären damit ein
+// öffentliches Inventar, und die Spielstände gehen ohnehin niemanden etwas an.
+// Der Build braucht keines davon.
+const RAUSWERFEN = ['path', 'md5', 'cheevosHash', 'lastplayed', 'playcount',
+  'gametime', 'favorite', 'video', 'multidisk'];
+
 const ANFANG = '/* ---- Erzeugt von tools/build.mjs — nicht von Hand ändern ---- */';
 const ENDE = '/* ---- Ende erzeugter Block ---- */';
 
@@ -115,10 +122,24 @@ function kuratierungLesen() {
   return { html, data: new Function('return ' + quelltext)() };
 }
 
+// Beim Lesen gleich säubern und zurückschreiben. So kann eine frisch abgelegte
+// gamelist ihre Prüfsummen gar nicht erst in einen Commit tragen.
+function gamelistSaeubern(datei, xml) {
+  const muster = new RegExp(`[ \\t]*<(${RAUSWERFEN.join('|')})>[\\s\\S]*?</\\1>\\r?\\n`, 'g');
+  const sauber = xml.replace(muster, '');
+  if (sauber === xml) return { xml, entfernt: 0 };
+  const entfernt = (xml.match(muster) || []).length;
+  fs.writeFileSync(datei, sauber);
+  return { xml: sauber, entfernt };
+}
+
+let gesaeubert = 0;
 function gamelistLesen(kid) {
   const datei = path.join(WURZEL, 'data', `gamelist-${kid}.xml`);
   if (!fs.existsSync(datei)) return [];
-  const xml = fs.readFileSync(datei, 'utf8');
+  const roh = fs.readFileSync(datei, 'utf8');
+  const { xml, entfernt } = gamelistSaeubern(datei, roh);
+  gesaeubert += entfernt;
   const feld = (blk, tag) => {
     const m = blk.match(new RegExp(`<${tag}>([\\s\\S]*?)</${tag}>`));
     return m ? entschluesseln(m[1]).trim() : '';
@@ -253,6 +274,8 @@ const { treffer, offen, uebrig, unsicher } = zuordnen(data);
 
 const spieleGesamt = data.reduce((n, k) => n + k.games.reduce((m, g) => m + g.list.length, 0), 0);
 console.log(`Kuratierte Spiele: ${spieleGesamt}   zugeordnet: ${treffer.size}`);
+if (gesaeubert) console.log(`\n${gesaeubert} Einträge aus den gamelists entfernt `
+  + `(${RAUSWERFEN.join(', ')}) — data/ liegt öffentlich.`);
 if (unsicher.length) {
   console.log('\nNicht über den Namen zugeordnet — bitte prüfen:');
   unsicher.forEach(u => console.log(`  [${u.kid}] "${u.titel}"  ->  "${u.name}"  (${u.weg})`));
@@ -261,6 +284,7 @@ if (offen.length) { console.log('\nOhne gamelist-Eintrag:'); offen.forEach(o => 
 if (uebrig.length) { console.log('\nIn gamelist, nicht im Katalog:'); uebrig.forEach(o => console.log('  ' + o)); }
 
 const extra = {};
+const texte = {};
 const bildauftraege = [];
 const belegt = {};
 const ohneCoverAberSzene = [];
@@ -283,7 +307,7 @@ for (const konsole of data) {
       if (g.players) e.pl = g.players;
       if (g.genre) e.g = g.genre;
       if (g.cheevosId) e.ch = 1;
-      if (g.desc) { e.d = fliesstext(g.desc); zaehler.desc++; }
+      if (g.desc) { texte[kid + '|' + titel] = fliesstext(g.desc); zaehler.desc++; }
       if (g.family) { e.f = g.family; zaehler.reihe++; }
 
       // Ein Kurzname je Spiel, den sich Cover und Screenshot teilen. Er folgt dem
@@ -332,6 +356,13 @@ if (!nurDaten && bildauftraege.length) {
   console.log(`  neu ${r.erledigt}, vorhanden ${r.uebersprungen}, übersprungen ${r.fehler}`);
 }
 
+// Die Langbeschreibungen sind zwei Drittel der Nutzlast, werden aber immer nur
+// einzeln im Detailblatt gelesen. Sie liegen deshalb in einer eigenen Datei, die
+// die Seite erst nach dem ersten Aufbau nachlädt — als Skript, nicht per fetch,
+// damit index.html auch per Doppelklick aus dem Ordner funktioniert.
+const texteDatei = `window.TEXTE = ${JSON.stringify(texte)};\n`;
+fs.writeFileSync(path.join(WURZEL, 'data', 'texte.js'), texteDatei);
+
 const block = `${ANFANG}\nconst EXTRA = ${JSON.stringify(extra)};\n${ENDE}`;
 const von = html.indexOf(ANFANG);
 const bis = html.indexOf(ENDE) + ENDE.length;
@@ -339,3 +370,4 @@ fs.writeFileSync(path.join(WURZEL, 'index.html'), html.slice(0, von) + block + h
 
 const kb = n => (n / 1024).toFixed(0) + ' KB';
 console.log(`\nindex.html geschrieben — Datenblock ${kb(block.length)}`);
+console.log(`data/texte.js geschrieben — ${Object.keys(texte).length} Beschreibungen, ${kb(texteDatei.length)}`);
