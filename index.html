@@ -201,8 +201,12 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .sh-h{padding:4px 26px 0;border-left:5px solid var(--k,var(--acc));
   display:flex;gap:16px;align-items:flex-start}
 .sh-hx{flex:1;min-width:0}
+/* Unter dem großen Cover liegt das kleine aus der Liste. Es ist bereits im
+   Zwischenspeicher und füllt den Kasten sofort, statt ihn leer zu lassen,
+   bis die scharfe Fassung eintrifft. */
 .sh-c{flex-shrink:0;width:124px;height:166px;object-fit:contain;border-radius:5px;
-  background:var(--sur2);box-shadow:var(--sh)}
+  background-color:var(--sur2);background-repeat:no-repeat;
+  background-position:center;background-size:contain;box-shadow:var(--sh)}
 .sh-c[hidden]{display:none}
 .sh-k{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--k,var(--acc));
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin:0 0 7px;font-weight:700}
@@ -2298,6 +2302,21 @@ $('rnd').addEventListener('click', () => {
 // ---- Detailblatt ----
 let letzter = null, sheetI = -1, gezeigt = null;
 
+// Die Bilder der Nachbarn im Voraus holen, damit ← und → ohne Wartezeit
+// durchlaufen. Verzögert, damit das Bild des gerade offenen Spiels Vorrang hat.
+let vorladeUhr;
+function nachbarnVorladen(idx){
+  clearTimeout(vorladeUhr);
+  vorladeUhr = setTimeout(() => {
+    for(const n of [idx - 1, idx + 1]){
+      const g = SICHT[n];
+      if(!g || !g.c) continue;
+      new Image().src = cover(g, 'gross');
+      if(g.sz) new Image().src = cover(g, 'szene');
+    }
+  }, 250);
+}
+
 function zeigen(g, idx){
   sheetI = idx;
   gezeigt = g;
@@ -2306,7 +2325,11 @@ function zeigen(g, idx){
   $('sheet').style.setProperty('--k', KFARBE[g.kid]);
   const bild = $('shC');
   bild.hidden = !g.c;
-  if(g.c) bild.src = cover(g, 'gross');
+  if(g.c){
+    bild.style.backgroundImage = `url(${cover(g,'klein')})`;
+    bild.src = cover(g, 'gross');
+    bild.alt = 'Verpackung von ' + g.t;
+  }
   const szene = $('shS');
   szene.hidden = !g.sz;
   if(g.sz){ szene.src = cover(g, 'szene'); szene.alt = 'Bildschirmfoto aus ' + g.t; }
@@ -2345,6 +2368,7 @@ function zeigen(g, idx){
     (andere.disabled ? $('shx') : andere).focus();
   }
   $('sheet').scrollTop = 0;
+  nachbarnVorladen(idx);
   const zeileEl = out.querySelector(`.g[data-i="${g.i}"]`);
   if(zeileEl) cursorSetzen(zeileEl, false);
 }
