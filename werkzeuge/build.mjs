@@ -52,8 +52,13 @@ const HANDZUORDNUNG = {
   'ngpc|Neo Turf Masters': 'Big Tournament Golf'
 };
 
-const BREITE = { klein: 96, gross: 320 };
-const QUALITAET = { klein: 58, gross: 60 };
+// Die Kästchen sind 44x58 (Liste) und 124x166 (Detailblatt) groß, also reicht
+// rechnerisch die doppelte Kantenlänge für 2x-Bildschirme.
+// Zur Qualitätszahl: sips ist anders geeicht als übliche JPEG-Encoder und
+// liefert bei gleicher Zahl rund doppelt so große Dateien. Q45 entspricht hier
+// etwa dem, was anderswo Q60 heißt — sichtbar ist der Unterschied nicht.
+const BREITE = { klein: 128, gross: 400 };
+const QUALITAET = { klein: 50, gross: 45 };
 
 const ANFANG = '/* ---- Erzeugt von werkzeuge/build.mjs — nicht von Hand ändern ---- */';
 const ENDE = '/* ---- Ende erzeugter Block ---- */';
