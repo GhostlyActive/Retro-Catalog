@@ -2093,16 +2093,36 @@ const cover = (g, gr) => g.c ? `images/${gr}/${g.kid}/${g.c}.jpg` : '';
 // Vierfache: der Browser legt für jedes src sofort eine Anfrage an, und die
 // Liste wird bei jedem Tastendruck neu gebaut.
 const geladeneCover = new Set();
+const wartendeCover = new Set();
+
+// Beim Ziehen des Scrollbalkens huschen alle 1196 Zeilen durchs Sichtfeld. Würde
+// jede davon sofort ihr Cover anfordern, wären das über tausend Anfragen in
+// wenigen Sekunden — GitHub Pages drosselt das und antwortet mit 429 statt mit
+// dem Bild, was als leeres Kästchen ankommt. Deshalb wird erst geladen, wenn das
+// Scrollen zur Ruhe gekommen ist, und nur das, was dann noch zu sehen ist.
 const coverBeobachter = new IntersectionObserver(eintraege => {
   for(const e of eintraege){
-    if(!e.isIntersecting) continue;
-    const el = e.target, pfad = el.dataset.c;
-    el.style.backgroundImage = `url(${pfad})`;
-    delete el.dataset.c;
-    geladeneCover.add(pfad);
-    coverBeobachter.unobserve(el);
+    if(e.isIntersecting) wartendeCover.add(e.target);
+    else wartendeCover.delete(e.target);
   }
-}, {rootMargin:'800px 0px'});
+  coverNachziehen();
+}, {rootMargin:'400px 0px'});
+
+let coverUhr;
+function coverNachziehen(){
+  clearTimeout(coverUhr);
+  coverUhr = setTimeout(() => {
+    for(const el of wartendeCover){
+      const pfad = el.dataset.c;
+      if(!pfad) continue;
+      el.style.backgroundImage = `url(${pfad})`;
+      delete el.dataset.c;
+      geladeneCover.add(pfad);
+      coverBeobachter.unobserve(el);
+    }
+    wartendeCover.clear();
+  }, 140);
+}
 
 function zeile(g, pos){
   const sc = g.r === null ? '<span class="sc lo">–</span>'
@@ -2178,6 +2198,7 @@ function zeichne(){
 
   // Die alten Zeilen sind weg; der Beobachter hielte sie sonst weiter fest.
   coverBeobachter.disconnect();
+  wartendeCover.clear();
   out.querySelectorAll('.gc[data-c]').forEach(el => coverBeobachter.observe(el));
 
   const wieder = cursorI === null ? null : out.querySelector(`.g[data-i="${cursorI}"]`);
