@@ -1,0 +1,1639 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="3324">
+		<path>./Contra - The Alien Wars (USA) (SGB Enhanced).zip</path>
+		<name>Contra : The Alien Wars</name>
+		<desc>Willkommen im Jahr 2636, dem Jahr, in dem sich der berüchtigte Rote Falke revanchiert – mit einem beispiellosen Alien-Angriff, der die Contra-Streitkräfte an ihre Grenzen bringen soll. Stürzen Sie sich auf einer Hochgeschwindigkeitsreise durch ein geschmolzenes Massaker in die Eingeweide des erzfeindlichen Außerirdischen. Schauen Sie sich die seitlichen und oberen Perspektiven an, die Sie in ein 3D-Gefühl eintauchen lassen. Erledige solare Schleimhunde, während du an Trägern und Seilen schwingend über Mauern kletterst, was auch immer nötig ist, um die Verbündeten von Red Falcon zu besiegen. Schwitzen Sie durch fünf atemberaubende Etappen, darunter die Straßen der Neo City und die Mucho Grande Badlands. Die Intensität ist so real, dass die Explosionen Sie fast umhauen werden. Und die Bossgegner sind so gigantisch, dass Ihr Bildschirm sie kaum aufnehmen kann. Sie müssen beide Hände um die Artillerie legen, die stark genug ist, damit die heutigen Waffen wie Spritzpistolen aussehen. Das Erbe der TBE Contra ist lebendig und gefährlich.</desc>
+		<genre>Shooter / Run and Gun</genre>
+		<image>./images/Contra - The Alien Wars (USA) (SGB Enhanced)-image.png</image>
+		<video>./videos/Contra - The Alien Wars (USA) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Contra - The Alien Wars (USA) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Contra - The Alien Wars (USA) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19940923T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Contra</family>
+		<players>1</players>
+		<md5>8d885e185ad2a0cb5c9e3b152bd24583</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8D885E185AD2A0CB5C9E3B152BD24583</cheevosHash>
+		<cheevosId>690</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005024" />
+	</game>
+	<game id="3280">
+		<path>./Catrap (USA).zip</path>
+		<name>Catrap</name>
+		<desc>Cat Rap ist ein Puzzlespiel, in dem der Spieler eine anthropomorphe Katze steuert und aufeinanderfolgende Räume durchqueren muss, während er auf seinem Weg mit Hindernissen und Feinden konfrontiert wird. Sobald der Spieler alle Feinde ausgeschaltet hat, geht es zum nächsten Level, wobei der Schwierigkeitsgrad mit zunehmendem Fortschritt zunimmt.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Catrap (USA)-image.png</image>
+		<video>./videos/Catrap (USA)-video.mp4</video>
+		<marquee>./images/Catrap (USA)-marquee.png</marquee>
+		<thumbnail>./images/Catrap (USA)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19901231T000000</releasedate>
+		<developer>ASK Kodansha</developer>
+		<publisher>Asmik</publisher>
+		<players>1</players>
+		<md5>5a75fe8de54e4cbd09cae23f050f6965</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5A75FE8DE54E4CBD09CAE23F050F6965</cheevosHash>
+		<cheevosId>2245</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005032" />
+	</game>
+	<game id="3057">
+		<path>./Lemmings (USA).zip</path>
+		<name>Lemmings</name>
+		<desc>Ihre Aufgabe ist es, die Lemminge in 120 rasanten Rätselleveln zu retten. Diese Kreaturen laufen einfach blind durch die Welt in der Hoffnung, am Ende des Levels in Sicherheit zu gelangen – leider gibt es in diesen Levels neben anderen Gefahren auch steile Abgründe, Lücken im Boden, Barrieren und Flüsse.
+
+Sie steuern nicht einen einzelnen Lemming, sondern ein Fadenkreuz, das über jeden Lemming bewegt werden kann. Unten finden Sie eine Auswahl an Funktionen, die einem Lemming zugewiesen werden können, darunter Klettern, Schweben und Schlagen. Sie müssen klicken, um die entsprechende Funktion auszuwählen, und dann auf das Lemming klicken, um es zu aktivieren. Jedes Level bietet eine andere Bandbreite an Fähigkeiten, eine andere Anzahl an Lemmingen und einen anderen Zielprozentsatz für den Fortschritt.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Lemmings (USA)-image.png</image>
+		<video>./videos/Lemmings (USA)-video.mp4</video>
+		<marquee>./images/Lemmings (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lemmings (USA)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<family>Lemmings</family>
+		<players>1</players>
+		<md5>25bc75255fdc90ba6ad00636d968dd2a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>25BC75255FDC90BA6AD00636D968DD2A</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005034" />
+	</game>
+	<game id="3135">
+		<path>./Mega Man V (USA) (SGB Enhanced).zip</path>
+		<name>Mega Man V</name>
+		<desc>Aus den kosmischen Weiten des Weltraums kommt die größte Bedrohung der Menschheit. Horden von außerirdischen Robotern haben sich vom Himmel geschwärmt, und alle Waffen der Erde sind machtlos, um ihren rasenden Raubzug zu stoppen. In Mega Man V / 5 für GameBoy liegt nun die einzige Hoffnung, diese außerirdischen Eindringlinge zu stoppen, bei einem Mann - Mega Man! Mach Dich bereit für neue Welten voller Aufregung als Mega Man und starte einen Angriff auf die Alien-Armada! Auf geht's in die Schlacht in Mega Man V / 5 für GameBoy! Durchsuche die Galaxie nach außerirdischen Edelsteinen und baue die ultimative "Mega Arm"-Waffe. Erledige die Eindringlinge und schicke sie zurück nach Alpha Centauri in Mega Man V / 5 für GameBoy!</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Mega Man V (USA) (SGB Enhanced)-image.png</image>
+		<video>./videos/Mega Man V (USA) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Mega Man V (USA) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man V (USA) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19940910T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>ceb17d831b410d91aa41bf2819cbed82</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CEB17D831B410D91AA41BF2819CBED82</cheevosHash>
+		<cheevosId>2255</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005040" />
+	</game>
+	<game id="2964">
+		<path>./Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2).zip</path>
+		<name>Super Mario Land 2: 6 Golden Coins</name>
+		<desc>Super Mario Land 2 für GameBoy ist Marios größtes Abenteuer, das er je auf dem Game Boy erlebt hat. Sein Erzrivale Wario hat sich im Mario Land eingenistet und treibt sein übles Spiel. Dem muss ein Ende gesetzt werden! Allerdings nur mit den sechs Goldmünzen kann Mario in Super Mario Land 2 für GameBoy die Tore zu seinem eigenen Schloss öffnen. Und diese sagenhaften Münzen hat Wario gut versteckt! Unzählige Horden von Monstern lauern Mario in neuen faszinierenden Welten auf. Superpilz, Feuerblume und Stern geben Mario die Super Power, die ihm hilft, dieses actiongeladene Abenteuer heil zu überstehen. Findet er dann die magische Möhre wird Mario in Super Mario Land 2 für GameBoy sogar zum ohrenschwingenden Flughasen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)-image.png</image>
+		<video>./videos/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)-video.mp4</video>
+		<marquee>./images/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19921102T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Super Mario Bros</family>
+		<players>1</players>
+		<md5>4bd6e929ec716a5c7fe7dc684860d551</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>4BD6E929EC716A5C7FE7DC684860D551</cheevosHash>
+		<cheevosId>540</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005042" />
+	</game>
+	<game id="3110">
+		<path>./Kirby's Pinball Land (USA, Europe).zip</path>
+		<name>Kirby's Pinball Land</name>
+		<desc>Die coole Tomate Kwirk ist in ein großes Schlamassel geraten. Jemand seine geliebte Tammy in eine Falle gelockt und eingesperrt! Kwirk ist die einzige Tomate mit genug Ketchup in den Armen um der verpuzzleten Situation Herr zu werden. Mit ihm rätselst du dich durch verzwickte Situationen, verschiebst jede Menge Blöcke und weichst so mancher Fallgrube aus. Immer neue Labyrinthe werden sich dir in den Weg stellen. Also pack dir deine Sonnenbrille, bring die Birne in Fahrt und rette Tammy. Du bist ihre einzige Chance!</desc>
+		<genre>Flipper</genre>
+		<image>./images/Kirby's Pinball Land (USA, Europe)-image.png</image>
+		<video>./videos/Kirby's Pinball Land (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kirby's Pinball Land (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Pinball Land (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19931130T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1</players>
+		<md5>f711ed10307d4ea27223fe965595b123</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
+		<cheevosId>708</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005046" />
+	</game>
+	<game id="3087">
+		<path>./Operation C (USA).zip</path>
+		<name>Operation C</name>
+		<desc>Operation C ist eine Game Boy Nachfolge der beliebten NES Titel Contra und Super C. Es ist im wesentlichen ein Shooter bei dem du einen Rambo ähnlichen Charakter verkörperst, der alles was ihm in die Quere kommt umschießt, Waffen Upgrades und Boni einsammelt.
+
+Das Spiel führt den Charakter der Black Viper in die oft durcheinandergebrachte Kontinuität der Serie ein. Black Viper kehrte später im Nintendo DS-Titel Contra 4 als Hauptschurke zurück.
+
+Das Spiel bietet nur fünf Level, von denen zwei aus einer Overhead-Perspektive ähnlich wie Super C gespielt werden. Die Operation C zeichnet sich auch durch die aufrüstbare Spread Gun (von drei auf fünf Schuss) und die Einführung der Hunter Gun aus.
+
+Es gibt auch gelegentliche Plattformelemente wie springende Puzzles, bewegliche Plattformen usw. und den obligatorischen Endgegner.</desc>
+		<genre>Shooter / Run and Gun</genre>
+		<image>./images/Operation C (USA)-image.png</image>
+		<video>./videos/Operation C (USA)-video.mp4</video>
+		<marquee>./images/Operation C (USA)-marquee.png</marquee>
+		<thumbnail>./images/Operation C (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19910202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<family>Contra</family>
+		<players>1</players>
+		<md5>c6effb3a51b36056411760d1ffe048f7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C6EFFB3A51B36056411760D1FFE048F7</cheevosHash>
+		<cheevosId>6075</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005048" />
+	</game>
+	<game id="68930">
+		<path>./Kwirk - He's A-maze-ing! (USA, Europe).zip</path>
+		<name>Kwirk : He's A-maze-ing!</name>
+		<desc>Kwirk hat 3 Spielmodi: Going Up?, Heading Out?, und Vs. Mode, jeder mit seinen eigenen Regeln. Das Ziel ist es, in jedem Raum vom einem Ende zu den Treppen am anderen zu gelangen,  indem man Drehkreuze bewegt, Blöcke verschiebt und Löcher mit Blöcken füllt.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Kwirk - He's A-maze-ing! (USA, Europe)-image.png</image>
+		<video>./videos/Kwirk - He's A-maze-ing! (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kwirk - He's A-maze-ing! (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kwirk - He's A-maze-ing! (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<md5>3a4bb57e9fbd4ef563c0c7b59a1c82a5</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3A4BB57E9FBD4EF563C0C7B59A1C82A5</cheevosHash>
+		<cheevosId>2460</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005049" />
+	</game>
+	<game id="3088">
+		<path>./Donkey Kong (Japan, USA) (En) (SGB Enhanced).zip</path>
+		<name>Donkey Kong</name>
+		<desc>Donkey Kong hat Pauline entführt und nun liegt es an Mario, verschiedenen Gefahren zu trotzen, Donkey Kong zu verfolgen und Pauline aus ihrer Notlage zu retten! 
+
+Zu Beginn erwarten dich die bekannten Level aus der Spielhalle, doch danach beginnt die eigentliche Herausforderung! Folge Donkey Kong in die Stadt, auf ein Schiff, in die Wüste, ein felsiges Tal und noch weiter... 
+
+Kannst du Donkey Kong schnappen und Pauline befreien?</desc>
+		<genre>Plattform / Jump 'n' Run</genre>
+		<image>./images/Donkey Kong (Japan, USA) (En) (SGB Enhanced)-image.png</image>
+		<video>./videos/Donkey Kong (Japan, USA) (En) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Donkey Kong (Japan, USA) (En) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong (Japan, USA) (En) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19940614T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>60e55697da19bb160316ec290a7a7437</md5>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<cheevosHash>60E55697DA19BB160316EC290A7A7437</cheevosHash>
+		<cheevosId>692</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005051" />
+	</game>
+	<game id="3048">
+		<path>./Castlevania II - Belmont's Revenge (USA, Europe).zip</path>
+		<name>Castlevania II : Belmont's Revenge</name>
+		<desc>Der Fluch der Familie Belmont hat im zweiten Castlevania-Abenteuer für den Game Boy erneut zugeschlagen. 15 Jahre nach dem ersten monochromen Abenteuer ist Christophers Sohn verschwunden und 4 mysteriöse Burgen sind aus dem Nebel gestiegen. Er muss zu jedem Schloss reisen und die Dämonen besiegen, die er dort findet, um seinen Sohn zu retten. Vielleicht ist Dracula nicht so tot, wie wir dachten.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Castlevania II - Belmont's Revenge (USA, Europe)-image.png</image>
+		<video>./videos/Castlevania II - Belmont's Revenge (USA, Europe)-video.mp4</video>
+		<marquee>./images/Castlevania II - Belmont's Revenge (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Castlevania II - Belmont's Revenge (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19921126T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>7c65e9da405d2225d079f75e56276822</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>7C65E9DA405D2225D079F75E56276822</cheevosHash>
+		<cheevosId>5013</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005056" />
+	</game>
+	<game id="69564">
+		<path>./Ninja Gaiden Shadow (USA).zip</path>
+		<name>Ninja Gaiden Shadow</name>
+		<desc>Shadow Warrior für GameBoy erzählt die Geschichte vom jungen Ninja Ryu, der sich auf die Suche nach dem Mörder seines Vaters begibt. Mach dich bereit für eine epische Geschichte voller Geheimnissen und Wendungen. Nutze als Ryu verschieden Kampftechniken und sammle Power-Ups um deine Gegner in Shadow Warrior für GameBoy aus dem Weg zu räumen. Entdecke abwechslungsreiche Level die dich durch Städte, Dschungellandschaften und schneebedeckte Schlösser führen. Kannst du das dunkle Geheimnis von Shadow Warrior für GameBoy aufdecken?</desc>
+		<genre>Plattform</genre>
+		<image>./images/Ninja Gaiden Shadow (USA)-image.png</image>
+		<video>./videos/Ninja Gaiden Shadow (USA)-video.mp4</video>
+		<marquee>./images/Ninja Gaiden Shadow (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ninja Gaiden Shadow (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19911213T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Tecmo</publisher>
+		<family>Ninja Gaiden</family>
+		<players>1</players>
+		<md5>e12c5c2897ed095f8d26c7578afddfda</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E12C5C2897ED095F8D26C7578AFDDFDA</cheevosHash>
+		<cheevosId>2561</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005102" />
+	</game>
+	<game id="3234">
+		<path>./Mega Man III (USA).zip</path>
+		<name>Mega Man III</name>
+		<desc>Mega Man 3 ist ein traditionelles Side-Scrolling-Plattformspiel: Sie springen von Stein zu Stein und meiden dabei Gruben und schießende Roboter. Es ist in jeder Hinsicht den anderen Mega Man-Spielen ziemlich ähnlich; Dies ist jedoch das erste Mal, dass Sie einen Kumpel bekommen. Es ist auch das erste Mal, dass Sie rutschen statt nur laufen dürfen. Rush ist Ihr Hund, der Ihnen hilft, indem er Ihnen bei Bedarf andere Transportmittel anbietet. Er beginnt mit der „Rush Coil“-Fähigkeit, die Sie wie ein Sprungbrett an den oberen Bildschirmrand schleudert; später erlangt er die Fähigkeit „Rush Jet“, sich in eine gelenkte, schwebende Plattform zu verwandeln, die Sie überallhin bringt; Außerdem erhält er die Fähigkeit „Rush Marine“, ein U-Boot, das genau wie der Jet funktioniert, außer unter Wasser und mit der zusätzlichen Fähigkeit, aus dem Wasser zu hüpfen (man kann tatsächlich springen, während man im Jet sitzt, aber der Jet schwebt weiterhin darunter).</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Mega Man III (USA)-image.png</image>
+		<video>./videos/Mega Man III (USA)-video.mp4</video>
+		<marquee>./images/Mega Man III (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man III (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>4c614f884a07872f12056ad1a421e1f9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4C614F884A07872F12056AD1A421E1F9</cheevosHash>
+		<cheevosId>5023</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005103" />
+	</game>
+	<game id="69492">
+		<path>./Gradius - The Interstellar Assault (USA).zip</path>
+		<name>Gradius : The Interstellar Assault</name>
+		<desc>Nemesis 2 (Gradius 2 in Japan) ist ein seitlich scrollender Shoot-em-up. Das Gameplay ist größtenteils ähnlich wie bei Gradius. Das vom Spieler gesteuerte Schiff kann zwischen drei Hauptwaffen wechseln: Rakete, Double und Laser. Zusätzliche Waffen wie verschiedene Arten von Lasern, Napalm-Raketen, Reflexring und Rückstrahl können als Power-Ups gesammelt und ausgerüstet werden. Darüber hinaus können spezielle Power-Ups erworben werden, deren Wirkung von der Verlangsamung der Gegner bis hin zur kurzzeitigen Verwandlung des Metalion in eine unbesiegbare bohrerähnliche Maschine reicht. Auf die Bosskämpfe folgen optionale Mini-Etappen, die dem Spieler bei erfolgreichem Abschluss neue Waffen gewähren.</desc>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<image>./images/Gradius - The Interstellar Assault (USA)-image.png</image>
+		<video>./videos/Gradius - The Interstellar Assault (USA)-video.mp4</video>
+		<marquee>./images/Gradius - The Interstellar Assault (USA)-marquee.png</marquee>
+		<thumbnail>./images/Gradius - The Interstellar Assault (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19910809T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Gradius</family>
+		<players>1</players>
+		<md5>e10f788da29e18934c3e9161b25b96c7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E10F788DA29E18934C3E9161B25B96C7</cheevosHash>
+		<cheevosId>7796</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005105" />
+	</game>
+	<game id="3206">
+		<path>./Darkwing Duck (USA).zip</path>
+		<name>Disney's Darkwing Duck</name>
+		<desc>Darkwing Duck ist ein 2D-Plattformspiel für Dritte mit diesem Disney-Superhelden, einem Freund von Lauchpad McQuack (dem Duck Tales-Charakter, der als Pilot für Dagobert Duck arbeitete).
+Als anständiger Superheld besteht seine Aufgabe darin, die Stadt vor seinen Feinden zu retten.
+Die Grafiken sind cartoonartig, wie bei anderen von Capcom entwickelten Disney-Lizenzen, aber düsterer.
+Das Gameplay ähnelt Mega Man und Duck Tales, im gleichen Jump-and-Run-Stil. Die Steuerung ist einfach zu handhaben.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Darkwing Duck (USA)-image.png</image>
+		<video>./videos/Darkwing Duck (USA)-video.mp4</video>
+		<marquee>./images/Darkwing Duck (USA)-marquee.png</marquee>
+		<thumbnail>./images/Darkwing Duck (USA)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Disney</family>
+		<players>1</players>
+		<md5>7d776329212fa7cc2b00c5a46f06dd92</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7D776329212FA7CC2B00C5A46F06DD92</cheevosHash>
+		<cheevosId>3696</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005106" />
+	</game>
+	<game id="2976">
+		<path>./Tetris (World) (Rev 1).zip</path>
+		<name>Tetris</name>
+		<desc>Tetris für GameBoy ist sehr einfach und doch unglaublich genial! Schnelligkeit und Cleverness sind bei Tetris für GameBoy gefragt. Einzeln vom oberen Rand des rechteckigen Spielfelds herunterfallende, stets aus vier Quadraten zusammengesetzte Formen müssen vom Spieler in 90-Grad Schritten gedreht und so platziert werden, dass sie am unteren Rand horizontale, möglichst lückenlose Reihen bilden. Tetris für GameBoy ist das (Kunst)Werk des russischen Programmierers Alexei Paschitnow und hat schon Millionen von Menschen in den Bann gezogen.</desc>
+		<genre>Puzzle / Fallen</genre>
+		<image>./images/Tetris (World) (Rev 1)-image.png</image>
+		<video>./videos/Tetris (World) (Rev 1)-video.mp4</video>
+		<marquee>./images/Tetris (World) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Tetris (World) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19890602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Tetris</family>
+		<players>1-2</players>
+		<md5>982ed5d2b12a0377eb14bcdc4123744e</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>982ED5D2B12A0377EB14BCDC4123744E</cheevosHash>
+		<cheevosId>508</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005108" />
+	</game>
+	<game id="3068">
+		<path>./Prince of Persia (USA).zip</path>
+		<name>Prince of Persia</name>
+		<desc>Prince of Persia ist ein Plattform spiel, das im Nahen Osten spielt. Der Spieler steuert den Prinzen von Persien, der gehen, rennen, sich ducken, springen, sich festhalten und mit dem Schwert kämpfen kann. Ziel ist es, alle Level abzuschließen, um die Prinzessin in der vorgegebenen Zeit - einer Stunde - zu befreien. Jeder Level besteht aus einem Dungeon, der immer größer wird und mit Hindernissen gespickt ist (Abgründe, Platten, die unter den Füßen nachgeben, Stacheln, die aus dem Boden ragen).</desc>
+		<genre>Plattform</genre>
+		<image>./images/Prince of Persia (USA)-image.png</image>
+		<video>./videos/Prince of Persia (USA)-video.mp4</video>
+		<marquee>./images/Prince of Persia (USA)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia (USA)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Brøderbund Software</developer>
+		<publisher>Virgin</publisher>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<md5>80034da43f35307291714ae2553d9ddf</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>80034DA43F35307291714AE2553D9DDF</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005110" />
+	</game>
+	<game id="2973">
+		<path>./Kirby's Dream Land (USA, Europe).zip</path>
+		<name>Kirby's Dream Land</name>
+		<desc>Kirby fliegt, hüpft und rennt durch's Dream Land und ist erstklassig spielbar. Mittlerweile schon ein Klassiker, vor allem gut für die Jüngeren geeignet. Hier kommt Kirby! Hungrig bahnt er sich seinen Weg durch gigantische Burgen und Höhlen, dunkle Verliese und Wälder. Da bleibt keine Zeit zum Träumen! Hier mußt Du schnell handeln.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Kirby's Dream Land (USA, Europe)-image.png</image>
+		<video>./videos/Kirby's Dream Land (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kirby's Dream Land (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Dream Land (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19920427T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1</players>
+		<md5>a66e4918edcd042ec171a57fe3ce36c3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>A66E4918EDCD042EC171A57FE3CE36C3</cheevosHash>
+		<cheevosId>706</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005115" />
+	</game>
+	<game id="3028">
+		<path>./Final Fantasy Legend II (USA).zip</path>
+		<name>Final Fantasy Legend II</name>
+		<desc>Der zweite Teil der Final Fantasy Legend-Reihe steigert die Detailtiefe im Gameplay und in der Grafik gegenüber dem Original.
+
+Die größten Änderungen betreffen die Charakterklassen und Gruppenmitglieder. Ähnlich wie bei FFL können Sie beim Starten einer Partie Legends II Ihren Hauptcharakter aus Menschen, Monstern, Mutanten und einer neuen Klasse auswählen: Robotern. Von hier aus stellen Sie Ihre 4-köpfige Gruppe aus denselben Charakterklassen zusammen. Während des Spiels begleiten dich spezielle Nebencharaktere im Kampf, um dabei zu helfen, bestimmte Feinde zu besiegen.
+
+Die andere Verbesserung liegt in der Strategie. In FFL erhältst du nach jedem Kampf Erfahrungspunkte, steigerst deine Stärke usw. In FFLII erhältst du unterschiedliche Punkte und Fähigkeiten, je nachdem, wie du den Feind besiegt hast. Wenn Sie mit einem Schwert gewinnen, erhöht sich Ihre Stärke. Wenn du Magie verwendest, erhöht sich dein Mana. Dies fügt einen strategischeren Ansatz zum Besiegen von Feinden hinzu.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy Legend II (USA)-image.png</image>
+		<video>./videos/Final Fantasy Legend II (USA)-video.mp4</video>
+		<marquee>./images/Final Fantasy Legend II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy Legend II (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19911101T000000</releasedate>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<md5>2bb0df1b672253aaa5f9caf9aab78224</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2BB0DF1B672253AAA5F9CAF9AAB78224</cheevosHash>
+		<cheevosId>2479</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005116" />
+	</game>
+	<game id="3269">
+		<path>./Mega Man IV (USA).zip</path>
+		<name>Mega Man IV</name>
+		<desc>Im Jahr 20XX ...
+
+Dr. Wily ist in das örtliche Robotermuseum eingebrochen und hat die Leichen seiner zuvor zerstörten Robotermeister gestohlen. Jetzt hat er sie zurückgebracht, um sich an Mega Man zu rächen! Was noch schlimmer ist, Wily plant, mit einer massiven Laserkanone aus dem Weltraum die Erde in Stücke zu sprengen!
+
+Mega Man muss sich mit seinen Freunden zusammenschließen, um Dr. Wily aufzuhalten, bevor die Erde zerstört wird!
+
+Mega Man IV enthält Elemente von Mega Man 4 und 5 (NES) und ist exklusiv bei Game Boy erhältlich.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Mega Man IV (USA)-image.png</image>
+		<video>./videos/Mega Man IV (USA)-video.mp4</video>
+		<marquee>./images/Mega Man IV (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man IV (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19931212T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>8a00f627b8902c92327435901c249e19</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8A00F627B8902C92327435901C249E19</cheevosHash>
+		<cheevosId>712</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005122" />
+	</game>
+	<game id="3146">
+		<path>./Kirby's Block Ball (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Kirby's Block Ball</name>
+		<desc>König Dedede stiehlt die fünf funkelnden Sterne und versteckt sie in seinem Schloss. Kirby fliegt mit seinem Warpstern nach Blockwelt und fordert jedes Level heraus, um Dedede zu erreichen. 
+
+Das Spielfeld enthält eine Vielzahl von Blöcken und mit Kirby's Rolltechnik musst du ihn mit Pinball-Flippern in Bewegung versetzen, um die Blöcke auf dem Feld zu zerstören. Jedes Level enthält mehr und mehr Blöcke und nach ein paar Runden forderst du einen Boss, in einem Eins gegen Eins Match heraus.</desc>
+		<genre>Action / Breakout Spiele</genre>
+		<image>./images/Kirby's Block Ball (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Kirby's Block Ball (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Kirby's Block Ball (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Block Ball (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19951225T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1</players>
+		<md5>203db7ddc72359e4db5e9ab42a6f0ba8</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>203DB7DDC72359E4DB5E9AB42A6F0BA8</cheevosHash>
+		<cheevosId>705</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005123" />
+	</game>
+	<game id="3103">
+		<path>./Mega Man - Dr. Wily's Revenge (USA).zip</path>
+		<name>Mega Man : Dr. Wily's Revenge</name>
+		<desc>Mega Man ist die Roboter-Kreation von Dr. Light, während sein erbitterter Erzfeind Dr. Wily in unzähligen Spielen versucht, Ärger mit seinen eigenen seltsamen Robotern zu verursachen. Als Mega Man rennst und springst du durch futuristische Level, schießt mit deinem Blaster auf Schurken und besiegst jeden einzelnen der Robot Master von Dr. Wily. Wenn du sie besiegst, kannst du ihre Fähigkeiten übernehmen, was dir einen Vorteil gegenüber anderen Arten von bösen Robotern verschafft.
+
+In dieser Game-Boy-Version muss Mega Man gegen Ice Man, Electric Man, Cut Man und Fire Man kämpfen. Nachdem er diese vier besiegt hat, tritt er gegen Quick Man, Heat Man, Bubble Man und Flash Man an. Und danach kommt der Weltraumknoten von Dr. Wily. Das klingt nach viel, aber Passwörter werden deinen Fortschritt speichern, wenn du bestimmte Meilensteine erreichst.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Mega Man - Dr. Wily's Revenge (USA)-image.png</image>
+		<video>./videos/Mega Man - Dr. Wily's Revenge (USA)-video.mp4</video>
+		<marquee>./images/Mega Man - Dr. Wily's Revenge (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man - Dr. Wily's Revenge (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>4ba4398181d98958fa7434ba7716f11a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4BA4398181D98958FA7434BA7716F11A</cheevosHash>
+		<cheevosId>2253</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005129" />
+	</game>
+	<game id="3002">
+		<path>./DuckTales (USA).zip</path>
+		<name>Disney's DuckTales</name>
+		<desc>Im Keller von Onkel Dagoberts Villa entdecken Tick, Trick und Track ein altes Stück Papier. Als sie es Onkel Dagobert zeigen, erkennt er es als Teil einer legendären Schatzkarte, von seinem Vater Fergus McDuck. 
+
+Mit den verbleibenden Teilen der Karte, die auf der ganzen Welt versteckt sind, liegt es an Onkel Dagobert diese zu finden und den Schatz von Fergus McDuck zu bergen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/DuckTales (USA)-image.png</image>
+		<video>./videos/DuckTales (USA)-video.mp4</video>
+		<marquee>./images/DuckTales (USA)-marquee.png</marquee>
+		<thumbnail>./images/DuckTales (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19901002T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>DuckTales</family>
+		<players>1</players>
+		<md5>785441d3d75913393807b10b3194dc48</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>785441D3D75913393807B10B3194DC48</cheevosHash>
+		<cheevosId>522</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005131" />
+	</game>
+	<game id="2969">
+		<path>./Final Fantasy Adventure (USA).zip</path>
+		<name>Final Fantasy Adventure</name>
+		<desc>„Mystic Quest“ versetzt den Spieler in die Rolle eines gefangenen Gladiators, der seiner Gefangenschaft entkommt und auf seiner Reise eine höhere Bestimmung entdeckt. Das Geschehen wird aus der Vogelperspektive dargestellt, und Kämpfe finden in Echtzeit statt, wobei Gegner und Spielfiguren ohne Unterbrechung agieren. In Dungeons müssen Rätsel gelöst werden, um voranzukommen. Der Spieler kann bei einem Stufenaufstieg die Attribute seines Charakters wie Stärke oder Ausdauer gezielt verbessern. Neue Ausrüstungen und Waffen ermöglichen nicht nur stärkeren Schutz und Angriffe, sondern auch den Zugang zu neuen Gebieten, beispielsweise durch das Fällen von Bäumen mit einer Axt oder das Überqueren von Abgründen mit einer Peitsche. Die monochrome Pixelgrafik verwendet verschiedene Tönungen zur Unterscheidung von Vorder- und Hintergrund, und die musikalische Untermalung von Kenji Ito und Nobuo Uematsu trägt zur Atmosphäre bei. Der Spielstand kann jederzeit gespeichert und wieder aufgenommen werden, was den Spielfluss erleichtert.</desc>
+		<genre>Rollenspiele / Action-RPG</genre>
+		<image>./images/Final Fantasy Adventure (USA)-image.png</image>
+		<video>./videos/Final Fantasy Adventure (USA)-video.mp4</video>
+		<marquee>./images/Final Fantasy Adventure (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy Adventure (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<md5>24cd3bdf490ef2e1aa6a8af380eccd78</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>24CD3BDF490EF2E1AA6A8AF380ECCD78</cheevosHash>
+		<cheevosId>2403</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005132" />
+	</game>
+	<game id="3167">
+		<path>./Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Game &amp; Watch Gallery</name>
+		<desc>Die Game &amp; Watch Gallery ist die erste tragbare Kollektion der populären 1980er Handheld Spiele, die den bekannten Mr. Game &amp; Watch, sowie Mario und seine Freunde ins Rampenlicht rückt.
+
+Die Sammlung umfasst vier beliebte Titel aus der Game &amp; Watch Serie, jeweils mit einer klassischen und modernen Version jedes Spiels: Octopus, Fire, Manhole und Oil Panic. 
+
+Jeder Modus bietet zwei Schwierigkeitsstufen: Einfach und Schwer. Umso höher dein Punktestand, desto mehr neue Boni werden in der Gallery Corner freigeschaltet. Diese enthalten Erscheinungsdaten, Bilder und Animationen, welche dir die ausführliche Geschichte von Gunpei Yokoi's Game &amp; Watch Handheld-Konsolen näher bringt.</desc>
+		<genre>Sammlung</genre>
+		<image>./images/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced)-image.png</image>
+		<video>./videos/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Game &amp; Watch Gallery (USA) (Rev 1) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19970502T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Game and Watch Gallery</family>
+		<players>1</players>
+		<md5>7727f43d66a77fe0284bf1b8ffede7dd</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7727F43D66A77FE0284BF1B8FFEDE7DD</cheevosHash>
+		<cheevosId>680</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005137" />
+	</game>
+	<game id="3247">
+		<path>./Nemesis (USA).zip</path>
+		<name>Nemesis</name>
+		<desc>Nemesis ist die erste Portierung des Arcade-Klassikers "Gradius" für den Game Boy. Es handelt sich also um ein klassisches Side-Scroller Shoot 'em up. Du steuerst Dein Raumschiff durch 5 unterschiedlich gestaltete Level voller beweglicher Feinde und stationärer Geschütze. Dabei kannst Du Power-Ups einsammeln und Deine Spielweise individuell anpassen, in dem Du entscheidest, wann und wofür Du Deine gesammelten Power-Ups einsetzt.
+Wie schon beim Spielhallen-Klassiker folgt jesed Level einem Gestaltungsthema: Vom Friedhof bis zur Organic-Welt, die ein bisschen an H.R.Giger erinnert, ist einiges dabei. Die Levels können in beliebiger Reihenfolge gespielt werden. Um die Credits zu sehen, muss aber die Reihenfolge eingehalten werden.
+Die Schwierigkeit ist sehr hoch, der Spielspaß trotzdem nicht sehr lang, denn es sind - wie schon gesagt - nur 5 Level, die die Highlights aus Gradius wieder aufleben lassen.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<image>./images/Nemesis (USA)-image.png</image>
+		<video>./videos/Nemesis (USA)-video.mp4</video>
+		<marquee>./images/Nemesis (USA)-marquee.png</marquee>
+		<thumbnail>./images/Nemesis (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1</players>
+		<md5>1eb7ff636e532321a18885eea660604a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1EB7FF636E532321A18885EEA660604A</cheevosHash>
+		<cheevosId>4747</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005139" />
+	</game>
+	<game id="3253">
+		<path>./Trip World (Europe).zip</path>
+		<name>Trip World</name>
+		<desc>Dank der Maita-Blume lebt man die der Trip-World in Frieden. Es wird von einem alten Schabubu geschützt, ein Mitglied einer Rasse von häschenartigen Wesen. Die Blume wächst auf dem heiligen Berg, der als Mount Dubious bekannt ist. Doch eines Tages wird der alte Schabubu angegriffen und die Maita-Blume gestohlen. Trip World wird unordentlich und seine Bewohner hören nicht auf, sich gegenseitig zu streiten. Aber es gibt eine Hoffnung in Form des Enkels vom alten Schabubus , Yacopu (auch Yakopoo geschrieben).
+
+Der Spieler kontrolliert Yacopu durch fünf Level in diesem Side-Scrolling-Spiel. Die Fähigkeit des jungen Schabubus ist es, sich in verschiedene Formen zu verwandeln. In seiner normalen Form ist er in der Lage zu gehen und zu springen sowie Gegner zu treten, Yacopus primäre Art des Angriffs. Anders als in vielen anderen Spielen, nimmt man keinen Schaden bei Kontakt mit den Feinde, diese schieben Deinen Charakter nur herum. Allerdings könnten bestimmte Feinde Sie angreifen, wenn Sie diese angreifen und treffen, während andere dies von Anfang an tun.
+
+Zu jeder Zeit kann der Spieler in die fliegende oder schwimmende Form wechseln. Beim fliegen ist Yacopu in der Lage, Orte zu erreichen, an denen er sonst nicht hinkommen würde, während der fischartige Held am besten für Unterwassergebiete geeignet ist. Sie bekommen auch Power-Ups, die vorübergehend Ihren Charakter neue Kräfte, wie die Feinde mit Saat zu betäuben, hüpfen wie ein Ball oder der Angriff mit einem verlängerten Schweif. Neben den Bergen, gibt es in dem Spiel noch ein Dschungelgebiet, das Meer und eine Burg. In jedem Level musst du einen Bossgegner am Ende besiegen. In der Burg begegnen Sie dann den Endboss, der die Maita-Blume gestohlen hat. Die Blume muss zurückbebracht werden, um den Frieden in der Trip-World zurück zubringen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Trip World (Europe)-image.png</image>
+		<video>./videos/Trip World (Europe)-video.mp4</video>
+		<marquee>./images/Trip World (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Trip World (Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19921127T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<players>1</players>
+		<md5>c46e059a69d9b3b4b0b9d8d303c559b3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>C46E059A69D9B3B4B0B9D8D303C559B3</cheevosHash>
+		<cheevosId>2180</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005143" />
+	</game>
+	<game id="3013">
+		<path>./Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Street Fighter II</name>
+		<desc>Vor den beeindruckenden Grafiken, 3D-Animationen und 30 Treffer-Kombo-Angriffen gab es den einfachen Drachenfaustschlag und Feuerball. In dieser stark vereinfachten Version des originalen Street Fighter II-Arcadespiels kannst du aus einer ausgewählten Gruppe von Kriegern wählen, darunter Ryu, Ken, Guile, Blanka, M. Bison, Chun Li, Zangief, Balrog und Sagat, von denen jeder einen einzigartigen Kampfstil und spezielle Angriffe besitzt. Spiele den Einzelspieler-Arcademodus und kämpfe dich durch jeden Charakter im Spiel bis zum Endboss Bison durch oder spiele im Zwei-Spieler-Modus gegen einen Freund.</desc>
+		<genre>Kampf / Versus</genre>
+		<image>./images/Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)-image.png</image>
+		<video>./videos/Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Street Fighter II (USA, Europe) (Rev 1) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19951123T000000</releasedate>
+		<developer>Sun L</developer>
+		<publisher>Capcom</publisher>
+		<family>Street Fighter</family>
+		<players>1-2</players>
+		<md5>2cf83df10495ad163c88698c6c44f1ef</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>2CF83DF10495AD163C88698C6C44F1EF</cheevosHash>
+		<cheevosId>731</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005147" />
+	</game>
+	<game id="3532">
+		<path>./Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Tetris Attack</name>
+		<desc>Nicht alles ist in Ordnung auf Yoshi's Insel! Der hinterhältige König Bowser hat einen Zauber über die Bewohner der Insel geworfen und sie in seine willenlosen Sklaven verwandelt. Nur Yoshi ist von seinen Auswirkungen verschont geblieben, und so muss er sich aufmachen, um seine Freunde zu befreien und Bowser zu besiegen, um den Zauber zu brechen.
+
+Tetris Attack ist ein actiongeladenes Puzzlespiel mit den bunt gemischten Charakteren aus Yoshi's Island. Ein Stapel von Blöcken steigt kontinuierlich vom unteren Bildschirmrand nach oben, und der Spieler steuert einen Cursor, der beliebige zwei Blöcke horizontal tauschen kann. Bildet sich eine Reihe oder Spalte aus drei oder mehr Blöcken, werden sie entfernt und können möglicherweise Kombinationen aus neuen Blöcken erzeugen, die an ihrer Stelle fallen. Kombinationen senden große Müllblöcke an deinen Gegner, die durch das Entfernen eines benachbarten Blocks in normalen Blöcke umgewandelt werden müssen.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)-image.png</image>
+		<video>./videos/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Tetris Attack (USA, Europe) (Rev 1) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19960811T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<family>Tetris</family>
+		<players>1-2</players>
+		<md5>8517ac370fc46971d8a8c106bde4d4c4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>8517AC370FC46971D8A8C106BDE4D4C4</cheevosHash>
+		<cheevosId>2447</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005149" />
+	</game>
+	<game id="2957">
+		<path>./Battletoads-Double Dragon (USA).zip</path>
+		<name>Battletoads / Double Dragon</name>
+		<desc>In Battletoads Double Dragon für den GameBoy ist die Erde unter Beschuss von Colossus, einem Schlachtschiff so groß wie eine Stadt. Mit mächtigen Laserkanonen, hat es die meisten Erdstreitkräfte zerstört, während dessen säubern feindliche Truppen den Rest des Planeten. Den ganzen Rest... außer fünf Kriegern.
+
+Rette die Welt und versohl ein paar Ärsche! Battletoads Double Dragon für den GameBoy!</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Battletoads-Double Dragon (USA)-image.png</image>
+		<video>./videos/Battletoads-Double Dragon (USA)-video.mp4</video>
+		<marquee>./images/Battletoads-Double Dragon (USA)-marquee.png</marquee>
+		<thumbnail>./images/Battletoads-Double Dragon (USA)-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<family>Double Dragon</family>
+		<players>1</players>
+		<md5>13ec0c660b5a963a07b39ecabf0e0ab5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>13EC0C660B5A963A07B39ECABF0E0AB5</cheevosHash>
+		<cheevosId>14164</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005153" />
+	</game>
+	<game id="70769">
+		<path>./Teenage Mutant Ninja Turtles III - Radical Rescue (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles III : Radical Rescue</name>
+		<desc>Turtles 3 - Radical Rescue für den GameBoy ist das "etwas andere" Turtle-Abenteuer. Jeder der "Glorreichen Vier" hat seine besonderen Spezial-Techniken (Verwandlung in einen "schlagkräftigen" Schildkröten-Panzer, Wegbaggern von Grund &amp; Boden, rasanter Nunchacko-Wirbel und flinkes Wände-Erklimmen), die man, je nach Lage der Dinge, einsetzen muss, um voranzukommen.
+Verschiedene Bonus-Gegenstände müssen gefunden werden. Diese bringen nicht nur verbrauchte Energie zurück, sondern es gibt auch einige, die wichtige Zugänge öffnen.
+Mike befreit seine Freunde nach und nach. Jeder gerettete Turtle kann dann auch
+eingesetzt werden. Das ist die Grundvoraussetzung, um die Bosse zu schlagen. Die vier heißen Stages mit einer Vielzahl von verschiedenen Bereichen lassen das Turtles-Herz höher schlagen. Vorsicht: Ein weiter und beschwerlicher Weg wartet auf Sie!</desc>
+		<genre>Plattform / Kampf Scrolling</genre>
+		<image>./images/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)-image.png</image>
+		<video>./videos/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)-video.mp4</video>
+		<marquee>./images/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)-marquee.png</marquee>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Teenage Mutant Ninja Turtles</family>
+		<players>1</players>
+		<md5>e6104df1feb1318ff1764c791eb4ce0e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E6104DF1FEB1318FF1764C791EB4CE0E</cheevosHash>
+		<cheevosId>5203</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005158" />
+	</game>
+	<game id="3023">
+		<path>./Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Kirby's Dream Land 2</name>
+		<desc>Irgendwo inmitten des Dreamland befinden sich die sieben geheimnisvollen Regenbogen-Inseln. Wundervolle Regenbogen-Brücken ragen weit in den Himmel hinein. Doch plötzlich verblassen ihre Farben und die Brücken verschwinden. Nun bist Du gefragt! Begleite Kirby auf seinem Weg, um das mysteriöse Regenbogenschwert zu finden und gegen den boshaften Dark Matter anzutreten. Begleitet wirst Du dabei von treuen Freunden, die Dir unglaubliche Fähigkeiten verleihen. Ein Abenteuer, das seinesgleichen sucht!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1</players>
+		<md5>ddb5bfae32b0ca39cf8ab6c46880126c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>DDB5BFAE32B0CA39CF8AB6C46880126C</cheevosHash>
+		<cheevosId>707</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005200" />
+	</game>
+	<game id="3029">
+		<path>./Gargoyle's Quest (USA, Europe).zip</path>
+		<name>Gargoyle's Quest</name>
+		<desc>Vor vielen Jahren wurde das freundliche Königreich Ghoul von ausserirdischen Kräften erobert, die nur unter dem Namen "Zerstörer" bekannt waren. Es gelang den Zerstören beinahe das Königreich Ghoul in Besitz zu nehmen, doch ein unglaubliches Feuer, das vom Himmel kam, machte den Bösewichten den Garaus. Das Geheimnis dieses mächtigen Feuers ging mit den Jahren verloren und die Zerstörer sind für einen weiteren Angriff zurückgekommen. 
+
+Der einzige, der das Königreich Ghoul retten könnte, ist der Alleinerbe des "Red Gargoyle", der das magische Feuer zurückbringen kann. Da Du Firebrand, der Wächter des Königreichs bist, musst Du den Erben des magischen Feuers ausfindig machen und den Frieden für das Reich wieder herstellen.</desc>
+		<genre>Plattform / Kampf Scrolling</genre>
+		<image>./images/Gargoyle's Quest (USA, Europe)-image.png</image>
+		<video>./videos/Gargoyle's Quest (USA, Europe)-video.mp4</video>
+		<marquee>./images/Gargoyle's Quest (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Gargoyle's Quest (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Gargoyle's Quest</family>
+		<players>1</players>
+		<md5>63e3f5f4b90f17bdf6d2f2aed515e248</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>63E3F5F4B90F17BDF6D2F2AED515E248</cheevosHash>
+		<cheevosId>2411</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005202" />
+	</game>
+	<game id="3176">
+		<path>./Batman - Return of the Joker (USA, Europe).zip</path>
+		<name>Batman : Return of the Joker</name>
+		<desc>In der zwielichtigen Unterwelt wimmelt es von Kriminellen. Noch schlimmer: Der JOKER ist wieder an der Spitze! Recht und Ordnung bedeuten nichts... bis jetzt! Denn BATMAN ist da – und die Action ist heißer denn je! Ohrzerreißende Soundeffekte. Pulsbeschleunigende Musik. Grafiken, die so heiß wie 16-Bit sind. Und dieses Mal schlägt BATMAN schnell und hart zu. Fliegen, springen und rutschen, um anzugreifen! Und mitten ins Herz treffend, der JOKER. Dem CAPED CRUSADER steht ein völlig neues Arsenal zur Verfügung: Batarang, Armbrust, Sonic Neutralizer. Er hat sogar ein Jetpack mit Supertreibstoff. Und noch stärkere Waffen auf Knopfdruck. BATMAN muss seine ganze Kraft einsetzen. Denn diese Welt ist ein sehr dunkler Ort und man weiß nie, wo sich der JOKER versteckt!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Batman - Return of the Joker (USA, Europe)-image.png</image>
+		<video>./videos/Batman - Return of the Joker (USA, Europe)-video.mp4</video>
+		<marquee>./images/Batman - Return of the Joker (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Batman - Return of the Joker (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19920502T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<family>Batman</family>
+		<players>1</players>
+		<md5>97bc907deba1e7d7c9bc72fca0310822</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>97BC907DEBA1E7D7C9BC72FCA0310822</cheevosHash>
+		<cheevosId>2566</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005207" />
+	</game>
+	<game id="3049">
+		<path>./Final Fantasy Legend III (USA).zip</path>
+		<name>Final Fantasy Legend III</name>
+		<desc>„Final Fantasy Legend III“ erzählt von einer großen Flut, die Städte in Vergangenheit, Gegenwart und Zukunft zerstört hat. Der Spieler führt eine Gruppe aus vier Charakteren, reist durch die Zeit und sammelt Teile des Schiffs Talon, um den Feind zu besiegen, der die Flut ausgelöst hat. Entscheidungen in einer Zeitlinie beeinflussen Ereignisse in anderen. Charaktere können sich weiterentwickeln, indem sie nach Kämpfen gefundene Gegenstände nutzen, um sich in Monster oder Roboter zu verwandeln. Erfahrungspunkte wurden durch ein System ersetzt, bei dem magische Steine gewählt werden, die den Charakteren bestimmte Magien dauerhaft verleihen.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy Legend III (USA)-image.png</image>
+		<video>./videos/Final Fantasy Legend III (USA)-video.mp4</video>
+		<marquee>./images/Final Fantasy Legend III (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy Legend III (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19930929T000000</releasedate>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<md5>db156bc96b528996ce1bf771195171af</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DB156BC96B528996CE1BF771195171AF</cheevosHash>
+		<cheevosId>700</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005211" />
+	</game>
+	<game id="3321">
+		<path>./Balloon Kid (USA, Europe).zip</path>
+		<name>Balloon Kid</name>
+		<desc>Schwinge dich in die Lüfte und reise durch ein Land voller Gefahren. Du hältst dich aber nur mit Hilfe von Ballons in der Luft!
+
+Alice muss ihren vom Wind davongetragenen Bruder retten, indem sie durch acht abenteuerliche Stages schwebt. Navigiere geschickt an Gegnern und Hindernissen vorbei und sammle Ballons, um Boni zu erhalten oder lasse deine Ballons los, um dich Gegnern am Boden zu stellen.
+
+Oder versuche dich im Balloon Trip-Modus an immer schwieriger werdenden Leveln und steige in der Rangliste auf. Nimmst du die stürmische Herausforderung an?</desc>
+		<genre>Plattform</genre>
+		<image>./images/Balloon Kid (USA, Europe)-image.png</image>
+		<video>./videos/Balloon Kid (USA, Europe)-video.mp4</video>
+		<marquee>./images/Balloon Kid (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Balloon Kid (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910131T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Balloon Fight</family>
+		<players>1-2</players>
+		<md5>f70c60ca87714fa9d81be60c9ac93de0</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F70C60CA87714FA9D81BE60C9AC93DE0</cheevosHash>
+		<cheevosId>2184</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005215" />
+	</game>
+	<game id="482204">
+		<path>./Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).zip</path>
+		<name>Pokémon Yellow Special Pikachu Edition</name>
+		<desc>Die Handlung und die Spielmechanik der Gelben Edition ist weitestgehend dieselbe wie in der Roten Edition und der Blauen Edition, bietet aber auch einige Änderungen auf, die das Spiel der Animeserie (Pokémon (Anime)) näherbringen. Wie Ash Ketchum im Anime erhält auch der Spieler Pikachu als sein Start-Pokémon.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)-image.png</image>
+		<video>./videos/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1-2</players>
+		<md5>d9290db87b1f0a23b89f99ee4469e34b</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>D9290DB87B1F0A23B89F99EE4469E34B</cheevosHash>
+		<cheevosId>723</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005224" />
+	</game>
+	<game id="3043">
+		<path>./Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land 2</name>
+		<desc>Donkey Kong wurde vom böswilligen King K. Rool entführt. Dieser fordert den Bananenvorrat der Kongs als Lösegeld. Dies wollen Diddy und Dixie Kong nicht hinnehmen und brechen auf, um Donkey Kong aus den Fängen von K. Rool zu befreien.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19961128T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>6e30394fd7ef4a4dc3fe1edd9fc69f72</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6E30394FD7EF4A4DC3FE1EDD9FC69F72</cheevosHash>
+		<cheevosId>694</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005229" />
+	</game>
+	<game id="3290">
+		<path>./Turrican (USA, Europe).zip</path>
+		<name>Turrican</name>
+		<desc>Ziel des Spiels ist es, durch eine Welt namens Alterra hindurchzugehen und den Endgegner Morgul zu finden und zu vernichten. Alterra wird beschrieben als eine von Menschen durch Bioengineering geschaffene Lebenswelt in einer nahen Galaxie, wo ein intelligentes künstliches Ökosystem erschaffen wurde (Morgul = Multiple Organism Unit Link) um die Planeten bewohnbar zu machen. Dieses System ist jedoch außer Kontrolle geraten, es wurde durch ein Erdbeben beschädigt und seine Funktionen haben sich daraufhin verselbstständigt. Der Spieler schlüpft in die Rolle des Helden (Turrican) und wird nach Alterra geschickt, um die Kolonie wieder für die Menschheit zurückzugewinnen.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Turrican (USA, Europe)-image.png</image>
+		<video>./videos/Turrican (USA, Europe)-video.mp4</video>
+		<marquee>./images/Turrican (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Turrican (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>The Code Monkeys</developer>
+		<publisher>Accolade</publisher>
+		<family>Turrican</family>
+		<players>1</players>
+		<md5>6534eff4dff0000f66a0059f0b84e71e</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6534EFF4DFF0000F66A0059F0B84E71E</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005231" />
+	</game>
+	<game id="3529">
+		<path>./Mole Mania (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Mole Mania</name>
+		<desc>In diesem klassischen Action-Knobelspiel, welches vom berühmten Shigeru Miyamoto entwickelt wurde, muss Muddy Mole seine Familie vor dem bösen Bauern Jinbe retten.
+Dein Ziel ist es, Muddy durch jeden Level zum Ausgang zu führen. Das ist leichter gesagt als getan! Gegner, Hindernisse und ein vertrackter Levelaufbau stellen sich dir in den Weg.
+Glücklicherweise kann Muddy sich unter die Erde graben und so neue Pfade freilegen. Halte außerdem nach Bonus-Abschnitten Ausschau, in denen du es Jinbe heimzahlen kannst!</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Mole Mania (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Mole Mania (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Mole Mania (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Mole Mania (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<md5>f28ade3926852a8ad2e449c274683956</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F28ADE3926852A8AD2E449C274683956</cheevosHash>
+		<cheevosId>2477</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005235" />
+	</game>
+	<game id="3071">
+		<path>./DuckTales 2 (USA).zip</path>
+		<name>Disney's DuckTales 2</name>
+		<desc>Im Keller von Onkel Dagoberts Villa entdecken Huey, Dewey und Louie ein altes Stück Papier. Als sie es Onkel Dagobert zeigen, erkennt er darin einen Teil der legendären Schatzkarte seines Urgroßonkels Fergus McDuck! Da die verbleibenden Teile der Karte auf der ganzen Welt versteckt sind, liegt es an Onkel Dagobert, sie zu finden und Fergus McDucks geheimen Schatz zu entdecken! Duck Tales 2 ist die Fortsetzung des NES- und Game Boy-Spiels Duck Tales. Basierend auf dem gleichnamigen Disney-Cartoon steuern die Spieler Onkel Dagobert, der auf der ganzen Welt nach gewaltigen Reichtümern sucht und dabei versucht, versteckte Teile der Karte zu entdecken.</desc>
+		<genre>Plattform</genre>
+		<image>./images/DuckTales 2 (USA)-image.png</image>
+		<video>./videos/DuckTales 2 (USA)-video.mp4</video>
+		<marquee>./images/DuckTales 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/DuckTales 2 (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>DuckTales</family>
+		<players>1</players>
+		<md5>b4e5876c5acedd12b62e25a12973a4ae</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B4E5876C5ACEDD12B62E25A12973A4AE</cheevosHash>
+		<cheevosId>5601</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005240" />
+	</game>
+	<game id="3381">
+		<path>./Parodius (Europe).zip</path>
+		<name>Parodius</name>
+		<desc>Dabei handelt es sich größtenteils um eine Parodie auf Gradius (auf manchen Systemen Nemesis), mit etwas Anklang an andere Shoot-em-Ups wie Twinbee. Die Serie ist auf zahlreichen Plattformen verfügbar. Das Spiel ist ein von rechts nach links scrollendes Shoot-Em-Up. Sie können aus 4 verschiedenen fliegenden Kreaturen mit unterschiedlichen Waffen wählen. Sie müssen 7 Abschnitte abschließen, von denen jeder am Ende einen Boss hat. Sie können bei beiden beginnen, müssen aber jedes Level abschließen, um zur letzten Stufe zu gelangen.</desc>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<image>./images/Parodius (Europe)-image.png</image>
+		<video>./videos/Parodius (Europe)-video.mp4</video>
+		<marquee>./images/Parodius (Europe)-marquee.png</marquee>
+		<thumbnail>./images/Parodius (Europe)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Palcom</publisher>
+		<family>Parodius</family>
+		<players>1</players>
+		<md5>c94afb46cada0118aa8ff08cc07749a4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>C94AFB46CADA0118AA8FF08CC07749A4</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005242" />
+	</game>
+	<game id="2970">
+		<path>./Super Mario Land (World) (Rev 1).zip</path>
+		<name>Super Mario Land</name>
+		<desc>In Marios bejubeltem Debüt auf dem Game Boy verschlägt es den wendigen Klempner in unbekannte Lande: Sarasaland, in dem das böse Weltraumungeheuer Tatanga die Menschen hypnotisiert und Prinzessin Daisy entführt hat!
+
+Das Gameplay mit seiner gelungenen Mischung aus Jump'n'Run und Power-Ups ist zwar zu Anfang vertraut, doch Super Mario Land ist durch die Einbindung von Fahrzeugen wie Flugzeug und U-Boot, mit denen sich Mario fortbewegen kann, einzigartig.
+
+An Land, zu Wasser und in der Luft wirst du dein ganzes Geschick brauchen, um die vier Königreiche von Sarasaland zu durchqueren. Denn nur so kannst du den hinterhältigen Tatanga besiegen und Daisy retten.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Super Mario Land (World) (Rev 1)-image.png</image>
+		<video>./videos/Super Mario Land (World) (Rev 1)-video.mp4</video>
+		<marquee>./images/Super Mario Land (World) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Land (World) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19890731T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<family>Super Mario Bros</family>
+		<players>1</players>
+		<md5>b259feb41811c7e4e1dc200167985c84</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>B259FEB41811C7E4E1DC200167985C84</cheevosHash>
+		<cheevosId>504</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005248" />
+	</game>
+	<game id="3082">
+		<path>./Kid Icarus - Of Myths and Monsters (USA, Europe).zip</path>
+		<name>Kid Icarus : Of Myths and Monsters</name>
+		<desc>Den Anfang machte Kid Icarus für NES (jetzt in der 3D Classics-Reihe für Nintendo 3DS), in dem der Engelskrieger Pit gegen Medusas Truppen ankämpfte.
+Fünf Jahre später feierte Pit seine Rückkehr in Kid Icarus: Von Mythen und Monstern für den Game Boy. Hier wird das ursprünglich vertikal scrollende Action-Spiel zu einem seitlich scrollenden Action-Abenteuer erweitert, in dem Pit sich den Lakaien des mysteriösen Dämonen Orcos gegenüberstellt. Es sollte 20 Jahre dauern, bis Pit sich wieder in die Lüfte schwingen würde ? in Kid Icarus: Uprising für Nintendo 3DS!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Kid Icarus - Of Myths and Monsters (USA, Europe)-image.png</image>
+		<video>./videos/Kid Icarus - Of Myths and Monsters (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kid Icarus - Of Myths and Monsters (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kid Icarus - Of Myths and Monsters (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19911105T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kid Icarus</family>
+		<players>1</players>
+		<md5>23c7be98ac9a4d3b046ad1be3f0965e4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>23C7BE98AC9A4D3B046AD1BE3F0965E4</cheevosHash>
+		<cheevosId>704</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005251" />
+	</game>
+	<game id="3433">
+		<path>./Pinball - Revenge of the 'Gator (USA, Europe).zip</path>
+		<name>Pinball : Revenge of the 'Gator</name>
+		<desc>Pinball: Revenge of the Gator ist eine rasante Flipper-Simulation, die einen Tisch voller Tricks und Fallen im perfekten Taschenformat bietet.
+Es gibt vier scrollende Bildschirme und drei Bonus-Level, an denen du dich festbeißen kannst. Befördere den Ball an bestimmte Stellen, um Extrakugeln und Multiplikatoren zu erhalten. Aber lass die Kugel nicht durch, sonst wird sie vom hungrigen Alligator verschlungen.
+Du kannst dir auch einen Freund schnappen und im Zweispieler-Modus abwechselnd um den Highscore spielen.</desc>
+		<genre>Flipper</genre>
+		<image>./images/Pinball - Revenge of the 'Gator (USA, Europe)-image.png</image>
+		<video>./videos/Pinball - Revenge of the 'Gator (USA, Europe)-video.mp4</video>
+		<marquee>./images/Pinball - Revenge of the 'Gator (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Pinball - Revenge of the 'Gator (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19891018T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<md5>113d8f894df6b8c3641b2ba1fe60c250</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>113D8F894DF6B8C3641B2BA1FE60C250</cheevosHash>
+		<cheevosId>5937</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005255" />
+	</game>
+	<game id="3056">
+		<path>./Dr. Mario (World) (Rev 1).zip</path>
+		<name>Dr. Mario</name>
+		<desc>Was geschieht, wenn ein Klempner zum Halbgott in Weiß aufsteigt, macht diese perfekte Kombination aus dem Superhit Tetis mit der niedlichen Mario-Welt deutlich. In diesem simplen, aber absolut suchtgefährlichen Game lehrt Dr. Mario mit geschickter Medikamentenkombination die fiesen Bazillen das Fürchten. Gerade in der anstehenden Grippezeit ein Spiel, das in keiner Tasche fehlen darf.
+Hilf Dr. Mario beim Kampf gegen bösartige Viren, indem du diese mit bunten Vitaminen bombardierst.</desc>
+		<genre>Puzzle / Fallen</genre>
+		<image>./images/Dr. Mario (World) (Rev 1)-image.png</image>
+		<video>./videos/Dr. Mario (World) (Rev 1)-video.mp4</video>
+		<marquee>./images/Dr. Mario (World) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Dr. Mario (World) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Dr. Mario</family>
+		<players>1-2</players>
+		<md5>921bdff008475aa2c5344e1a0d110910</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>921BDFF008475AA2C5344E1A0D110910</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005300" />
+	</game>
+	<game id="2991">
+		<path>./Metroid II - Return of Samus (World).zip</path>
+		<name>Metroid II : Return of Samus</name>
+		<desc>In Metroid II: Return of Samus reist Samus Aran auf den Heimatplaneten der Metroids, SR388, um die gefährlichen Kreaturen ein für alle Mal auszurotten. In einem weit verzweigten Höhlensystem jagst du jede einzelne Evolutionsstufe der Metroids, sammelst Upgrades wie die Spinnenkugel oder den Plasma-Strahl und kämpfst dich immer tiefer in das feindliche Terrain. Nur wer entschlossen und gut ausgerüstet ist, kann die Bedrohung endgültig beseitigen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Metroid II - Return of Samus (World)-image.png</image>
+		<video>./videos/Metroid II - Return of Samus (World)-video.mp4</video>
+		<marquee>./images/Metroid II - Return of Samus (World)-marquee.png</marquee>
+		<thumbnail>./images/Metroid II - Return of Samus (World)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19910826T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Metroid</family>
+		<players>1</players>
+		<md5>9639948ad274fa15281f549e5f9c4d87</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9639948AD274FA15281F549E5F9C4D87</cheevosHash>
+		<cheevosId>521</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005302" />
+	</game>
+	<game id="3356">
+		<path>./R-Type (USA, Europe).zip</path>
+		<name>R-Type</name>
+		<desc>R-TYPE – einer der beliebtesten Arcade-Shooter aller Zeiten in einer pixelgenauen Umsetzung! Zerstörte POW-Kapseln setzen eines von sechs verschiedenen Extra-Items zum Aufrüsten des eigenen R-9-Jägers frei. Die Force, ein hoch entwickeltes Angriffsmodul, ist ein unerlässliches Hilfsmittel im Kampf gegen die außerirdische Bedrohung: Geschickte Piloten koppeln sie von ihrem R-9 ab und schicken sie auf Gegnerjagd oder bestücken sie mit zahlreichen Extrawaffen wie Reflektor-Laser, Luft-Boden- oder Flugabwehrraketen. Ein längerer Druck auf den Feuerknopf aktiviert die Beam-Kanone: Wer es schafft, diese mächtige Wunderwaffe lange genug aufzuladen, entfesselt einen Energiestoß, in dem jeder Widerstand verglüht! Die unbestrittenen Höhepunkte dieses Meisterwerks sind die bildschirmfüllenden Endgegner und der legendäre dritte Level, in dem der Spieler allein gegen ein monströses Schlachtschiff bestehen muss.</desc>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<image>./images/R-Type (USA, Europe)-image.png</image>
+		<video>./videos/R-Type (USA, Europe)-video.mp4</video>
+		<marquee>./images/R-Type (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/R-Type (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>B.I.T.S.</developer>
+		<publisher>Irem</publisher>
+		<family>R-Type</family>
+		<players>1</players>
+		<md5>972dc35b3b2bd0762999b1ae48da94f6</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>972DC35B3B2BD0762999B1AE48DA94F6</cheevosHash>
+		<cheevosId>7009</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005304" />
+	</game>
+	<game id="3059">
+		<path>./Bubble Bobble (USA, Europe).zip</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble ist die Geschichte zweier Menschen, Bub und Bob, die in die mysteriöse Monsterhöhle schlendern und sich auf magische Weise in Drachen verwandeln. Die einzige Möglichkeit, sich zurück zu verwandeln, besteht darin, das Ende der Höhle zu erreichen...
+
+Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist. Alle Feinde müssen in einem Level besiegt werden, um zum nächsten zu gelangen. Mit einem Spieler, der Bub kontrolliert und dem anderen, der Bob kontrolliert, kann der Spieler springen und Gegenstände für Punkte (wie Obst) sammeln. Die wahre Kraft, die Bub und Bob haben, ist jedoch die Fähigkeit, Blasen zu blasen. Diese Blasen können als Plattformen dienen, auf die man springen kann, oder man kann Feinde in ihnen fangen. Auf Feinde, die in einer Blase gefangen sind, muss man springen, damit diese zu Früchten werden. Außerdem schweben manchmal Power-Ups in Blasen. Dazu gehören Blitze, die Feinde horizontal treffen, und Wasser, das Spieler und Feinde direkt über Plattformen nach unten spült. Wenn Sie zu lange brauchen, um ein Level zu beenden, wird Baron Von Blubba gerufen, der auf dem Bildschirm herumschwebt und versucht, den Spieler zu zerstören.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Bubble Bobble (USA, Europe)-image.png</image>
+		<video>./videos/Bubble Bobble (USA, Europe)-video.mp4</video>
+		<marquee>./images/Bubble Bobble (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Bubble Bobble (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19910302T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<family>Bubble Bobble</family>
+		<players>1</players>
+		<md5>11c49d405eef2174d9c14682204bb458</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>11C49D405EEF2174D9C14682204BB458</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005305" />
+	</game>
+	<game id="3120">
+		<path>./Bionic Commando (USA).zip</path>
+		<name>Bionic Commando</name>
+		<desc>Du spielst einen Soldaten mit einem bionischen Arm, der sich ausdehnt und zusammenzieht. Mit deinem Arm kannst du dich an festen Objekten festhalten, um sich herumzuschwingen und Ebenen zu erklimmen – Springen ist nicht erlaubt! Der Arm greift auch Gegner und zieht sie zu sich.
+
+Deine Mission ist es, die feindliche Festung zu infiltrieren, deinen vermissten Kameraden „Super Joe“ zu finden und den bösen Anführer „Generalissimo Kilt“ der Invasionstruppe auszuschalten, die das Volk seit 2 Jahren angreift.
+Nach den meisten Levels erhält das Bionic Commando Items. Oft werden diese Gegenstände benötigt, um andere Level erfolgreich abzuschließen. Darüber hinaus erfordert jede Ebene einen andersfarbigen Kommunikator, um den Nachrichtenverkehr zu verstehen</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Bionic Commando (USA)-image.png</image>
+		<video>./videos/Bionic Commando (USA)-video.mp4</video>
+		<marquee>./images/Bionic Commando (USA)-marquee.png</marquee>
+		<thumbnail>./images/Bionic Commando (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19920919T000000</releasedate>
+		<developer>Minakuchi Engineering</developer>
+		<publisher>Capcom</publisher>
+		<family>Bionic Commando</family>
+		<players>1</players>
+		<md5>f89a33de3fa660a13ec29bb323efffa9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F89A33DE3FA660A13EC29BB323EFFFA9</cheevosHash>
+		<cheevosId>6435</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005307" />
+	</game>
+	<game id="69990">
+		<path>./Pokemon - Red Version (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Pokémon : Red Version</name>
+		<desc>Der stille Held der Roten Edition und der Blauen Edition ist ein Junge aus Alabastia (Masara Town, engl.: Pallet Town). Nachdem er alleine die Stadt verlassen will, warnt eine Stimme den Spieler, zu stoppen. Professor Eich, ein berühmter Pokémon-Forscher, erklärt dem Spieler, dass viele wilde Pokémon da draußen leben, und dass es deshalb gefährlich sei alleine da "raus" zu gehen. Er nimmt den Spieler mit in sein Labor, wo dieser Eichs Enkel kennenlernt, der ebenfalls ein Pokémon-Trainer werden möchte. Der Spieler und sein Rivale werden beide dazu aufgefordert, sich ein Starter-Pokémon (Glumanda, Schiggy oder Bisasam) auszusuchen. Der Rivale fordert den Spieler danach zu einem Kampf mit den gerade erhaltenen Pokémon heraus. Dies wird er im Spielverlauf noch öfter tun.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Pokemon - Red Version (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Pokemon - Red Version (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Pokemon - Red Version (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Pokemon - Red Version (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19991008T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pokémon</family>
+		<players>1-2</players>
+		<md5>3d45c1ee9abd5738df46d2bdda8b57dc</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3D45C1EE9ABD5738DF46D2BDDA8B57DC</cheevosHash>
+		<cheevosId>724</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T005310" />
+	</game>
+	<game id="2980">
+		<path>./Wario Land - Super Mario Land 3 (World).zip</path>
+		<name>Wario Land : Super Mario Land 3</name>
+		<desc>Auf der Pfeffer-Insel brodelt in Super Mario Land 3: Wario Land für GameBoy die Gerüchteküche! Wario hat doch tatsächlich vor, den Schatz der Piraten zu klauen, um sich endlich sein eigenes Schloss bauen zu können. Mit Deiner Hilfe kann er die magischen Pötte zertrümmern und so seinen Plan verwirklichen. Die Pötte verwandeln ihn in Drachen-Wario, Stier-Wario oder Jet-Wario. Jede Verwandlung bedeutet in Super Mario Land 3: Wario Land für GameBoy neue, unglaubliche Super Power! Dutzende von Gegnern versuchen sich Wario in den Weg zu stellen, aber mit Deinen Super-Kräften kannst Du ihnen die Suppe gehörig versalzen!</desc>
+		<genre>Plattform / Jump 'n' Run</genre>
+		<image>./images/Wario Land - Super Mario Land 3 (World)-image.png</image>
+		<video>./videos/Wario Land - Super Mario Land 3 (World)-video.mp4</video>
+		<marquee>./images/Wario Land - Super Mario Land 3 (World)-marquee.png</marquee>
+		<thumbnail>./images/Wario Land - Super Mario Land 3 (World)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19940202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Wario</family>
+		<players>1</players>
+		<md5>d9d957771484ef846d4e8d241f6f2815</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>D9D957771484EF846D4E8D241F6F2815</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005315" />
+	</game>
+	<game id="3258">
+		<path>./R-Type II (Europe).zip</path>
+		<name>R-Type II</name>
+		<desc>Der zweite R-Type bietet mehr von der gleichen Shoot-Em-Up-Action.
+Das Gameplay ist identisch mit dem vorherigen R-Type, außer dass Sie jetzt über zwei neue Waffen verfügen.
+
+Es gibt sechs Level mit ähnlichen Themen wie im vorherigen Spiel. Zu den bemerkenswerten Teilen gehören eine Unterwasserschlacht in Level 2 und eine riesige Bydo-Flotte in Level 3.
+
+Der Game Boy-Version von R-Type 2 fehlen ein Level und die beiden neuen Waffen aus dem ursprünglichen Arcade-Spiel.</desc>
+		<genre>Shoot'em Up / Horizontal</genre>
+		<image>./images/R-Type II (Europe)-image.png</image>
+		<video>./videos/R-Type II (Europe)-video.mp4</video>
+		<marquee>./images/R-Type II (Europe)-marquee.png</marquee>
+		<thumbnail>./images/R-Type II (Europe)-thumb.png</thumbnail>
+		<rating>0.4</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<family>R-Type</family>
+		<players>1</players>
+		<md5>967030223fa85f7ba4ac71f26837f831</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>967030223FA85F7BA4AC71F26837F831</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T005316" />
+	</game>
+	<game id="3204">
+		<path>./Harvest Moon GB (USA) (SGB Enhanced).zip</path>
+		<name>Harvest Moon GB</name>
+		<desc>Harvest Moon ist eine Landwirtschaftssimulation, in der Sie im Laufe eines Jahres eine Farm aufbauen und unterhalten müssen, während Sie gleichzeitig auf Ihr Budget und sich selbst achten müssen. Sie haben die Möglichkeit, Nutztiere, Feldfrüchte und andere Vorräte, die Sie haben, zu kaufen, zu verkaufen und zu pflegen. Sie können mit vielen Einwohnern der Stadt und anderen Bauern Handel treiben. Wenn Sie den Game Boy eines Freundes verknüpfen, können Sie auch Gegenstände zwischen Spielern tauschen. Die örtlichen Geschäfte bieten zahlreiche Artikel an, die Sie bei Ihrer Suche unterstützen, natürlich gegen Aufpreis. Und wenn Sie Zeit haben, können Sie in der Stadt auf der Suche nach etwas Spaß abseits der Arbeit herumschlendern.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Harvest Moon GB (USA) (SGB Enhanced)-image.png</image>
+		<video>./videos/Harvest Moon GB (USA) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Harvest Moon GB (USA) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Harvest Moon GB (USA) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19971218T000000</releasedate>
+		<developer>Victor Interactive Software</developer>
+		<publisher>Natsume</publisher>
+		<family>Harvest Moon</family>
+		<players>1-2</players>
+		<md5>7ef69878c3b5bc5532c69a51a2dd42f3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7EF69878C3B5BC5532C69A51A2DD42F3</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T101744" />
+	</game>
+	<game id="3014">
+		<path>./Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles : Fall of the Foot Clan</name>
+		<desc>Einmal mehr müssen die vier Turtles Leonardo, Donatello, Raphael und Michelangelo die Reporterin April O'Neil aus den Fängen von Shredder, Krang und dem Foot Clan befreien. Dabei führt sie ihr Weg durch die Kanalisation, über die Straßen von New York City bis zum Technodrome, der Aufenthaltsstätte des Shredders und ihrer entführten Freundin.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)-image.png</image>
+		<video>./videos/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)-video.mp4</video>
+		<marquee>./images/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)-marquee.png</marquee>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19900803T000000</releasedate>
+		<developer>Ultra Games</developer>
+		<publisher>Konami</publisher>
+		<family>Teenage Mutant Ninja Turtles</family>
+		<players>1</players>
+		<md5>ad868e84fb6071a3b6a211d16e6cbb66</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AD868E84FB6071A3B6A211D16E6CBB66</cheevosHash>
+		<cheevosId>735</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101749" />
+	</game>
+	<game id="3200">
+		<path>./Alleyway (World).zip</path>
+		<name>Alleyway</name>
+		<desc>Alleyway ist eine grundlegende Breakout-Variante. Als Mario muss der Spieler ein "Podship" kontrollieren und den Ball in Richtung der Blöcke ablenken. Wenn ein Block getroffen, wird er entweder geschwächt oder zerstört. Sobald alle Blöcke zerstört sind, ist das Level abgeschlossen.
+
+Das Spiel verwendet eine kleine Anzahl sich wiederholender Tische zusammen mit Drehungen wie horizontaler Drehung, periodischem vertikalem Abfall der gesamten Masse von Blöcken usw.</desc>
+		<genre>Action / Breakout Spiele</genre>
+		<image>./images/Alleyway (World)-image.png</image>
+		<video>./videos/Alleyway (World)-video.mp4</video>
+		<marquee>./images/Alleyway (World)-marquee.png</marquee>
+		<thumbnail>./images/Alleyway (World)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<md5>91128778a332495f77699eaf3a37fe30</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>91128778A332495F77699EAF3A37FE30</cheevosHash>
+		<cheevosId>682</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101751" />
+	</game>
+	<game id="3254">
+		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).zip</path>
+		<name>Adventure Island II</name>
+		<desc>Jeannie Jungle wurde von Außerirdischen entführt!
+
+Sie ist irgendwo auf einer von acht Inseln gestrandet und du, als der etwas heldenhafte Meister Higgins, must sie finden. Aber sei vorsichtig - Jede Insel wird von einer enorme Kreatur bewacht und sie ist sehr hungrig!
+
+Erkunde 8 Level
+Sammle Gegenstände wie: Äxte, Skateboards und Bumerange
+Bitte die lokalen Dinosaurier um Hilfe
+Rette deine Freundin vor den bedrohlichen Außerirdischen
+
+Glücklicherweise hast du ein wenig Hilfe. Es gibt fünf Arten freundlicher Dinosaurier, die darauf warten dich zu unterstützen. Die in Eiern feststecken die du aufbrechen must! Versteckte Eier sind überall auf den Inseln verstreut. Wenn du sie findest und aufbrichst, erhälts du möglicherweise einen Bonus oder sogar einen geheimen Weg zur nächsten Insel! Iss einfach nicht die Aubergine...
+
+Steig also auf einen deiner Dinosaurierfreunde und reite zur Jeannies Rettung!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Adventure Island II - Aliens in Paradise (USA, Europe)-image.png</image>
+		<video>./videos/Adventure Island II - Aliens in Paradise (USA, Europe)-video.mp4</video>
+		<marquee>./images/Adventure Island II - Aliens in Paradise (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Adventure Island II - Aliens in Paradise (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19930202T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<family>Adventure Island</family>
+		<players>1</players>
+		<md5>ed2444afe317452e29c1c2258da6963c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>ED2444AFE317452E29C1C2258DA6963C</cheevosHash>
+		<cheevosId>4486</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101755" />
+	</game>
+	<game id="3222">
+		<path>./Boxxle (USA, Europe) (Rev 1).zip</path>
+		<name>Boxxle</name>
+		<desc>Features:
+- Puzzlespiel mit Suchtfaktor 100!
+- Teste Deine Konzentrationsfähigkeit
+- Knifflige Level und herausforderndes Gameplay
+- Bearbeitungsfunktion zum Erstellen eigener Räume
+
+Boxxle für GameBoy - Mach Dich bereit für ein Puzzlespiel mit Suchtfaktor 100! Das Grundprinzip klingt erst einmal simpel: Bewege die Kisten in einem Lagehaus an die richtige Stelle. Doch Boxxle für GameBoy erfordert mehr Konzentration als Du denkst. Das Spiel basiert auf dem Bewegen von Kisten in einem Lagerhaus. Arbeite Dich Schritt für Schritt durch die kniffligen Räume und gelange in den Bann des Puzzlespiels der Extraklasse. Boxxle für GameBoy gibt Dir außerdem die Möglichkeit mit der Bearbeitungsfunktion Deine ganz eigenen Räume zu erstellen.</desc>
+		<genre>Strategie</genre>
+		<image>./images/Boxxle (USA, Europe) (Rev 1)-image.png</image>
+		<video>./videos/Boxxle (USA, Europe) (Rev 1)-video.mp4</video>
+		<marquee>./images/Boxxle (USA, Europe) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Boxxle (USA, Europe) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atelier Double</developer>
+		<publisher>FCI</publisher>
+		<family>Sokoban</family>
+		<players>1</players>
+		<md5>239fd20f424ee53d2f11018dbd942df4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>239FD20F424EE53D2F11018DBD942DF4</cheevosHash>
+		<cheevosId>6442</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101800" />
+	</game>
+	<game id="3492">
+		<path>./Game Boy Wars Turbo (Japan) (SGB Enhanced).zip</path>
+		<name>Game Boy Wars Turbo</name>
+		<desc>Game Boy Wars Turbo ist eine verbesserte Version des ursprünglichen Game Boy Wars, das am 24. Juni 1997 veröffentlicht wurde. Die wichtigste Neuerung in Game Boy Wars Turbo besteht darin, dass die CPU jetzt über einen besseren Entscheidungsalgorithmus während ihrer Runden verfügt, was Schlachten ermöglicht um schneller voranzukommen als im Original. Turbo bietet außerdem 50 neue Karten sowie Super Game Boy-Unterstützung. Eine alternative Version von Game Boy Wars Turbo wurde als Werbegeschenk von Weekly Famitsu mit einer Reihe von Karten veröffentlicht, die von Lesern des Magazins eingereicht wurden.</desc>
+		<genre>Strategie</genre>
+		<image>./images/Game Boy Wars Turbo (Japan) (SGB Enhanced)-image.png</image>
+		<video>./videos/Game Boy Wars Turbo (Japan) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Game Boy Wars Turbo (Japan) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Game Boy Wars Turbo (Japan) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19970624T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Nintendo</publisher>
+		<players>1-2</players>
+		<md5>c10a76a601ea375593f1cb944c3365e7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>C10A76A601EA375593F1CB944C3365E7</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T101802" />
+	</game>
+	<game id="2978">
+		<path>./Wario Land II (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Wario Land II</name>
+		<desc>Captian Syrup und die gefürchtete Black Sugar Gang sind in Warios Schloß eingebrochen und dabei, seine kostbarsten Schätze zu stehlen. Doch da hört der Spaß auf - nicht ohne Grund ist der grinsende Bösewicht der größte Alptraum der Videospielgeschichte! Und ausgerechnet DU darfst diesem Finsterling helfen, seine Dukaten in Sicherheit zu bringen, bevor Schweinebacke Syrup den Schatz findet und verjubelt. Mach Dich auf etwas gefaßt - auf Dich wartet das mit Abstand verrückteste Game Boy-Abenteuer aller Zeiten!</desc>
+		<genre>Plattform / Jump 'n' Run</genre>
+		<image>./images/Wario Land II (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Wario Land II (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Wario Land II (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Wario Land II (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19980326T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Wario</family>
+		<players>1</players>
+		<md5>e5e8910d436acb9fd218559a216501a3</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>E5E8910D436ACB9FD218559A216501A3</cheevosHash>
+		<cheevosId>740</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101804" />
+	</game>
+	<game id="70767">
+		<path>./Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).zip</path>
+		<name>Teenage Mutant Ninja Turtles II : Back from the Sewers</name>
+		<desc>Teenage Mutant Ninja Turtles II: Back from the Sewers ist das zweite Teenage Mutant Ninja Turtles für den Game Boy. Es ist eine Fortsetzung von Fall of the Foot Clan.
+Diesmal wurde Splinter von Krang gefangen genommen. Leonardo, Michelangelo, Raphael und Donatello machen sich auf die Suche nach ihrem Meister, bis sie bei Krang und Shredder ankommen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)-image.png</image>
+		<video>./videos/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)-video.mp4</video>
+		<marquee>./images/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)-marquee.png</marquee>
+		<thumbnail>./images/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19920521T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Teenage Mutant Ninja Turtles</family>
+		<players>1</players>
+		<md5>0221de99d11f50f79430c8ff9b430994</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0221DE99D11F50F79430C8FF9B430994</cheevosHash>
+		<cheevosId>736</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101808" />
+	</game>
+	<game id="3156">
+		<path>./Mega Man II (USA).zip</path>
+		<name>Mega Man II</name>
+		<desc>Nachdem er die sechs Roboter von Dr. Light besiegt hatte, die der schurkische Dr. Wily in Mega Man umprogrammiert hatte, schien die Welt in Sicherheit zu sein. Aber es sollte nicht sein. Dr. Wily ist aus dem Gefängnis entkommen und wütender als je zuvor. Dieses Mal erschafft er acht neue Robotermeister, um die Welt zu erobern und Mega Man zu vernichten! Ist die Welt dem Untergang geweiht? Mega Man 2 ist die Fortsetzung des NES-Spiels Mega Man. In diesem Spiel sind Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man und Wood Man Dr. Wilys acht preisgekrönte Kreationen, die ausgesandt wurden, um die Welt zu erobern. Wenn Mega Man diese Bosse besiegt, kann er ihre Kräfte stehlen und sie für sich nutzen. Jeder Robotermeister ist gegen die Waffe eines anderen schwach, und durch Experimentieren kann Mega Man die Oberhand gewinnen, indem er die Waffe einsetzt, gegen die er verwundbar ist. Zu den weiteren Ergänzungen des Spiels gehören der „E-Tank“ – ein Gegenstand, der jederzeit verwendet werden kann, um die Energie von Mega Man vollständig aufzufüllen, und ein Passwortsystem, das es den Spielern ermöglicht, ihr Spiel fortzusetzen, indem sie aufzeichnen, welche Robotermeister besiegt wurden und wie viele E-Tanks sie haben. Mega Man 2 entfernt außerdem das Punktesystem aus dem Originalspiel.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Mega Man II (USA)-image.png</image>
+		<video>./videos/Mega Man II (USA)-video.mp4</video>
+		<marquee>./images/Mega Man II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mega Man II (USA)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19920102T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Mega Man</family>
+		<players>1</players>
+		<md5>7fe07271d04ed9e0bc0663dde55a2ae4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7FE07271D04ED9E0BC0663DDE55A2AE4</cheevosHash>
+		<cheevosId>2251</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101810" />
+	</game>
+	<game id="68765">
+		<path>./Kaeru no Tame ni Kane wa Naru (Japan).zip</path>
+		<name>Kaeru no Tame ni Kane wa Naru</name>
+		<desc>In einem weit entfernten Land pflegen zwei Prinzen, Richard und der Prinz von Sablé (der Protagonist des Spiels), seit ihrer Kindheit eine freundschaftliche Rivalität. Eines Tages kommt ein Bote aus dem benachbarten Königreich, um die beiden Prinzen zu warnen. König Delarin fiel in das Mille-Feuille-Königreich ein und nahm Prinzessin Tiramisu gefangen. Von diesem Moment an brach Prinz Richard, der die Gelegenheit sah, die Gunst der Prinzessin zu gewinnen, eilig mit dem Boot auf, um sie zu retten. Der Prinz von Sablé verfolgt ihn in diesem Abenteuer. Während dieser Reise verwandeln sich die beiden Prinzen bei ihren Recherchen in Frösche.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Kaeru no Tame ni Kane wa Naru (Japan)-image.png</image>
+		<video>./videos/Kaeru no Tame ni Kane wa Naru (Japan)-video.mp4</video>
+		<marquee>./images/Kaeru no Tame ni Kane wa Naru (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Kaeru no Tame ni Kane wa Naru (Japan)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19920914T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<md5>4ebe14c4c51555908c0e4cabb66dc813</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>4EBE14C4C51555908C0E4CABB66DC813</cheevosHash>
+		<cheevosId>5045</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101814" />
+	</game>
+	<game id="3017">
+		<path>./Final Fantasy Legend, The (USA).zip</path>
+		<name>The Final Fantasy Legend</name>
+		<desc>Legend, der erste „Final Fantasy“-Titel für den Game Boy, ermöglicht Ihnen die Auswahl aus 8 verschiedenen Charakteren, vom üblichen männlichen oder weiblichen Menschen bis hin zu Zombie, Werratte, Redbull (nicht das Getränk), Clipper oder mutiertem Mann oder Frau. Ganz gleich, wofür Sie sich entscheiden, das Ziel bleibt dasselbe: Erhöhen Sie Ihre Erfahrungspunkte und Fähigkeiten, indem Sie viele verschiedene Feinde im ganzen Land besiegen.
+
+Ähnlich wie in der alten (und neuen) FF-Serie können Sie Mitglieder auswählen, die sich Ihrer Gruppe und der bevorstehenden Quest anschließen (entweder Krieger, Mutanten oder Kreaturen). Für jeden Charakter ist die Anzahl der verfügbaren Bewegungen während jedes Kampfes begrenzt und nach jedem Kampf werden Erfahrungspunkte gesammelt, wodurch Ausdauer, Kraft usw. erhöht werden.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy Legend, The (USA)-image.png</image>
+		<video>./videos/Final Fantasy Legend, The (USA)-video.mp4</video>
+		<marquee>./images/Final Fantasy Legend, The (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy Legend, The (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19900930T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<md5>d5c27ff8cb1b69cb56df4ff170e2baf0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D5C27FF8CB1B69CB56DF4FF170E2BAF0</cheevosHash>
+		<cheevosId>2478</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101816" />
+	</game>
+	<game id="3148">
+		<path>./Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land III</name>
+		<desc>Die Insel Donkey Kong Country wird seit dem Entdecken der legendenumwobenen Verlorenen Welt von zahlreichen Abenteurern besucht. Donkey und Diddy Kong gehören zu den Ersten, die die Verlorene Welt besuchen wollen. Dixie Kong passt derweil auf den kleinen Kiddy Kong auf. Da Dixie die Abenteuerlust überkommt, bricht sie zusammen mit Kiddy auf, um eine neue Herausforderung zu bestreiten und die Verlorene Welt selbst zu entdecken.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)-image.png</image>
+		<video>./videos/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Land III (USA, Europe) (Rev 1) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19971030T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>333444e90c0bfb99c4ff89fdcb920fe4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>333444E90C0BFB99C4FF89FDCB920FE4</cheevosHash>
+		<cheevosId>695</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101817" />
+	</game>
+	<game id="3016">
+		<path>./Donkey Kong Land (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Donkey Kong Land</name>
+		<desc>Cranky Kong ärgert Donkey und Diddy Kong, indem er behauptet, dass Donkey Kong Country nur wegen der tollen Grafik und der modernen Musik zum Erfolg wurde. Um ihm zu beweisen, dass sie auch auf einem 8-Bit-System, wie dem Game Boy, ein erfolgreiches Abenteuer bestreiten können, lassen sich die Kongs ihre Bananen ein weiteres Mal vom böswilligen King K. Rool stehlen und brechen danach in ein neues Abenteuer auf.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Donkey Kong Land (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Donkey Kong Land (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Donkey Kong Land (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Land (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>19950824T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<md5>89bb0d67d5af35c2ebf09d9aef2e34ad</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>89BB0D67D5AF35C2EBF09D9AEF2E34AD</cheevosHash>
+		<cheevosId>693</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101822" />
+	</game>
+	<game id="3044">
+		<path>./Double Dragon (USA, Europe).zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon spielt im postapokalyptischen New York und erzählt die Geschichte von Billy und Jimmy Lee, Zwillingsbrüdern, die im Kampfstil von Sou-Setsu-Ken ausgebildet wurden. Gemeinsam leiten sie eine kleine Kampfsportschule, in der sie ihren Schülern Selbstverteidigung beibringen. Eines Tages wird Billys Freundin Marian von den „Black Warriors“, einer wilden Straßenbande unter der Führung eines Mannes namens Willy, auf der Straße entführt. Die Black Warriors verlangen von den Lee-Brüdern die Offenlegung ihrer Kampfkunstgeheimnisse im Austausch für Marians Freiheit.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Double Dragon (USA, Europe)-image.png</image>
+		<video>./videos/Double Dragon (USA, Europe)-video.mp4</video>
+		<marquee>./images/Double Dragon (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Double Dragon (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Nintendo</publisher>
+		<family>Double Dragon</family>
+		<players>1-2</players>
+		<md5>545de5c311259b7f7ec313a9d58cf4b4</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>545DE5C311259B7F7EC313A9D58CF4B4</cheevosHash>
+		<cheevosId>511</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101824" />
+	</game>
+	<game id="3183">
+		<path>./Kid Dracula (USA, Europe).zip</path>
+		<name>Kid Dracula</name>
+		<desc>Steuere den Helden Kid Dracula, Star des mystischen Transsilvanien. Mit seinem Humor und seinen Zauberfähigkeiten ist er der coolste Vampir, den die Welt je gesehen hat! In diesem Spiel kämpfst und hüpfst Du durch vielseitige und spannende Level und kannst mit 7 unterschiedlichen Zaubern Deine Gegner besiegen. Zusätzlich kann sich Kid Dracula in eine Fledermaus-Form verwandeln und fliegen! Dank mehrerer Spielmodi wird Dir nie langweilig.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Kid Dracula (USA, Europe)-image.png</image>
+		<video>./videos/Kid Dracula (USA, Europe)-video.mp4</video>
+		<marquee>./images/Kid Dracula (USA, Europe)-marquee.png</marquee>
+		<thumbnail>./images/Kid Dracula (USA, Europe)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19930706T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1</players>
+		<md5>24a6b4457a511cc667e9ac25417401ab</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>24A6B4457A511CC667E9AC25417401AB</cheevosHash>
+		<cheevosId>2231</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101826" />
+	</game>
+	<game id="3208">
+		<path>./Kirby's Star Stacker (USA, Europe) (SGB Enhanced).zip</path>
+		<name>Kirby's Star Stacker</name>
+		<desc>Kirbys Star Stacker ist ein Tetris-ähnliches Puzzle-Spiel. Es gibt verschiedene Spielmodi, wie z. B. Zeitspiel (Time Trial), Herausforderung (Challenge) und Geschichte (Story Mode), aber die Grundidee des Spiels ist dieselbe: Du musst Sternenblöcke (Star Block) zwischen zwei Freund-Blöcken (Friend Blocks) entweder horizontal oder vertikal stapeln. Die Freund-Blöcke und alle Sternblöcke dazwischen werden dann aus dem Spiel entfernt. Ähnlich wie bei Tetris fallen Gruppen von Blöcken in den Behälter, der zwei der folgenden Typen enthält:
+
+Sternblöcke: Der wichtigste Block, da alle Spielarten darauf beruhen. Stapel diese Blöcke zwischen zwei Freund-Blöcke entweder horizontal oder vertikal, und sie werden gelöscht. Je mehr Sterne entfallen, desto mehr Punkte sammelst du.
+
+Freund-Blöcke: Diese Blöcke haben Bilder von Kirbys Freunden - Rick der Hamster, Kine der Fish und Coo die Eule (alles von Kirby's Dream Land 2). Ordne zwei von jedem zu, um sie aus dem Bildschirm zu entfernen. Alle Sternblöcke zwischen den beiden Zeichenblöcken werden ebenfalls gelöscht.</desc>
+		<genre>Puzzle / Fallen</genre>
+		<image>./images/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)-image.png</image>
+		<video>./videos/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)-video.mp4</video>
+		<marquee>./images/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)-marquee.png</marquee>
+		<thumbnail>./images/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>19970125T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1-2</players>
+		<md5>f4c0bf35939be6786c099e9eb4635919</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F4C0BF35939BE6786C099E9EB4635919</cheevosHash>
+		<cheevosId>2223</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101827" />
+	</game>
+	<game id="2967">
+		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).zip</path>
+		<name>The Legend of Zelda : Link's Awakening</name>
+		<desc>In The Legend of Zelda: Link's Awakening strandet Link nach einem Schiffbruch auf der geheimnisvollen Insel Cocolint. Um wieder nach Hause zu gelangen, muss er acht magische Instrumente finden und den schlafenden Windfisch erwecken. Dabei erkundet er eine traumartige Welt voller Rätsel, Dungeons und skurriler Figuren. Doch je näher er seinem Ziel kommt, desto mehr verschwimmen die Grenzen zwischen Traum und Wirklichkeit.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)-image.png</image>
+		<video>./videos/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)-video.mp4</video>
+		<marquee>./images/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<md5>69d643bf4e37b3c133518517338b6a1c</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>69D643BF4E37B3C133518517338B6A1C</cheevosHash>
+		<cheevosId>669</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101829" />
+	</game>
+	<game id="3021">
+		<path>./Castlevania - The Adventure (USA).zip</path>
+		<name>Castlevania : The Adventure</name>
+		<desc>Nachdem ihm seine Flügel in Castlevania und Simon's Quest gestutzt wurden, stand der dem Tod trotzende Graf erneut auf. Mit einem Verlangen nach Rache, noch mehr als nach Blut, wird er auf deinen Game Boy kommen, mit Zähnen die vom Licht des silbernen Vollmondes glitzern.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Castlevania - The Adventure (USA)-image.png</image>
+		<video>./videos/Castlevania - The Adventure (USA)-video.mp4</video>
+		<marquee>./images/Castlevania - The Adventure (USA)-marquee.png</marquee>
+		<thumbnail>./images/Castlevania - The Adventure (USA)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<md5>0b4410c6b94d6359dba5609ae9a32909</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0B4410C6B94D6359DBA5609AE9A32909</cheevosHash>
+		<cheevosId>689</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101834" />
+	</game>
+	<game id="69598">
+		<path>./Noobow (Japan).zip</path>
+		<name>Noobow</name>
+		<desc>Noobow auf dem Game Boy ist ein Spiel, in dem Sie als großes humanoides Wesen spielen, das große Schwierigkeiten hat, sich zu bewegen. Dies ist ein japanisches Schokoladenmaskottchen. Ziel des Spiels ist es, Gegenstände zu sammeln und sie dort einzusetzen, wo sie benötigt werden, um zu verhindern, dass Sonne und Regen miteinander kämpfen. Nachdem die Gegenstände an den richtigen Orten verwendet wurden, verschwinden sie, um zu bestätigen, dass die Spieler die richtige Wahl getroffen haben. Es gibt 7 Level im Spiel und Noobow wird sich immer weigern, sein Leben in Gefahr zu bringen. Der Abschluss jedes Levels erfolgt durch das Erreichen des Ziels und das Helfen der dort wartenden Charaktere. Das Ziel jedes Levels ist es, einen Weg zum Ausgang zu finden. Dazu müssen Sie Dekorationselemente verwenden, die alle einen bestimmten Zweck haben. Die Software enthält kein Speichersystem, keinen 2-Spieler-Modus oder ein Punkte- oder Belohnungssystem.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Noobow (Japan)-image.png</image>
+		<video>./videos/Noobow (Japan)-video.mp4</video>
+		<marquee>./images/Noobow (Japan)-marquee.png</marquee>
+		<thumbnail>./images/Noobow (Japan)-thumb.png</thumbnail>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<players>1</players>
+		<md5>ccd0cf7cc240714a9694e1fe296afb7c</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>CCD0CF7CC240714A9694E1FE296AFB7C</cheevosHash>
+		<cheevosId>3629</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T101837" />
+	</game>
+</gameList>

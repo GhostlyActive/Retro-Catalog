@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="21886">
+		<path>./Dragon Ball Z - Budokai 3 (USA).chd</path>
+		<name>Dragon Ball Z : Budokai 3</name>
+		<desc>Als Spieler hat man die Wahl gleich ins Dragonball-Universum einzusteigen, wo aus vielen verschiedenen aus der Serie bekannten Charakteren gewählt werden darf. Während man die verschiedenen Missionen im Universum bewältigt, kann man immer wieder neue Charaktere freischalten und versteckte Extras erhalten. Wichtig ist dafür, dass man das Universum mit allen Charakteren mehrere Male durchspielt, für Langzeitmotivation ist also gesorgt. Zudem erhält man mit wachsender Erfahrung noch zusätzliche Punkte, mit denen man seine Kämpfer aufleveln und so individuell verstärken kann.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Dragon Ball Z - Budokai 3 (USA)-image.png</image>
+		<video>./videos/Dragon Ball Z - Budokai 3 (USA)-video.mp4</video>
+		<marquee>./images/Dragon Ball Z - Budokai 3 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball Z - Budokai 3 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<family>Dragon Ball Z</family>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20260814T003605</lastplayed>
+		<gametime>400</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2327FA0B52C8B016E7200564AAB9E666</cheevosHash>
+		<scrap name="ScreenScraper" date="20260813T231929" />
+		<scrap name="TheGamesDB" date="20260813T224505" />
+	</game>
+	<game id="21967">
+		<path>./Need for Speed - Most Wanted - Black Edition (USA).chd</path>
+		<name>Need for Speed : Most Wanted</name>
+		<desc>Need for Speed - Most Wanted, der neue Rennspiel-Hit aus der erfolgreichen EA-Reihe verbindet die Tuning-Optionen von Need for Speed ​​Underground mit einer erweiterten Version der Polizeiverfolgungsjagden aus der Need for Speed: Hot Pursuit Serie. Das Spiel bietet eine Rap Sheet Funktion (Polizeiakte), die eng mit dem Ruf des Spielers in der Rennszene verknüpft ist, während dieser von der „Blacklist“ zur „A-List“ aufsteigt. Zudem können sich Spieler direkt mit ihren Gegnern messen und gleichzeitig versuchen, mehr als sechs verschiedenen Polizeifahrzeugen gleichzeitig zu entkommen – und das in einer dynamischen, offenen Spielwelt. Optimiere deine Muscle-Cars, Supersportwagen, Tuner und Sportwagen, um der Polizei davonzurasen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Need for Speed - Most Wanted - Black Edition (USA)-image.png</image>
+		<video>./videos/Need for Speed - Most Wanted - Black Edition (USA)-video.mp4</video>
+		<marquee>./images/Need for Speed - Most Wanted - Black Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Need for Speed - Most Wanted - Black Edition (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Need for Speed</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CB41D9FC2E2A206BF6A0684700BA0A0A</cheevosHash>
+		<cheevosId>7788</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092228" />
+	</game>
+	<game id="21978">
+		<path>./Lord of the Rings, The - The Two Towers (USA).chd</path>
+		<name>The Lord of the Rings : The Two Towers</name>
+		<desc>„Der Herr der Ringe: Die zwei Türme“ für Playstation 2 ist ein Konzentrat epischer und blutiger Kämpfe, aber vor allem eine lebendige Hommage an das Werk von Tolkien. Spielen Sie als Aragorn, Legolas, Gimli und der legendäre Isildur in Schlüsselmomenten aus „Die Gefährten“ und „Die zwei Türme“.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Lord of the Rings, The - The Two Towers (USA)-image.png</image>
+		<video>./videos/Lord of the Rings, The - The Two Towers (USA)-video.mp4</video>
+		<marquee>./images/Lord of the Rings, The - The Two Towers (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lord of the Rings, The - The Two Towers (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20021021T000000</releasedate>
+		<developer>Stormfront Studios</developer>
+		<publisher>EA Games</publisher>
+		<family>Lord of the Rings</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092232" />
+	</game>
+	<game id="21882">
+		<path>./Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).chd</path>
+		<name>Dragon Ball Z : Budokai Tenkaichi 3</name>
+		<desc>Dragon Ball Z: Budokai Tenkaichi 3 sorgt für ein extremes 3D Kampferlebnis, das einen neuen, aufregenden Spannungshöhepunkt mit über 150 spielbaren Charakteren im DBZ-Universum setzt. Verbesserte Kampftechniken, hervorragend animierte Effekte und neue Shader-Techniken verleihen jedem Charakter in den über 20 Kampfarenen eine noch realistischere Darstellung wie in der TV-Serie. Weitere Neuerungen sind die mehr als 10 Typen der KI für die Computergegner, der neue Dragon Geschichts-Modus, der es dem Spieler erlaubt, klassische und bekannte Kämpfe aus den Serien nachzuspielen, und der Aufzeichnungs- und Wiederholungsmodus, in dem der Spieler seine größten Kämpfe aufzeichnen, speichern und unbegrenzt in der Wiederholung ansehen kann. Budokai Tenkaichi 3 ist das letzte Dragon Ball-Spiel, welches für die Playstation2 erscheint und kombiniert das Beste der ganzen Reihe in einem ultimativen DBZ-Spiel..</desc>
+		<genre>Kampf</genre>
+		<image>./images/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)-image.png</image>
+		<video>./videos/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)-video.mp4</video>
+		<marquee>./images/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20071113T000000</releasedate>
+		<developer>Spike Co</developer>
+		<publisher>Bandai</publisher>
+		<family>Dragon Ball Z</family>
+		<players>1-2</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>18DF2548CC72B98287170B19F73C502B</cheevosHash>
+		<cheevosId>20590</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092234" />
+	</game>
+	<game id="21937">
+		<path>./Lord of the Rings, The - The Return of the King (USA).chd</path>
+		<name>The Lord of the Rings : The Return of the King</name>
+		<desc>„Der Herr der Ringe: Die Rückkehr des Königs“ ist ein Beat'em All-Spiel, das auf Playstation 2 veröffentlicht wurde. Spielen Sie als einer der 9 Haupthelden aus dem 3. Teil der filmischen Abenteuer von „Der Herr der Ringe“ und erleben Sie die heftigsten Schlachten noch einmal die Geschichte von Mittelerde.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Lord of the Rings, The - The Return of the King (USA)-image.jpg</image>
+		<video>./videos/Lord of the Rings, The - The Return of the King (USA)-video.mp4</video>
+		<marquee>./images/Lord of the Rings, The - The Return of the King (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lord of the Rings, The - The Return of the King (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031105T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<family>Lord of the Rings</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6B75D64925583166F48792FF95ABB05D</cheevosHash>
+		<cheevosId>19263</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092239" />
+	</game>
+	<game id="21964">
+		<path>./Tekken 5 (USA).chd</path>
+		<name>Tekken 5</name>
+		<desc>Nach dem Ende des vierten Turniers wurde der Familienzwist zwischen Jin und Heihachi noch größer. Jin verschont das Leben des Großvaters und verlässt Heihachi in Mishima Zaibatsu, zusammen mit Kazuya, Jins entfremdeten Vater. Ein plötzlicher Angriff einer Horde Jacks führt dazu, dass Kazuya den alten Mann verrät, um zu entkommen...
+Im Schatten dieser Ereignisse wird das fünfte Turnier in Mishima Zaibatsu ausgerufen, und ein mysteriöser Unbekannter leitet die Organisation.
+
+Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. Mit seiner fünften Inkarnation hat Namco Tekkens Titel als König der Prügelspiele ein für alle Mal gesichert.</desc>
+		<genre>Kampf / 2.5D</genre>
+		<image>./images/Tekken 5 (USA)-image.png</image>
+		<video>./videos/Tekken 5 (USA)-video.mp4</video>
+		<marquee>./images/Tekken 5 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tekken 5 (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050224T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2035C46C67113E96A91F84E209E6F6DC</cheevosHash>
+		<cheevosId>9419</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092244" />
+	</game>
+	<game id="21877">
+		<path>./Grand Theft Auto - San Andreas (USA) (v3.00).chd</path>
+		<name>Grand Theft Auto : San Andreas</name>
+		<desc>Vor fünf Jahren hat Carl „CJ“ Johnson es geschafft, den Problemen von Los Santos zu entkommen – einer Stadt im Staat San Andreas, die in Bandenkriegen, Drogen und Korruption zu versinken droht. Wir schreiben nun die frühen 90er. CJ muss zurück – seine Mutter wurde ermordet, seine Familie ist auseinandergebrochen und seine alten Freunde sind drauf und dran, auf direktem Weg ins Verderben zu schlittern. Doch kaum zurück in seiner alten Heimat hängen ihm einige korrupte Cops einen Mord an, was CJ zu einer Reise zwingt, die ihn durch ganz San Andreas führt, um seine Familie zu retten und die Straßen in diesem nächsten Teil der Reihe, die alles verändert hat, unter seine Kontrolle zu bringen.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Grand Theft Auto - San Andreas (USA) (v3.00)-image.png</image>
+		<video>./videos/Grand Theft Auto - San Andreas (USA) (v3.00)-video.mp4</video>
+		<marquee>./images/Grand Theft Auto - San Andreas (USA) (v3.00)-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto - San Andreas (USA) (v3.00)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20041026T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<family>Grand Theft Auto</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F078DDF82924A9F433AAC0D9671BB095</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092249" />
+	</game>
+	<game id="21927">
+		<path>./Prince of Persia - The Sands of Time (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : The Sands of Time</name>
+		<desc>Prince of Persia: The Sands of Time ist ein Action-Plattformspiel für PS2. Sie spielen erneut die Rolle des jungen Prinzen, der den Fehler macht, eine böse Sanduhr zu öffnen, die sofort die Seelen der Palastbewohner verurteilt. Der teuflische Wesir steckt wieder einmal dahinter, und der Spieler muss dem Fluch ein Ende setzen, indem er mit Farahs Unterstützung den Palast überblickt.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)-image.jpg</image>
+		<video>./videos/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031106T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>36CD63C12312E6587B3100DCD6BE35CE</cheevosHash>
+		<cheevosId>2988</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092253" />
+	</game>
+	<game id="22164">
+		<path>./Tony Hawk's Pro Skater 3 (USA) (Rev 1).chd</path>
+		<name>Tony Hawk's Pro Skater 3</name>
+		<desc>Tony Hawk -- der Klassiker der Old-School-Skateboard-Games nun in der überarbeiteten Version 3. Damit übertrifft sich eines der besten Funsport-Games auf dem Markt selbst: einzigartige Steuerbarkeit, ausgefeilte Tricks und trainierbare Trickserien, detaillierte Konfigurierbarkeit der schon legendären Skater (Tony Hawk, Bucky Lasek, Rodney Mullen, Chad Muska und vielen anderen) und natürlich der fulminante Soundtrack mit Originalbands wie Ramones, Red Hot Chili Peppers, Motörhead und anderen. Neu sind die verbesserte grafische Darstellung und einige neue Tricks. Die grafische Überarbeitung geht dabei nicht auf Kosten der Spieltiefe oder Levelanzahl. Trotzdem lassen verblüffend realistische Slams selbst den Zuschauer die Hände vor das Gesicht schlagen.</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Pro Skater 3 (USA) (Rev 1)-image.png</image>
+		<video>./videos/Tony Hawk's Pro Skater 3 (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Pro Skater 3 (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Pro Skater 3 (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20011030T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Neversoft</publisher>
+		<family>Tony Hawk</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7106033AA487F88883203AA2546881E9</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092255" />
+	</game>
+	<game id="21899">
+		<path>./God of War (USA).chd</path>
+		<name>God of War</name>
+		<desc>God of War ist ein mythologisches Actionspiel für PS2. Spielen Sie als Kratos, einen Antihelden, der von den Göttern des antiken Griechenlands sowohl verbannt als auch geschmäht wurde. Um deine Seele zu retten, gehorche göttlichen Befehlen und kämpfe gegen legendäre Kreaturen und Monster in Schlachten von unglaublicher Gewalt, die aber immer wunderschön inszeniert sind.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/God of War (USA)-image.png</image>
+		<video>./videos/God of War (USA)-video.mp4</video>
+		<marquee>./images/God of War (USA)-marquee.png</marquee>
+		<thumbnail>./images/God of War (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050322T000000</releasedate>
+		<developer>SCE Santa Monica</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>God Of War</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>33C1808AC082E236188FB887D97B7688</cheevosHash>
+		<cheevosId>2782</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092256" />
+	</game>
+	<game id="21890">
+		<path>./Grand Theft Auto - Vice City (USA) (v4.00).chd</path>
+		<name>Grand Theft Auto : Vice City</name>
+		<desc>Der Spieler schlüpft in die Rolle von Tommy Vercetti, einem Mann, der 1986 aus dem Gefängnis entlassen wurde, nachdem er 15 Jahre für den Mord an elf Menschen verbüßt hatte. Der Leiter der Organisation, für die er früher gearbeitet hat, Sonny Forelli, befürchtet, dass Tommys Anwesenheit in Liberty City die Spannungen verschärfen und unerwünschte Aufmerksamkeit auf die kriminellen Aktivitäten seiner Organisation lenken wird. Um dies zu verhindern, "befördert" Sonny Tommy angeblich und schickt ihn nach Vice City, wo er als Käufer für eine Reihe von Kokaingeschäften fungieren soll. Bei Tommys erstem Treffen mit den Drogendealern werden Tommys Leibwächter Harry und Lee sowie der Kokainhändler bei einem Überfall von Unbekannten getötet. Es gibt einen weiteren Überlebenden, den Piloten des Hubschraubers des Dealers, der wegfliegt und entkommt. Tommy kommt nur knapp mit dem Leben davon, aber er verliert sowohl das Geld der Forellis als auch das Kokain.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Grand Theft Auto - Vice City (USA) (v4.00)-image.png</image>
+		<video>./videos/Grand Theft Auto - Vice City (USA) (v4.00)-video.mp4</video>
+		<marquee>./images/Grand Theft Auto - Vice City (USA) (v4.00)-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto - Vice City (USA) (v4.00)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021027T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Rockstar Games</publisher>
+		<family>Grand Theft Auto</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D1957288756BA9B96D3BC501F66981A4</cheevosHash>
+		<cheevosId>2739</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092258" />
+	</game>
+	<game id="21940">
+		<path>./Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es).chd</path>
+		<name>Tomb Raider : Legend</name>
+		<desc>Der berühmteste Entdecker aller Zeiten erscheint in einem neuen Abenteuer, illustriert von Tomb Raider Legend auf PS2. Lara Croft macht sich auf die Suche nach einem der wertvollsten Schätze der Welt, einer Waffe, die in der Lage ist, den Frieden in der Welt zu etablieren, aber auch ihren Untergang herbeizuführen. Also durchkreuzen Sie die Fallen auf Ihrem Weg, bekämpfen Sie Ihre Feinde, die um die gleiche Beute wetteifern, und nutzen Sie die akrobatischen Fähigkeiten der Schönheit, um herauszukommen.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060411T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>1695F00F7B3EDC961542D0FC8325C3DC</cheevosHash>
+		<cheevosId>19370</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092259" />
+	</game>
+	<game id="21931">
+		<path>./Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence).chd</path>
+		<name>Metal Gear Solid 3 : Subsistence</name>
+		<desc>MGS3 Subsistence ist eine erweiterte Version des ursprünglichen Snake Eater-Titels. Das Spiel umfasst drei DVDs und bietet ein neues kostenloses Kamerasystem, einen Online-Spielmodus, eine Neuauflage der auf MSX veröffentlichten Episoden und einen mehr als dreistündigen Film, der das gesamte Szenario nachzeichnet. Für diese Neuauflage eines der größten PS2-Klassiker gibt es außerdem zahlreiche weitere Boni.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)-image.png</image>
+		<video>./videos/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)-video.mp4</video>
+		<marquee>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)-marquee.png</marquee>
+		<thumbnail>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Konami Computer Entertainment</developer>
+		<publisher>Konami</publisher>
+		<family>Metal Gear</family>
+		<players>1-8</players>
+		<lang>es,en</lang>
+		<region>us</region>
+		<cheevosHash>25F94103EABED84873D07BDDC6B4177F</cheevosHash>
+		<cheevosId>2831</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092301" />
+	</game>
+	<game id="21904">
+		<path>./Grand Theft Auto III (USA).chd</path>
+		<name>Grand Theft Auto III</name>
+		<desc>Grand Theft Auto III ist ein Actionspiel für PS2, in dem Sie in die Rolle eines Verbrechers schlüpfen, der betrogen und dem Tode überlassen wurde. Natürlich will er sich mit allen Mitteln rächen. Einbrüche, Diebstähle und die Begleichung von Rechnungen werden in Liberty City, der dekadentesten Stadt der Vereinigten Staaten, Ihre einzige Überlebenschance sein.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Grand Theft Auto III (USA)-image.jpg</image>
+		<video>./videos/Grand Theft Auto III (USA)-video.mp4</video>
+		<marquee>./images/Grand Theft Auto III (USA)-marquee.png</marquee>
+		<thumbnail>./images/Grand Theft Auto III (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011022T000000</releasedate>
+		<developer>Rockstar North</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<family>Grand Theft Auto</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8C571E6195962B27D890D9B94A13F6BF</cheevosHash>
+		<cheevosId>2738</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092306" />
+	</game>
+	<game id="22057">
+		<path>./Burnout 3 - Takedown (USA).chd</path>
+		<name>Burnout 3 : Takedown</name>
+		<desc>Burnout 3: Takedown ist ein Rennspiel, das zu aggressivem Fahren anregt und in dem Sie sich mit Ihrem Fahrzeug den Weg zur Ziellinie bahnen, indem Sie Ihre Rivalen ausschalten und massive Massenkarambolagen verursachen. Je mehr Autos Sie ausschalten, je mehr Schaden Sie anrichten, desto mehr Events und Autos können Sie freischalten. Burnout 3 verfügt auch über einen "Crash"-Modus, in dem Sie Ihr Fahrzeug an eine Reihe von Verkehrsknotenpunkten voller fahrender Fahrzeuge und Pickups stellen, um zu sehen, wie viel Schaden Sie anrichten können.
+
+Burnout 3: Takedown setzt die Rennserie mit mehr Autos, mehr Strecken, einer detaillierteren Crash-Engine und einer Vielzahl neuer Spielmodi für Einzelspieler, mehrere Spieler an einem System und Online-Spiel fort.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Burnout 3 - Takedown (USA)-image.jpg</image>
+		<video>./videos/Burnout 3 - Takedown (USA)-video.mp4</video>
+		<marquee>./images/Burnout 3 - Takedown (USA)-marquee.png</marquee>
+		<thumbnail>./images/Burnout 3 - Takedown (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040907T000000</releasedate>
+		<developer>Criterion Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Burnout</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1C5B7B4A94F1C9C02E916F815F9201B2</cheevosHash>
+		<cheevosId>2697</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092310" />
+	</game>
+	<game id="21909">
+		<path>./Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).chd</path>
+		<name>Silent Hill 2</name>
+		<desc>Silent Hill 2 ist keine direkte Fortsetzung der Ereignisse und Charaktere aus dem ersten Silent Hill-Spiel. 
+
+Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen Brief von seiner verstorbenen Frau erhalten hat, in dem sie schreibt, dass sie an ihrem "besonderen Ort" in Silent Hill auf ihn wartet. Zusammen mit Maria, die ihr bis auf ihr aufreizendes Outfit und ihre Persönlichkeit sehr ähnlich sieht, macht er sich auf die Suche nach ihr und findet die Wahrheit über ihren Tod heraus. Zusätzliches Material in Neuveröffentlichungen und Portierungen beinhaltet Born from a Wish, ein Unterszenario, das sich auf Maria konzentriert, bevor sie und James sich treffen.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)-image.png</image>
+		<video>./videos/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)-video.mp4</video>
+		<marquee>./images/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)-marquee.png</marquee>
+		<thumbnail>./images/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20010929T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<family>Silent Hill</family>
+		<players>1</players>
+		<lang>it,es,fr,de,jp,en</lang>
+		<region>us</region>
+		<cheevosHash>87618C9A9DC9FB6975D6177663870670</cheevosHash>
+		<cheevosId>1324</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092312" />
+	</game>
+	<game id="21968">
+		<path>./Metal Gear Solid 2 - Substance (USA).chd</path>
+		<name>Metal Gear Solid 2 : Substance</name>
+		<desc>MGS2 Substance ist eine spezielle Neuveröffentlichung von Sons of Liberty auf PS2. Neben der Möglichkeit, das Spiel durch die Auswahl Ihres Charakters zu wiederholen, werden mehr als 200 Virtual-Reality-Missionen angeboten. Diese zielen darauf ab, die Ecken des Spielsystems auszunutzen und gleichzeitig die Fähigkeiten des Spielers auf die Probe zu stellen. Hinzu kommen diverse neue Mini-Missionen, die im Originalspiel stattfinden, ein Skateboard-Spiel in den Farben von MGS2 und einige weitere Boni.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Metal Gear Solid 2 - Substance (USA)-image.png</image>
+		<video>./videos/Metal Gear Solid 2 - Substance (USA)-video.mp4</video>
+		<marquee>./images/Metal Gear Solid 2 - Substance (USA)-marquee.png</marquee>
+		<thumbnail>./images/Metal Gear Solid 2 - Substance (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20030303T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Metal Gear</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>85E0CCD403BC48676E1A765DA4042A6C</cheevosHash>
+		<cheevosId>2787</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092313" />
+	</game>
+	<game id="22103">
+		<path>./Max Payne (USA).chd</path>
+		<name>Max Payne</name>
+		<desc>Max Payne ist ein Actionspiel für Playstation 2, in dem Sie in die Rolle des gleichnamigen Helden schlüpfen, eines Polizisten, der nichts mehr zu verlieren hat. Von der Polizei und der Mafia gejagt, muss er alles tun, um seine Haut zu retten und sein Image in einem Kampf, den er nicht gewinnen kann, wiederherzustellen.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<image>./images/Max Payne (USA)-image.png</image>
+		<video>./videos/Max Payne (USA)-video.mp4</video>
+		<marquee>./images/Max Payne (USA)-marquee.png</marquee>
+		<thumbnail>./images/Max Payne (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20011206T000000</releasedate>
+		<developer>Rockstar Toronto</developer>
+		<publisher>Rockstar Games</publisher>
+		<family>Max Payne</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F729C65068C216E85A9C5D55AE705AA5</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092317" />
+	</game>
+	<game id="21891">
+		<path>./Resident Evil 4 (USA).chd</path>
+		<name>Resident Evil 4</name>
+		<desc>Resident Evil 4 auf PS2 ist ein sehr actionorientierter Survival-Horror. Sie spielen als Leon S. Kennedy, der Ashley, die Tochter des Präsidenten der Vereinigten Staaten, finden muss, die von einer kleinen Gruppe, die sich in Europa versteckt, entführt wurde. Bewegen Sie sich durch die verschiedenen Umgebungen eines abgelegenen Dorfes und bereiten Sie sich darauf vor, sich einer Horde Zombies zu stellen, die nach Menschenfleisch hungern. Sie können sich auch darauf verlassen, dass Ada (bereits in Resident Evil 2 vorhanden) Ihnen helfen wird.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Resident Evil 4 (USA)-image.png</image>
+		<video>./videos/Resident Evil 4 (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil 4 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 4 (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20051025T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5E9C9844350FB46607AADFA426A3FF41</cheevosHash>
+		<cheevosId>2606</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092322" />
+	</game>
+	<game id="21981">
+		<path>./Prince of Persia - The Two Thrones (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : The Two Thrones</name>
+		<desc>Prince of Persia: The Two Kingdoms für Playstation 2 ist der dritte Teil der von The Sands of Time gestarteten Trilogie. Der Prinz ist so beweglich wie eh und je und leidet unter einem Fluch, weil er längere Zeit dem Sand ausgesetzt war. Manchmal wird der Held so zum Schatten seiner selbst und entfaltet seine dunkle Seite. Sie müssen schnell handeln, um den Wesir zu finden, ihn ein für alle Mal zu töten und sich von Ihrem Bösen zu befreien.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Prince of Persia - The Two Thrones (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Prince of Persia - The Two Thrones (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Prince of Persia - The Two Thrones (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia - The Two Thrones (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051201T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>280F8D66DEC3BBD2560E5085506496F9</cheevosHash>
+		<cheevosId>3291</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092323" />
+	</game>
+	<game id="21985">
+		<path>./Hitman 2 - Silent Assassin (USA) (v1.01).chd</path>
+		<name>Hitman 2 : Silent Assassin</name>
+		<desc>Spielen Sie als Code 47, den unerbittlichsten und pragmatischsten Killer, den es gibt. In Hitman 2: Silent Assassin auf Playstation 2 müssen Sie Aufträge erfüllen, indem Sie sich durch Verkleidungen schleichen oder einfach infiltrieren, um Ihr Ziel zu eliminieren. Zum Zuschlagen können mehrere Waffen eingesetzt werden, darunter auch der berühmte Klavierdraht, mit dem Sie Ihre Opfer diskret erdrosseln können.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<image>./images/Hitman 2 - Silent Assassin (USA) (v1.01)-image.png</image>
+		<video>./videos/Hitman 2 - Silent Assassin (USA) (v1.01)-video.mp4</video>
+		<marquee>./images/Hitman 2 - Silent Assassin (USA) (v1.01)-marquee.png</marquee>
+		<thumbnail>./images/Hitman 2 - Silent Assassin (USA) (v1.01)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021001T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Hitman</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>144AD37E4DCAA9629979C090C45D0967</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092328" />
+	</game>
+	<game id="128570">
+		<path>./God of War II (USA).chd</path>
+		<name>God of War II</name>
+		<desc>God of War II ist ein Beat-'em-up für die PlayStation 2. In diesem zweiten Teil der Reihe schlüpfst du erneut in die Rolle von Kratos – der seines Gottstatus beraubt wurde und nur ein einziges Ziel verfolgt: den Herrscher des Olymps, Zeus, herauszufordern. Hilf ihm, seinen blutigen Rachefeldzug zu Ende zu führen, während du dich gegen Horden von Feinden und legendäre Helden behauptest, die sich dir in den Weg stellen.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/God of War II (USA)-image.png</image>
+		<video>./videos/God of War II (USA)-video.mp4</video>
+		<marquee>./images/God of War II (USA)-marquee.png</marquee>
+		<thumbnail>./images/God of War II (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20070313T000000</releasedate>
+		<developer>SCE Santa Monica</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>God Of War</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>87651D0C2E349E298C694FC650337351</cheevosHash>
+		<cheevosId>2783</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092329" />
+	</game>
+	<game id="22052">
+		<path>./Simpsons, The - Hit &amp; Run (USA).chd</path>
+		<name>The Simpsons : Hit &amp; Run</name>
+		<desc>Seltsame Dinge geschehen im sonst so friedlichen Springfield: Mysteriöse schwarze Lieferwagen fahren durch die Gegend, Kornkreise erscheinen in Getreidefeldern und unheimliche mechanische Insekten fliegen herum. Keine Frage: Hier müssen die Simpsons ran, um dieses Geheimnis aufzudecken!
+Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeugen durch ganz Springfield -- ob man eine Mission nach der anderen absolviert oder lieber ausführlich die Stadt erkundet, bleibt dem Spieler selbst überlassen. Natürlich sind die Missionen erwartet Simpson-typisch. Von Verfolgungsjagden über Zerstöre-das-Fahrzeug-Missonen und vielen weiteren Aufgaben ist alles dabei, was Spaß macht.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Simpsons, The - Hit &amp; Run (USA)-image.jpg</image>
+		<video>./videos/Simpsons, The - Hit &amp; Run (USA)-video.mp4</video>
+		<marquee>./images/Simpsons, The - Hit &amp; Run (USA)-marquee.png</marquee>
+		<thumbnail>./images/Simpsons, The - Hit &amp; Run (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20030910T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<family>The Simpsons</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F172B45C9B6FE2E7E907FA851E804456</cheevosHash>
+		<cheevosId>19010</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092331" />
+	</game>
+	<game id="21916">
+		<path>./Lara Croft Tomb Raider - Anniversary (USA).chd</path>
+		<name>Lara Croft Tomb Raider : Anniversary</name>
+		<desc>Ein mächtiges Syndikat beauftragt Lara Croft mit der Bergung des Scion, einem mystischen Artefakt, das schon vielen Abenteurern das Leben kostete. Lara startet eine Expedition zu verlassenen Gräbern und in unberührten Welten. Verfolgt von furchterregenden Kreaturen und skrupellosen Widersachern versuchen alle in den Besitz des Scion und seiner geheimnisvollen Kräfte zu kommen. Es beginnt ein Wettlauf um Leben und Tod. Feiern Sie zehn Jahre Lara Croft und stürzen Sie sich in ihr brandneues Abenteuer, inspiriert vom ersten Teil der Tomb Raider Serie, demm wohl beliebtesten und erfolgreichsten Action-Adventure-Spiel aller Zeiten!</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Lara Croft Tomb Raider - Anniversary (USA)-image.png</image>
+		<video>./videos/Lara Croft Tomb Raider - Anniversary (USA)-video.mp4</video>
+		<marquee>./images/Lara Croft Tomb Raider - Anniversary (USA)-marquee.png</marquee>
+		<thumbnail>./images/Lara Croft Tomb Raider - Anniversary (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20070605T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F8DB58AF578E0AF8F3C1483088FD574E</cheevosHash>
+		<cheevosId>19341</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092333" />
+	</game>
+	<game id="21911">
+		<path>./Gran Turismo 4 (USA).chd</path>
+		<name>Gran Turismo 4</name>
+		<desc>Gran Turismo 4 für PS2 ist eine realistische Automobilsimulation mit nicht weniger als 700 Autos und fünfzig Strecken. Es stehen Ihnen tausende Möglichkeiten zur Verfügung. Passieren Sie die verschiedenen Strecken, nehmen Sie alle Herausforderungen an, fahren Sie alleine oder im Mehrspielermodus über das lokale Netzwerk, sodass sechs Spieler gegeneinander antreten können. Steigen Sie auch ins Management ein, indem Sie ein stabiler Chef werden. Machen Sie auch Fotos von Ihren Autos in Aktion auf den Rennstrecken.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Gran Turismo 4 (USA)-image.jpg</image>
+		<video>./videos/Gran Turismo 4 (USA)-video.mp4</video>
+		<marquee>./images/Gran Turismo 4 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Gran Turismo 4 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050222T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B7E2E47572F4163A216EA85EED3C6C63</cheevosHash>
+		<cheevosId>20580</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092337" />
+	</game>
+	<game id="21958">
+		<path>./Hitman - Blood Money (USA).chd</path>
+		<name>Hitman : Blood Money</name>
+		<desc>Hitman: Blood Money auf PS2 bietet Agent 47 in einem Action-/Infiltrationsspiel. Sie sind ein Killer, der dafür verantwortlich ist, Ihre Ziele mit größter Diskretion zu eliminieren. Verschmelzen Sie mit dem Hintergrund, finden Sie den ruhigsten Weg zu Ihrem Ziel und tun Sie das, was Sie am besten können: Töten. Alle Mittel sind gut, um Ihre Ziele zu erreichen.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<image>./images/Hitman - Blood Money (USA)-image.png</image>
+		<video>./videos/Hitman - Blood Money (USA)-video.mp4</video>
+		<marquee>./images/Hitman - Blood Money (USA)-marquee.png</marquee>
+		<thumbnail>./images/Hitman - Blood Money (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20060330T000000</releasedate>
+		<developer>IO Interactive</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Hitman</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>71E7239E4D39AB8EF5A7715D1E4B8838</cheevosHash>
+		<cheevosId>19351</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092339" />
+	</game>
+	<game id="22323">
+		<path>./Tony Hawk's Underground (USA).chd</path>
+		<name>Tony Hawk's Underground</name>
+		<desc>Tony Hawk's Underground ist ein Skateboard-Spiel für Playstation 2, in dem Sie rennen, klettern, klettern und natürlich Skateboard fahren können, um ein Abenteuer mit einer echten Handlung zu erleben. Erstellen Sie Ihre eigenen Levels und passen Sie Ziele an. Haben Sie Spaß, hinter Autos zu hängen und zu fahren, wohin Sie wollen. Dein Ziel? Werden Sie dank Skateboarden reich und berühmt! Es erwarten Sie rund dreißig Kapitel sowie 10 verschiedene Umgebungen.</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Underground (USA)-image.jpg</image>
+		<video>./videos/Tony Hawk's Underground (USA)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Underground (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Underground (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031028T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T092340" />
+	</game>
+	<game id="127678">
+		<path>./Ratchet - Deadlocked (USA) (En,Fr,Es).chd</path>
+		<name>Ratchet : Deadlocked</name>
+		<desc>Ratchet: Gladiator für PS2 ist ein Actionspiel mit dem berühmten Lombax aus der Ratchet and Clank-Serie. Nehmen Sie an einer Art Reality-TV-Show namens DreadZone teil, in der sich die Mutigsten Horden von Droiden stellen, um ein Held für die Bevölkerung zu werden. Es liegt an Ihnen, Ihre Freunde vor dem schrecklichen Gleeman Vox zu retten, der die Fäden dieser Scharade in der Hand hält.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Ratchet - Deadlocked (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Ratchet - Deadlocked (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Ratchet - Deadlocked (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Ratchet - Deadlocked (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20051025T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Ratchet &amp; Clank</family>
+		<players>1-4</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>CC1EF0856C25BBD31A5BAD7D2C07ACA3</cheevosHash>
+		<cheevosId>10873</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092345" />
+	</game>
+	<game id="22238">
+		<path>./Tony Hawk's Pro Skater 4 (USA) (v2.01).chd</path>
+		<name>Tony Hawk's Pro Skater 4</name>
+		<desc>Stell deine Fähigkeiten im Wettbewerb gegen die Skater-Elite der Welt auf die Probe. In den riesigen interaktiven Leveln musst du einiges aus dir herausholen, um die 190 immer schwieriger zu meisternden Aufgaben zu erfüllen. Such dir deine Ziele ohne Zeitdruck ganz in Ruhe aus. Du entscheidest, wann du bereit für die Profi-Challenge bist, denn in den Profi-Rängen herrschen andere Regeln. Bau deine Fähigkeiten aus, verdien dir Respekt und zeig, dass du das Zeug zum Profi hast... Trete in brandneuen Modi wie Ziel-Turnier und Capture the Flag für bis zu 8 Spieler online gegen deine Freunde an!</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Pro Skater 4 (USA) (v2.01)-image.png</image>
+		<video>./videos/Tony Hawk's Pro Skater 4 (USA) (v2.01)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Pro Skater 4 (USA) (v2.01)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Pro Skater 4 (USA) (v2.01)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021023T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9B13279F858B2827311DE7710B454DE6</cheevosHash>
+		<cheevosId>2827</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092347" />
+	</game>
+	<game id="21933">
+		<path>./Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).chd</path>
+		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
+		<desc>Begleiten Sie Ratchet und Clank bei ihrem dritten Abenteuer auf PS2, um die bösen Pläne von Dr. Nefarious zu vereiteln. Zusätzlich zu den zahlreichen Gadgets stehen Ihnen mehr als 15 verschiedene Waffen zur Verfügung, um die Menschen um Sie herum zu vernichten. In einem speziellen Modus können Sie mit anderen spielen, indem Sie drei weitere Freunde einladen.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Ratchet &amp; Clank</family>
+		<players>1-8</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>DC82796C650B59ED625E889D8D0807A9</cheevosHash>
+		<cheevosId>3073</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092352" />
+	</game>
+	<game id="21887">
+		<path>./Shadow of the Colossus (USA).chd</path>
+		<name>Shadow of the Colossus</name>
+		<desc>Shadow of the Colossus für Playstation 2 ist ein Abenteuerspiel voller Poesie, in dem Sie die junge Heldin Wanda spielen, begleitet von ihrem treuen Ross Argo, auf der Suche nach den 16 Kolosse, die die Welt bevölkern und über eine mystische Kraft verfügen, die er erwecken muss den geliebten Menschen aufrichten. Entdecken Sie eine Welt ohne Grenzen, verfolgen Sie Ihr Ziel und lassen Sie sich in ein traumhaftes Universum entführen.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Shadow of the Colossus (USA)-image.png</image>
+		<video>./videos/Shadow of the Colossus (USA)-video.mp4</video>
+		<marquee>./images/Shadow of the Colossus (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shadow of the Colossus (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Sony Computer Entertainment</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D4086E66D4A55A3381574D871A4CE562</cheevosHash>
+		<cheevosId>2992</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092357" />
+	</game>
+	<game id="22376">
+		<path>./FlatOut 2 (USA).chd</path>
+		<name>FlatOut 2</name>
+		<desc>FlatOut 2 ist ein Rennspiel der besonderen Art: Destruction Racing ist das Stichwort - der Gegner wird nicht geschont. Sogar die Umgebung wird mit in das Zerstörungs-Derby einbezogen: Mehr als 5000 zerstörbare Objekte auf jeder Strecke und 40 deformierbare Autoteile sorgen dafür, dass die Zerstörungsorgie von Runde zu Runde größer wird. Dränge Deine Rivalen gegen Brückenpfeiler, fahre Abkürzungen oder schalte in letzter Sekunde den Nitro Boost ein, um an der Konkurrenz vorbeizuziehen. Im Vergleich zum Vorgänger bietet FlatOut 2 mehr als doppelt so viele Fahrzeuge, mehr Strecken und einen erstklassigen Soundtrack mit bekannten Songs.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/FlatOut 2 (USA)-image.png</image>
+		<video>./videos/FlatOut 2 (USA)-video.mp4</video>
+		<marquee>./images/FlatOut 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/FlatOut 2 (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060801T000000</releasedate>
+		<developer>Bugbear Entertainment</developer>
+		<publisher>Empire Interactive</publisher>
+		<family>FlatOut</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CBC4769F8876A7ECA8AD1FAED47304EF</cheevosHash>
+		<cheevosId>20731</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092359" />
+	</game>
+	<game id="22171">
+		<path>./Tony Hawk's Underground 2 (USA).chd</path>
+		<name>Tony Hawk's Underground 2</name>
+		<desc>Tony Hawk's Underground 2 auf PS2 ist eine Skateboard-Simulation, die Sie um einer dummen Wette willen um die Welt führt. Auf Ihrem Board müssen Sie eine besondere Person in der Stadt finden, eine bestimmte Anzahl von Tricks ausführen, diese oder jene Kombination ausführen, Seelöwen jagen oder sogar an Elektrokabeln schleifen. Die Liste ist lang, ebenso wie die verfügbaren Figuren oder die Möglichkeiten, die der Karten- und Skater-Verlag bietet.</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Underground 2 (USA)-image.jpg</image>
+		<video>./videos/Tony Hawk's Underground 2 (USA)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Underground 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Underground 2 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2745E5D82B7F036E2642949E7061F4F3</cheevosHash>
+		<cheevosId>19804</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092403" />
+	</game>
+	<game id="22145">
+		<path>./Max Payne 2 - The Fall of Max Payne (USA).chd</path>
+		<name>Max Payne 2 : The Fall of Max Payne</name>
+		<desc>Max Payne 2: The Fall of Max Payne ist ein Actionspiel für PS2. In diesem Titel nimmt der Polizist seinen Dienst auf der New Yorker Polizeistation wieder auf. Doch während einer dieser Ermittlungen taucht Mona Sax immer wieder verstörend und verstörend in ihrem Leben auf. Der Held beginnt in den gefährlichen Nächten der amerikanischen Stadt auf der Suche nach Antworten umherzuwandern. Seine Reise ins Herz der Hölle geht weiter.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<image>./images/Max Payne 2 - The Fall of Max Payne (USA)-image.png</image>
+		<video>./videos/Max Payne 2 - The Fall of Max Payne (USA)-video.mp4</video>
+		<marquee>./images/Max Payne 2 - The Fall of Max Payne (USA)-marquee.png</marquee>
+		<thumbnail>./images/Max Payne 2 - The Fall of Max Payne (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20031203T000000</releasedate>
+		<developer>Rockstar Vienna</developer>
+		<publisher>Rockstar Games</publisher>
+		<family>Max Payne</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>24C812B95E7CA504B2F7460244697BD5</cheevosHash>
+		<cheevosId>19130</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092407" />
+	</game>
+	<game id="21931">
+		<path>./Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence).chd</path>
+		<name>Metal Gear Solid 3 : Subsistence</name>
+		<desc>MGS3 Subsistence ist eine erweiterte Version des ursprünglichen Snake Eater-Titels. Das Spiel umfasst drei DVDs und bietet ein neues kostenloses Kamerasystem, einen Online-Spielmodus, eine Neuauflage der auf MSX veröffentlichten Episoden und einen mehr als dreistündigen Film, der das gesamte Szenario nachzeichnet. Für diese Neuauflage eines der größten PS2-Klassiker gibt es außerdem zahlreiche weitere Boni.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-image.png</image>
+		<video>./videos/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-video.mp4</video>
+		<marquee>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-marquee.png</marquee>
+		<thumbnail>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Konami Computer Entertainment</developer>
+		<publisher>Konami</publisher>
+		<family>Metal Gear</family>
+		<players>1-8</players>
+		<lang>es,en</lang>
+		<region>us</region>
+		<cheevosHash>F56A15FE8DD2050ED308720DF31F98BC</cheevosHash>
+		<cheevosId>26986</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092408" />
+	</game>
+	<game id="21908">
+		<path>./Need for Speed - Underground 2 (USA).chd</path>
+		<name>Need for Speed : Underground 2</name>
+		<desc>Need for Speed ​​​​Underground 2 für PS2 ist ein Rennspiel, bei dem glänzende Motorhauben und andere bläuliche Xenon-Scheinwerfer im Vordergrund stehen. Der Angeber-Aspekt ist hier mindestens genauso wichtig wie die Ergebnisse in den Rennen. Es liegt an Ihnen, Ihren Körper in städtischen Umgebungen zum schönsten und schnellsten zu machen und nach Rivalen zu suchen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Need for Speed - Underground 2 (USA)-image.png</image>
+		<video>./videos/Need for Speed - Underground 2 (USA)-video.mp4</video>
+		<marquee>./images/Need for Speed - Underground 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Need for Speed - Underground 2 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Games</publisher>
+		<family>Need for Speed</family>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F45E0A19D50C42DBF2870FA34AE708F4</cheevosHash>
+		<cheevosId>5613</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T092413" />
+	</game>
+	<game id="21957">
+		<path>./Prince of Persia - Warrior Within (USA) (En,Fr,Es).chd</path>
+		<name>Prince of Persia : Warrior Within</name>
+		<desc>Der Prinz wird von einer göttlichen Kreatur gejagt, die ihn tot sehen will, und begibt sich auf die Insel der Kaiserin der Zeit mit der Idee, dafür zu sorgen, dass der Sand der Zeit nie erschaffen wird, und den Fluch aufzuheben, der ihn bindet. geht weiter. Prince of Persia: Soul of the Warrior für Playstation 2 ist ein Actionspiel mit einer düsteren und fesselnden Atmosphäre. Erwecke den Krieger in dir und ändere dein Schicksal.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-image.png</image>
+		<video>./videos/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-video.mp4</video>
+		<marquee>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041130T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosHash>D01EA692D069E36C8BEFA5EE8E43303B</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T093202" />
+	</game>
+</gameList>

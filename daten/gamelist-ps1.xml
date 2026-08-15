@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="19493">
+		<path>./Ape Escape (USA).chd</path>
+		<name>Ape Escape</name>
+		<desc>Ein superintelligenter Affe klaut eine Zeitmaschine, um seine dümmlichen Artgenossen auf die Menschheitshistorie loszulassen und den Lauf der Geschichte zu verändern. Spike und Buzz, zwei jugendliche Parahelden, verfolgen die Affenbande, um mit innovativen Fallen dem anstehenden Chaos Einhalt zu gebieten.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Ape Escape (USA)-image.png</image>
+		<video>./videos/Ape Escape (USA)-video.mp4</video>
+		<marquee>./images/Ape Escape (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ape Escape (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19990531T000000</releasedate>
+		<developer>SCE Japan</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Ape Escape</family>
+		<players>1</players>
+		<md5>ab1e7cd54fe85bc0a0ce8650a88f34b6</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>113A06FDB9815C4BC6177D2950E28946</cheevosHash>
+		<cheevosId>11283</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001905" />
+	</game>
+	<game id="157050">
+		<path>./Gran Turismo 2 (USA) (Simulation Mode) (Rev 2).chd</path>
+		<name>Gran Turismo 2 (Simulation Mode)</name>
+		<desc>„Gran Turismo 2“ kehrt zurück mit über 500 Wagenmodellen und mehr als 20 Strecken. Das Spiel bringt realistische Fahrphysik, detaillierte Streckensimulationen und DUALSHOCK-Vibration für ein authentisches Rennerlebnis. Neben Straßenrennen sind diesmal auch Rallye- und Querfeldein-Rennen im Fokus. Fahrzeuge aus aller Welt, von Japan über Europa bis zu den USA, stehen zur Auswahl und können mit Turboladern, Spoilern, Reifen und Getrieben individuell aufgerüstet werden. Bevor alle Möglichkeiten freigeschaltet sind, gilt es, 60 anspruchsvolle Lizenzprüfungen zu meistern. Der Splitscreen-Modus bietet spannende Duelle für zwei Spieler. Bereit für die ultimative Rennherausforderung?</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-image.png</image>
+		<video>./videos/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-video.mp4</video>
+		<marquee>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19991223T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260814T001958" />
+	</game>
+	<game id="19444">
+		<path>./Need for Speed - Porsche Unleashed (USA).chd</path>
+		<name>Need for Speed : Porsche Unleashed</name>
+		<desc>Du kennst deine Grenzen. Es ist Zeit, sie zu überwinden!
+FEATURES:
+- Das exklusive Porsche-Erlebnis mit 74 Porsche-Modellen von 1948 bis heute
+- Die ultimative Rennkarriere im Porsche Evolution-Modus
+- Erledige im Testteam von Porsche den aufregendsten Job der Welt
+- Nervenaufreibende Action mit spektakulären Crashs, Schäden, Verkehr und Polizei
+- Realistische Strecken mit 20 Straßenabschnitten sowie drei Rennkursen
+- Multiplay-Modus für 4 Spieler.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Need for Speed - Porsche Unleashed (USA)-image.png</image>
+		<video>./videos/Need for Speed - Porsche Unleashed (USA)-video.mp4</video>
+		<marquee>./images/Need for Speed - Porsche Unleashed (USA)-marquee.png</marquee>
+		<thumbnail>./images/Need for Speed - Porsche Unleashed (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20000324T000000</releasedate>
+		<developer>Eden Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Need for Speed</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>45F6D4CEE4CA3BFF92B8B269EA911166</cheevosHash>
+		<cheevosId>14732</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001848" />
+	</game>
+	<game id="19269">
+		<path>./Castlevania - Symphony of the Night (USA).chd</path>
+		<name>Castlevania : Symphony of the Night</name>
+		<desc>Die Legende kehrt zurück
+Alucard wird durch das Wiedererscheinen von Castlevania aus seinem ewigen Schlummer erweckt und muss wieder einmal gegen die Knechte der Finsternis antreten. Setzen sie Ihre vampirischen Kräfte sowie Waffen, Tränke und andere Zaubermittel in, um die Geschicke des Kampfes zu Ihren Gunsten zu wenden. Eine Mischung aus Plattformspiel und Rollenspielaction mit vielen verborgenen Bereichen und Geheimnissen. Können Sie alle entdecken?</desc>
+		<genre>Rollenspiele / Action-RPG</genre>
+		<image>./images/Castlevania - Symphony of the Night (USA)-image.png</image>
+		<video>./videos/Castlevania - Symphony of the Night (USA)-video.mp4</video>
+		<marquee>./images/Castlevania - Symphony of the Night (USA)-marquee.png</marquee>
+		<thumbnail>./images/Castlevania - Symphony of the Night (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19971002T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<family>Castlevania</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BF7E0E90D8E8D5738C7332BC6AF666DA</cheevosHash>
+		<cheevosId>11240</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001850" />
+	</game>
+	<game id="19249">
+		<path>./Final Fantasy VII (USA).m3u</path>
+		<name>Final Fantasy VII</name>
+		<desc>Die Shinra Corporation entzieht unserem Planeten alle Lebensenergie. Cloud ein eiskalter Söldner, übernimmt einen Auftrag von einer Gruppe von Öko-Kriegern. Doch er weiß nicht, dass dieser ihn auf eine Reise führt, die nicht nur sein Leben, sondern das Dasein aller Lebewesen im Universum verändern wird...
+Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft aufeinander, Freundschaften werden geschlossen und wieder gelöst, und die Taten eines Einzelnen können die Zukunft entscheidend prägen!    </desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy VII (USA)-image.png</image>
+		<video>./videos/Final Fantasy VII (USA)-video.mp4</video>
+		<marquee>./images/Final Fantasy VII (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy VII (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>665933B4DBBDFA04B328A2DECCEA2A30</cheevosHash>
+		<cheevosId>11242</cheevosId>
+		<multidisk>["./.discs/Final Fantasy VII (USA) (Disc 1).chd","./.discs/Final Fantasy VII (USA) (Disc 2).chd","./.discs/Final Fantasy VII (USA) (Disc 3).chd"]</multidisk>
+		<scrap name="ScreenScraper" date="20260814T001852" />
+	</game>
+	<game id="19266">
+		<path>./CTR - Crash Team Racing (USA).chd</path>
+		<name>Crash Team Racing</name>
+		<desc>Neo Cortex ist leider nicht der einzige geisteskranke Erfinder auf den drei Inseln, die Crash bewohnt. Dr. Nitros Oxide hat in seiner verrückten Art eine ganz eigene Vorstellung, wie er die Weltherrschaft an sich reißen kann. Nachdem er als Kind einen schweren Unfall erlitt, verwandelte er sich in einen ultraschnellen Geschwindigkeitsfreak. Seit dieser Zeit fordert er die Bewohner der Insel zum Rennen heraus, und seit 10 Jahren ist es niemandem gelungen ihn zu schlagen. Dr. Cortex hat seine beiden Freunde und viele seiner Feinde zusammengerufen, um Nitros Oxide ein für alle mal den Garaus zu machen. Wenn einer von ihnen es schafft ihn im Rennen zu schlagen, könnte es vielleicht gelingen, Nitros seinen Hyper Activator abzujagen. Der Hyper Activator ist in der Lage, die ganze Welt in Hochgeschwindigkeitszone zu verwandeln, und dies hätte mit Sicherheit verheerende Folgen. Doch was ist wenn der verrückte Neo Cortex oder ein anderer durchgedrehter Erfinder den Hyper Activator in seine Finger bekommt? Crash und seine Freunde werden dies hoffentlich zu verhindern wissen. Jeder fährt gegen Jeden. Wer ist der Beste und wer kann Nitros Oxide im großen Showdown gegenüber treten? Der 4-Spieler-Splitscreen-Modus sorgt für Spaß und Action bei spannenden Rennen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/CTR - Crash Team Racing (USA)-image.png</image>
+		<video>./videos/CTR - Crash Team Racing (USA)-video.mp4</video>
+		<marquee>./images/CTR - Crash Team Racing (USA)-marquee.png</marquee>
+		<thumbnail>./images/CTR - Crash Team Racing (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Crash Bandicoot</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E5E13057A965C79BA7FC2334993BAEC2</cheevosHash>
+		<cheevosId>10438</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001853" />
+	</game>
+	<game id="19313">
+		<path>./Oddworld - Abe's Exoddus (USA).m3u</path>
+		<name>Oddworld : Abe's Exoddus</name>
+		<desc>Während der Feier anlässlich der Befreiung der Mudokons aus RuptureFarms ereilt Abe eine Vision, in der er von den Geistern toter Mudokons um Hilfe gebeten wird. Die Glukkons nutzen demnach zumeist blinde Mudokon-Sklaven, um in der alten Begräbnisstätte Necrum die Gebeine der Verstorbenen auszugraben und daraus Brühe herzustellen, das sogenannte SoulStorm Brew. Abes Ziel ist es, die Grabschändungen zu stoppen und die Brauerei stillzulegen</desc>
+		<genre>Plattform</genre>
+		<image>./images/Oddworld - Abe's Exoddus (USA)-image.png</image>
+		<video>./videos/Oddworld - Abe's Exoddus (USA)-video.mp4</video>
+		<marquee>./images/Oddworld - Abe's Exoddus (USA)-marquee.png</marquee>
+		<thumbnail>./images/Oddworld - Abe's Exoddus (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive Software</publisher>
+		<family>Oddworld</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8B83D34BF4F4C6C613CFED6292E865CE</cheevosHash>
+		<cheevosId>11285</cheevosId>
+		<multidisk>["./.discs/Oddworld - Abe's Exoddus (USA) (Disc 1).chd","./.discs/Oddworld - Abe's Exoddus (USA) (Disc 2).chd"]</multidisk>
+		<scrap name="ScreenScraper" date="20260814T001855" />
+	</game>
+	<game id="19501">
+		<path>./WipEout (USA).chd</path>
+		<name>WipEout</name>
+		<desc>Wipeout ist ein futuristisches Rennspiel, das im Jahr 2052 spielt. Als Fahrer für eines von vier Teams nimmt der Spieler an der F3600 Anti-Gravity Racing League auf sechs Strecken teil. Die jeweiligen Hovercraft-Rennfahrzeuge der Teams haben unterschiedliche Wertungen in Bezug auf Geschwindigkeit, Beschleunigung und Wendigkeit. Neben Hochgeschwindigkeitsrennen gibt es auch Schießelemente im Spiel, mit verschiedenen Waffen-Pickups wie Raketen und Minen, die dazu dienen, die Gegner zu verlangsamen. Schutzschilde können ebenfalls aufgenommen werden und können die Auswirkungen der Waffen blockieren.
+
+Es gibt Meisterschafts-, Einzelrennen- und Zeitfahrmodi. Der Gewinn der Meisterschaft in der regulären Venom-Klasse schaltet die Rapier-Klasse frei, in der die Fahrzeuge schneller sind und die Strecken leicht unterschiedlich aussehen.
+
+Es gibt auch einen Zwei-Spieler-Modus, in dem zwei Gegner gegeneinander rennen und aufeinander schießen können.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/WipEout (USA)-image.png</image>
+		<video>./videos/WipEout (USA)-video.mp4</video>
+		<marquee>./images/WipEout (USA)-marquee.png</marquee>
+		<thumbnail>./images/WipEout (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19951121T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Wipeout</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>438824B203FE13270D0E46243F9499C3</cheevosHash>
+		<cheevosId>11378</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001857" />
+	</game>
+	<game id="19597">
+		<path>./Quake II (USA).chd</path>
+		<name>Quake II</name>
+		<desc>Das Computerspiel Quake II ist der zweite Teil der Quake-Serie und kam 1999 für die PlayStation auf den Markt. Quake II ist der Nachfolger zu Quake, hat von der Hintergrundgeschichte her jedoch nichts mit seinem Vorgänger zu tun.
+
+In ferner Zukunft wird die Menschheit von einer außerirdischen Rasse von Cyborgs bedroht, den Strogg. Das Spiel setzt zu dem Zeitpunkt ein, als das terranische Militär einen Großangriff auf den Heimatplaneten der Strogg startet. Als Soldat ist man bei einem Absturz von seiner Mannschaft getrennt worden und befindet sich nun allein im feindlichen Gebiet. Über Funk mit der Kommandozentrale verbunden, bekommt der Spieler nun verschiedene Aufträge, darunter Sabotage, Beschaffung von Daten, Zielmarkierung von Luftangriffen und letztendlich die Vernichtung des obersten Feldherrn der Strogg. Im Verlaufe des Spiels erkundet der Spieler diverse Einrichtungen der Strogg, darunter Industriegebiete, Militärstützpunkte, Gefängnisse, Fabriken zur Verarbeitung von Menschen und den Palast des Strogg-Herrschers.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Quake II (USA)-image.png</image>
+		<video>./videos/Quake II (USA)-video.mp4</video>
+		<marquee>./images/Quake II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Quake II (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>id Software</publisher>
+		<family>Quake</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0F2C4F78DDCA3FC6990069121CFD44D0</cheevosHash>
+		<cheevosId>14629</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001858" />
+	</game>
+	<game id="19288">
+		<path>./Spyro the Dragon (USA).chd</path>
+		<name>Spyro the Dragon</name>
+		<desc>Spyro ist ein süßer, lila Drache, der in der Klemme steckt. Alle Drachenfreunde von Spyro sind dem bösen Gnasty Gnorc zum Opfer gefallen, der sie in Kristalle verwandelt hat. In Begleitung der Libelle Sparx macht sich Spyro auf den Weg, seine Freunde zu befreien und dabei Edelsteine zu sammeln. Sparx dient dabei auch als eine Art Anzeige für Spyros Gesundheit, denn die Libelle leuchtet golden, wenn Spyro gesund und munter ist, und nimmt ein immer dunkler werdendes Grün an, je mehr er ermüdet. Um Energie zu gewinnen, kann Spryo bestimmte Wesen mittels Feuer in Schmetterlinge verwandeln, die Sparx dann wiederum in die benötigten Energielieferanten umwandelt.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Spyro the Dragon (USA)-image.png</image>
+		<video>./videos/Spyro the Dragon (USA)-video.mp4</video>
+		<marquee>./images/Spyro the Dragon (USA)-marquee.png</marquee>
+		<thumbnail>./images/Spyro the Dragon (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19980910T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Spyro</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3E9EB765A7B2912E60C30F363F0A3574</cheevosHash>
+		<cheevosId>11279</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001910" />
+	</game>
+	<game id="19268">
+		<path>./Tomb Raider (USA) (Rev 6).chd</path>
+		<name>Tomb Raider</name>
+		<desc>Auf der Suche nach einem geheimnisvollen Artefakt führen Sie die Abenteurerin Lara Croft durch die vielleicht faszinierendsten 3D-Welten, die es je auf Ihrem Bildschirm zu sehen gab. Mit einer unglaublichen Akrobatik bewegt sich Lara völlig frei durch gigantische, mit Fallen gespickte Höhlen, Tempelanlagen und Tunnelsysteme. Die intelligente Kameraführung setzt Laras Aktionen aus vier verschiedenen Perspektiven immer optimal in Szene. In Tomb Raider verschmelzen Adventure, Rätsel und Action zu einem atemberaubenden 3D-Spektakel! Tomb Raider – ein Spiel wie ein Sog!</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Tomb Raider (USA) (Rev 6)-image.png</image>
+		<video>./videos/Tomb Raider (USA) (Rev 6)-video.mp4</video>
+		<marquee>./images/Tomb Raider (USA) (Rev 6)-marquee.png</marquee>
+		<thumbnail>./images/Tomb Raider (USA) (Rev 6)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19961114T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>98163D740F08ACE1BB215F9DBBBCD450</cheevosHash>
+		<cheevosId>11342</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001919" />
+	</game>
+	<game id="19293">
+		<path>./Spyro - Year of the Dragon (USA) (Rev 1).chd</path>
+		<name>Spyro : Year of the Dragon</name>
+		<desc>Diebe haben ein Nest mit Dracheneiern entführt, während gleichzeitig in einem anderen Teil der Drachenwelt ein Tor zu vergessenen Welt entdeckt wurde. Spyro der Drache muss die Eier zurückerobern. Gemeinsam mit seinem besten Freund Sparx begibt er sich auf die Reise ins Unbekannte, wo ihm seine bislang schwerste Prüfung bevorsteht: der Kampf gegen die böse Zauberin. Brandneue Spielfiguren, irre Herausforderungen und aufregende neue Welten - Hier beginnt das Jahr des Drachen. Hier kannst du durch die Lüfte gleiten, unter Wasser tauchen, Skateboard fahren, durch Schnellschuss-Galerien ballern, einen Panzer fahren und sogar gegen einen Yeti boxen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Spyro - Year of the Dragon (USA) (Rev 1)-image.png</image>
+		<video>./videos/Spyro - Year of the Dragon (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Spyro - Year of the Dragon (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Spyro - Year of the Dragon (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20001025T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Spyro</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>76EC3FCDD569038870655D61054AE068</cheevosHash>
+		<cheevosId>11267</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001921" />
+	</game>
+	<game id="19275">
+		<path>./Rayman (USA).chd</path>
+		<name>Rayman</name>
+		<desc>Machen Sie eine Forschungsreise in die tolle und humoristische Welt von Rayman! 60 verschiedene Level in sechs einzigartigen Welten mit detaillierter Grafik und phantastischen Animationen sorgen für stundenlangen Spielspass. Sammeln Sie verwunderliche Kräfte, entdecken Sie mehrere geheime Level. Mehr als 50 verschiedene Charaktere, die Ihren Spielstil lernen und sich so immer intelligenter verteidigen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Rayman (USA)-image.png</image>
+		<video>./videos/Rayman (USA)-video.mp4</video>
+		<marquee>./images/Rayman (USA)-marquee.png</marquee>
+		<thumbnail>./images/Rayman (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Rayman</family>
+		<players>1</players>
+		<playcount>1</playcount>
+		<lastplayed>20260814T003338</lastplayed>
+		<gametime>135</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C6FF8745D23B4C666622B26BA2022E1F</cheevosHash>
+		<cheevosId>11346</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001931" />
+	</game>
+	<game id="19392">
+		<path>./Tekken 2 (USA) (Rev 1).chd</path>
+		<name>Tekken 2</name>
+		<desc>Tekken 2 ist das zweite Spiel der Tekken-Serie. Alle Charaktere aus Tekken, abgesehen von Jack, der in diesem Spiel von Jack-2 ersetzt wird, sind zurückgekehrt. Des Weiteren wurden der Charakterliste, einschließlich Jack-2, acht neue Charaktere hinzugefügt. Das Spiel verfügt insgesamt über 25 spielbare Charaktere.
+
+Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStation weltweit veröffentlicht. Es war in Amerika 24 Wochen lang die Nummer Eins unter den Arcade-Spielen und wurde für die PlayStation-Konsole weltweit über 3 Millionen mal verkauft. Für die PlayStation 3 wurde diese Version im PS-Store hinzugefügt. Am Tag der Eröffnung gab es einen Umsatz von $ 250.000, was zu dieser Zeit ein Rekord war.</desc>
+		<genre>Kampf / Versus</genre>
+		<image>./images/Tekken 2 (USA) (Rev 1)-image.png</image>
+		<video>./videos/Tekken 2 (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Tekken 2 (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Tekken 2 (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19960825T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7584A59DE3F04C42998246AB44D9CEC7</cheevosHash>
+		<cheevosId>11316</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001933" />
+	</game>
+	<game id="19527">
+		<path>./Tony Hawk's Pro Skater (USA).chd</path>
+		<name>Tony Hawk's Pro Skater</name>
+		<desc>Tony Hawk's Pro Skater wartet mit einem ausgeklügelten Trick- und Kombisystem auf, bei dem die Spieler sich an Hunderte von Kombinationen aus halsbrecherischen Moves und Stunts wagen können. Dabei stehen ihnen absolut realistische Strecken zur Verfügung, die sie mit der Geschwindigkeit und Beweglichkeit eine professionellen Skaters entlangheizen können. Auch die Spielumgebung hat jede Menge zu bieten: geheime Gelände, Abkürzungen und nahezu unzugängliche Punkte sowie zahlreiche Locations - von Einkaufszentren und Autobahnen bis hin zu Grundschulen und überfüllten Innenstädten. Mit unterschiedlichen Spielmodi, darunter ein einzigartiger Career Mode, bei dem die Laufbahn eines Profi-Skaters simuliert wird.</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Pro Skater (USA)-image.jpg</image>
+		<video>./videos/Tony Hawk's Pro Skater (USA)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Pro Skater (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Pro Skater (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3687E8925AB38A2CCF9D965DF280C432</cheevosHash>
+		<cheevosId>11331</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001934" />
+	</game>
+	<game id="19282">
+		<path>./Crash Bandicoot (USA).chd</path>
+		<name>Crash Bandicoot</name>
+		<desc>Auf ins Gefecht mit den hyperaktiven Beuteldachs Crash Bandicoot. Das Überqueren von Flammengräben, eine wilde Flußfahrt und ein Ritt auf einem wilden Schwein sind nur drei der Prüfungen im Kampf gegen die wilden Tiere vom Land "Down under" und um das Leben seiner Freundin Tawna.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Crash Bandicoot (USA)-image.png</image>
+		<video>./videos/Crash Bandicoot (USA)-video.mp4</video>
+		<marquee>./images/Crash Bandicoot (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crash Bandicoot (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Crash Bandicoot</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>35386FD0891E594C9B6D8A4A5BAA0027</cheevosHash>
+		<cheevosId>10434</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001939" />
+	</game>
+	<game id="19262">
+		<path>./Crash Bandicoot - Warped (USA).chd</path>
+		<name>Crash Bandicoot : Warped</name>
+		<desc>Crash Bandicot kehrt zurück... Er begibt sich diesmal auf eine Zeitreise, die ihn unter anderem in das Alte Ägypten, Rom und England führt. Sogar in die vorgeschichtliche Zeit reist Crash, dort reitet er auf einem Dinosaurier. Crash hat allerhand Eigenschaften, wie Rennen, Fliegen und tauchen. Diesmal hat er sogar in einigen Leveln seine Schwester Coco zur Seite. Auf gehts!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Crash Bandicoot - Warped (USA)-image.png</image>
+		<video>./videos/Crash Bandicoot - Warped (USA)-video.mp4</video>
+		<marquee>./images/Crash Bandicoot - Warped (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crash Bandicoot - Warped (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19981115T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Crash Bandicoot</family>
+		<players>1</players>
+		<md5>f96ba0b4960a537ace182dce871217e4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8209150E48E8F9F0E727347472C7E123</cheevosHash>
+		<cheevosId>10433</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001951" />
+	</game>
+	<game id="19302">
+		<path>./Spyro 2 - Ripto's Rage! (USA).chd</path>
+		<name>Spyro 2 : Ripto's Rage!</name>
+		<desc>Der lebhafte kleine Drache ist wieder da, und zwar in einem Nachfolger, der dem Original weit überlegen ist. Spyro-Fans, aber auch solche, die das erste Spiel nicht kennen, werden von der Grandiosität von Spyro 2: Ripto's Rage begeistert sein. Wie weggeblasen sind die unmöglichen Aufgaben, die unschlagbaren Gegner und der zerstückelte Spielfluss. Dieses Spiel bringt überlegene Steuerung, farbenprächtigere und schnellere Grafik, eine dichtere Story, erreichbare Ziele und viel Abwechslung mit.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Spyro 2 - Ripto's Rage! (USA)-image.png</image>
+		<video>./videos/Spyro 2 - Ripto's Rage! (USA)-video.mp4</video>
+		<marquee>./images/Spyro 2 - Ripto's Rage! (USA)-marquee.png</marquee>
+		<thumbnail>./images/Spyro 2 - Ripto's Rage! (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19990907T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Spyro</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5C63AF54F937CCD06DCACBFBB1457456</cheevosHash>
+		<cheevosId>11260</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001953" />
+	</game>
+	<game id="19326">
+		<path>./Tony Hawk's Pro Skater 2 (USA).chd</path>
+		<name>Tony Hawk's Pro Skater 2</name>
+		<desc>Tony Hawk ist zurück. Mit neuer Grafik, neuen Profis und neuen Tricks. Die Legende rollt weiter. Skate als einer von 13 Profis in komplett neuen Leveln oder erstelle deinen ganz persönlichen Skater. Neue Moves wie Blunt Slides, FS/BS Nose- und Tall-Slides und Hurricanes bringen jede Menge Knete, die du um Skateshop oder für Statistikpunkte ausgeben kannst. Errichte mit dem Park-Editor deine eigenen Traumpark in Echtzeit-3D und statte ihn mit Rampen, Funboxen, Rails und vielem mehr aus. Verschiedenste Modi wie Karriere oder Skate for Fun für einen Spieler oder Trick-Turnier, Graffiti, Loser und Gotcha für zwei Spieler sorgen für Abwechslung und Spielspaß pur.</desc>
+		<genre>Sport / Skateboard</genre>
+		<image>./images/Tony Hawk's Pro Skater 2 (USA)-image.png</image>
+		<video>./videos/Tony Hawk's Pro Skater 2 (USA)-video.mp4</video>
+		<marquee>./images/Tony Hawk's Pro Skater 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tony Hawk's Pro Skater 2 (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20000920T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0177ACAEE3E0841EBDA8DCA1EAB81BD0</cheevosHash>
+		<cheevosId>11282</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002003" />
+	</game>
+	<game id="214640">
+		<path>./Resident Evil 2 - Dual Shock Ver. (USA).m3u</path>
+		<name>Resident Evil 2 (Leon Kennedy Disc)</name>
+		<desc>Der Anfang allen Übels war ein Unfall im Versuchslabor eines Herrenhauses. Dieser Unfall hatte zur Folge, daß der T-Virus, ein bilogischer Kampfstoff der Umbrella Corporation, freigesetzt wurde. Alles Leben in seiner ursprünglichen Form wurde vernichtet und in schleckliche Mutationen verwandelt. Dies liegt etwa zwei Monate zurück und der Fall schien abgeschlossen, doch die schrecklichen Experimente der Umbrella Corporation waren alles andere als vorbei. Der T-Virus war nur ein Vorbote. Ganz Raccoon City wurde durch den noch todbringenderen G-Virus infiziert. Die Stadt wird von Zombies und anderen höllischen Kreaturen bevölkert. Zu diesem Zeitpunkt treffen Leon. S. Kennedy und Claire Redfield nichts ahnend in der Stadt ein und stürtzen Hals über Kopf in das Abenteuer Ihres Lebens.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Resident Evil 2 - Dual Shock Ver. (USA)-image.png</image>
+		<video>./videos/Resident Evil 2 - Dual Shock Ver. (USA)-video.mp4</video>
+		<marquee>./images/Resident Evil 2 - Dual Shock Ver. (USA)-marquee.png</marquee>
+		<thumbnail>./images/Resident Evil 2 - Dual Shock Ver. (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19980110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>33DF147CC40901C4F96E4E9328CC9218</cheevosHash>
+		<cheevosId>11245</cheevosId>
+		<multidisk>["./.discs/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).chd","./.discs/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).chd"]</multidisk>
+		<scrap name="ScreenScraper" date="20260814T002010" />
+	</game>
+	<game id="19613">
+		<path>./Road &amp; Track Presents - The Need for Speed (USA).chd</path>
+		<name>Road &amp; Track Presents : The Need for Speed</name>
+		<desc>The Need for Speed war das erste Spiel der Need-for-Speed-Serie und wurde erstmals 1994 für den 3DO veröffentlicht. 1995 wurde der Konsolen-Titel für den PC portiert, 1996 erschien der Titel auf der PlayStation und dem Sega Saturn. Im Spiel stehen acht Fahrzeuge zur Auswahl, die man auf sieben verschiedenen Strecken ausfahren kann. Eine Besonderheit des Spiels ist es, dass die Rennen auf normal befahrenen Straßen unter Polizeiverfolgung gespielt werden. Das Spiel entstand in Zusammenarbeit mit der US-amerikanischen Auto-Zeitschrift ?Road &amp; Track?, die genaue technische Details und viele Bilder und Videos zu den Autos beisteuerte.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Road &amp; Track Presents - The Need for Speed (USA)-image.png</image>
+		<video>./videos/Road &amp; Track Presents - The Need for Speed (USA)-video.mp4</video>
+		<marquee>./images/Road &amp; Track Presents - The Need for Speed (USA)-marquee.png</marquee>
+		<thumbnail>./images/Road &amp; Track Presents - The Need for Speed (USA)-thumb.png</thumbnail>
+		<rating>0.55</rating>
+		<releasedate>19960315T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Need for Speed</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5627503D1995F125E8E28EB49D712C60</cheevosHash>
+		<cheevosId>5330</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002014" />
+	</game>
+	<game id="19270">
+		<path>./Crash Bandicoot 2 - Cortex Strikes Back (USA).chd</path>
+		<name>Crash Bandicoot 2 : Cortex Strikes Back</name>
+		<desc>Die neuen Abenteuer von Crash Bandicoot, der die Welt wieder vor den mutierten Kreaturen des irren Wissenschaftlers retten muß. Brandneue 3D-Charaktere, komplett überarbeitete Grafiken und eine gerenderte Umgebung für totale Bewegungsfreiheit in einer Inselwelt voller verborgener Levels, geheimer Pfade und zusätzlicher Puzzles.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-image.png</image>
+		<video>./videos/Crash Bandicoot 2 - Cortex Strikes Back (USA)-video.mp4</video>
+		<marquee>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Crash Bandicoot</family>
+		<players>1</players>
+		<md5>018eb2e1307899d147d7afa6e9a24475</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BA4F186DFC511DE240826FB47AFFFF6E</cheevosHash>
+		<cheevosId>10432</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002020" />
+	</game>
+	<game id="19265">
+		<path>./Silent Hill (USA).chd</path>
+		<name>Silent Hill</name>
+		<desc>Harry Mason, ein seit vier Jahren verwitweter Schriftsteller, fährt gemeinsam mit seiner siebenjährigen Tochter Cheryl in den Urlaub, den beide auf Wunsch von Cheryl in der Kleinstadt Silent Hill verbringen wollen. Während der nächtlichen Fahrt schreckt er auf, da plötzlich ein junges Mädchen die Straße zu überqueren scheint. Er versucht auszuweichen und fährt in einen Graben, woraufhin er sein Bewusstsein verliert. Als er wieder aufwacht, ist Cheryl spurlos verschwunden. Daraufhin begibt sich Harry in das nahegelegene Silent Hill, um dort nach ihr zu suchen. Als er die Stadt erreicht, stellt er fest, dass diese in Nebel gehüllt ist und dass Monster umherlaufen. Aus Harrys verzweifelter Suche nach seiner verschollenen Tochter wird ein Abenteuer in einer Welt, in der Realität und Traum zu verschwimmen scheinen.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Silent Hill (USA)-image.png</image>
+		<video>./videos/Silent Hill (USA)-video.mp4</video>
+		<marquee>./images/Silent Hill (USA)-marquee.png</marquee>
+		<thumbnail>./images/Silent Hill (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19990131T000000</releasedate>
+		<developer>Team Silent</developer>
+		<publisher>Konami</publisher>
+		<family>Silent Hill</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>469D5CF1428D3F6F2234AA5BE058F3EC</cheevosHash>
+		<cheevosId>11252</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002031" />
+	</game>
+	<game id="19264">
+		<path>./Oddworld - Abe's Oddysee (USA) (Rev 2).chd</path>
+		<name>Oddworld : Abe's Oddysee</name>
+		<desc>Abe ist ein Wesen aus dem Volk der Mudokaner und eigentlich ein Anti-Held. Wie viele seines Volkes ist er ein Sklave des Fleischproduzenten Molluck aus dem Volk der Glukkons. Als solcher ist er für das Bohnern der Gänge in dessen Lebensmittelfabrik RuptureFarms zuständig. Während seines Dienstes belauscht Abe zufällig eine Vorstandssitzung. Er erfährt, dass die Firma als Reaktion auf die nahezu ausgelöschten Nutztier-Bestände ein neues Lebensmittelprodukt mit der Bezeichnung ?New 'n' Tasty? auf den Markt zu bringen gedenkt. Grundlage dafür soll das Fleisch der Mudokaner sein. Ob dieser Erkenntnis gerät Abe in Panik und versucht zu fliehen. Abes Ziel ist es, aus RuptureFarm zu fliehen und anschließend für ihre Schließung zu sorgen, um so zu verhindern, dass die Produktion von New 'n' Tasty anlaufen kann.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-image.png</image>
+		<video>./videos/Oddworld - Abe's Oddysee (USA) (Rev 2)-video.mp4</video>
+		<marquee>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19970919T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>GT Interactive Software</publisher>
+		<family>Oddworld</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>08CF1306840CDBA6FF90178B5372D158</cheevosHash>
+		<cheevosId>11295</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002038" />
+	</game>
+	<game id="19532">
+		<path>./Wipeout XL (USA).chd</path>
+		<name>WipEout XL</name>
+		<desc>Ein Anti-Gravitation-Rennen, das der Konkurrenz um Lichtjahre voraus ist!
+
+Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Klassiker. Jetzt kommt eine brutale neue Generation von Anti-Schwerkraft-Rennen. Vollgepackt mit schnellerer, flüssigerer Grafik, mehr Strecken, mehr Gleitern und einer Reihe fieser neuer Waffen, wird Wipeout XL dir den Rausch deines Lebens geben.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Wipeout XL (USA)-image.png</image>
+		<video>./videos/Wipeout XL (USA)-video.mp4</video>
+		<marquee>./images/Wipeout XL (USA)-marquee.png</marquee>
+		<thumbnail>./images/Wipeout XL (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<family>Wipeout</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>611479CD0E25800874E3B01D0E0EFA2D</cheevosHash>
+		<cheevosId>13913</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002039" />
+	</game>
+	<game id="19274">
+		<path>./Tomb Raider II - Starring Lara Croft (USA) (Rev 3).chd</path>
+		<name>Tomb Raider II : Starring Lara Croft</name>
+		<desc>Lara Croft ist zurück! In ihrem neuesten Abenteuer begibt sich die Archäologin auf die Spur des Dolches von Xian. Wer diese mystische Waffe entdeckt, bekommt einem alten chinesischen Glauben zufolge eine unvorstellbare Macht verliehen... Laras gefährliche Suche nach dem Dolch beginnt an der Chinesischen Mauer, doch schon kurz darauf führt die abenteuerliche Reise an die verschiedensten Stätten rund um den Globus. Und Lara ist nicht allein... Andere finstere Banditen haben das gleiche Ziel: Den magischen Dolch in die Finger zu bekommen.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-image.png</image>
+		<video>./videos/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-video.mp4</video>
+		<marquee>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-marquee.png</marquee>
+		<thumbnail>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Core</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>466F75A92104129B3A090FA2169175BF</cheevosHash>
+		<cheevosId>11341</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002041" />
+	</game>
+	<game id="19280">
+		<path>./Tekken 3 (USA).chd</path>
+		<name>Tekken 3</name>
+		<desc>Eine uralte böse Macht ist erwacht, die heimlich angreift und sich von den Seelen mächtiger Kriegern ernährt. Um Sie aus dem Versteck zu locken, wird es das größte Kampfturnier geben, das die Welt je gesehen hat ... Tekken 3. Manche kämpfen für Rache, manche um Ehre. Letztendlich kämpfen alle um ihr Leben und das Schicksal der gesamten Menschheit.</desc>
+		<genre>Kampf / Versus</genre>
+		<image>./images/Tekken 3 (USA)-image.png</image>
+		<video>./videos/Tekken 3 (USA)-video.mp4</video>
+		<marquee>./images/Tekken 3 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tekken 3 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>19980429T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5B0009044C8D7724518FF57E35C61AF6</cheevosHash>
+		<cheevosId>11259</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002046" />
+	</game>
+	<game id="19295">
+		<path>./Gran Turismo (USA) (Rev 1).chd</path>
+		<name>Gran Turismo</name>
+		<desc>In Gran Turismo trittst du in realistisch simulierten Rennen gegen KI-Gegner an und sammelst Fahrzeuge, Geld und Trophäen. Im Arcade-Modus kannst du frei aus Autos und Strecken wählen, während der Simulationsmodus dich dazu zwingt, Führerscheine zu bestehen, Rennen zu gewinnen und dein Geld strategisch für neue Fahrzeuge und Tuning einzusetzen. Je erfolgreicher du bist, desto mehr Inhalte schaltest du frei – bis hin zu Bonusvideos und Geheimwagen, die teilweise nur per Cheat verfügbar sind. Mit über 180 Autos und zahlreichen Strecken ist das Spiel ein Meilenstein für Rennspielfans.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Gran Turismo (USA) (Rev 1)-image.png</image>
+		<video>./videos/Gran Turismo (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Gran Turismo (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Gran Turismo (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19980512T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>13E08C49AB6E0A39D738913C68A971AF</cheevosHash>
+		<cheevosId>11320</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002052" />
+	</game>
+	<game id="19353">
+		<path>./Doom (USA) (Rev 1).chd</path>
+		<name>Doom</name>
+		<desc>Von der Union Aerospace Corporation (UAC) durchgeführte Teleportationsexperimente auf den beiden Marsmonden Phobos und Deimos öffnen ungewollt ein Portal zur Hölle. Dämonen besetzen die Forschungseinrichtungen, Menschen werden getötet oder in Zombies verwandelt. Der Spieler schlüpft in die Rolle eines Space Marines, der sich zu Beginn des Spieles nur mit einer Pistole bewaffnet auf dem Mond Phobos befindet. Im weiteren Verlauf erweitert sich das Arsenal um Kettensäge, Flinte, Gatling-Gewehr, Raketenwerfer, Plasmagewehr sowie die fiktive BFG9000 (laut Entwicklern die Abkürzung für Big Fucking Gun, oder Bio Force Gun im Doom-Film). Nachdem der Spieler das experimentelle Portal auf Phobos erreicht hat, teleportiert er sich von dort aus nach Deimos. Dieser zweite Marsmond befindet sich jedoch inzwischen nicht mehr in der Umlaufbahn des Planeten, sondern in der Höllendimension, aus der die angreifenden Monster stammen. Nachdem er auch die dortigen Einrichtungen von den Dämonen befreit hat, begibt sich der Spieler direkt in die Hölle, um den Urheber der dämonischen Invasion zu finden.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Doom (USA) (Rev 1)-image.png</image>
+		<video>./videos/Doom (USA) (Rev 1)-video.mp4</video>
+		<marquee>./images/Doom (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Doom (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.6</rating>
+		<releasedate>19951116T000000</releasedate>
+		<developer>Williams Entertainment</developer>
+		<publisher>GT Interactive Software</publisher>
+		<family>Doom</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E48BC1FFD56F43ADDDF7BE719D68D288</cheevosHash>
+		<cheevosId>11256</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T002056" />
+	</game>
+	<game id="19277">
+		<path>./Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2).chd</path>
+		<name>Tomb Raider III : Adventures of Lara Croft</name>
+		<desc>Lara Croft kehrt zurück mit ihrem bisher gewagtesten Abenteuer. Begleiten Sie die Archäologin auf der Suche nach vier rätselhaften Artefakten. Erkunden Sie mit LAra mystische Stätten Indiens, unterirdische Gewölbe Londons und die geheime Militärbasis Area 51 in der Wüste Nevadas. Folgen Sie den Spuren der Artefakte ins ewige Eis der Antarktis und auf eine Insel im Südpazifik. Neue Waffen, Fahrzeuge und Moves helfen Lara, sich gegen finstere Gestalten zu wehren.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-image.png</image>
+		<video>./videos/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-video.mp4</video>
+		<marquee>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>19981121T000000</releasedate>
+		<developer>Core</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Tomb Raider</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5463CBE9675CDE21D0A6FE1568E2E143</cheevosHash>
+		<scrap name="ScreenScraper" date="20260814T001929" />
+	</game>
+	<game id="19304">
+		<path>./Gran Turismo 2 (USA) (Arcade Mode) (Rev 1).chd</path>
+		<name>Gran Turismo 2 (Arcade Mode)</name>
+		<desc>„Gran Turismo 2“ kehrt zurück mit über 500 Wagenmodellen und mehr als 20 Strecken. Das Spiel bringt realistische Fahrphysik, detaillierte Streckensimulationen und DUALSHOCK-Vibration für ein authentisches Rennerlebnis. Neben Straßenrennen sind diesmal auch Rallye- und Querfeldein-Rennen im Fokus. Fahrzeuge aus aller Welt, von Japan über Europa bis zu den USA, stehen zur Auswahl und können mit Turboladern, Spoilern, Reifen und Getrieben individuell aufgerüstet werden. Bevor alle Möglichkeiten freigeschaltet sind, gilt es, 60 anspruchsvolle Lizenzprüfungen zu meistern. Der Splitscreen-Modus bietet spannende Duelle für zwei Spieler. Bereit für die ultimative Rennherausforderung?</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-image.png</image>
+		<video>./videos/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-video.mp4</video>
+		<marquee>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19991223T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<playcount>6</playcount>
+		<lastplayed>20260815T004230</lastplayed>
+		<gametime>663</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FB87D46DB9130276F28F804EC0DCD6A1</cheevosHash>
+		<cheevosId>11278</cheevosId>
+		<scrap name="ScreenScraper" date="20260814T001917" />
+	</game>
+	<game id="19260">
+		<path>./Metal Gear Solid (USA).m3u</path>
+		<name>Metal Gear Solid</name>
+		<desc>FOXHOUND, ein abtrünniges, genetisch verbessertes Spezialkommando, unternimmt einen Putsch auf einem abgelegenen Archipel in Alaska, bei dem es sich in Wahrheit um "Shadow Moses", eine geheime Abrüstungseinrichtung der Regierung, handelt. Die Einheit unter der Leitung des Söldners Liquid Snake haben mehrere atomare Sprengköpfe in ihre Gewalt gebracht sowie den Mecha Metal Gear REX, der die Atomraketen abfeuern kann. Mit diesem Trumpf erpressen die Terroristen die US-Regierung, um die sterblichen Überreste des legendären Söldners Big Boss zu erhalten.
+Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte von Colonel Roy Campbell hin darauf angesetzt, die Verteidigungslinien der Terroristen zu durchdringen und die terroristische Bedrohung zu zerschlagen.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Metal Gear Solid (USA)-image.png</image>
+		<video>./videos/Metal Gear Solid (USA)-video.mp4</video>
+		<marquee>./images/Metal Gear Solid (USA)-marquee.png</marquee>
+		<thumbnail>./images/Metal Gear Solid (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>KCEJ</developer>
+		<publisher>Konami</publisher>
+		<family>Metal Gear</family>
+		<players>1</players>
+		<playcount>23</playcount>
+		<lastplayed>20260815T003313</lastplayed>
+		<gametime>5176</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8C8DB8C41E2A4C7D0EF7FC1C2F74EF7A</cheevosHash>
+		<cheevosId>11244</cheevosId>
+		<multidisk>["./.discs/Metal Gear Solid (USA) (Disc 1) (Rev 1).chd","./.discs/Metal Gear Solid (USA) (Disc 2) (Rev 1).chd"]</multidisk>
+		<scrap name="ScreenScraper" date="20260814T001949" />
+	</game>
+</gameList>
