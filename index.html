@@ -30,8 +30,9 @@
 
 *{box-sizing:border-box}
 /* Hält Sprungziele unter der klebenden Kopfleiste hervor — sonst schiebt
-   scrollIntoView die fokussierte Zeile dahinter. Wert folgt der Leistenhöhe. */
-html{-webkit-text-size-adjust:100%;scroll-padding-top:124px}
+   scrollIntoView die fokussierte Zeile dahinter. --kopf wird zur Laufzeit
+   gemessen, weil die Filterzeile je nach Breite ein- oder zweizeilig umbricht. */
+html{-webkit-text-size-adjust:100%;scroll-padding-top:var(--kopf,124px)}
 body{
   margin:0;background:var(--bg);color:var(--tx);
   font:400 15px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
@@ -65,8 +66,10 @@ mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
 .sbox{position:relative;flex:1 1 260px;min-width:0;max-width:460px}
 .sbox svg{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--tx3);pointer-events:none}
 #q{width:100%;padding:9px 34px 9px 34px;border:1px solid var(--line);border-radius:8px;
-  background:var(--sur);color:var(--tx);font-size:14px}
+  background:var(--sur);color:var(--tx);font-size:14px;appearance:none;-webkit-appearance:none}
 #q::placeholder{color:var(--tx3)}
+/* Safari zeichnet für type=search ein eigenes Löschkreuz — es säße genau auf #qx. */
+#q::-webkit-search-cancel-button,#q::-webkit-search-decoration{appearance:none;-webkit-appearance:none}
 #q:focus{border-color:var(--acc);outline:none}
 #qx{position:absolute;right:6px;top:50%;transform:translateY(-50%);padding:5px 7px;
   color:var(--tx3);font-size:16px;line-height:1;border-radius:5px;display:none}
@@ -159,6 +162,13 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .g:focus-visible{outline:2px solid var(--acc);outline-offset:-2px;border-radius:8px}
 
 /* ---------- Rangliste ---------- */
+/* Eigene Spalte für die Platzziffer. Im zweispaltigen Raster landet sie sonst
+   in derselben Zelle wie der Titel und schiebt ihn eine Zeile nach unten. */
+.g.rang{grid-template-columns:auto 1fr auto}
+.g.rang .pos{grid-column:1;grid-row:1/3;align-self:center}
+.g.rang .gm{grid-column:2}
+.g.rang .gd{grid-column:2/-1}
+.g.rang .gr{grid-column:3}
 .pos{font-size:11.5px;color:var(--tx3);min-width:26px;
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-variant-numeric:tabular-nums}
 
@@ -173,14 +183,19 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .ov.on{display:flex}
 .sheet{background:var(--bg);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh);
   width:100%;max-width:620px;max-height:88vh;overflow-y:auto;position:relative}
-.sh-h{padding:46px 26px 0;border-left:5px solid var(--k,var(--acc));border-radius:14px 0 0 0}
+.sh-h{padding:4px 26px 0;border-left:5px solid var(--k,var(--acc))}
 .sh-k{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--k,var(--acc));
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin:0 0 7px;font-weight:700}
 .sh-t{margin:0 0 13px;font-size:23px;font-weight:680;letter-spacing:-.02em;line-height:1.2;
-  padding-right:34px;text-wrap:balance}
+  text-wrap:balance}
 .sh-b{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px}
-.sh-nav{position:absolute;top:12px;right:12px;left:12px;z-index:3;
-  display:flex;align-items:center;justify-content:flex-end;gap:2px}
+/* Klebt am oberen Blattrand. Bei langen Beschreibungen scrollte die Leiste
+   samt Schließen-Knopf sonst aus dem Bild — auf dem Handy die einzige
+   sichtbare Möglichkeit, das Blatt wieder zu verlassen. */
+.sh-nav{position:sticky;top:0;z-index:3;
+  display:flex;align-items:center;justify-content:flex-end;gap:2px;
+  padding:12px 12px 6px;background:var(--bg);
+  border-left:5px solid var(--k,var(--acc));border-radius:14px 14px 0 0}
 .shn{width:32px;height:32px;border-radius:8px;display:grid;place-items:center;
   color:var(--tx3);font-size:19px;line-height:1}
 .shn:hover:not(:disabled){background:var(--sur2);color:var(--tx)}
@@ -234,7 +249,6 @@ footer ul{margin:0 0 18px;padding-left:18px}
 footer li{margin-bottom:5px}
 
 @media (max-width:860px){
-  html{scroll-padding-top:72px}
   .fbar{display:none!important}
   .g{grid-template-columns:1fr auto}
   .g .gd{display:none}
@@ -245,14 +259,14 @@ footer li{margin-bottom:5px}
   .dr{display:none!important}
 }
 @media (max-width:560px){
-  html{scroll-padding-top:124px}
   .top-in{flex-wrap:wrap}
   .sbox{order:5;flex:0 0 100%;max-width:none}
 }
 @media (max-width:520px){
   .ov{padding:0;align-items:flex-end}
   .sheet{max-width:none;max-height:92vh;border-radius:16px 16px 0 0;border-bottom:none}
-  .sh-h{padding:44px 20px 0}
+  .sh-nav{border-radius:16px 16px 0 0}
+  .sh-h{padding:4px 20px 0}
   .sh-body{padding:18px 20px 30px}
   .sh-t{font-size:20px}
 }
@@ -512,7 +526,7 @@ const DATA = [
     ["Terranigma", "p", "Quintets Abschluss der Soul-Blazer-Trilogie. Nur in Europa erschienen, nie in den USA. Erzählerisch außergewöhnlich melancholisch.", "rp"],
     ["Illusion of Gaia", "s", "Mittelteil der Quintet-Trilogie, actionlastiger, mit Verwandlungsmechanik.", "rp"],
     ["Soul Blazer", "s", "Der Auftakt: Welt wiederaufbauen durch Befreien von Seelen. Ungewöhnliches Fortschrittskonzept.", "rp"],
-    ["Super Mario RPG", "p", "Square trifft Nintendo. Zeitabhängige Tastendrücke im Kampf — die Grundlage für Paper Mario und Mario & Luigi.", "rp"],
+    ["Super Mario RPG", "p", "Square trifft Nintendo. Zeitabhängige Tastendrücke im Kampf — die Grundlage für Paper Mario und Mario &amp; Luigi.", "rp"],
     ["Lufia II — Rise of the Sinistrals", "p", "Vorgeschichte zum Erstling, mit exzellenten Dungeon-Rätseln und dem Ancient-Cave-Zufallsdungeon.", "rp"],
     ["Lufia & the Fortress of Doom", "o", "Der Erstling — bemerkenswerter Einstieg, aber altbackenes Kampfsystem.", "rp"],
     ["Breath of Fire II", "s", "Capcoms zweiter Teil mit Verschmelzungssystem und deutlich düsterer Handlung.", "rp"],
@@ -842,7 +856,7 @@ const DATA = [
     ["Shining Force II", "p", "Taktik-Rollenspiel mit großer Truppe und Charakterentwicklung. Umfangreicher und ausgereifter als Teil 1.", "rp"],
     ["Shining Force", "p", "Der Auftakt: Rundentaktik auf Feldern, Beförderungssystem. Segas Antwort auf Fire Emblem.", "rp"],
     ["Warsong", "s", "Langrisser im Westen — Kommandanten mit Truppenverbänden. Taktisch anspruchsvoll.", "st"],
-    ["Herzog Zwei", "p", "<em>Besonderheit:</em> gilt als der direkte Vorläufer des Echtzeit-Strategiespiels — Jahre vor Dune II und Command & Conquer.", "st"],
+    ["Herzog Zwei", "p", "<em>Besonderheit:</em> gilt als der direkte Vorläufer des Echtzeit-Strategiespiels — Jahre vor Dune II und Command &amp; Conquer.", "st"],
     ["Dune — The Battle for Arrakis", "p", "Die Konsolenfassung von Dune II, dem Spiel, das die RTS-Formel festlegte. Erstaunlich gut aufs Pad übertragen.", "st"],
     ["Syndicate", "s", "Cyberpunk-Taktik von Bullfrog, vier Agenten unter Echtzeitsteuerung. Düster und anspruchsvoll.", "st"],
     ["Gain Ground", "s", "Taktische Arena-Action: Figuren befreien und deren Fähigkeiten nutzen. Ungewöhnlich, fordernd.", "st"],
@@ -1341,7 +1355,7 @@ const DATA = [
     ["Megaman Zero 2", "p", "Formen-System und flüssigeres Bewegungsrepertoire. Der ausgewogenste der Reihe.", "ac"],
     ["Megaman Zero 3", "p", "Von vielen als bester Teil gesehen — Chip-Anpassung, Cyber-Elf-System, hervorragendes Leveldesign.", "ac"],
     ["Megaman Zero 4", "s", "Waffen aus Gegnern bauen, Wettersystem. Der Abschluss der Tetralogie.", "ac"],
-    ["Megaman & Bass", "p", "<em>Besonderheit:</em> die offizielle englische Fassung des japanischen SNES-Titels Rockman & Forte.", "ac"],
+    ["Megaman & Bass", "p", "<em>Besonderheit:</em> die offizielle englische Fassung des japanischen SNES-Titels Rockman &amp; Forte.", "ac"],
     ["Megaman — Battle Network 3 — Blue Version", "p", "Der Höhepunkt der Netzkampf-Reihe: Echtzeit-Kartenkämpfe auf einem Raster. Umfangreich und tief.", "ac"],
     ["Megaman — Battle Network 6 — Cybeast Gregar", "s", "Der Serienabschluss mit Tiervereinigung. Technisch am ausgereiftesten.", "ac"],
     ["Megaman — Battle Network", "s", "Der Auftakt — roher, aber mit der Grundidee bereits vollständig da.", "ac"],
@@ -1482,7 +1496,7 @@ const DATA = [
     ["Bloody Wolf", "s", "Draufsicht-Action mit Nahkampf und Geiselbefreiung. Kooperativ.", "jr"],
     ["Shockman", "s", "Shubibinman 2 im Westen — zwei Charaktere, kooperativ.", "jr"],
     ["Kaizou Choujin Shubibinman", "s", "Der Erstling der Reihe, nur Japan. Sprachlich unkritisch.", "jr"],
-    ["Kiki Kaikai", "s", "Der Automaten-Urahn von Pocky & Rocky. Draufsicht-Action mit Papierfetzen.", "jr"],
+    ["Kiki Kaikai", "s", "Der Automaten-Urahn von Pocky &amp; Rocky. Draufsicht-Action mit Papierfetzen.", "jr"],
     ["Mizubaku Daibouken", "s", "Liquid Kids — Wasserblasen als Waffe. Taitos charmanter Plattformer.", "jr"],
     ["Parasol Stars", "p", "Bubble Bobble III: Schirm als Waffe und Transportmittel. Kooperativ, sehr durchdacht.", "jr"],
     ["Don Doko Don!", "s", "Taito-Plattformer mit Hammer. Kooperativ und knuffig.", "jr"],
@@ -1861,7 +1875,7 @@ DATA.forEach(c => c.games.forEach(g => g.list.forEach(([t, tier, d, k]) => {
     r: x.r ?? null, y: x.y || '', dev: x.dev || '', pub: x.pub || '',
     pl: x.pl || '', sg: x.g || '', ch: x.ch ? 1 : 0, long: x.d || '',
     such: falte(t + ' ' + d + ' ' + [x.dev, x.pub, x.y, x.g, x.d].filter(Boolean).join(' '))
-      .replace(/<[^>]*>/g, '')
+      .replace(/<[^>]*>/g, '').replace(/&amp;/g, '&')
   });
 })));
 
@@ -1997,8 +2011,8 @@ function zeile(g, pos){
   const sc = g.r === null ? '<span class="sc lo">–</span>'
     : `<span class="sc ${g.r>=8?'hi':g.r<6.5?'lo':''}">${g.r.toFixed(1)}</span>`;
   const meta = [g.kn, g.y, GENRE[g.k]].filter(Boolean).join(' · ');
-  return `<li class="g" data-i="${g.i}" tabindex="-1" role="button" style="--k:${KFARBE[g.kid]}">`
-    + (pos ? `<span class="pos" style="grid-row:1/3">${pos}</span>` : '')
+  return `<li class="g${pos?' rang':''}" data-i="${g.i}" tabindex="-1" role="button" style="--k:${KFARBE[g.kid]}">`
+    + (pos ? `<span class="pos">${pos}</span>` : '')
     + `<span class="gt">${hervor(esc(g.t))}</span>`
     + `<span class="gm">${hervor(esc(meta))}</span>`
     + `<span class="gr"><span class="tg ${g.tier}">${TIER[g.tier]}</span>${sc}</span>`
@@ -2014,10 +2028,18 @@ function zeichne(){
   const b = aktivN(); $('fbadge').hidden = !b; $('fbadge').textContent = b;
   none.hidden = tr.length > 0;
 
-  const warImFeld = out.contains(document.activeElement);
+  const aktiv = document.activeElement;
+  const warImFeld = out.contains(aktiv);
+  // Der Neuaufbau wirft die angeklickte Schaltfläche weg. Ohne gemerkten
+  // Abschnitt fällt der Fokus beim Zuklappen auf den Seitenkörper zurück.
+  const warSektion = warImFeld && aktiv.closest('.sec-h')?.dataset.k || null;
   SICHT = [];
 
-  if(!tr.length){ out.innerHTML=''; $('fold').hidden = true; cursorI = null; return; }
+  if(!tr.length){
+    out.innerHTML=''; $('fold').hidden = true; cursorI = null;
+    if(warImFeld) out.focus();
+    return;
+  }
 
   if(S.sort === 'k'){
     $('fold').hidden = false;
@@ -2034,10 +2056,10 @@ function zeichne(){
           + gs.map(g => zeile(g)).join('') + `</ul>`;
       }).join('');
       return `<section class="sec${offen?'':' zu'}" style="--k:${KFARBE[c.id]}">`
-        + `<h2 class="sec-hw"><button class="sec-h" data-k="${c.id}" aria-expanded="${offen}">`
+        + `<h2 class="sec-hw"><button class="sec-h" data-k="${c.id}" aria-expanded="${offen}" aria-controls="sb-${c.id}">`
         + `<span class="arw"></span><span class="sec-t">${esc(c.name)}</span>`
         + `<span class="cnt">${list.length}</span></button></h2>`
-        + `<div class="sec-b">${inhalt}</div></section>`;
+        + `<div class="sec-b" id="sb-${c.id}">${inhalt}</div></section>`;
     }).join('');
   } else {
     $('fold').hidden = true;
@@ -2051,7 +2073,12 @@ function zeichne(){
   }
 
   const wieder = cursorI === null ? null : out.querySelector(`.g[data-i="${cursorI}"]`);
-  cursorSetzen(wieder || sichtbareZeilen()[0] || null, warImFeld);
+  // Eine Zeile in einer zugeklappten Sektion nimmt keinen Fokus an und wäre als
+  // einziger Tabstopp der Liste eine Sackgasse — dann lieber die erste sichtbare.
+  const marke = wieder && !wieder.closest('.sec.zu') ? wieder : sichtbareZeilen()[0] || null;
+  const knopf = warSektion ? out.querySelector(`.sec-h[data-k="${warSektion}"]`) : null;
+  cursorSetzen(marke, warImFeld && !knopf);
+  if(knopf) knopf.focus({preventScroll:true});
 }
 
 // ---- Tastaturnavigation in der Liste ----
@@ -2063,7 +2090,7 @@ function cursorSetzen(el, fokus){
   if(!el){ cursorI = null; return; }
   el.tabIndex = 0;
   cursorI = +el.dataset.i;
-  if(fokus){ el.focus({preventScroll:true}); el.scrollIntoView({block:'nearest'}); }
+  if(fokus && el.offsetParent){ el.focus({preventScroll:true}); el.scrollIntoView({block:'nearest'}); }
 }
 function bewege(delta, sprung){
   const zeilen = sichtbareZeilen();
@@ -2155,7 +2182,9 @@ let letzter = null, sheetI = -1, gezeigt = null;
 function zeigen(g, idx){
   sheetI = idx;
   gezeigt = g;
-  $('shH').style.setProperty('--k', KFARBE[g.kid]);
+  // Auf dem Blatt, nicht auf dem Kopf: die klebende Leiste führt denselben
+  // Farbstreifen und ist ihr Geschwister, kein Kind.
+  $('sheet').style.setProperty('--k', KFARBE[g.kid]);
   $('shK').textContent = g.kn;
   $('shT').innerHTML = hervor(esc(g.t));
   $('shB').innerHTML = `<span class="tg ${g.tier}">${TIER[g.tier]}</span>`
@@ -2198,10 +2227,12 @@ function blaettern(d){
 function zu_(){
   $('ov').classList.remove('on');
   document.body.style.overflow = '';
-  gezeigt = null;
+  gezeigt = null; sheetI = -1;
   const zeileEl = cursorI === null ? null : out.querySelector(`.g[data-i="${cursorI}"]`);
-  const ziel = zeileEl || letzter;
-  if(ziel && ziel.focus) ziel.focus();
+  // Ausgeblendete Ziele nehmen keinen Fokus an — ohne Prüfung bliebe er auf dem
+  // Knopf im inzwischen unsichtbaren Blatt hängen und Tab begänne wieder ganz oben.
+  const sichtbar = el => !!(el && el.offsetParent);
+  (sichtbar(zeileEl) ? zeileEl : sichtbar(letzter) ? letzter : out).focus();
 }
 $('shx').addEventListener('click', zu_);
 $('shPrev').addEventListener('click', () => blaettern(-1));
@@ -2238,6 +2269,10 @@ function umziehen(){
     $('drA').appendChild(CTRL.ach);
     $('slotS').appendChild(CTRL.sort);
   } else {
+    // Die Schublade gehört zur schmalen Ansicht. Bliebe sie beim Verbreitern
+    // „offen“, hielte sie die Seitensperre und verschluckte Escape, obwohl das
+    // Panel längst ausgeblendet ist — die Seite ließe sich nicht mehr scrollen.
+    if($('dr').classList.contains('on')) drAuf(false);
     CTRL.tier.forEach(b => $('wTier').appendChild(b));
     CTRL.sel.forEach(s => $('wSel').appendChild(s));
     $('wSel').appendChild(CTRL.ach);
@@ -2246,6 +2281,15 @@ function umziehen(){
 }
 mq.addEventListener('change', umziehen);
 umziehen();
+
+// Wie hoch die Kopfleiste steht, hängt davon ab, ob die Filterzeile umbricht.
+// Deshalb gemessen statt geschätzt — sonst verschwinden angesprungene Zeilen
+// dahinter. Die Zugabe hält einen Rest Luft zwischen Leiste und Zeile.
+const kopf = document.querySelector('.top');
+const kopfMessen = () => document.documentElement.style
+  .setProperty('--kopf', Math.round(kopf.getBoundingClientRect().height) + 8 + 'px');
+kopfMessen();
+new ResizeObserver(kopfMessen).observe(kopf);
 
 // ---- Helligkeit ----
 const SUN='<circle cx="8" cy="8" r="3.2"/><path d="M8 1v1.6M8 13.4V15M15 8h-1.6M2.6 8H1M12.9 3.1l-1.1 1.1M4.2 11.8l-1.1 1.1M12.9 12.9l-1.1-1.1M4.2 4.2L3.1 3.1"/>';
@@ -2274,8 +2318,9 @@ document.querySelector('.skip').addEventListener('click', e => {
 });
 
 // ---- Nach oben ----
-addEventListener('scroll', () => $('toTop').classList.toggle('on', scrollY>800), {passive:true});
-$('toTop').addEventListener('click', () => scrollTo({top:0,behavior:'smooth'}));
+const toTop = $('toTop');
+addEventListener('scroll', () => toTop.classList.toggle('on', scrollY>800), {passive:true});
+toTop.addEventListener('click', () => scrollTo({top:0,behavior:'smooth'}));
 
 // ---- Tasten ----
 const FOKUSSIERBAR = 'a[href],button:not(:disabled),input,select,textarea,[tabindex]:not([tabindex="-1"])';
