@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Liest die gamelist-Dateien aus daten/, ordnet sie der Kuratierung in index.html zu,
+// Liest die gamelist-Dateien aus data/, ordnet sie der Kuratierung in index.html zu,
 // erzeugt daraus den Datenblock der Seite und wandelt die Cover in zwei Größen um.
 //
-//   node werkzeuge/build.mjs [--quelle <pfad>] [--nurdaten]
+//   node tools/build.mjs [--quelle <pfad>] [--nurdaten]
 //
 // --quelle   Wurzel der Batocera-Ordner mit den Originalbildern.
 //            Nur nötig, solange Cover fehlen. Vorgabe: ~/Desktop/information
@@ -18,7 +18,7 @@ const ausfuehren = promisify(execFile);
 const WURZEL = path.resolve(import.meta.dirname, '..');
 
 // Konsolen-Kürzel -> Ordnername in der Batocera-Quelle. Die gamelist-Dateien in
-// daten/ heißen bereits nach dem Kürzel; diese Tabelle betrifft nur die Bildquelle.
+// data/ heißen bereits nach dem Kürzel; diese Tabelle betrifft nur die Bildquelle.
 const QUELLORDNER = {
   snes: 'snes', nes: 'nes', md: 'megadrive', sms: 'mastersystem', gg: 'gamegear',
   n64: 'n64', gb: 'gameboy', gbc: 'gameboy_color', gba: 'gameboyadvance',
@@ -57,15 +57,15 @@ const HANDZUORDNUNG = {
 // Zur Qualitätszahl: sips ist anders geeicht als übliche JPEG-Encoder und
 // liefert bei gleicher Zahl rund doppelt so große Dateien. Q45 entspricht hier
 // etwa dem, was anderswo Q60 heißt — sichtbar ist der Unterschied nicht.
-const BREITE = { klein: 128, gross: 400, szene: 480 };
-const QUALITAET = { klein: 50, gross: 45, szene: 45 };
+const BREITE = { small: 128, large: 400, screenshot: 480 };
+const QUALITAET = { small: 50, large: 45, screenshot: 45 };
 
 // Screenshots werden nie vergrößert: eine Game-Boy-Aufnahme ist nativ 160x144,
 // auf 480 hochgerechnet kostet sie das Doppelte und die Pixel verwaschen.
 // Die Seite skaliert stattdessen im Browser mit harten Kanten hoch.
-const NICHT_VERGROESSERN = new Set(['szene']);
+const NICHT_VERGROESSERN = new Set(['screenshot']);
 
-const ANFANG = '/* ---- Erzeugt von werkzeuge/build.mjs — nicht von Hand ändern ---- */';
+const ANFANG = '/* ---- Erzeugt von tools/build.mjs — nicht von Hand ändern ---- */';
 const ENDE = '/* ---- Ende erzeugter Block ---- */';
 
 // ---- Textwerkzeuge ----
@@ -116,7 +116,7 @@ function kuratierungLesen() {
 }
 
 function gamelistLesen(kid) {
-  const datei = path.join(WURZEL, 'daten', `gamelist-${kid}.xml`);
+  const datei = path.join(WURZEL, 'data', `gamelist-${kid}.xml`);
   if (!fs.existsSync(datei)) return [];
   const xml = fs.readFileSync(datei, 'utf8');
   const feld = (blk, tag) => {
@@ -297,7 +297,7 @@ for (const konsole of data) {
       const einplanen = (xmlPfad, arten, marke) => {
         if (!xmlPfad) return false;
         const von = path.join(quelle, QUELLORDNER[kid] || kid, xmlPfad.replace(/^\.\//, ''));
-        const ziele = arten.map(art => ({ art, ziel: path.join(WURZEL, 'bilder', art, kid, name + '.jpg') }));
+        const ziele = arten.map(art => ({ art, ziel: path.join(WURZEL, 'images', art, kid, name + '.jpg') }));
         const fertig = ziele.every(z => fs.existsSync(z.ziel));
         // Ohne Bildlauf zählt nur, was schon dasteht — sonst verweist die Seite
         // auf Dateien, die dieser Lauf gar nicht angelegt hat.
@@ -308,10 +308,10 @@ for (const konsole of data) {
         e[marke] = marke === 'c' ? name : 1;
         return true;
       };
-      if (einplanen(g.thumbnail, ['klein', 'gross'], 'c')) zaehler.cover++;
+      if (einplanen(g.thumbnail, ['small', 'large'], 'c')) zaehler.cover++;
       // Der Screenshot hängt am selben Kurznamen wie das Cover. Ohne Cover hat die
       // Seite keinen Pfad, an dem sie ihn suchen könnte — dann bleibt er weg.
-      if (e.c && einplanen(g.image, ['szene'], 's')) zaehler.szene++;
+      if (e.c && einplanen(g.image, ['screenshot'], 's')) zaehler.szene++;
       else if (!e.c && g.image) ohneCoverAberSzene.push(`${kid} | ${titel}`);
 
       extra[kid + '|' + titel] = e;

@@ -10,18 +10,20 @@ short verdicts and the grouping are mine.
 ## Layout
 
 ```
-index.html                    the page: curated data by hand + a generated block
-daten/gamelist-<console>.xml  the scraped data, one file per console
-bilder/klein|gross|szene      thumbnails, covers, screenshots — generated
-werkzeuge/build.mjs           rebuilds the generated block and the images
+index.html                   the page: curated data by hand + a generated block
+data/gamelist-<console>.xml  the scraped data, one file per console
+images/small                 128 px cover — the box in each list row
+images/large                 400 px cover — the detail sheet
+images/screenshot            480 px screenshot — the detail sheet
+tools/build.mjs              rebuilds the generated block and the images
 ```
 
 ## Rebuilding
 
-Drop a replacement into `daten/` and run:
+Drop a replacement into `data/` and run:
 
 ```bash
-node werkzeuge/build.mjs
+node tools/build.mjs
 ```
 
 It matches gamelist entries against the curated titles, rewrites the data block
@@ -29,7 +31,7 @@ in `index.html` and converts any missing artwork. Existing images are skipped,
 so the original scrape folder is only needed for games that are new:
 
 ```bash
-node werkzeuge/build.mjs --quelle /path/to/information
+node tools/build.mjs --quelle /path/to/information
 ```
 
 Two things worth remembering:
