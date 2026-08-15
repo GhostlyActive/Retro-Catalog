@@ -13,8 +13,9 @@ index.html              Die Seite. Enthält beides:
 daten/
   gamelist-<konsole>.xml Die Batocera-/EmulationStation-Dateien, unverändert
 bilder/
-  klein/<konsole>/…jpg   96 px — die Kästchen in der Liste
-  gross/<konsole>/…jpg   320 px — das Cover im Detailblatt
+  klein/<konsole>/…jpg   128 px — die Kästchen in der Liste
+  gross/<konsole>/…jpg   400 px — das Cover im Detailblatt
+  szene/<konsole>/…jpg   480 px — das Bildschirmfoto im Detailblatt
 werkzeuge/
   build.mjs              Erzeugt Datenblock und Cover
 ```
@@ -31,8 +32,9 @@ redaktionelle Text, die Genre-Zuordnung, die Gruppierung und die Systemtexte.
 Der Titel in dieser Liste ist der Schlüssel, über den alles andere gefunden wird.
 
 **Gamelist** — Wertung, Jahr, Entwickler, Verlag, Spielerzahl, Datenbank-Genre,
-RetroAchievements-Kennung, Langbeschreibung und Cover. Kommt vollständig aus
-`daten/` und wird bei jedem Build überschrieben.
+RetroAchievements-Kennung, Langbeschreibung, Spielreihe, Cover und
+Bildschirmfoto. Kommt vollständig aus `daten/` und wird bei jedem Build
+überschrieben.
 
 Ein Austausch der gamelist lässt die Kuratierung also unberührt.
 
@@ -63,13 +65,35 @@ Zuordnung falsch, gehört sie in die Tabelle `HANDZUORDNUNG` oben in
 rechts. Dort liegen bereits die japanischen Originaltitel (`Altered Beast` →
 `Juuouki`) und die Lokalisierungen.
 
-## Cover
+## Spielreihen
 
-Die Cover stammen aus `<thumbnail>` der gamelist — das ist die Verpackung, nicht
-der Bildschirmfoto-Eintrag `<image>`. Der Build wandelt sie mit `sips` (macOS,
-bereits vorhanden) in zwei JPEG-Größen um und legt sie unter dem Kurznamen des
-kuratierten Titels ab, nicht unter dem ROM-Namen. Ein Wechsel des Dateinamens in
-der gamelist ändert die Bilder also nicht.
+Das Feld `<family>` der gamelist gruppiert Titel zu Reihen — auch dann, wenn die
+Namen auseinandergehen: `Dragon Quest` fasst die westlichen „Dragon Warrior“-
+Ausgaben zusammen, `Kunio-Kun` verbindet River City Ransom mit Crash 'n' the
+Boys. Das Detailblatt zeigt die Reihe mit Anzahl und Systemen; ein Klick filtert
+die Liste darauf und legt `#reihe=…` in die Adresse.
+
+Reihen mit nur einem Titel werden verworfen. Derzeit bleiben 168 Reihen mit
+zusammen 700 Spielen.
+
+## Bilder
+
+Cover stammen aus `<thumbnail>`, Bildschirmfotos aus `<image>`. Beide teilen
+sich den Kurznamen des kuratierten Titels, nicht den ROM-Namen — ein Wechsel des
+Dateinamens in der gamelist ändert die Bilder also nicht. Ohne Cover bleibt auch
+das Bildschirmfoto ungenutzt, weil der Pfad am selben Kurznamen hängt; der Build
+weist darauf hin, falls das je vorkommt.
+
+Umgewandelt wird mit `sips` (auf macOS vorhanden). Zwei Eigenheiten sind
+absichtlich so:
+
+- **Die Qualitätszahl ist niedrig angesetzt.** `sips` ist anders geeicht als
+  übliche JPEG-Encoder und liefert bei gleicher Zahl rund doppelt so große
+  Dateien; Q45 entspricht hier etwa dem, was anderswo Q60 heißt.
+- **Bildschirmfotos werden nie vergrößert.** Eine Game-Boy-Aufnahme ist nativ
+  160x144. Auf 480 hochgerechnet kostet sie das Doppelte und die Pixel
+  verwaschen. Die Seite skaliert stattdessen im Browser mit harten Kanten hoch
+  (`image-rendering: pixelated`), was der Vorlage gerecht wird.
 
 Bereits vorhandene Dateien werden übersprungen. Der Build braucht die
 Originalbilder daher nur für **neue** Spiele:
@@ -78,9 +102,10 @@ Originalbilder daher nur für **neue** Spiele:
 node werkzeuge/build.mjs --quelle /Volumes/Platte/information
 ```
 
-Vorgabe ist `~/Desktop/information`. Fehlt der Ordner, bleiben vorhandene Cover
+Vorgabe ist `~/Desktop/information`. Fehlt der Ordner, bleiben vorhandene Bilder
 unangetastet und nur neue Titel gehen leer aus. Mit `--nurdaten` bleibt die
-Bildumwandlung ganz aus.
+Bildumwandlung ganz aus; dann zählt für die Seite nur, was schon auf der Platte
+liegt.
 
 Die Liste holt ein Cover erst, wenn die Zeile in die Nähe des Sichtfelds kommt.
 Beim ersten Aufruf werden dadurch rund zehn Bilder geladen statt 1194.

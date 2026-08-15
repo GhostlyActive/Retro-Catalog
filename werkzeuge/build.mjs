@@ -57,8 +57,13 @@ const HANDZUORDNUNG = {
 // Zur Qualitätszahl: sips ist anders geeicht als übliche JPEG-Encoder und
 // liefert bei gleicher Zahl rund doppelt so große Dateien. Q45 entspricht hier
 // etwa dem, was anderswo Q60 heißt — sichtbar ist der Unterschied nicht.
-const BREITE = { klein: 128, gross: 400 };
-const QUALITAET = { klein: 50, gross: 45 };
+const BREITE = { klein: 128, gross: 400, szene: 480 };
+const QUALITAET = { klein: 50, gross: 45, szene: 45 };
+
+// Screenshots werden nie vergrößert: eine Game-Boy-Aufnahme ist nativ 160x144,
+// auf 480 hochgerechnet kostet sie das Doppelte und die Pixel verwaschen.
+// Die Seite skaliert stattdessen im Browser mit harten Kanten hoch.
+const NICHT_VERGROESSERN = new Set(['szene']);
 
 const ANFANG = '/* ---- Erzeugt von werkzeuge/build.mjs — nicht von Hand ändern ---- */';
 const ENDE = '/* ---- Ende erzeugter Block ---- */';
@@ -123,7 +128,8 @@ function gamelistLesen(kid) {
     rating: feld(blk, 'rating'), releasedate: feld(blk, 'releasedate'),
     developer: feld(blk, 'developer'), publisher: feld(blk, 'publisher'),
     players: feld(blk, 'players'), cheevosId: feld(blk, 'cheevosId'),
-    thumbnail: feld(blk, 'thumbnail')
+    thumbnail: feld(blk, 'thumbnail'), image: feld(blk, 'image'),
+    family: feld(blk, 'family')
   })).filter(g => g.name);
 }
 
@@ -187,26 +193,51 @@ function zuordnen(data) {
   return { treffer, offen: offenGesamt, uebrig: uebrigGesamt, unsicher };
 }
 
-// ---- Cover ----
+// ---- Bilder ----
 
-async function coverUmwandeln(auftraege, quelle) {
+// Kantenlänge aus dem Dateikopf lesen, statt sips ein zweites Mal je Bild zu starten.
+function laengsteKante(datei) {
+  let buf;
+  try { buf = fs.readFileSync(datei); } catch { return 0; }
+  if (buf.length > 24 && buf.readUInt32BE(0) === 0x89504e47)
+    return Math.max(buf.readUInt32BE(16), buf.readUInt32BE(20));
+  if (buf.length > 4 && buf[0] === 0xff && buf[1] === 0xd8) {
+    for (let i = 2; i + 9 < buf.length;) {
+      if (buf[i] !== 0xff) { i++; continue; }
+      const marke = buf[i + 1];
+      // SOF0–SOF15 tragen die Maße; DHT/DAC/RST/SOS sind keine Rahmenköpfe.
+      if (marke >= 0xc0 && marke <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marke))
+        return Math.max(buf.readUInt16BE(i + 7), buf.readUInt16BE(i + 5));
+      if (marke === 0xd8 || (marke >= 0xd0 && marke <= 0xd9)) { i += 2; continue; }
+      i += 2 + buf.readUInt16BE(i + 2);
+    }
+  }
+  return 0;
+}
+
+async function bilderUmwandeln(auftraege, quelle) {
   let erledigt = 0, uebersprungen = 0, fehler = 0;
   const warteschlange = auftraege.slice();
   const arbeiter = Array.from({ length: Math.max(2, os.cpus().length - 1) }, async () => {
     for (let a = warteschlange.pop(); a; a = warteschlange.pop()) {
       if (fs.existsSync(a.ziel)) { uebersprungen++; continue; }
       if (!fs.existsSync(a.von)) { fehler++; continue; }
+      let breite = a.breite;
+      if (NICHT_VERGROESSERN.has(a.art)) {
+        const nativ = laengsteKante(a.von);
+        if (nativ) breite = Math.min(breite, nativ);
+      }
       fs.mkdirSync(path.dirname(a.ziel), { recursive: true });
       try {
         await ausfuehren('sips', ['-s', 'format', 'jpeg', '-s', 'formatOptions', String(a.qualitaet),
-          '-Z', String(a.breite), a.von, '--out', a.ziel]);
+          '-Z', String(breite), a.von, '--out', a.ziel]);
         erledigt++;
-        if (erledigt % 200 === 0) process.stdout.write(`  … ${erledigt} umgewandelt\n`);
+        if (erledigt % 400 === 0) process.stdout.write(`  … ${erledigt} umgewandelt\n`);
       } catch { fehler++; }
     }
   });
   await Promise.all(arbeiter);
-  if (!quelle && fehler) process.stdout.write('  (Quellordner fehlt — vorhandene Cover bleiben unberührt)\n');
+  if (!quelle && fehler) process.stdout.write('  (Quellordner fehlt — vorhandene Bilder bleiben unberührt)\n');
   return { erledigt, uebersprungen, fehler };
 }
 
@@ -232,7 +263,8 @@ if (uebrig.length) { console.log('\nIn gamelist, nicht im Katalog:'); uebrig.for
 const extra = {};
 const bildauftraege = [];
 const belegt = {};
-const zaehler = { desc: 0, rating: 0, jahr: 0, cover: 0 };
+const ohneCoverAberSzene = [];
+const zaehler = { desc: 0, rating: 0, jahr: 0, cover: 0, szene: 0, reihe: 0 };
 
 for (const konsole of data) {
   const kid = konsole.id;
@@ -252,34 +284,51 @@ for (const konsole of data) {
       if (g.genre) e.g = g.genre;
       if (g.cheevosId) e.ch = 1;
       if (g.desc) { e.d = fliesstext(g.desc); zaehler.desc++; }
+      if (g.family) { e.f = g.family; zaehler.reihe++; }
 
-      if (g.thumbnail) {
-        belegt[kid] ??= new Set();
-        let name = kurzname(titel) || 'spiel';
-        while (belegt[kid].has(name)) name += '-x';
-        belegt[kid].add(name);
-        const von = path.join(quelle, QUELLORDNER[kid] || kid, g.thumbnail.replace(/^\.\//, ''));
-        const vorhanden = ['klein', 'gross'].every(gr =>
-          fs.existsSync(path.join(WURZEL, 'bilder', gr, kid, name + '.jpg')));
-        if (vorhanden || fs.existsSync(von)) {
-          e.c = name; zaehler.cover++;
-          for (const gr of ['klein', 'gross']) bildauftraege.push({
-            von, ziel: path.join(WURZEL, 'bilder', gr, kid, name + '.jpg'),
-            breite: BREITE[gr], qualitaet: QUALITAET[gr]
-          });
-        }
-      }
+      // Ein Kurzname je Spiel, den sich Cover und Screenshot teilen. Er folgt dem
+      // kuratierten Titel, nicht dem ROM-Namen — ein Wechsel des Dateinamens in der
+      // gamelist lässt die Bilder dadurch unberührt.
+      belegt[kid] ??= new Set();
+      let name = kurzname(titel) || 'spiel';
+      while (belegt[kid].has(name)) name += '-x';
+      belegt[kid].add(name);
+
+      const einplanen = (xmlPfad, arten, marke) => {
+        if (!xmlPfad) return false;
+        const von = path.join(quelle, QUELLORDNER[kid] || kid, xmlPfad.replace(/^\.\//, ''));
+        const ziele = arten.map(art => ({ art, ziel: path.join(WURZEL, 'bilder', art, kid, name + '.jpg') }));
+        const fertig = ziele.every(z => fs.existsSync(z.ziel));
+        // Ohne Bildlauf zählt nur, was schon dasteht — sonst verweist die Seite
+        // auf Dateien, die dieser Lauf gar nicht angelegt hat.
+        if (!fertig && (nurDaten || !fs.existsSync(von))) return false;
+        ziele.forEach(z => bildauftraege.push({
+          ...z, von, breite: BREITE[z.art], qualitaet: QUALITAET[z.art]
+        }));
+        e[marke] = marke === 'c' ? name : 1;
+        return true;
+      };
+      if (einplanen(g.thumbnail, ['klein', 'gross'], 'c')) zaehler.cover++;
+      // Der Screenshot hängt am selben Kurznamen wie das Cover. Ohne Cover hat die
+      // Seite keinen Pfad, an dem sie ihn suchen könnte — dann bleibt er weg.
+      if (e.c && einplanen(g.image, ['szene'], 's')) zaehler.szene++;
+      else if (!e.c && g.image) ohneCoverAberSzene.push(`${kid} | ${titel}`);
+
       extra[kid + '|' + titel] = e;
     }
   }
 }
 
 console.log(`\nAus den gamelists übernommen — Beschreibung ${zaehler.desc}, Wertung ${zaehler.rating}, `
-  + `Jahr ${zaehler.jahr}, Cover ${zaehler.cover}  (von ${spieleGesamt})`);
+  + `Jahr ${zaehler.jahr}, Cover ${zaehler.cover}, Screenshot ${zaehler.szene}, `
+  + `Reihe ${zaehler.reihe}  (von ${spieleGesamt})`);
+if (ohneCoverAberSzene.length)
+  console.log('\nScreenshot vorhanden, aber kein Cover — bleibt ungenutzt:\n  '
+    + ohneCoverAberSzene.join('\n  '));
 
 if (!nurDaten && bildauftraege.length) {
-  console.log(`\nCover umwandeln (${bildauftraege.length} Dateien in zwei Größen) …`);
-  const r = await coverUmwandeln(bildauftraege, fs.existsSync(quelle) ? quelle : null);
+  console.log(`\nBilder umwandeln (${bildauftraege.length} Dateien) …`);
+  const r = await bilderUmwandeln(bildauftraege, fs.existsSync(quelle) ? quelle : null);
   console.log(`  neu ${r.erledigt}, vorhanden ${r.uebersprungen}, übersprungen ${r.fehler}`);
 }
 
