@@ -16,23 +16,27 @@
 <script>try{var t=localStorage.getItem('rs-theme');if(t)document.documentElement.setAttribute('data-t',t)}catch(e){}</script>
 <style>
 :root{
-  --bg:#FAFAF7; --sur:#FFFFFF; --sur2:#F2F1EC; --line:#E2E0D8;
-  --tx:#16191C; --tx2:#4E545B; --tx3:#868C93;
-  --acc:#9A6410; --acc-bg:#F7EEDC; --acc-line:#E4CFA6;
-  --ok:#2C7A5E; --sh:0 1px 3px rgba(20,22,25,.07),0 8px 24px rgba(20,22,25,.05);
-  --r:10px;
+  /* Dieselben Rollen und Stufen wie ghostlyactive.github.io: Grund, erhabene und
+     vertiefte Fläche, zwei Rahmenstärken, Akzent als Farbe plus zwei Deckgraden.
+     Die dunkle Fassung übernimmt deren Werte unverändert, die helle spiegelt die
+     Rollen — gleicher Farbton, umgekehrte Helligkeit. */
+  --bg:#FAFAF7; --sur:#FFFFFF; --sur2:#F1F0EA; --line:#E4E2DA; --line2:#CFCCC1;
+  --tx:#16191C; --tx2:#565B62; --tx3:#6E747B;
+  --acc:#8F5E00; --acc-bg:#FDF1DE; --acc-line:#EBD3A6;
+  --ok:#0E7490; --sh:0 1px 3px rgba(20,22,25,.07),0 8px 24px rgba(20,22,25,.05);
+  --r-sm:4px; --r:8px; --r-lg:14px;
 }
 @media (prefers-color-scheme:dark){:root:not([data-t="light"]){
-  --bg:#0F1215; --sur:#171B20; --sur2:#1E242B; --line:#2A3138;
-  --tx:#E9EAEA; --tx2:#A9B0B7; --tx3:#727A82;
-  --acc:#E3A94F; --acc-bg:#2A2114; --acc-line:#4A3A1E;
-  --ok:#5CBF97; --sh:0 1px 3px rgba(0,0,0,.4),0 8px 28px rgba(0,0,0,.3);
+  --bg:#0B0B0D; --sur:#131317; --sur2:#08080A; --line:#22222A; --line2:#35353F;
+  --tx:#ECEAE6; --tx2:#9D9A92; --tx3:#7E7A73;
+  --acc:#FFA62B; --acc-bg:rgba(255,166,43,.12); --acc-line:rgba(255,166,43,.32);
+  --ok:#5CD2E6; --sh:0 1px 2px rgba(0,0,0,.5),0 8px 28px rgba(0,0,0,.4);
 }}
 :root[data-t="dark"]{
-  --bg:#0F1215; --sur:#171B20; --sur2:#1E242B; --line:#2A3138;
-  --tx:#E9EAEA; --tx2:#A9B0B7; --tx3:#727A82;
-  --acc:#E3A94F; --acc-bg:#2A2114; --acc-line:#4A3A1E;
-  --ok:#5CBF97; --sh:0 1px 3px rgba(0,0,0,.4),0 8px 28px rgba(0,0,0,.3);
+  --bg:#0B0B0D; --sur:#131317; --sur2:#08080A; --line:#22222A; --line2:#35353F;
+  --tx:#ECEAE6; --tx2:#9D9A92; --tx3:#7E7A73;
+  --acc:#FFA62B; --acc-bg:rgba(255,166,43,.12); --acc-line:rgba(255,166,43,.32);
+  --ok:#5CD2E6; --sh:0 1px 2px rgba(0,0,0,.5),0 8px 28px rgba(0,0,0,.4);
 }
 
 *{box-sizing:border-box}
@@ -81,7 +85,7 @@ mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
 #q::-webkit-search-cancel-button,#q::-webkit-search-decoration{appearance:none;-webkit-appearance:none}
 #q:focus{border-color:var(--acc);outline:none}
 #qx{position:absolute;right:6px;top:50%;transform:translateY(-50%);padding:5px 7px;
-  color:var(--tx3);font-size:16px;line-height:1;border-radius:5px;display:none}
+  color:var(--tx3);font-size:16px;line-height:1;border-radius:var(--r-sm);display:none}
 #qx.on{display:block}
 #qx:hover{color:var(--tx);background:var(--sur2)}
 
@@ -90,7 +94,7 @@ mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
 .ico:hover{color:var(--acc);border-color:var(--acc)}
 .ico.act{color:var(--acc);border-color:var(--acc);background:var(--acc-bg)}
 .badge{position:absolute;top:-5px;right:-5px;min-width:17px;height:17px;padding:0 4px;
-  border-radius:9px;background:var(--acc);color:var(--bg);font-size:10px;font-weight:700;
+  border-radius:var(--r);background:var(--acc);color:var(--bg);font-size:10px;font-weight:700;
   display:grid;place-items:center;line-height:1;
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 .badge[hidden]{display:none}
@@ -102,12 +106,12 @@ mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
 .fbar-in{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-block:11px}
 .fgrp{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
 .fsep{width:1px;height:22px;background:var(--line);margin:0 3px}
-.lab{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--tx3);
+.lab{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--tx2);
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin-right:2px}
 
-.chip{padding:6px 11px;border:1px solid var(--line);border-radius:20px;background:var(--sur);
+.chip{padding:6px 11px;border:1px solid var(--line);border-radius:999px;background:var(--sur);
   color:var(--tx2);font-size:12.5px;white-space:nowrap;transition:none}
-.chip:hover{border-color:var(--tx3);color:var(--tx)}
+.chip:hover{border-color:var(--line2);color:var(--tx)}
 .chip[aria-pressed=true]{background:var(--acc-bg);border-color:var(--acc-line);color:var(--acc);font-weight:600}
 select{padding:7px 26px 7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--sur);
   font-size:12.5px;cursor:pointer;
@@ -124,7 +128,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .stat .n b{color:var(--tx);font-weight:650}
 .stat .acts{display:flex;gap:6px;flex-wrap:wrap}
 .nwrap{display:flex;align-items:center;gap:10px;flex-wrap:wrap;min-width:0}
-.rchip{display:flex;align-items:center;gap:6px;padding:4px 8px 4px 10px;border-radius:20px;
+.rchip{display:flex;align-items:center;gap:6px;padding:4px 8px 4px 10px;border-radius:999px;
   background:var(--acc-bg);border:1px solid var(--acc-line);color:var(--acc);
   font-size:12.5px;font-weight:600;white-space:nowrap}
 .rchips{display:flex;gap:6px;flex-wrap:wrap;min-width:0}
@@ -136,16 +140,16 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .sec-h{display:flex;align-items:center;gap:10px;width:100%;padding:13px 12px;
   border:1px solid var(--line);border-radius:var(--r);background:var(--sur);text-align:left;
   border-left:4px solid var(--k,var(--tx3))}
-.sec-h:hover{border-color:var(--tx3)}
+.sec-h:hover{border-color:var(--line2)}
 .sec-hw{margin:0;font-size:inherit;font-weight:inherit}
 .sec-h .sec-t{font-size:15.5px;font-weight:650;letter-spacing:-.01em;flex:1;min-width:0}
-.sec-h .cnt{font-size:12px;color:var(--tx3);font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+.sec-h .cnt{font-size:12px;color:var(--tx2);font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 .arw{width:9px;height:9px;border-right:1.8px solid var(--tx3);border-bottom:1.8px solid var(--tx3);
   transform:rotate(45deg);margin-right:2px;transition:transform .16s ease;flex-shrink:0}
 .sec.zu .arw{transform:rotate(-45deg)}
 .sec.zu .sec-b{display:none}
 .sec-b{padding:2px 0 14px}
-.gh{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);
+.gh{font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx2);
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;padding:15px 2px 6px}
 
 /* ---------- Spielzeile ---------- */
@@ -156,7 +160,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .g:hover{background:var(--sur);border-color:var(--line);border-left-color:var(--k,var(--line))}
 .g+.g{margin-top:1px}
 .g .gt{grid-column:2;font-size:14.5px;font-weight:600;letter-spacing:-.005em;min-width:0}
-.g .gm{grid-column:2;font-size:12px;color:var(--tx3);display:flex;flex-wrap:wrap;gap:4px 8px;
+.g .gm{grid-column:2;font-size:12px;color:var(--tx2);display:flex;flex-wrap:wrap;gap:4px 8px;
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 .g .gd{grid-column:2/-1;font-size:13.5px;color:var(--tx2);margin-top:3px;line-height:1.5}
 .g .gd b{color:var(--tx);font-weight:600}
@@ -169,7 +173,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
   border-radius:3px;background:var(--sur2) no-repeat center/contain}
 .gc.leer{box-shadow:inset 0 0 0 1px var(--line)}
 
-.tg{font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;padding:4px 6px;border-radius:4px;
+.tg{font-size:9.5px;letter-spacing:.09em;text-transform:uppercase;padding:4px 6px;border-radius:var(--r-sm);
   font-weight:700;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;white-space:nowrap}
 .tg.p{background:var(--acc-bg);color:var(--acc)}
 .tg.s{background:var(--sur2);color:var(--tx2)}
@@ -182,6 +186,27 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .g.pick{background:var(--acc-bg);border-color:var(--acc-line)}
 .g.pick .gt{color:var(--acc)}
 .g:focus-visible{outline:2px solid var(--acc);outline-offset:-2px;border-radius:8px}
+
+/* ---------- Regal ---------- */
+/* Die Packungsbilder sind das, was eine Sammlung ausmacht — in der Liste sind sie
+   44 px breit. Im Regal tragen sie die Karte, wie die Medienfläche einer work-card:
+   feste Bühne im Verhältnis 3:4 auf vertiefter Fläche, das Bild hineingerechnet.
+   Die Konsolenfarbe wandert dabei von der linken Kante an die Oberkante. */
+.reg{list-style:none;margin:0;padding:0;display:grid;gap:14px;
+  grid-template-columns:repeat(auto-fill,minmax(158px,1fr))}
+.g.rk{display:flex;flex-direction:column;gap:0;padding:0;overflow:hidden;
+  background:var(--sur);border:1px solid var(--line);border-radius:var(--r-lg);
+  border-top:3px solid var(--k,var(--line))}
+.g.rk:hover{border-color:var(--line2);border-top-color:var(--k,var(--line2))}
+.g.rk:focus-visible{outline-offset:-2px;border-radius:var(--r-lg)}
+.rk-m{width:100%;aspect-ratio:var(--ar,.85);flex-shrink:0;
+  background:var(--sur2) no-repeat center/contain;border-bottom:1px solid var(--line)}
+.rk-b{flex:1;display:flex;flex-direction:column;gap:3px;padding:10px 11px 11px}
+.rk .gt{font-size:13.5px;line-height:1.3}
+.rk .gm{font-size:11px}
+.rk .gr{margin-top:auto;padding-top:8px;justify-content:space-between;width:100%}
+.rk .pos{margin-bottom:1px}
+.g.rk.pick{border-color:var(--acc-line)}
 
 /* ---------- Rangliste ---------- */
 /* Eigene Spalte für die Platzziffer. Im zweispaltigen Raster landet sie sonst
@@ -204,7 +229,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
   display:none;align-items:center;justify-content:center;padding:20px;
   backdrop-filter:blur(2px)}
 .ov.on{display:flex}
-.sheet{background:var(--bg);border:1px solid var(--line);border-radius:14px;box-shadow:var(--sh);
+.sheet{background:var(--sur);border:1px solid var(--line);border-radius:var(--r-lg);box-shadow:var(--sh);
   width:100%;max-width:620px;max-height:88vh;overflow-y:auto;position:relative;
   /* Waagerechtes Wischen blättert und gehört deshalb uns. pan-y lässt das
      Scrollen im Blatt beim Browser, pinch-zoom das Vergrößern des Bildschirmfotos.
@@ -222,7 +247,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 /* Unter dem großen Cover liegt das kleine aus der Liste. Es ist bereits im
    Zwischenspeicher und füllt den Kasten sofort, statt ihn leer zu lassen,
    bis die scharfe Fassung eintrifft. */
-.sh-c{flex-shrink:0;width:124px;height:166px;object-fit:contain;border-radius:5px;
+.sh-c{flex-shrink:0;width:124px;height:166px;object-fit:contain;border-radius:var(--r-sm);
   background-color:var(--sur2);background-repeat:no-repeat;
   background-position:center;background-size:contain;box-shadow:var(--sh)}
 .sh-c[hidden]{display:none}
@@ -232,7 +257,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
   text-wrap:balance}
 .sh-b{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px}
 .sh-r{display:inline-flex;align-items:center;gap:6px;margin-top:11px;padding:5px 10px;
-  border:1px solid var(--line);border-radius:20px;background:var(--sur);
+  border:1px solid var(--line);border-radius:999px;background:var(--sur);
   color:var(--tx2);font-size:12.5px;text-align:left}
 .sh-r[hidden]{display:none}
 .sh-r:hover{border-color:var(--acc);color:var(--acc)}
@@ -252,7 +277,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
    sichtbare Möglichkeit, das Blatt wieder zu verlassen. */
 .sh-nav{position:sticky;top:0;z-index:3;
   display:flex;align-items:center;justify-content:flex-end;gap:2px;
-  padding:12px 12px 6px;background:var(--bg);
+  padding:12px 12px 6px;background:var(--sur);
   border-left:5px solid var(--k,var(--acc));border-radius:14px 14px 0 0}
 .shn{width:32px;height:32px;border-radius:8px;display:grid;place-items:center;
   color:var(--tx3);font-size:19px;line-height:1}
@@ -262,12 +287,12 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-variant-numeric:tabular-nums}
 .sh-body{padding:20px 26px 26px}
 .mein{font-size:14.5px;line-height:1.6;color:var(--tx2);padding:13px 15px;background:var(--sur);
-  border-radius:9px;border:1px solid var(--line)}
+  border-radius:var(--r);border:1px solid var(--line)}
 .mein b{color:var(--tx);font-weight:600}
 .mein em{font-style:normal;color:var(--acc);font-weight:500}
 .facts{display:flex;flex-wrap:wrap;gap:1px;
-  background:var(--line);border:1px solid var(--line);border-radius:9px;overflow:hidden;margin:16px 0}
-.fct{background:var(--bg);padding:11px 13px;flex:1 1 116px;min-width:0}
+  background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin:16px 0}
+.fct{background:var(--sur);padding:11px 13px;flex:1 1 116px;min-width:0}
 .fct dt{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);margin-bottom:4px;
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
 .fct dd{margin:0;font-size:13.5px;font-weight:550}
@@ -306,9 +331,9 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .zsheet{display:flex;flex-direction:column;overflow:hidden;max-height:82vh;max-width:640px}
 .zov-b{overflow-y:auto;overscroll-behavior:contain;padding:0 24px 24px}
 .zkopf{display:grid;grid-template-columns:repeat(auto-fit,minmax(112px,1fr));gap:1px;
-  background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden;
+  background:var(--line);border:1px solid var(--line);border-radius:var(--r-lg);overflow:hidden;
   margin-bottom:22px}
-.zkachel{background:var(--bg);padding:12px 13px}
+.zkachel{background:var(--sur);padding:12px 13px}
 .zkachel dt{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin-bottom:5px}
 .zkachel dd{margin:0;font-size:21px;font-weight:680;letter-spacing:-.02em;line-height:1}
@@ -321,8 +346,8 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 button.zrow:hover .zl{color:var(--acc)}
 button.zrow:hover i{opacity:.75}
 .zl{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--tx2)}
-.zb{height:9px;border-radius:5px;background:var(--sur2);overflow:hidden}
-.zb i{display:block;height:100%;border-radius:5px;background:var(--acc)}
+.zb{height:9px;border-radius:var(--r-sm);background:var(--sur2);overflow:hidden}
+.zb i{display:block;height:100%;border-radius:var(--r-sm);background:var(--acc)}
 .zv{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;
   color:var(--tx);font-variant-numeric:tabular-nums}
 .zv em{font-style:normal;color:var(--tx3);margin-left:6px}
@@ -331,17 +356,17 @@ button.zrow:hover i{opacity:.75}
 .dr{position:fixed;inset:0;z-index:60;background:rgba(8,10,12,.55);display:none}
 .dr.on{display:block}
 .dr-in{position:absolute;left:0;right:0;bottom:0;max-height:86vh;overflow-y:auto;
-  background:var(--bg);border-radius:16px 16px 0 0;padding:6px 20px calc(20px + env(safe-area-inset-bottom))}
-.dr-hd{position:sticky;top:0;background:var(--bg);padding:12px 0 14px;display:flex;
+  background:var(--sur);border-radius:16px 16px 0 0;padding:6px 20px calc(20px + env(safe-area-inset-bottom))}
+.dr-hd{position:sticky;top:0;background:var(--sur);padding:12px 0 14px;display:flex;
   align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);margin-bottom:16px}
 .dr-hd b{font-size:16px;font-weight:650}
 .dr-grip{width:34px;height:4px;border-radius:2px;background:var(--line);margin:0 auto 6px}
 .dr-s{margin-bottom:18px}
 .dr-s>.lab{display:block;margin-bottom:8px}
 .dr-s select{width:100%}
-.dr-f{position:sticky;bottom:0;background:var(--bg);padding:12px 0 4px;border-top:1px solid var(--line);
+.dr-f{position:sticky;bottom:0;background:var(--sur);padding:12px 0 4px;border-top:1px solid var(--line);
   display:flex;gap:8px}
-.btn{flex:1;padding:11px;border-radius:9px;font-size:14px;font-weight:600;border:1px solid var(--line);
+.btn{flex:1;padding:11px;border-radius:var(--r);font-size:14px;font-weight:600;border:1px solid var(--line);
   background:var(--sur);color:var(--tx)}
 .btn.pri{background:var(--acc);border-color:var(--acc);color:var(--bg)}
 
@@ -357,7 +382,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:16px 0 44px;
   display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--tx3)}
 footer span{display:flex;align-items:center;gap:5px;white-space:nowrap}
 kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-height:1.3;
-  padding:2px 5px;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;
+  padding:2px 5px;border:1px solid var(--line);border-bottom-width:2px;border-radius:var(--r-sm);
   background:var(--sur);color:var(--tx2)}
 
 @media (max-width:860px){
@@ -416,7 +441,8 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
   .g{break-inside:avoid;padding:3pt 0;border:none;border-radius:0}
   /* Die Cover-Spalte fällt beim Ausblenden auf Breite 0 zusammen; die übrigen
      Spaltenangaben bleiben dadurch gültig. */
-  .gc{display:none}
+  .gc,.rk-m{display:none}
+  .reg{display:block}
   .g+.g{margin-top:0}
   .g .gd{display:block!important;color:#000;font-size:9.5pt}
   .g .gm{color:#555;font-size:8pt}
@@ -494,6 +520,7 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
       <button class="chip" id="rnd">Überrasch mich</button>
       <button class="chip" id="reihen">Reihen</button>
       <button class="chip" id="zahlen">Zahlen</button>
+      <button class="chip" id="ansicht"></button>
       <button class="chip" id="fold">Alle zuklappen</button>
       <button class="chip" id="rst" hidden>Zurücksetzen</button>
     </span>
@@ -2017,6 +2044,12 @@ const EXTRA = {"snes|Super Mario World":{"r":8.5,"y":"1991","dev":"Nintendo","pu
 const KFARBE = {snes:'#7C6CC9',nes:'#C8483C',md:'#3E7FD6',sms:'#2E9C8D',gg:'#4BA0D8',
   n64:'#48AE58',gb:'#8CA84B',gbc:'#D25C9E',gba:'#6E5FE0',pce:'#E08A3C',ngpc:'#D9B23F',
   a26:'#C4783C',ps1:'#8A94A6',ps2:'#3170CE'};
+// Breite zu Höhe der Verpackung, je System der Medianwert der vorhandenen Bilder.
+// Eine gemeinsame Bühne für alle gäbe es nicht: die SNES- und N64-Schachteln liegen
+// quer (1,37), Mega Drive, Master System und PS2 stehen hochkant (0,71). Im Regal
+// bekommt deshalb jedes System sein eigenes Format — so wie im Regal daheim auch.
+const KVERHAELTNIS = {snes:1.37, n64:1.37, ps1:1.17, gb:1, gbc:1, gba:1,
+  ngpc:.85, pce:.85, nes:.73, a26:.73, gg:.73, md:.71, sms:.71, ps2:.71};
 const TIER = {p:'Pflicht',s:'Stark',o:'Solide'};
 const TRANG = {p:3,s:2,o:1};
 const GENRE = {jr:"Jump 'n' Run",ac:'Action',aa:'Action-Adventure',be:"Beat 'em up",
@@ -2077,7 +2110,7 @@ const PUBS = new Set(ALL.map(g => g.pub).filter(Boolean));
 
 // ---- Zustand ----
 const S = {q:'', qw:[], tier:new Set(), k:'', g:'', r:'', p:'', d:'', ach:false, sort:'k',
-  reihe:'', dev:'', pub:'', spiel:''};
+  reihe:'', dev:'', pub:'', spiel:'', regal:false};
 const zu = new Set();
 let SICHT = [];
 let cursorI = null;
@@ -2128,6 +2161,7 @@ function hashSchreiben(ersetzen){
   if(S.dev) t.push('entwickler=' + encodeURIComponent(S.dev));
   if(S.pub) t.push('verlag=' + encodeURIComponent(S.pub));
   if(zu.size) t.push('zu=' + [...zu].join(','));
+  if(S.regal) t.push('ansicht=regal');
   if(S.spiel) t.push('spiel=' + encodeURIComponent(S.spiel));
   const url = location.pathname + location.search + (t.length ? '#' + t.join('&') : '');
   // Die Marke am Eintrag verrät später, ob das offene Blatt einen eigenen
@@ -2154,6 +2188,7 @@ function hashLesen(){
   S.dev = DEVS.has(dev) ? dev : '';
   const pub = p.get('verlag') || '';
   S.pub = PUBS.has(pub) ? pub : '';
+  S.regal = p.get('ansicht') === 'regal';
   const spiel = p.get('spiel') || '';
   S.spiel = NACH_SCHLUESSEL.has(spiel) ? spiel : '';
   zu.clear();
@@ -2175,6 +2210,7 @@ function steuerungSyncen(){
     `<button class="rchip" data-f="${k}" aria-label="Filter ${l} ${esc(S[k])} aufheben">`
     + `${l}: ${esc(S[k])}</button>`).join('');
   $('fold').textContent = DATA.every(c => zu.has(c.id)) ? 'Alle aufklappen' : 'Alle zuklappen';
+  $('ansicht').textContent = S.regal ? 'Liste' : 'Regal';
 }
 
 // Tippen ersetzt den Verlaufseintrag, alles andere legt einen neuen an —
@@ -2310,6 +2346,27 @@ function zeile(g, pos){
     + `<p class="gd">${hervor(g.d)}</p></li>`;
 }
 
+// Dieselbe Zeile als Karte: das Cover in groß auf einer eigenen Bühne, darunter nur
+// Titel, Herkunft und Einstufung. Die Kurzbewertung bleibt der Liste vorbehalten —
+// sonst wären die Karten unterschiedlich hoch und das Regal kein Regal mehr.
+function karte(g, pos){
+  const sc = g.r === null ? '<span class="sc lo">–</span>'
+    : `<span class="sc ${g.r>=8?'hi':g.r<6.5?'lo':''}">${g.r.toFixed(1)}</span>`;
+  const pfad = cover(g, 'large');
+  const bild = !g.c ? '<span class="rk-m"></span>'
+    : geladeneCover.has(pfad) ? `<span class="rk-m" style="background-image:url(${pfad})"></span>`
+    : `<span class="rk-m" data-c="${pfad}"></span>`;
+  return `<li class="g rk" data-i="${g.i}" tabindex="-1" role="button" `
+    + `style="--k:${KFARBE[g.kid]};--ar:${KVERHAELTNIS[g.kid] || 0.85}">`
+    + bild
+    + '<span class="rk-b">'
+    + (pos ? `<span class="pos">${pos}</span>` : '')
+    + `<span class="gt">${hervor(esc(g.t))}</span>`
+    + `<span class="gm">${hervor(esc([g.kn, g.y].filter(Boolean).join(' · ')))}</span>`
+    + `<span class="gr"><span class="tg ${g.tier}">${TIER[g.tier]}</span>${sc}</span>`
+    + '</span></li>';
+}
+
 function zeichne(){
   const tr = ALL.filter(passt);
   cnt.innerHTML = irgendwas()
@@ -2347,8 +2404,8 @@ function zeichne(){
       const offen = !zu.has(c.id);
       const inhalt = [...grp].map(([name, gs]) => {
         gs.forEach(g => SICHT.push(g));
-        return `<div class="gh">${esc(name)} · ${gs.length}</div><ul class="lst">`
-          + gs.map(g => zeile(g)).join('') + `</ul>`;
+        return `<div class="gh">${esc(name)} · ${gs.length}</div><ul class="${S.regal?'reg':'lst'}">`
+          + gs.map(g => S.regal ? karte(g) : zeile(g)).join('') + `</ul>`;
       }).join('');
       return `<section class="sec${offen?'':' zu'}" style="--k:${KFARBE[c.id]}">`
         + `<h2 class="sec-hw"><button class="sec-h" data-k="${c.id}" aria-expanded="${offen}" aria-controls="sb-${c.id}">`
@@ -2369,13 +2426,14 @@ function zeichne(){
       s.sort((a,b)=>punkte.get(b)-punkte.get(a) || a.t.localeCompare(b.t,'de'));
     }
     SICHT = s;
-    out.innerHTML = `<ul class="lst">` + s.map((g,i)=>zeile(g, i+1)).join('') + `</ul>`;
+    out.innerHTML = `<ul class="${S.regal?'reg':'lst'}">`
+      + s.map((g,i) => S.regal ? karte(g, i+1) : zeile(g, i+1)).join('') + `</ul>`;
   }
 
   // Die alten Zeilen sind weg; der Beobachter hielte sie sonst weiter fest.
   coverBeobachter.disconnect();
   wartendeCover.clear();
-  out.querySelectorAll('.gc[data-c]').forEach(el => coverBeobachter.observe(el));
+  out.querySelectorAll('[data-c]').forEach(el => coverBeobachter.observe(el));
 
   const wieder = cursorI === null ? null : out.querySelector(`.g[data-i="${cursorI}"]`);
   // Eine Zeile in einer zugeklappten Sektion nimmt keinen Fokus an und wäre als
@@ -2389,6 +2447,13 @@ function zeichne(){
 // ---- Tastaturnavigation in der Liste ----
 function sichtbareZeilen(){
   return [...out.querySelectorAll('.g')].filter(el => !el.closest('.sec.zu'));
+}
+// Im Regal springt hoch/runter eine Rasterreihe weit. Die Spaltenzahl steht nicht
+// fest — das Raster füllt selbst auf —, also wird sie an der fertigen Spalten-
+// angabe abgelesen statt aus der Breite gerechnet.
+function spalten(){
+  const raster = S.regal && out.querySelector('.reg');
+  return raster ? getComputedStyle(raster).gridTemplateColumns.split(' ').length : 1;
 }
 function cursorSetzen(el, fokus){
   out.querySelectorAll('.g[tabindex="0"]').forEach(x => { x.tabIndex = -1; });
@@ -2500,6 +2565,15 @@ $('brand').addEventListener('click', e => {
   scrollTo({top:0});
 });
 $('drR').addEventListener('click', reset);
+
+// Die Ansicht ist keine Filterung, sondern eine Darstellung — sie überlebt deshalb
+// das Zurücksetzen, genau wie die Helligkeit.
+$('ansicht').addEventListener('click', () => {
+  S.regal = !S.regal;
+  cursorI = null;
+  steuerungSyncen();
+  aendern();
+});
 
 $('fold').addEventListener('click', () => {
   const alleZu = DATA.every(c => zu.has(c.id));
@@ -2711,7 +2785,10 @@ $('sheet').addEventListener('touchmove', e => {
       : (dy > 0 && wischScroll === 0 ? 'zu' : 'aus');
   }
   if(wischArt !== 'zu') return;
-  // Oben angekommen hat das Blatt nichts mehr zu scrollen; die Bewegung gehört uns.
+  // Hat der Browser das Scrollen schon begonnen, ist das Ereignis nicht mehr
+  // abbrechbar — dann gehört die Geste ihm, und wir geben sie zurück, statt
+  // das Blatt gegen eine laufende Bewegung zu verschieben.
+  if(!e.cancelable){ wischArt = 'aus'; $('sheet').style.transform = ''; return; }
   e.preventDefault();
   $('sheet').style.transform = `translateY(${Math.max(0, dy)}px)`;
 }, {passive:false});
@@ -3023,8 +3100,12 @@ addEventListener('keydown', e => {
   // Pfeiltasten steuern die Liste — außer in Auswahlfeldern, wo sie dem Browser gehören.
   if(tag === 'SELECT') return;
   if(imFeld && !imSuchfeld) return;
-  if(e.key==='ArrowDown'){ e.preventDefault(); bewege(1); }
-  else if(e.key==='ArrowUp'){ e.preventDefault(); bewege(-1); }
+  if(e.key==='ArrowDown'){ e.preventDefault(); bewege(spalten()); }
+  else if(e.key==='ArrowUp'){ e.preventDefault(); bewege(-spalten()); }
+  // Links und rechts nur im Regal und nur außerhalb des Suchfelds, wo sie
+  // sonst dem Textcursor gehören.
+  else if(S.regal && !imFeld && e.key==='ArrowRight'){ e.preventDefault(); bewege(1); }
+  else if(S.regal && !imFeld && e.key==='ArrowLeft'){ e.preventDefault(); bewege(-1); }
   else if(!imFeld && e.key==='Home'){ e.preventDefault(); bewege(0,'anfang'); }
   else if(!imFeld && e.key==='End'){ e.preventDefault(); bewege(0,'ende'); }
 });

@@ -86,10 +86,25 @@ beats word in the description, and among title matches the tier and rating decid
 That ordering is `sortierung=rel`, and it is what the sort dropdown switches to on
 its own when you start typing.
 
+## Looks
+
+The palette, radii and shadows are the tokens from
+[ghostlyactive.github.io](https://ghostlyactive.github.io) so the two sites read as
+one family: neutral near-black, amber accent, cyan as the secondary. Dark uses those
+values verbatim; light mirrors the roles at inverted brightness. Where a token had to
+move it was for contrast — `--tx3` carries labels and counts here, not just incidental
+text, so it sits a step brighter than the source and clears 4.5:1 in both themes.
+
+Two views. The list is dense and carries the verdicts. The shelf (`#ansicht=regal`)
+puts the box art on a stage of its own — each console gets its own aspect ratio,
+because a SNES box is landscape at 1.37 and a Mega Drive box is portrait at 0.71.
+`KVERHAELTNIS` in `index.html` holds the median ratio per system.
+
 ## Touch
 
 In the detail sheet, swipe sideways to page through the result list and swipe down
-from the top to close. Both are touch only — with a mouse and keyboard the buttons
+from the top to close. In the shelf, the arrow keys move by one card sideways and by
+a full grid row up and down. Both are touch only — with a mouse and keyboard the buttons
 and arrow keys do the same. The sheet declares `touch-action: pan-y pinch-zoom`, so
 vertical scrolling and pinch-zoom stay with the browser and only the horizontal
 gesture is ours.
