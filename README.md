@@ -1,6 +1,6 @@
 # Retro-Sammlung
 
-A curated catalogue of 1196 retro games across 14 systems. Single HTML file,
+A curated catalogue of 1195 retro games across 14 systems. Single HTML file,
 no dependencies — open `index.html` directly or serve it from GitHub Pages.
 
 Personal project. Ratings, release data, descriptions and artwork come from
@@ -17,11 +17,12 @@ images/small                 128 px cover — the box in each list row
 images/large                 400 px cover — the detail sheet
 images/screenshot            480 px screenshot — the detail sheet
 tools/build.mjs              rebuilds the generated block, the texts and the images
+LUECKEN.md                   generated: what is missing, per title
 ```
 
 The long descriptions are two thirds of the payload but are only ever read one at
 a time, so they sit in `data/texte.js` and load once the list is up. That keeps
-the first request at 101 KB instead of 389 KB. They arrive as a classic script
+the first request at 103 KB instead of 391 KB. They arrive as a classic script
 rather than a fetch, so opening `index.html` straight from the folder still works.
 
 ## Rebuilding
@@ -46,17 +47,49 @@ by GitHub Pages, and ROM filenames with checksums have no business being there.
 Nothing the build needs is lost, and a freshly dropped gamelist is cleaned on the
 next run.
 
+It also keeps the title count in sync — the number appears in the page's meta
+description and in the first line of this file, and both are rewritten on every
+run. Never edit those by hand.
+
 Two things worth remembering:
 
 - **New games in a gamelist do not appear on their own.** They need an entry in
-  `DATA` inside `index.html`. The build lists them under "In gamelist, nicht im
-  Katalog".
-- **Titles that don't match by name** are resolved by subtitle or similarity,
-  and the build prints every one of those for checking. Japanese originals and
-  odd localisations sit in the `HANDZUORDNUNG` table at the top of the script.
+  `DATA` inside `index.html`. The build lists them in `LUECKEN.md` under
+  "Gescrapt, aber nicht im Katalog".
+- **Titles that don't match by name** are resolved by subtitle or similarity.
+  Japanese originals and odd localisations sit in the `HANDZUORDNUNG` table at
+  the top of the script; everything resolved by guesswork is listed in
+  `LUECKEN.md` for checking.
 
 ## Known gaps
 
-`pce | Dragon Spirit` and `pce | Power Drift` were never scraped — no text, no
-rating, no artwork. Another 19 titles have no rating; ScreenScraper simply
-doesn't carry one for them, mostly Atari 2600. Everything else is complete.
+`LUECKEN.md` is written on every build and is the authority: what has no rating,
+no year, no cover, no screenshot, no description, plus the titles that could not
+be matched and the ones that were matched by similarity. It also flags two titles
+of the same console sharing a description — that is nearly always two discs of one
+game sitting in the catalogue as two entries.
+
+The long-standing ones: `pce | Dragon Spirit` and `pce | Power Drift` were never
+scraped at all, and 19 titles carry no rating because ScreenScraper has none,
+mostly Atari 2600.
+
+## URL state
+
+The address bar carries the full view: search, filters, sort order, collapsed
+consoles, and the open detail sheet (`#spiel=<console>|<title>`). A link therefore
+restores exactly what was on screen, and the back gesture closes the sheet instead
+of leaving the page. Clicking the site title goes back to the bare address — no
+filters, everything expanded, scrolled to the top — without reloading.
+
+A search term with no explicit `sortierung=` ranks by best match: word in the title
+beats word in the description, and among title matches the tier and rating decide.
+That ordering is `sortierung=rel`, and it is what the sort dropdown switches to on
+its own when you start typing.
+
+## Touch
+
+In the detail sheet, swipe sideways to page through the result list and swipe down
+from the top to close. Both are touch only — with a mouse and keyboard the buttons
+and arrow keys do the same. The sheet declares `touch-action: pan-y pinch-zoom`, so
+vertical scrolling and pinch-zoom stay with the browser and only the horizontal
+gesture is ours.

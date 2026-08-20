@@ -613,24 +613,6 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<cheevosId>19130</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T092407" />
 	</game>
-	<game id="21931">
-		<name>Metal Gear Solid 3 : Subsistence</name>
-		<desc>MGS3 Subsistence ist eine erweiterte Version des ursprünglichen Snake Eater-Titels. Das Spiel umfasst drei DVDs und bietet ein neues kostenloses Kamerasystem, einen Online-Spielmodus, eine Neuauflage der auf MSX veröffentlichten Episoden und einen mehr als dreistündigen Film, der das gesamte Szenario nachzeichnet. Für diese Neuauflage eines der größten PS2-Klassiker gibt es außerdem zahlreiche weitere Boni.</desc>
-		<genre>Abenteuer</genre>
-		<image>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-image.png</image>
-		<marquee>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-marquee.png</marquee>
-		<thumbnail>./images/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>20060314T000000</releasedate>
-		<developer>Konami Computer Entertainment</developer>
-		<publisher>Konami</publisher>
-		<family>Metal Gear</family>
-		<players>1-8</players>
-		<lang>es,en</lang>
-		<region>us</region>
-		<cheevosId>26986</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092408" />
-	</game>
 	<game id="21908">
 		<name>Need for Speed : Underground 2</name>
 		<desc>Need for Speed ​​​​Underground 2 für PS2 ist ein Rennspiel, bei dem glänzende Motorhauben und andere bläuliche Xenon-Scheinwerfer im Vordergrund stehen. Der Angeber-Aspekt ist hier mindestens genauso wichtig wie die Ergebnisse in den Rennen. Es liegt an Ihnen, Ihren Körper in städtischen Umgebungen zum schönsten und schnellsten zu machen und nach Rivalen zu suchen.</desc>

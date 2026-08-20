@@ -18,23 +18,6 @@
 		<cheevosId>11283</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T001905" />
 	</game>
-	<game id="157050">
-		<name>Gran Turismo 2 (Simulation Mode)</name>
-		<desc>„Gran Turismo 2“ kehrt zurück mit über 500 Wagenmodellen und mehr als 20 Strecken. Das Spiel bringt realistische Fahrphysik, detaillierte Streckensimulationen und DUALSHOCK-Vibration für ein authentisches Rennerlebnis. Neben Straßenrennen sind diesmal auch Rallye- und Querfeldein-Rennen im Fokus. Fahrzeuge aus aller Welt, von Japan über Europa bis zu den USA, stehen zur Auswahl und können mit Turboladern, Spoilern, Reifen und Getrieben individuell aufgerüstet werden. Bevor alle Möglichkeiten freigeschaltet sind, gilt es, 60 anspruchsvolle Lizenzprüfungen zu meistern. Der Splitscreen-Modus bietet spannende Duelle für zwei Spieler. Bereit für die ultimative Rennherausforderung?</desc>
-		<genre>Rennen, Fahren</genre>
-		<image>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-image.png</image>
-		<marquee>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Gran Turismo 2 (USA) (Simulation Mode) (Rev 2)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>19991223T000000</releasedate>
-		<developer>Polyphony Digital</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<family>Gran Turismo</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T001958" />
-	</game>
 	<game id="19444">
 		<name>Need for Speed : Porsche Unleashed</name>
 		<desc>Du kennst deine Grenzen. Es ist Zeit, sie zu überwinden!

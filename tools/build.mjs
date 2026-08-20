@@ -262,6 +262,57 @@ async function bilderUmwandeln(auftraege, quelle) {
   return { erledigt, uebersprungen, fehler };
 }
 
+// ---- Lückenbericht ----
+
+// Wertung, Jahr, Cover und Beschreibung fehlen bei einzelnen Titeln dauerhaft:
+// ScreenScraper führt sie schlicht nicht. Ohne festgehaltene Liste ist nach dem
+// nächsten Scrape nicht mehr zu sehen, welche Lücken alt und welche neu sind.
+function lueckenbericht() {
+  const schluessel = Object.keys(extra);
+  const liste = pruef => schluessel.filter(pruef).map(k => k.replace('|', ' | ')).sort();
+
+  // Zwei Titel derselben Konsole mit demselben Text sind fast immer zwei
+  // Datenträger eines Spiels. Genau so stand Metal Gear Solid 3 zweimal im Katalog.
+  const nachText = new Map();
+  for (const [k, t] of Object.entries(texte)) {
+    const marke = k.slice(0, k.indexOf('|')) + '\n' + t;
+    if (!nachText.has(marke)) nachText.set(marke, []);
+    nachText.get(marke).push(k.replace('|', ' | '));
+  }
+  const dubletten = [...nachText.values()].filter(a => a.length > 1)
+    .map(a => a.join('   ·   ')).sort();
+
+  const abschnitte = [
+    ['Ohne gamelist-Eintrag', offen,
+      'Kuratiert, aber in keiner gamelist gefunden — diese Titel haben weder Wertung noch Bild.'],
+    ['Gescrapt, aber nicht im Katalog', uebrig,
+      'Entweder in `DATA` in `index.html` aufnehmen oder aus der gamelist werfen.'],
+    ['Gleiche Beschreibung zweimal in einer Konsole', dubletten,
+      'Meist zwei Datenträger desselben Spiels, die als zwei Titel im Katalog stehen.'],
+    ['Nicht über den Namen zugeordnet', unsicher.map(u => `[${u.kid}] \`${u.titel}\` → \`${u.name}\` (${u.weg})`),
+      'Über Untertitel oder Ähnlichkeit gefunden. Falsche Treffer gehören in `HANDZUORDNUNG`.'],
+    ['Ohne Wertung', liste(k => extra[k].r === undefined), null],
+    ['Ohne Jahr', liste(k => !extra[k].y), null],
+    ['Ohne Cover', liste(k => !extra[k].c), null],
+    ['Ohne Bildschirmfoto', liste(k => !extra[k].s), null],
+    ['Ohne Beschreibung', liste(k => !texte[k]), null]
+  ];
+
+  const zeilen = ['# Lücken', '',
+    'Erzeugt von `tools/build.mjs` bei jedem Lauf — nicht von Hand ändern.', '',
+    `Stand des Katalogs: ${spieleGesamt} Titel über ${data.length} Systeme.`, ''];
+  for (const [titel, eintraege, hinweis] of abschnitte) {
+    zeilen.push(`## ${titel} — ${eintraege.length}`, '');
+    if (hinweis) zeilen.push(hinweis, '');
+    zeilen.push(...(eintraege.length ? eintraege.map(e => '- ' + e) : ['_keine_']), '');
+  }
+  return {
+    text: zeilen.join('\n'),
+    anzahl: abschnitte.reduce((n, [, e]) => n + e.length, 0),
+    abschnitte: abschnitte.length
+  };
+}
+
 // ---- Hauptlauf ----
 
 const argumente = process.argv.slice(2);
@@ -276,12 +327,9 @@ const spieleGesamt = data.reduce((n, k) => n + k.games.reduce((m, g) => m + g.li
 console.log(`Kuratierte Spiele: ${spieleGesamt}   zugeordnet: ${treffer.size}`);
 if (gesaeubert) console.log(`\n${gesaeubert} Einträge aus den gamelists entfernt `
   + `(${RAUSWERFEN.join(', ')}) — data/ liegt öffentlich.`);
-if (unsicher.length) {
-  console.log('\nNicht über den Namen zugeordnet — bitte prüfen:');
-  unsicher.forEach(u => console.log(`  [${u.kid}] "${u.titel}"  ->  "${u.name}"  (${u.weg})`));
-}
-if (offen.length) { console.log('\nOhne gamelist-Eintrag:'); offen.forEach(o => console.log('  ' + o)); }
-if (uebrig.length) { console.log('\nIn gamelist, nicht im Katalog:'); uebrig.forEach(o => console.log('  ' + o)); }
+if (unsicher.length || offen.length || uebrig.length)
+  console.log(`\nZur Prüfung: ${unsicher.length} nicht über den Namen zugeordnet, `
+    + `${offen.length} ohne gamelist-Eintrag, ${uebrig.length} gescrapt ohne Katalogeintrag.`);
 
 const extra = {};
 const texte = {};
@@ -366,8 +414,27 @@ fs.writeFileSync(path.join(WURZEL, 'data', 'texte.js'), texteDatei);
 const block = `${ANFANG}\nconst EXTRA = ${JSON.stringify(extra)};\n${ENDE}`;
 const von = html.indexOf(ANFANG);
 const bis = html.indexOf(ENDE) + ENDE.length;
-fs.writeFileSync(path.join(WURZEL, 'index.html'), html.slice(0, von) + block + html.slice(bis));
+
+// Die Titelzahl steht auch in der Meta-Beschreibung und im README. Von Hand
+// gepflegt läuft sie beim ersten entfernten Spiel auseinander.
+const zahlenNachziehen = t => t
+  .replace(/(Kuratierte Sammlung von )\d+( Retro-Spielen über )\d+( Systeme)/,
+    `$1${spieleGesamt}$2${data.length}$3`)
+  .replace(/(A curated catalogue of )\d+( retro games across )\d+( systems)/,
+    `$1${spieleGesamt}$2${data.length}$3`);
+
+fs.writeFileSync(path.join(WURZEL, 'index.html'),
+  zahlenNachziehen(html.slice(0, von) + block + html.slice(bis)));
+
+const readmeDatei = path.join(WURZEL, 'README.md');
+const readme = fs.readFileSync(readmeDatei, 'utf8');
+const readmeNeu = zahlenNachziehen(readme);
+if (readmeNeu !== readme) fs.writeFileSync(readmeDatei, readmeNeu);
+
+const bericht = lueckenbericht();
+fs.writeFileSync(path.join(WURZEL, 'LUECKEN.md'), bericht.text);
 
 const kb = n => (n / 1024).toFixed(0) + ' KB';
 console.log(`\nindex.html geschrieben — Datenblock ${kb(block.length)}`);
 console.log(`data/texte.js geschrieben — ${Object.keys(texte).length} Beschreibungen, ${kb(texteDatei.length)}`);
+console.log(`LUECKEN.md geschrieben — ${bericht.anzahl} Einträge in ${bericht.abschnitte} Abschnitten`);
