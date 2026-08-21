@@ -95,16 +95,22 @@ values verbatim; light mirrors the roles at inverted brightness. Where a token h
 move it was for contrast — `--tx3` carries labels and counts here, not just incidental
 text, so it sits a step brighter than the source and clears 4.5:1 in both themes.
 
-Two views. The list is dense and carries the verdicts. The shelf (`#ansicht=regal`)
-puts the box art on a stage of its own — each console gets its own aspect ratio,
-because a SNES box is landscape at 1.37 and a Mega Drive box is portrait at 0.71.
-`KVERHAELTNIS` in `index.html` holds the median ratio per system.
+A header band carries the name, four figures and a bar of the fourteen systems in
+their own colours, width-proportional to their share. It doubles as a filter and
+costs no image bytes — which is why it is a bar and not a strip of cover art.
+
+Three views. The shelf is the default: box art on a stage of its own, each console
+with its own aspect ratio, because a SNES box is landscape at 1.37 and a Mega Drive
+box is portrait at 0.71. `KVERHAELTNIS` in `index.html` holds the median ratio per
+system. The wall (`#ansicht=wand`) drops the text entirely — ten covers per row,
+the title appears on hover or focus. The list (`#ansicht=liste`) is the dense
+alternative and the only one that carries the verdicts.
 
 ## Touch
 
 In the detail sheet, swipe sideways to page through the result list and swipe down
-from the top to close. In the shelf, the arrow keys move by one card sideways and by
-a full grid row up and down. Both are touch only — with a mouse and keyboard the buttons
+from the top to close; the filter drawer takes the same downward swipe. In shelf and wall, the arrow keys move by one card sideways
+and by a full grid row up and down. Both are touch only — with a mouse and keyboard the buttons
 and arrow keys do the same. The sheet declares `touch-action: pan-y pinch-zoom`, so
 vertical scrolling and pinch-zoom stay with the browser and only the horizontal
 gesture is ours.

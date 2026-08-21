@@ -58,6 +58,8 @@ button{cursor:pointer;background:none;border:none}
 mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
   box-shadow:inset 0 -1px 0 var(--acc-line)}
 
+.vh{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;
+  clip-path:inset(50%);white-space:nowrap}
 .skip{position:fixed;left:8px;top:8px;z-index:90;padding:10px 14px;border-radius:8px;
   background:var(--sur);border:1px solid var(--acc);color:var(--acc);font-size:14px;font-weight:600;
   text-decoration:none;transform:translateY(-160%)}
@@ -69,8 +71,8 @@ mark{background:var(--acc-bg);color:inherit;border-radius:2px;padding:0 1px;
 .top-in{display:flex;align-items:center;gap:12px;padding-block:11px;min-height:60px}
 .brand{display:flex;flex-direction:column;gap:1px;flex-shrink:0;min-width:0;
   text-decoration:none;color:inherit}
-.brand:hover h1{color:var(--acc)}
-.brand h1{margin:0;font-size:15px;font-weight:650;letter-spacing:-.01em;line-height:1.1;
+.brand:hover .brand-t{color:var(--acc)}
+.brand-t{font-size:15px;font-weight:650;letter-spacing:-.01em;line-height:1.1;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .brand span{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--tx3);
   font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
@@ -120,6 +122,29 @@ select{padding:7px 26px 7px 10px;border:1px solid var(--line);border-radius:8px;
   background-position:calc(100% - 14px) 52%,calc(100% - 9px) 52%;
   background-size:5px 5px,5px 5px;background-repeat:no-repeat;color:var(--tx2)}
 select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(--acc);font-weight:600}
+
+/* ---------- Kopfband ---------- */
+/* Steht über der Liste und scrollt weg; die klebende Leiste darüber bleibt und
+   trägt danach die kleine Wortmarke. Deshalb braucht es kein Zusammenschrumpfen
+   per Skript — das Verhalten fällt aus der Reihenfolge heraus ab. */
+.hero{padding:34px 0 26px;border-bottom:1px solid var(--line)}
+.hero-k{margin:0 0 9px;font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--acc);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-weight:700}
+.hero-t{margin:0 0 18px;font-size:clamp(28px,5.5vw,42px);font-weight:650;
+  letter-spacing:-.025em;line-height:1.05}
+.hero-f{display:flex;flex-wrap:wrap;gap:10px 28px;margin:0 0 18px}
+.hero-f>div{min-width:0}
+.hero-f dt{font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--tx3);
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace;margin-bottom:3px}
+.hero-f dd{margin:0;font-size:19px;font-weight:650;letter-spacing:-.02em;line-height:1}
+
+/* Die Verteilung über die Systeme, in ihren Farben und breitenproportional.
+   Sie schmückt und filtert zugleich — und kostet kein einziges Byte an Bildern. */
+.hero-bar{display:flex;gap:2px;height:11px}
+.hero-bar button{flex:var(--n) 1 0;min-width:5px;border-radius:2px;background:var(--k);
+  opacity:.75;transition:opacity .14s}
+.hero-bar button:hover,.hero-bar button:focus-visible{opacity:1}
+.hero-bar button[aria-pressed=true]{opacity:1;box-shadow:0 0 0 2px var(--bg),0 0 0 3px var(--k)}
 
 /* ---------- Status ---------- */
 .stat{display:flex;align-items:baseline;justify-content:space-between;gap:12px;
@@ -208,6 +233,38 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
 .rk .pos{margin-bottom:1px}
 .g.rk.pick{border-color:var(--acc-line)}
 
+/* ---------- Wand ---------- */
+/* Nur die Packungen, dicht an dicht. Der Titel steht im Baum, damit die Kachel
+   einen Namen hat, wird aber erst beim Überfahren oder Fokussieren sichtbar —
+   auf dem Handy führt der Tipp ohnehin direkt ins Detailblatt. */
+.wnd{list-style:none;margin:0;padding:0;display:grid;gap:8px;
+  grid-template-columns:repeat(auto-fill,minmax(96px,1fr))}
+.g.wd{display:block;position:relative;padding:0;overflow:hidden;
+  border:1px solid var(--line);border-radius:var(--r);border-left-width:1px}
+.g.wd:hover,.g.wd:focus-visible{border-color:var(--k,var(--line2))}
+.g.wd:focus-visible{outline-offset:-3px;border-radius:var(--r)}
+.wd-m{display:block;width:100%;aspect-ratio:var(--ar,.85);
+  background:var(--sur2) no-repeat center/cover}
+.wd-t{position:absolute;left:0;right:0;bottom:0;padding:18px 7px 6px;
+  font-size:11px;font-weight:600;line-height:1.25;color:#fff;
+  background:linear-gradient(transparent,rgba(0,0,0,.85));
+  opacity:0;transition:opacity .14s;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+/* :focus, nicht :focus-visible — eine Beschriftung soll auch dann erscheinen,
+   wenn die Kachel über die Pfeiltasten angesteuert wurde. */
+.g.wd:hover .wd-t,.g.wd:focus .wd-t{opacity:1}
+.wd-p{position:absolute;top:5px;left:5px;padding:1px 5px;border-radius:var(--r-sm);
+  background:var(--acc);color:var(--bg);font-size:10px;font-weight:700;
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+
+/* ---------- Segmentschalter ---------- */
+.seg{display:flex;gap:2px;padding:2px;border:1px solid var(--line);
+  border-radius:999px;background:var(--sur)}
+.seg button{padding:4px 10px;border-radius:999px;font-size:12.5px;color:var(--tx2);white-space:nowrap}
+.seg button:hover{color:var(--tx)}
+.seg button[aria-pressed=true]{background:var(--acc-bg);color:var(--acc);font-weight:600;
+  box-shadow:inset 0 0 0 1px var(--acc-line)}
+
 /* ---------- Rangliste ---------- */
 /* Eigene Spalte für die Platzziffer. Im zweispaltigen Raster landet sie sonst
    in derselben Zelle wie der Titel und schiebt ihn eine Zeile nach unten. */
@@ -236,7 +293,7 @@ select.on{border-color:var(--acc-line);background-color:var(--acc-bg);color:var(
      contain hält das Überscrollen im Blatt: sonst zieht der Wisch nach unten die
      Seite dahinter mit oder löst das Neuladen per Ziehen aus. */
   touch-action:pan-y pinch-zoom;overscroll-behavior:contain}
-.sheet.federt{transition:transform .18s ease-out}
+.federt{transition:transform .18s ease-out}
 /* Am Rand der Trefferliste bewirkt ein Wisch nichts. Ohne Rückmeldung wirkt das
    wie eine verschluckte Geste, nicht wie ein Ende. */
 @keyframes stoss{from{transform:translateX(var(--stoss))}to{transform:none}}
@@ -355,7 +412,9 @@ button.zrow:hover i{opacity:.75}
 /* ---------- Schublade (mobil) ---------- */
 .dr{position:fixed;inset:0;z-index:60;background:rgba(8,10,12,.55);display:none}
 .dr.on{display:block}
+/* Wie das Blatt: nach unten wegwischbar, senkrechtes Scrollen bleibt beim Browser. */
 .dr-in{position:absolute;left:0;right:0;bottom:0;max-height:86vh;overflow-y:auto;
+  touch-action:pan-y pinch-zoom;overscroll-behavior:contain;
   background:var(--sur);border-radius:16px 16px 0 0;padding:6px 20px calc(20px + env(safe-area-inset-bottom))}
 .dr-hd{position:sticky;top:0;background:var(--sur);padding:12px 0 14px;display:flex;
   align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);margin-bottom:16px}
@@ -390,13 +449,19 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
   footer{display:none}
   .g .gd{display:none}
   .gc{width:38px;height:50px}
-  .brand span{display:none}
+  /* Nur die Unterzeile, nicht die Wortmarke — beide sind span, seit die
+     Überschrift ins Kopfband gewandert ist. */
+  #brandN{display:none}
 }
 @media (min-width:861px){
   #fbtn{display:none}
   .dr{display:none!important}
 }
 @media (max-width:560px){
+  .hero{padding:22px 0 18px}
+  .hero-t{margin-bottom:14px}
+  .hero-f{gap:9px 20px;margin-bottom:14px}
+  .hero-f dd{font-size:17px}
   .top-in{flex-wrap:wrap}
   .sbox{order:5;flex:0 0 100%;max-width:none}
 }
@@ -427,7 +492,7 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
 
 @page{margin:15mm}
 @media print{
-  .top,.dr,.ov,#toTop,.skip,.stat .acts{display:none!important}
+  .top,.dr,.ov,#toTop,.skip,.stat .acts,.hero-bar{display:none!important}
   body{background:#fff;color:#000;font:400 10.5pt/1.45 Georgia,"Times New Roman",serif}
   .wrap{max-width:none;padding:0}
   .stat{padding:0 0 8pt;border-bottom:.5pt solid #999}
@@ -441,8 +506,8 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
   .g{break-inside:avoid;padding:3pt 0;border:none;border-radius:0}
   /* Die Cover-Spalte fällt beim Ausblenden auf Breite 0 zusammen; die übrigen
      Spaltenangaben bleiben dadurch gültig. */
-  .gc,.rk-m{display:none}
-  .reg{display:block}
+  .gc,.rk-m,.wd-m,.wd-t,.seg{display:none}
+  .reg,.wnd{display:block}
   .g+.g{margin-top:0}
   .g .gd{display:block!important;color:#000;font-size:9.5pt}
   .g .gm{color:#555;font-size:8pt}
@@ -459,7 +524,7 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
 <header class="top">
   <div class="wrap top-in">
     <a class="brand" id="brand" href="index.html" title="Alle Filter aufheben und nach oben">
-      <h1>Retro-Sammlung</h1>
+      <span class="brand-t">Retro-Sammlung</span>
       <span id="brandN"></span>
     </a>
     <div class="grow"></div>
@@ -510,6 +575,15 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
   </div>
 </header>
 
+<section class="hero">
+  <div class="wrap">
+    <p class="hero-k">Kuratierte Sammlung</p>
+    <h1 class="hero-t">Retro-Sammlung</h1>
+    <dl class="hero-f" id="heroF"></dl>
+    <div class="hero-bar" id="heroBar" role="group" aria-label="Anteil je System"></div>
+  </div>
+</section>
+
 <div class="wrap">
   <div class="stat">
     <span class="nwrap">
@@ -517,10 +591,12 @@ kbd{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;line-
       <span class="rchips" id="rchips"></span>
     </span>
     <span class="acts">
-      <button class="chip" id="rnd">Überrasch mich</button>
+      <button class="chip" id="rnd">Zufall</button>
       <button class="chip" id="reihen">Reihen</button>
       <button class="chip" id="zahlen">Zahlen</button>
-      <button class="chip" id="ansicht"></button>
+      <div class="seg" id="seg" role="group" aria-label="Ansicht">
+        <button data-a="regal">Regal</button><button data-a="wand">Wand</button><button data-a="liste">Liste</button>
+      </div>
       <button class="chip" id="fold">Alle zuklappen</button>
       <button class="chip" id="rst" hidden>Zurücksetzen</button>
     </span>
@@ -2110,7 +2186,12 @@ const PUBS = new Set(ALL.map(g => g.pub).filter(Boolean));
 
 // ---- Zustand ----
 const S = {q:'', qw:[], tier:new Set(), k:'', g:'', r:'', p:'', d:'', ach:false, sort:'k',
-  reihe:'', dev:'', pub:'', spiel:'', regal:false};
+  reihe:'', dev:'', pub:'', spiel:'', ansicht:'regal'};
+
+// Regal und Wand sind Raster, die Liste ist eine Spalte — daran hängen Tastatur
+// und Bildgröße. Regal ist die Vorgabe und steht deshalb nicht in der Adresse.
+const ANSICHTEN = ['regal', 'wand', 'liste'];
+const imRaster = () => S.ansicht !== 'liste';
 const zu = new Set();
 let SICHT = [];
 let cursorI = null;
@@ -2127,6 +2208,34 @@ DATA.forEach(c => $('fk').add(new Option(c.name, c.id)));
   .sort((a,b) => a[1].localeCompare(b[1],'de'))
   .forEach(([k,l]) => $('fg').add(new Option(l, k)));
 $('brandN').textContent = ALL.length + ' Spiele · ' + DATA.length + ' Systeme';
+
+// ---- Kopfband ----
+// Die Kennzahlen stehen einmal fest; sie beschreiben die Sammlung, nicht die
+// gerade gefilterte Auswahl — dafür gibt es die Zahlen-Ansicht.
+{
+  const gewertet = ALL.filter(g => g.r !== null);
+  const schnitt = (gewertet.reduce((n,g) => n + g.r, 0) / gewertet.length).toFixed(2).replace('.', ',');
+  $('heroF').innerHTML = [['Titel', ALL.length], ['Systeme', DATA.length],
+    ['Reihen', REIHE.size], ['Ø Wertung', schnitt]]
+    .map(([l,v]) => `<div><dt>${l}</dt><dd>${v}</dd></div>`).join('');
+
+  $('heroBar').innerHTML = DATA.map(c => {
+    const n = ALL.filter(g => g.kid === c.id).length;
+    return `<button data-k="${c.id}" style="--k:${KFARBE[c.id]};--n:${n}" aria-pressed="false"`
+      + ` title="${esc(c.name)} · ${n} Titel"><span class="vh">${esc(c.name)}, ${n} Titel</span></button>`;
+  }).join('');
+}
+
+// Ein Klick auf ein Segment filtert auf das System, ein zweiter hebt es wieder auf.
+$('heroBar').addEventListener('click', e => {
+  const b = e.target.closest('button[data-k]');
+  if(!b) return;
+  S.k = S.k === b.dataset.k ? '' : b.dataset.k;
+  cursorI = null;
+  steuerungSyncen();
+  aendern();
+  scrollTo({top:0});
+});
 
 function setQ(v){
   S.q = v;
@@ -2161,7 +2270,7 @@ function hashSchreiben(ersetzen){
   if(S.dev) t.push('entwickler=' + encodeURIComponent(S.dev));
   if(S.pub) t.push('verlag=' + encodeURIComponent(S.pub));
   if(zu.size) t.push('zu=' + [...zu].join(','));
-  if(S.regal) t.push('ansicht=regal');
+  if(S.ansicht !== 'regal') t.push('ansicht=' + S.ansicht);
   if(S.spiel) t.push('spiel=' + encodeURIComponent(S.spiel));
   const url = location.pathname + location.search + (t.length ? '#' + t.join('&') : '');
   // Die Marke am Eintrag verrät später, ob das offene Blatt einen eigenen
@@ -2188,7 +2297,8 @@ function hashLesen(){
   S.dev = DEVS.has(dev) ? dev : '';
   const pub = p.get('verlag') || '';
   S.pub = PUBS.has(pub) ? pub : '';
-  S.regal = p.get('ansicht') === 'regal';
+  const ansicht = p.get('ansicht') || '';
+  S.ansicht = ANSICHTEN.includes(ansicht) ? ansicht : 'regal';
   const spiel = p.get('spiel') || '';
   S.spiel = NACH_SCHLUESSEL.has(spiel) ? spiel : '';
   zu.clear();
@@ -2210,7 +2320,10 @@ function steuerungSyncen(){
     `<button class="rchip" data-f="${k}" aria-label="Filter ${l} ${esc(S[k])} aufheben">`
     + `${l}: ${esc(S[k])}</button>`).join('');
   $('fold').textContent = DATA.every(c => zu.has(c.id)) ? 'Alle aufklappen' : 'Alle zuklappen';
-  $('ansicht').textContent = S.regal ? 'Liste' : 'Regal';
+  $('seg').querySelectorAll('button').forEach(b =>
+    b.setAttribute('aria-pressed', b.dataset.a === S.ansicht));
+  $('heroBar').querySelectorAll('button').forEach(b =>
+    b.setAttribute('aria-pressed', b.dataset.k === S.k));
 }
 
 // Tippen ersetzt den Verlaufseintrag, alles andere legt einen neuen an —
@@ -2367,6 +2480,24 @@ function karte(g, pos){
     + '</span></li>';
 }
 
+// Reines Bilderraster: die Packung allein, der Titel erscheint erst beim
+// Überfahren oder Fokussieren. Er bleibt trotzdem im Baum stehen, sonst hätte die
+// Kachel für Vorlesegeräte keinen Namen.
+function kachel(g, pos){
+  const pfad = cover(g, 'large');
+  const bild = !g.c ? '<span class="wd-m"></span>'
+    : geladeneCover.has(pfad) ? `<span class="wd-m" style="background-image:url(${pfad})"></span>`
+    : `<span class="wd-m" data-c="${pfad}"></span>`;
+  return `<li class="g wd" data-i="${g.i}" tabindex="-1" role="button" `
+    + `style="--k:${KFARBE[g.kid]};--ar:${KVERHAELTNIS[g.kid] || 0.85}">`
+    + bild
+    + (pos ? `<span class="wd-p">${pos}</span>` : '')
+    + `<span class="wd-t">${esc(g.t)}</span></li>`;
+}
+
+const BAUE = {liste: zeile, regal: karte, wand: kachel};
+const RASTER = {liste: 'lst', regal: 'reg', wand: 'wnd'};
+
 function zeichne(){
   const tr = ALL.filter(passt);
   cnt.innerHTML = irgendwas()
@@ -2404,8 +2535,8 @@ function zeichne(){
       const offen = !zu.has(c.id);
       const inhalt = [...grp].map(([name, gs]) => {
         gs.forEach(g => SICHT.push(g));
-        return `<div class="gh">${esc(name)} · ${gs.length}</div><ul class="${S.regal?'reg':'lst'}">`
-          + gs.map(g => S.regal ? karte(g) : zeile(g)).join('') + `</ul>`;
+        return `<div class="gh">${esc(name)} · ${gs.length}</div><ul class="${RASTER[S.ansicht]}">`
+          + gs.map(g => BAUE[S.ansicht](g)).join('') + `</ul>`;
       }).join('');
       return `<section class="sec${offen?'':' zu'}" style="--k:${KFARBE[c.id]}">`
         + `<h2 class="sec-hw"><button class="sec-h" data-k="${c.id}" aria-expanded="${offen}" aria-controls="sb-${c.id}">`
@@ -2426,8 +2557,8 @@ function zeichne(){
       s.sort((a,b)=>punkte.get(b)-punkte.get(a) || a.t.localeCompare(b.t,'de'));
     }
     SICHT = s;
-    out.innerHTML = `<ul class="${S.regal?'reg':'lst'}">`
-      + s.map((g,i) => S.regal ? karte(g, i+1) : zeile(g, i+1)).join('') + `</ul>`;
+    out.innerHTML = `<ul class="${RASTER[S.ansicht]}">`
+      + s.map((g,i) => BAUE[S.ansicht](g, i+1)).join('') + `</ul>`;
   }
 
   // Die alten Zeilen sind weg; der Beobachter hielte sie sonst weiter fest.
@@ -2452,7 +2583,7 @@ function sichtbareZeilen(){
 // fest — das Raster füllt selbst auf —, also wird sie an der fertigen Spalten-
 // angabe abgelesen statt aus der Breite gerechnet.
 function spalten(){
-  const raster = S.regal && out.querySelector('.reg');
+  const raster = imRaster() && out.querySelector('.reg, .wnd');
   return raster ? getComputedStyle(raster).gridTemplateColumns.split(' ').length : 1;
 }
 function cursorSetzen(el, fokus){
@@ -2531,18 +2662,19 @@ function reiheZeigen(name, ersetzen){
   scrollTo({top:0});
 }
 
-// Aus dem Blatt heraus auf Entwickler oder Verlag filtern. Konsole und Suche
-// fallen weg — die Frage lautet „was gibt es sonst von denen", nicht „auf diesem
-// System". Der Verlaufsschritt des Blatts wird dabei ersetzt, damit Zurück dorthin
-// führt, wo man vor dem Öffnen war, statt das Blatt wieder aufzuschlagen.
-function aufWertFiltern(art, wert){
-  blattZu();
+// Auf Entwickler oder Verlag filtern. Konsole und Suche fallen weg — die Frage
+// lautet „was gibt es sonst von denen", nicht „auf diesem System".
+// Aus dem Blatt heraus wird dessen Verlaufsschritt ersetzt, damit Zurück dorthin
+// führt, wo man vor dem Öffnen war. Aus den Zahlen heraus gibt es keinen solchen
+// Schritt — dort muss einer entstehen, sonst führt Zurück von der Seite weg.
+function aufWertFiltern(art, wert, ersetzen){
+  if($('ov').classList.contains('on')) blattZu();
   S.dev = art === 'dev' ? wert : '';
   S.pub = art === 'pub' ? wert : '';
   S.reihe = ''; S.k = ''; setQ('');
   cursorI = null;
   steuerungSyncen();
-  aendern(true);
+  aendern(!!ersetzen);
   scrollTo({top:0});
 }
 
@@ -2568,8 +2700,10 @@ $('drR').addEventListener('click', reset);
 
 // Die Ansicht ist keine Filterung, sondern eine Darstellung — sie überlebt deshalb
 // das Zurücksetzen, genau wie die Helligkeit.
-$('ansicht').addEventListener('click', () => {
-  S.regal = !S.regal;
+$('seg').addEventListener('click', e => {
+  const b = e.target.closest('button[data-a]');
+  if(!b || b.dataset.a === S.ansicht) return;
+  S.ansicht = b.dataset.a;
   cursorI = null;
   steuerungSyncen();
   aendern();
@@ -2685,6 +2819,13 @@ function auf(){
   letzter = document.activeElement;
   $('ov').classList.add('on');
   document.body.style.overflow = 'hidden';
+  // Ein ausgeblendetes Element nimmt kein scrollTop an — es hat kein Layout, und
+  // der Browser stellt beim Einblenden den alten Stand wieder her. Das Blatt muss
+  // deshalb hier zurückgesetzt werden, nicht in zeigen().
+  const blatt = $('sheet');
+  blatt.scrollTop = 0;
+  blatt.style.transform = '';
+  blatt.classList.remove('federt', 'stoss');
   $('shx').focus();
 }
 
@@ -2733,20 +2874,28 @@ function blattZu(){
   const sichtbar = el => !!(el && el.offsetParent);
   (sichtbar(zeileEl) ? zeileEl : sichtbar(letzter) ? letzter : out).focus();
 }
-// ---- Wischen im Detailblatt ----
-// Auf dem Handy gibt es keine Pfeiltasten, und die Knöpfe sitzen oben in der Ecke:
-// waagerecht wischen blättert, nach unten wischen schließt. Touch- statt
-// Pointer-Events, weil nur touchmove das Scrollen des Blatts abfangen kann.
+// ---- Wischen ----
+// Auf dem Handy gibt es keine Pfeiltasten, und die Knöpfe sitzen oben in der Ecke.
+// Blatt und Filterschublade lassen sich deshalb nach unten wegwischen; im Blatt
+// blättert waagerechtes Wischen zusätzlich durch die Trefferliste. Touch- statt
+// Pointer-Events, weil nur touchmove das Scrollen der Fläche abfangen kann.
 const WISCH_WEG = 55;      // kürzere Bewegungen sind Wackeln beim Antippen
 const WISCH_NEIGUNG = 1.4; // waagerecht muss deutlich überwiegen, sonst ist es Scrollen
 const WISCH_DAUER = 700;   // langsames Ziehen ist Auswählen, kein Wisch
-const ZU_WEG = 90;         // so weit muss das Blatt herunter, damit es zugeht
+const ZU_WEG = 90;         // so weit muss die Fläche herunter, damit sie zugeht
 const RICHTUNG_AB = 10;    // vorher ist die Richtung der Geste nicht zu erkennen
 
-let wischX = 0, wischY = 0, wischZeit = 0, wischScroll = 0;
-let wischArt = 'aus', wischGeschluckt = false;
+let wischGeschluckt = false;
 const blaetterbar = d => sheetI >= 0 && sheetI + d >= 0 && sheetI + d < SICHT.length;
 
+function federn(el){
+  el.classList.add('federt');
+  el.style.transform = '';
+  setTimeout(() => el.classList.remove('federt'), 200);
+}
+
+// Am Rand der Trefferliste bewirkt ein Wisch nichts. Ohne Rückmeldung wirkt das
+// wie eine verschluckte Geste, nicht wie ein Ende.
 function stossen(richtung){
   const el = $('sheet');
   el.style.setProperty('--stoss', (richtung > 0 ? -14 : 14) + 'px');
@@ -2755,83 +2904,83 @@ function stossen(richtung){
   el.classList.add('stoss');
 }
 
-function federn(){
-  const el = $('sheet');
-  el.classList.add('federt');
-  el.style.transform = '';
-  setTimeout(() => el.classList.remove('federt'), 200);
+function wischenEinrichten(flaeche, {schliessen, quer}){
+  let x = 0, y = 0, zeit = 0, obenBeimStart = 0, art = 'aus';
+  const abgeben = () => { art = 'aus'; flaeche.style.transform = ''; };
+
+  flaeche.addEventListener('touchstart', e => {
+    if(e.touches.length !== 1){ art = 'aus'; return; }
+    const t = e.touches[0];
+    x = t.clientX; y = t.clientY; zeit = e.timeStamp;
+    // Nur von ganz oben aus ist ein Zug nach unten ein Schließen — sonst scrollt er.
+    obenBeimStart = flaeche.scrollTop;
+    art = null;
+    // Eine nie eingelöste Sperre vom letzten Wisch schluckt sonst diese Berührung.
+    wischGeschluckt = false;
+  }, {passive:true});
+
+  // Die Art der Geste wird einmal festgelegt und danach nicht mehr geändert, sonst
+  // kippt ein Zug mitten in der Bewegung von Blättern auf Schließen.
+  flaeche.addEventListener('touchmove', e => {
+    if(art === 'aus' || e.touches.length !== 1) return;
+    const t = e.touches[0];
+    const dx = t.clientX - x, dy = t.clientY - y;
+    if(art === null){
+      if(Math.abs(dx) < RICHTUNG_AB && Math.abs(dy) < RICHTUNG_AB) return;
+      art = quer && Math.abs(dx) > Math.abs(dy) * WISCH_NEIGUNG ? 'quer'
+        : (dy > 0 && obenBeimStart === 0 ? 'zu' : 'aus');
+    }
+    if(art !== 'zu') return;
+    // Hat der Browser das Scrollen schon begonnen, ist das Ereignis nicht mehr
+    // abbrechbar — dann gehört die Geste ihm, und wir geben sie zurück, statt
+    // die Fläche gegen eine laufende Bewegung zu verschieben.
+    if(!e.cancelable){ abgeben(); return; }
+    e.preventDefault();
+    flaeche.style.transform = `translateY(${Math.max(0, dy)}px)`;
+  }, {passive:false});
+
+  flaeche.addEventListener('touchend', e => {
+    const geste = art;
+    art = 'aus';
+    if(geste !== 'quer' && geste !== 'zu') return;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - x, dy = t.clientY - y;
+    // Der Finger hebt über einem Verweis ab; ohne Sperre löst er ihn mit aus.
+    wischGeschluckt = true;
+    if(geste === 'zu'){
+      if(dy >= ZU_WEG){ flaeche.style.transform = ''; schliessen(); }
+      else federn(flaeche);
+      return;
+    }
+    if(e.timeStamp - zeit > WISCH_DAUER || Math.abs(dx) < WISCH_WEG){
+      wischGeschluckt = false;
+      return;
+    }
+    quer(dx < 0 ? 1 : -1);
+  });
+
+  flaeche.addEventListener('touchcancel', abgeben);
+
+  // Am Überzug, nicht an der Fläche: ein Wisch, der daneben endet, träfe sonst den
+  // Hintergrund — und ein Klick darauf schließt.
+  flaeche.parentElement.addEventListener('click', e => {
+    if(!wischGeschluckt) return;
+    wischGeschluckt = false;
+    e.preventDefault();
+    e.stopPropagation();
+  }, true);
 }
 
-$('sheet').addEventListener('touchstart', e => {
-  if(e.touches.length !== 1){ wischArt = 'aus'; return; }
-  const t = e.touches[0];
-  wischX = t.clientX; wischY = t.clientY; wischZeit = e.timeStamp;
-  // Nur von ganz oben aus ist ein Zug nach unten ein Schließen — sonst scrollt er.
-  wischScroll = $('sheet').scrollTop;
-  wischArt = null;
-  // Eine nie eingelöste Sperre vom letzten Wisch würde diese Berührung schlucken.
-  wischGeschluckt = false;
-}, {passive:true});
-
-// Die Art der Geste wird einmal festgelegt und danach nicht mehr geändert, sonst
-// kippt ein Zug mitten in der Bewegung von Blättern auf Schließen.
-$('sheet').addEventListener('touchmove', e => {
-  if(wischArt === 'aus' || e.touches.length !== 1) return;
-  const t = e.touches[0];
-  const dx = t.clientX - wischX, dy = t.clientY - wischY;
-  if(wischArt === null){
-    if(Math.abs(dx) < RICHTUNG_AB && Math.abs(dy) < RICHTUNG_AB) return;
-    wischArt = Math.abs(dx) > Math.abs(dy) * WISCH_NEIGUNG ? 'quer'
-      : (dy > 0 && wischScroll === 0 ? 'zu' : 'aus');
-  }
-  if(wischArt !== 'zu') return;
-  // Hat der Browser das Scrollen schon begonnen, ist das Ereignis nicht mehr
-  // abbrechbar — dann gehört die Geste ihm, und wir geben sie zurück, statt
-  // das Blatt gegen eine laufende Bewegung zu verschieben.
-  if(!e.cancelable){ wischArt = 'aus'; $('sheet').style.transform = ''; return; }
-  e.preventDefault();
-  $('sheet').style.transform = `translateY(${Math.max(0, dy)}px)`;
-}, {passive:false});
-
-$('sheet').addEventListener('touchend', e => {
-  const art = wischArt;
-  wischArt = 'aus';
-  if(art !== 'quer' && art !== 'zu') return;
-  const t = e.changedTouches[0];
-  const dx = t.clientX - wischX, dy = t.clientY - wischY;
-  // Ob geblättert, geschlossen oder zurückgefedert wird: der Finger hebt über
-  // einem Verweis ab, und ohne Sperre löst er ihn mit aus.
-  wischGeschluckt = true;
-  if(art === 'zu'){
-    if(dy >= ZU_WEG){ $('sheet').style.transform = ''; zu_(); }
-    else federn();
-    return;
-  }
-  if(e.timeStamp - wischZeit > WISCH_DAUER || Math.abs(dx) < WISCH_WEG){
-    wischGeschluckt = false;
-    return;
-  }
-  const d = dx < 0 ? 1 : -1;
-  blaetterbar(d) ? blaettern(d) : stossen(d);
+wischenEinrichten($('sheet'), {
+  schliessen: zu_,
+  quer: d => blaetterbar(d) ? blaettern(d) : stossen(d)
 });
-
-$('sheet').addEventListener('touchcancel', () => {
-  wischArt = 'aus';
-  $('sheet').style.transform = '';
-});
-
-// Am Overlay, nicht am Blatt: ein Wisch, der neben dem Blatt endet, träfe sonst
-// den Hintergrund — und der schließt bei einem Klick das Blatt.
-$('ov').addEventListener('click', e => {
-  if(!wischGeschluckt) return;
-  wischGeschluckt = false;
-  e.preventDefault(); e.stopPropagation();
-}, true);
+wischenEinrichten(document.querySelector('.dr-in'), { schliessen: () => drAuf(false) });
 
 $('shR').addEventListener('click', e => { blattZu(); reiheZeigen(e.currentTarget.dataset.r, true); });
 $('shF').addEventListener('click', e => {
   const b = e.target.closest('button[data-art]');
-  if(b) aufWertFiltern(b.dataset.art, b.textContent);
+  if(b) aufWertFiltern(b.dataset.art, b.textContent, true);
 });
 $('shx').addEventListener('click', zu_);
 $('shPrev').addEventListener('click', () => blaettern(-1));
@@ -2842,7 +2991,18 @@ $('ov').addEventListener('click', e => { if(e.target===$('ov')) zu_(); });
 function drAuf(on){
   $('dr').classList.toggle('on', on);
   document.body.style.overflow = on ? 'hidden' : '';
-  if(on) $('drx').focus();
+  if(!on){
+    // Sonst säße der Fokus auf dem Schließen-Knopf der ausgeblendeten Schublade
+    // und Tab begänne wieder ganz oben. Beim Verbreitern verschwindet der
+    // Filterknopf selbst — dann bleibt die Liste als Ziel.
+    ($('fbtn').offsetParent ? $('fbtn') : out).focus();
+    return;
+  }
+  const panel = document.querySelector('.dr-in');
+  panel.scrollTop = 0;
+  panel.style.transform = '';
+  panel.classList.remove('federt');
+  $('drx').focus();
 }
 $('fbtn').addEventListener('click', () => drAuf(true));
 $('drx').addEventListener('click', () => drAuf(false));
@@ -2868,8 +3028,14 @@ function reihenZeichnen(){
 function reihenAuf(on){
   $('rov').classList.toggle('on', on);
   document.body.style.overflow = on ? 'hidden' : '';
-  if(on){ reihenZeichnen(); $('rovq').focus(); }
-  else $('reihen').focus();
+  if(on){
+    // Frisch aufschlagen: die Suche von vorhin und die Scrollhöhe von vorhin
+    // überleben das Ausblenden sonst und man sucht in einem Rest weiter.
+    $('rovq').value = '';
+    reihenZeichnen();
+    $('rovL').scrollTop = 0;
+    $('rovq').focus();
+  } else $('reihen').focus();
 }
 $('reihen').addEventListener('click', () => reihenAuf(true));
 $('rovx').addEventListener('click', () => reihenAuf(false));
@@ -2962,7 +3128,7 @@ function zahlenZeichnen(){
 function zahlenAuf(on){
   $('zov').classList.toggle('on', on);
   document.body.style.overflow = on ? 'hidden' : '';
-  if(on){ zahlenZeichnen(); $('zovx').focus(); }
+  if(on){ zahlenZeichnen(); $('zovL').scrollTop = 0; $('zovx').focus(); }
   else $('zahlen').focus();
 }
 $('zahlen').addEventListener('click', () => zahlenAuf(true));
@@ -2972,7 +3138,7 @@ $('zovL').addEventListener('click', e => {
   const b = e.target.closest('.zrow[data-art]');
   if(!b) return;
   zahlenAuf(false);
-  aufWertFiltern(b.dataset.art, b.dataset.v);
+  aufWertFiltern(b.dataset.art, b.dataset.v, false);
 });
 
 // Bedienelemente wandern zwischen Leiste und Schublade.
@@ -3104,8 +3270,8 @@ addEventListener('keydown', e => {
   else if(e.key==='ArrowUp'){ e.preventDefault(); bewege(-spalten()); }
   // Links und rechts nur im Regal und nur außerhalb des Suchfelds, wo sie
   // sonst dem Textcursor gehören.
-  else if(S.regal && !imFeld && e.key==='ArrowRight'){ e.preventDefault(); bewege(1); }
-  else if(S.regal && !imFeld && e.key==='ArrowLeft'){ e.preventDefault(); bewege(-1); }
+  else if(imRaster() && !imFeld && e.key==='ArrowRight'){ e.preventDefault(); bewege(1); }
+  else if(imRaster() && !imFeld && e.key==='ArrowLeft'){ e.preventDefault(); bewege(-1); }
   else if(!imFeld && e.key==='Home'){ e.preventDefault(); bewege(0,'anfang'); }
   else if(!imFeld && e.key==='End'){ e.preventDefault(); bewege(0,'ende'); }
 });
