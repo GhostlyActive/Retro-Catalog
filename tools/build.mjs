@@ -195,7 +195,7 @@ function zuordnen(data) {
     offen = offen.filter(t => {
       const g = [...frei].find(x => istUntertitel(normal(t), x._n));
       if (!g) return true;
-      unsicher.push({ kid, titel: t, name: g.name, weg: 'Untertitel' });
+      unsicher.push({ kid, titel: t, name: g.name, weg: 'subtitle' });
       nimm(t, g);
       return false;
     });
@@ -203,7 +203,7 @@ function zuordnen(data) {
       let bester = null, wert = 0;
       frei.forEach(g => { const v = aehnlichkeit(engGeschrieben(t), g._e); if (v > wert) { wert = v; bester = g; } });
       if (!(bester && wert >= 0.62)) return true;
-      unsicher.push({ kid, titel: t, name: bester.name, weg: 'ähnlich ' + wert.toFixed(2) });
+      unsicher.push({ kid, titel: t, name: bester.name, weg: 'similar ' + wert.toFixed(2) });
       nimm(t, bester);
       return false;
     });
@@ -283,28 +283,28 @@ function lueckenbericht() {
     .map(a => a.join('   ·   ')).sort();
 
   const abschnitte = [
-    ['Ohne gamelist-Eintrag', offen,
-      'Kuratiert, aber in keiner gamelist gefunden — diese Titel haben weder Wertung noch Bild.'],
-    ['Gescrapt, aber nicht im Katalog', uebrig,
-      'Entweder in `DATA` in `index.html` aufnehmen oder aus der gamelist werfen.'],
-    ['Gleiche Beschreibung zweimal in einer Konsole', dubletten,
-      'Meist zwei Datenträger desselben Spiels, die als zwei Titel im Katalog stehen.'],
-    ['Nicht über den Namen zugeordnet', unsicher.map(u => `[${u.kid}] \`${u.titel}\` → \`${u.name}\` (${u.weg})`),
-      'Über Untertitel oder Ähnlichkeit gefunden. Falsche Treffer gehören in `HANDZUORDNUNG`.'],
-    ['Ohne Wertung', liste(k => extra[k].r === undefined), null],
-    ['Ohne Jahr', liste(k => !extra[k].y), null],
-    ['Ohne Cover', liste(k => !extra[k].c), null],
-    ['Ohne Bildschirmfoto', liste(k => !extra[k].s), null],
-    ['Ohne Beschreibung', liste(k => !texte[k]), null]
+    ['No gamelist entry', offen,
+      'Curated, but found in no gamelist — these titles have neither a rating nor artwork.'],
+    ['Scraped, but not in the catalogue', uebrig,
+      'Either add to `DATA` in `index.html` or drop from the gamelist.'],
+    ['Same description twice on one console', dubletten,
+      'Usually two discs of one game sitting in the catalogue as two titles.'],
+    ['Not matched by name', unsicher.map(u => `[${u.kid}] \`${u.titel}\` → \`${u.name}\` (${u.weg})`),
+      'Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.'],
+    ['No rating', liste(k => extra[k].r === undefined), null],
+    ['No year', liste(k => !extra[k].y), null],
+    ['No cover', liste(k => !extra[k].c), null],
+    ['No screenshot', liste(k => !extra[k].s), null],
+    ['No description', liste(k => !texte[k]), null]
   ];
 
-  const zeilen = ['# Lücken', '',
-    'Erzeugt von `tools/build.mjs` bei jedem Lauf — nicht von Hand ändern.', '',
-    `Stand des Katalogs: ${spieleGesamt} Titel über ${data.length} Systeme.`, ''];
+  const zeilen = ['# Gaps', '',
+    'Written by `tools/build.mjs` on every run — do not edit by hand.', '',
+    `The catalogue as it stands: ${spieleGesamt} titles across ${data.length} systems.`, ''];
   for (const [titel, eintraege, hinweis] of abschnitte) {
     zeilen.push(`## ${titel} — ${eintraege.length}`, '');
     if (hinweis) zeilen.push(hinweis, '');
-    zeilen.push(...(eintraege.length ? eintraege.map(e => '- ' + e) : ['_keine_']), '');
+    zeilen.push(...(eintraege.length ? eintraege.map(e => '- ' + e) : ['_none_']), '');
   }
   return {
     text: zeilen.join('\n'),
@@ -432,9 +432,9 @@ const readmeNeu = zahlenNachziehen(readme);
 if (readmeNeu !== readme) fs.writeFileSync(readmeDatei, readmeNeu);
 
 const bericht = lueckenbericht();
-fs.writeFileSync(path.join(WURZEL, 'LUECKEN.md'), bericht.text);
+fs.writeFileSync(path.join(WURZEL, 'GAPS.md'), bericht.text);
 
 const kb = n => (n / 1024).toFixed(0) + ' KB';
 console.log(`\nindex.html geschrieben — Datenblock ${kb(block.length)}`);
 console.log(`data/texte.js geschrieben — ${Object.keys(texte).length} Beschreibungen, ${kb(texteDatei.length)}`);
-console.log(`LUECKEN.md geschrieben — ${bericht.anzahl} Einträge in ${bericht.abschnitte} Abschnitten`);
+console.log(`GAPS.md geschrieben — ${bericht.anzahl} Einträge in ${bericht.abschnitte} Abschnitten`);
