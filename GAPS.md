@@ -2,7 +2,7 @@
 
 Written by `tools/build.mjs` on every run — do not edit by hand.
 
-The catalogue as it stands: 1223 titles across 14 systems.
+The catalogue as it stands: 1257 titles across 14 systems.
 
 ## No gamelist entry — 0
 
@@ -22,7 +22,7 @@ Usually two discs of one game sitting in the catalogue as two titles.
 
 - gbc | Pokemon — Gold Version   ·   gbc | Pokemon — Silver Version
 
-## Not matched by name — 52
+## Not matched by name — 53
 
 Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 
@@ -76,6 +76,7 @@ Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 - [a26] `Q-bert` → `Q*bert` (similar 0.67)
 - [ps1] `Resident Evil 2` → `Resident Evil 2 (Leon Kennedy Disc)` (subtitle)
 - [ps1] `CTR — Crash Team Racing` → `Crash Team Racing` (similar 0.90)
+- [ps2] `Devil May Cry 3 — Dante's Awakening` → `Devil May Cry 3 : Dante's Awakening Special Edition` (subtitle)
 - [ps2] `Need for Speed — Most Wanted — Black Edition` → `Need for Speed : Most Wanted` (subtitle)
 - [ps2] `Lara Croft Tomb Raider — Legend` → `Tomb Raider : Legend` (similar 0.79)
 

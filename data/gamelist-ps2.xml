@@ -1,22 +1,21 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="21886">
-		<name>Dragon Ball Z : Budokai 3</name>
-		<desc>Als Spieler hat man die Wahl gleich ins Dragonball-Universum einzusteigen, wo aus vielen verschiedenen aus der Serie bekannten Charakteren gewählt werden darf. Während man die verschiedenen Missionen im Universum bewältigt, kann man immer wieder neue Charaktere freischalten und versteckte Extras erhalten. Wichtig ist dafür, dass man das Universum mit allen Charakteren mehrere Male durchspielt, für Langzeitmotivation ist also gesorgt. Zudem erhält man mit wachsender Erfahrung noch zusätzliche Punkte, mit denen man seine Kämpfer aufleveln und so individuell verstärken kann.</desc>
-		<genre>Kampf</genre>
-		<image>./images/Dragon Ball Z - Budokai 3 (USA)-image.png</image>
-		<marquee>./images/Dragon Ball Z - Budokai 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Ball Z - Budokai 3 (USA)-thumb.png</thumbnail>
+	<game id="22044">
+		<name>Shin Megami Tensei : Persona 3 FES</name>
+		<desc>Persona 3: FES auf PS2 ist eine verbesserte Version von Shin Megami Tensei: Persona 3. Das Spiel verfügt über zwei unterschiedliche Modi: das ursprüngliche Abenteuer mit neuen Ergänzungen und einen neuen Dungeon, der alle Antworten auf die Handlung von Persona 3 liefern soll.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Shin Megami Tensei - Persona 3 FES (USA)-image.png</image>
+		<marquee>./images/Shin Megami Tensei - Persona 3 FES (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shin Megami Tensei - Persona 3 FES (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
-		<releasedate>20041116T000000</releasedate>
-		<developer>Dimps</developer>
-		<publisher>Bandai</publisher>
-		<family>Dragon Ball Z</family>
-		<players>1-2</players>
+		<releasedate>20080422T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Koei</publisher>
+		<family>Persona</family>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260813T231929" />
-		<scrap name="TheGamesDB" date="20260813T224505" />
+		<scrap name="ScreenScraper" date="20260824T000845" />
 	</game>
 	<game id="21967">
 		<name>Need for Speed : Most Wanted</name>
@@ -34,7 +33,42 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7788</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092228" />
+		<scrap name="ScreenScraper" date="20260824T000850" />
+	</game>
+	<game id="22806">
+		<name>We Love Katamari</name>
+		<desc>We Love Katamari auf PS2 ist ein sehr ungewöhnliches Spiel. Du steuerst einen kleinen Kerl, der eine Art magnetische Kugel drückt, die alles anzieht, was in Reichweite kommt. Je mehr Gegenstände Sie sammeln, desto größere Gegenstände können Sie mitnehmen. Beginnen Sie also im unendlich Kleinen und umfassen Sie am Ende die gesamte Galaxie. Schließe Herausforderungen ab, wie zum Beispiel das Erreichen eines bestimmten Durchmessers mit deinem Ball, um ein Level abzuschließen.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/We Love Katamari (USA)-image.png</image>
+		<marquee>./images/We Love Katamari (USA)-marquee.png</marquee>
+		<thumbnail>./images/We Love Katamari (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050920T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2672</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000852" />
+	</game>
+	<game id="21965">
+		<name>Gran Turismo 3 : A-spec</name>
+		<desc>Autofahrer im Paradies: Morgens das Garagentor aufziehen und von Wagen wie Dodge Viper, Lotus Elise, Jaguar XJ 220, Aston Martin DB7 oder einer Corvette angelächelt werden, die ihre glänzend polierten Motorhauben in der Sonne blitzen lassen die Tür öffnen, auf den glatten Sportsitz gleiten, den Zündschlüssel umdrehen und der satte Motorensound erfüllt den Raum los geht die Fahrt entweder im Autohimmel oder bei Gran Turismo 3 A-Spec PS2.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Gran Turismo 3 - A-Spec (USA) (v1.10)-image.png</image>
+		<marquee>./images/Gran Turismo 3 - A-Spec (USA) (v1.10)-marquee.png</marquee>
+		<thumbnail>./images/Gran Turismo 3 - A-Spec (USA) (v1.10)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20010709T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-6</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2830</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000854" />
 	</game>
 	<game id="21978">
 		<name>The Lord of the Rings : The Two Towers</name>
@@ -51,7 +85,44 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092232" />
+		<scrap name="ScreenScraper" date="20260824T000859" />
+	</game>
+	<game id="22091">
+		<name>Soulcalibur II</name>
+		<desc>SoulCalibur II ist ein Kampfspiel für Playstation 2. Treten Sie in bewaffneten Duellen in großartigen Umgebungen gegen eine Vielzahl von Gegnern an und versuchen Sie, das böse Schwert zu zerstören. Es stehen 13 Charaktere sowie ein Bonuscharakter für jede Konsole zur Verfügung (Heihachi auf PS2, Link auf GC und Spawn auf Xbox). Es stehen verschiedene Spielmodi zur Verfügung, wie zum Beispiel Teamkampf, Arcade, Zeitfahren, VS-Kampf und Waffenmeister.</desc>
+		<genre>Kampf / 3D</genre>
+		<image>./images/Soulcalibur II (USA)-image.jpg</image>
+		<marquee>./images/Soulcalibur II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Soulcalibur II (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20030826T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>SoulCalibur</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2982</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000903" />
+	</game>
+	<game id="21943">
+		<name>Silent Hill 3</name>
+		<desc>Silent Hill 3 setzt das Markenzeichen der Serie, den psychologischen Horror und das erschreckende Gameplay, fort. 
+Als Teenager-Mädchen Heather erkundest du die mysteriöse Verbindung zwischen der gottverlassenen Stadt und ihren inneren Ängsten. Auf dem Weg dorthin begegnen Sie vielen seltsamen Gestalten, von denen Sie nicht sicher sind, ob sie vertrauenswürdig sind. Silent Hill 3 bietet außerdem verbesserte grafische Details, eine komplexere Handlung, neue Gegenstände und Waffen und noch mehr groteske Monster als die Vorgängerspiele. Treten Sie ein in diese Welt der Albträume und kämpfen Sie ums Überleben.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)-image.png</image>
+		<marquee>./images/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)-marquee.png</marquee>
+		<thumbnail>./images/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20030805T000000</releasedate>
+		<developer>KCET</developer>
+		<publisher>Konami</publisher>
+		<family>Silent Hill</family>
+		<players>1</players>
+		<lang>it,es,fr,de,jp,en</lang>
+		<region>us</region>
+		<cheevosId>1335</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000908" />
 	</game>
 	<game id="21882">
 		<name>Dragon Ball Z : Budokai Tenkaichi 3</name>
@@ -69,7 +140,7 @@
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosId>20590</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092234" />
+		<scrap name="ScreenScraper" date="20260824T000914" />
 	</game>
 	<game id="21937">
 		<name>The Lord of the Rings : The Return of the King</name>
@@ -87,7 +158,7 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19263</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092239" />
+		<scrap name="ScreenScraper" date="20260824T000919" />
 	</game>
 	<game id="21964">
 		<name>Tekken 5</name>
@@ -108,7 +179,41 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>9419</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092244" />
+		<scrap name="ScreenScraper" date="20260824T000925" />
+	</game>
+	<game id="22221">
+		<name>Psychonauts</name>
+		<desc>In diesem Action-Adventure-Spiel für PS2 begleiten wir den jungen Raz bei seiner Psychonautenausbildung im Sommercamp, in dem er sich befindet. Um seine Kameraden vor einem schrecklichen Gehirndieb zu retten, muss Raz buchstäblich die Gedanken mehrerer Charaktere aufsuchen, ihre tiefsten Erinnerungen wiedererlangen und seine übersinnlichen Kräfte nutzen, um durch völlig verrückte Welten voranzukommen.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Psychonauts (USA)-image.jpg</image>
+		<marquee>./images/Psychonauts (USA)-marquee.png</marquee>
+		<thumbnail>./images/Psychonauts (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20060210T000000</releasedate>
+		<developer>THQ</developer>
+		<publisher>Double Fine Productions</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T000929" />
+	</game>
+	<game id="21884">
+		<name>Final Fantasy XII</name>
+		<desc>Das Spiel findet am fiktiven Ort Ivalice statt, wo die Reiche Archadia und Rozarria einen endlosen Krieg führen. Dalmasca, ein kleines Königreich, ist zwischen den verfeindeten Nationen gefangen. Als Dalmasca von Archadia annektiert wird, gründet seine Prinzessin Ashe eine Widerstandsbewegung. Während des Kampfes trifft sie Vaan, einen jungen Abenteurer, der davon träumt, ein Luftschiff zu befehligen. Schnell gesellt sich eine Gruppe von Verbündeten zu ihnen; Gemeinsam verbünden sie sich gegen die Tyrannei des Archadischen Reiches.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy XII (USA)-image.jpg</image>
+		<marquee>./images/Final Fantasy XII (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy XII (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>5802</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000931" />
 	</game>
 	<game id="21877">
 		<name>Grand Theft Auto : San Andreas</name>
@@ -125,7 +230,7 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092249" />
+		<scrap name="ScreenScraper" date="20260824T000933" />
 	</game>
 	<game id="21927">
 		<name>Prince of Persia : The Sands of Time</name>
@@ -143,7 +248,7 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>2988</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092253" />
+		<scrap name="ScreenScraper" date="20260824T000938" />
 	</game>
 	<game id="22164">
 		<name>Tony Hawk's Pro Skater 3</name>
@@ -160,7 +265,42 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092255" />
+		<scrap name="ScreenScraper" date="20260824T000940" />
+	</game>
+	<game id="21888">
+		<name>Dragon Quest VIII : Journey of the Cursed King</name>
+		<desc>Der Hofnarr Dhoulmagus taucht auf Schloss Trodain auf und damit beginnt der ganze Schlamassel: Der schurkische Possenreißer stiehlt das Zepter des Königs und missbraucht dessen magische Kräfte, um den Herrscher in einen Troll, seine Prinzessin in ein Pferd und alle Schlossbewohner in Pflanzen zu verwandeln. Nur ein einziger Wächter entgeht dem Fluch. An ihm liegt es nun, das Königreich zu retten, dem er die Treue geschworen hat. Er folgt der Spur der Zerstörung, die Dhoulmagus hinterlässt und durchstreift die verschiedenen Länder des Reiches, um nach Verbündeten zu suchen und Ungeheuer zu besiegen. Wird der Held das Zepter zurückgewinnen, die Ordnung wiederherstellen und das Königreich zu früherem Glanz und Ruhm zurückführen?</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Dragon Quest VIII - Journey of the Cursed King (USA)-image.png</image>
+		<marquee>./images/Dragon Quest VIII - Journey of the Cursed King (USA)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Quest VIII - Journey of the Cursed King (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Level-5</developer>
+		<publisher>Square Enix</publisher>
+		<family>Dragon Quest</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2721</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000942" />
+	</game>
+	<game id="128846">
+		<name>Bully</name>
+		<desc>Canis Canem Edit für Playstation 2, ein Third-Person-Actionspiel, entführt Sie in die Bullworth Academy, eine private Einrichtung in Neuengland. Sie spielen Jimmy Hopkins, einen jungen 15-jährigen Teenager, der wirklich unfreundlich und bereit ist, alles zu tun, um sich zu etablieren und seinem Ruf als böser Mensch gerecht zu werden. Hauptmissionen, Nebenherausforderungen, Minispiele – Bully bietet dem Spieler einen ziemlich vollen Terminkalender.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Bully (USA)-image.jpg</image>
+		<marquee>./images/Bully (USA)-marquee.png</marquee>
+		<thumbnail>./images/Bully (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20061017T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Rockstar Games</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3057</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000944" />
 	</game>
 	<game id="21899">
 		<name>God of War</name>
@@ -178,7 +318,60 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2782</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092256" />
+		<scrap name="ScreenScraper" date="20260824T000946" />
+	</game>
+	<game id="21971">
+		<name>Beyond Good &amp; Evil</name>
+		<desc>Beyond Good &amp; Evil auf PS2 lädt Sie ein, den Kampf einer jungen Frau namens Jade zu erleben, die ihren Planeten vor einer außerirdischen Invasion schützt. Der Titel vereint Abenteuer, Erkundung, Fahrzeugphasen, Kampf und Infiltration in einem farbenfrohen Universum, das von üppigen Musikkompositionen durchdrungen ist, und zeichnet sich durch einen poetischen und relativ erwachsenen Ansatz aus.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Beyond Good &amp; Evil (USA) (En,Fr,Es)-image.png</image>
+		<marquee>./images/Beyond Good &amp; Evil (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Beyond Good &amp; Evil (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<cheevosId>3061</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000952" />
+	</game>
+	<game id="22324">
+		<name>Downhill Domination</name>
+		<desc>Downhill Domination ist ein Videospiel, das auf einer fiktiven Rennveranstaltung mit fiktiven Rennfahrern und einigen freischaltbaren professionellen Rennfahrern basiert. Das Spiel wurde exklusiv für die PlayStation 2 veröffentlicht.
+
+Downhill Domination beinhaltet einen sehr unterschiedlichen Spielstil, der sich von Standard-Radrennspielen dadurch unterscheidet, dass der Charakter aufgrund der Steigung der Strecken fast ausschließlich bergab fährt (daher der Name).</desc>
+		<genre>Sport / Radfahren</genre>
+		<image>./images/Downhill Domination (USA)-image.png</image>
+		<marquee>./images/Downhill Domination (USA)-marquee.png</marquee>
+		<thumbnail>./images/Downhill Domination (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20030723T000000</releasedate>
+		<developer>Incog</developer>
+		<publisher>Codemasters</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>21701</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000954" />
+	</game>
+	<game id="21932">
+		<name>Shin Megami Tensei : Persona 4</name>
+		<desc>Persona 4 ist ein Spin-off der Shin Megami Tensei-Reihe. Die Geschichte erzählt, wie eine Gruppe von Oberstufenschülern herauszufinden versucht, ob die Sendungen, die der Midnight Channel an regnerischen Abenden sendet, nicht mit der Mordserie in der Kleinstadt Inaba in Zusammenhang stehen. Soziale Beziehungen und Persona-Fusionen stehen im Mittelpunkt dieser seltsamen Geschichte.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Shin Megami Tensei - Persona 4 (USA)-image.jpg</image>
+		<marquee>./images/Shin Megami Tensei - Persona 4 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shin Megami Tensei - Persona 4 (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20081209T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Atlus</publisher>
+		<family>Persona</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T000956" />
 	</game>
 	<game id="21890">
 		<name>Grand Theft Auto : Vice City</name>
@@ -196,7 +389,24 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2739</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092258" />
+		<scrap name="ScreenScraper" date="20260824T000958" />
+	</game>
+	<game id="22061">
+		<name>God Hand</name>
+		<desc>God Hand ist ein Beat'em All für Playstation 2, in dem Sie Gene spielen, einen Helden mit übermenschlichen Kräften, der die verschiedenen Level des Spiels überwinden muss, indem er die Kriegführenden auf Armeslänge besiegt. Sie können auch Karten einsammeln, um wichtige Kugeln zu erwerben und ein Roulette mit technischen Zügen zu genießen.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/God Hand (USA)-image.png</image>
+		<marquee>./images/God Hand (USA)-marquee.png</marquee>
+		<thumbnail>./images/God Hand (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20061010T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2664</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T000959" />
 	</game>
 	<game id="21940">
 		<name>Tomb Raider : Legend</name>
@@ -214,7 +424,25 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>19370</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092259" />
+		<scrap name="ScreenScraper" date="20260824T001004" />
+	</game>
+	<game id="21878">
+		<name>Final Fantasy X</name>
+		<desc>Die Spiele der Final Fantasy-Serie haben bisher allesamt tolle Hintergrundgeschichten, Charaktere, strategische Kämpfe, spaßige Mini-Spiele und stundenlangen Spielspaß geboten - auch Final Fantasy X bildet da keine Ausnahme.
+Die Story dreht sich diesmal um Tidus, den Star der Sportart Blitzball. Während Tidus gerade in einem Match antritt, wird seine Heimatstadt von einer bösartigen Macht namens Sin angegriffen. Tidus und sein Vormund Auran sind die einzigen, die entkommen können. Zu Beginn des Abenteuers werden die beiden auf mysteriöse Weise in eine andere Welt befördert. Von da an folgt das Spiel dem typischen Final Fantasy-Gameplay: Es gilt Kämpfe auszutragen, Erfahrungspunkte zu gewinnen, neue Fähigkeiten zu erlernen und eine bunt gemischte Crew aus NPCs anzuheuern, die den Spieler bei seinen Abenteuern begleitet.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Final Fantasy X (USA)-image.jpg</image>
+		<marquee>./images/Final Fantasy X (USA)-marquee.png</marquee>
+		<thumbnail>./images/Final Fantasy X (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011217T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001009" />
 	</game>
 	<game id="21931">
 		<name>Metal Gear Solid 3 : Subsistence</name>
@@ -232,7 +460,24 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>es,en</lang>
 		<region>us</region>
 		<cheevosId>2831</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092301" />
+		<scrap name="ScreenScraper" date="20260824T001014" />
+	</game>
+	<game id="23274">
+		<name>Gitaroo Man</name>
+		<desc>Gitaroo Man ist ein Rhythmusspiel für Playstation 2. U-1 ist ein schüchterner Junge, der davon träumt, mit dem Pin-up aus der Nachbarschaft auszugehen. Aber eine wichtigere Mission erwartet ihn: die Welt retten. Tatsächlich ist er einer der letzten Nachkommen des Rocker-Superhelden, des Gitaroo Man. Mit seinem Instrument muss er Feinden entgegentreten, indem er einer bestimmten melodischen und rhythmischen Linie folgt.</desc>
+		<genre>Musik und Tanz</genre>
+		<image>./images/Gitaroo Man (USA)-image.png</image>
+		<marquee>./images/Gitaroo Man (USA)-marquee.png</marquee>
+		<thumbnail>./images/Gitaroo Man (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20020219T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>19050</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001019" />
 	</game>
 	<game id="21904">
 		<name>Grand Theft Auto III</name>
@@ -250,7 +495,27 @@ Tekken ist eines der bekanntesten und kultigsten Spiele des letzten Jahrzehnts. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2738</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092306" />
+		<scrap name="ScreenScraper" date="20260824T001021" />
+	</game>
+	<game id="21947">
+		<name>Ratchet &amp; Clank</name>
+		<desc>In Ratchet &amp; Clank begeben sich die beiden Protagonisten Ratchet, ein pelziges außerirdisches Wesen, und Clank, ein nerdiger kleiner Roboter, auf die Suche nach Captain Qwark, um letztlich die Galaxie zu retten.
+Zunächst einmal sind alle Levels des Spiels riesige, weitläufige Areale mit extrem detaillierten Gebäuden, die jederzeit sichtbar sind. Das bedeutet, dass ein Gebäude am Horizont nicht nur eine "Kulisse" ist, sondern dass Ratchet es höchstwahrscheinlich in wenigen Augenblicken erforschen wird. Zweitens enthält das Spiel eine Reihe von Unterspielen, wie zum Beispiel eine Weltraumkampfsequenz und eine Reihe von Geschützturmschießereien, die an Missile Command in der ersten Person erinnern.
+Das Spiel besteht aus über zwanzig Levels und enthält ebenso viele Echtzeit-Zwischensequenzen, die die Geschichte erzählen. Die Geschichte ist nicht-linear und erfordert, dass der Spieler in frühere Levels zurückkehrt, um Ziele zu erfüllen und zwischen verschiedenen Wegen zu wählen.</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)-image.jpg</image>
+		<marquee>./images/Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Ratchet &amp; Clank (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021104T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Ratchet &amp; Clank</family>
+		<players>1</players>
+		<lang>it,es,de,fr,en</lang>
+		<region>us</region>
+		<cheevosId>3070</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001023" />
 	</game>
 	<game id="22057">
 		<name>Burnout 3 : Takedown</name>
@@ -270,7 +535,41 @@ Burnout 3: Takedown setzt die Rennserie mit mehr Autos, mehr Strecken, einer det
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2697</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092310" />
+		<scrap name="ScreenScraper" date="20260824T001035" />
+	</game>
+	<game id="22155">
+		<name>Tekken Tag Tournament</name>
+		<desc>Tekken Tag Tournament ist ein Kampfspiel für Playstation 2. Betreten Sie die Team-Match-Arena für ein optimales Kampferlebnis, bilden Sie Teams und treten Sie in rasanten Kämpfen gegen Ihre Gegner an. Die App bietet rund dreißig Charaktere, die Sie nach Belieben kombinieren können, um verheerende Combos auszuführen. Tekken Tag Tournament ist mit 4 Spielern über Multitap spielbar.</desc>
+		<genre>Kampf / Versus</genre>
+		<image>./images/Tekken Tag Tournament (USA) (v2.00)-image.jpg</image>
+		<marquee>./images/Tekken Tag Tournament (USA) (v2.00)-marquee.png</marquee>
+		<thumbnail>./images/Tekken Tag Tournament (USA) (v2.00)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20001025T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Tekken</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3150</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001038" />
+	</game>
+	<game id="22858">
+		<name>Rez</name>
+		<desc>Rez auf Playstation 2 ist das erste Spiel, das zum Musik-Shooter-Genre gehört. Ein einzigartiges „Drahtgitter-3D“-Grafikuniversum dient in diesem Titel als Schlachtfeld, auf dem die von Ihnen abgefeuerten Schüsse die Komposition der Musik beeinflussen, die Sie während Ihres Fortschritts begleitet.</desc>
+		<genre>Lightgun Shooter</genre>
+		<image>./images/Rez (USA) (En,Fr,De,Es,It)-image.png</image>
+		<marquee>./images/Rez (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
+		<thumbnail>./images/Rez (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20011122T000000</releasedate>
+		<developer>UGA</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>it,es,de,fr,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001043" />
 	</game>
 	<game id="21909">
 		<name>Silent Hill 2</name>
@@ -290,7 +589,7 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<lang>it,es,fr,de,jp,en</lang>
 		<region>us</region>
 		<cheevosId>1324</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092312" />
+		<scrap name="ScreenScraper" date="20260824T001045" />
 	</game>
 	<game id="21968">
 		<name>Metal Gear Solid 2 : Substance</name>
@@ -308,7 +607,25 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2787</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092313" />
+		<scrap name="ScreenScraper" date="20260824T001050" />
+	</game>
+	<game id="22557">
+		<name>Guitar Hero II</name>
+		<desc>Guitar Hero II ist ein Rhythmusspiel für Playstation 2, mit dem Sie, ausgestattet mit einer speziellen Gitarre, zum größten Rocker aller Zeiten werden können. Reihen Sie die Noten auf Ihrem Instrument aneinander. Je höher der Schwierigkeitsgrad, desto schwieriger die Partitur. Mehr als 40 Titel erwarten Sie, von Nirvana über die Stones bis hin zu Guns n' Roses. Der Titel verfügt auch über einen kooperativen Modus.</desc>
+		<genre>Musik und Tanz / Musik</genre>
+		<image>./images/Guitar Hero II (USA)-image.png</image>
+		<marquee>./images/Guitar Hero II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Guitar Hero II (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20061107T000000</releasedate>
+		<developer>Harmonix Music Systems</developer>
+		<publisher>Activision</publisher>
+		<family>Guitar Hero</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>9049</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001052" />
 	</game>
 	<game id="22103">
 		<name>Max Payne</name>
@@ -325,7 +642,129 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092317" />
+		<scrap name="ScreenScraper" date="20260824T001056" />
+	</game>
+	<game id="22356">
+		<name>Klonoa 2 : Lunatea's Veil</name>
+		<desc>Klonoa 2: Lunatea's Veil ist ein Plattformspiel für Playstation 2. Bereiten Sie sich darauf vor, einzigartige Sensationen im fantastischen Universum von Lunatea zu erleben. Reisen Sie durch 24 farbenfrohe Umgebungen, in denen Klonoa ihren magischen Ring nutzt, um ihre Feinde zu fangen und voranzutreiben.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Klonoa 2 - Lunatea's Veil (USA)-image.png</image>
+		<marquee>./images/Klonoa 2 - Lunatea's Veil (USA)-marquee.png</marquee>
+		<thumbnail>./images/Klonoa 2 - Lunatea's Veil (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20010731T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>Klonoa</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001058" />
+	</game>
+	<game id="21961">
+		<name>Ratchet &amp; Clank : Going Commando</name>
+		<desc>Ratchet &amp; Clank 2 ist ein 3rd-Person-Action-/Plattformspiel, das auf PlayStation 2 veröffentlicht wurde. Spielen Sie als Ratchet, immer begleitet von seinem treuen Roboter Clank, und nutzen Sie die 36 Waffen, die Ihnen zur Verfügung stehen, oder missbrauchen Sie sie sogar, um alles in diesem Spiel mit allgegenwärtigem Humor zu zerstören .</desc>
+		<genre>Plattform / Shooter Scrolling</genre>
+		<image>./images/Ratchet &amp; Clank - Going Commando (USA) (v2.00)-image.png</image>
+		<marquee>./images/Ratchet &amp; Clank - Going Commando (USA) (v2.00)-marquee.png</marquee>
+		<thumbnail>./images/Ratchet &amp; Clank - Going Commando (USA) (v2.00)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031111T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Ratchet &amp; Clank</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3072</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001103" />
+	</game>
+	<game id="21930">
+		<name>Jak II</name>
+		<desc>Dank seines treuen Kumpels Daxter gelingt Jak die Flucht aus dem Gefängnis, in dem er festgehalten wird. Doch sein Aufenthalt im Verborgenen wird einige schädliche Spuren bei ihm hinterlassen haben. Im Action-/Plattformspiel Jak 2: Outlaw für Playstation 2 können Sie mit mächtigen Waffen und fliegenden Fahrzeugen 65 Missionen erfüllen, die über die ganze Stadt verteilt sind.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01)-image.png</image>
+		<marquee>./images/Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01)-marquee.png</marquee>
+		<thumbnail>./images/Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v2.01)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031014T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Jak And Daxter</family>
+		<players>1</players>
+		<lang>it,es,fr,de,jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001109" />
+	</game>
+	<game id="21914">
+		<name>Devil May Cry</name>
+		<desc>Halb Mensch. Halb Dämon. Pure Rache. Der Legende nach erwachte vor zwei Jahrtausenden in den dunkelsten Gefilden der Hölle ein dämonischer Schwertkämpfer namens Sparda zur Gerechtigkeit und lehnte sich gegen den Teufel auf, um einen Ein-Mann-Krieg zu führen und die Menschenwelt vor der Verdammnis zu retten. Jetzt, 2000 Jahre später, findet eine dunkle Gestalt namens Dante Hinweise darauf, dass der Teufel sich wieder gegen die Menschheit erheben will. Wer war Sparda und wie passt Dante in dieses gotische Rätsel? Tief in Dantes Blut liegt die Macht der alten Dämonen und der Schlüssel zum Sieg über die Horden des dunklen Reiches. Irgendwo zwischen einem Mann und einem Dämon liegt unsere einzige Chance auf Erlösung.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Devil May Cry (USA)-image.png</image>
+		<marquee>./images/Devil May Cry (USA)-marquee.png</marquee>
+		<thumbnail>./images/Devil May Cry (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011016T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Devil May Cry</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2791</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001111" />
+	</game>
+	<game id="22019">
+		<name>Devil May Cry 3 : Dante's Awakening Special Edition</name>
+		<desc>Devil May Cry 3 Special Edition für PS2 ist ein Beat-'em-All-Spiel, das dem Spieler die Möglichkeit bietet, in Dantes Vergangenheit einzutauchen. Letzterer verfügt über ein beeindruckendes Arsenal und kann nun sofort die Waffe wechseln, was Combos erheblich erleichtert. Dante muss seinem Schicksal begegnen, indem er sich seinem dämonischen Bruder Vergil stellt.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition)-image.png</image>
+		<marquee>./images/Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition)-marquee.png</marquee>
+		<thumbnail>./images/Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20060929T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<family>Devil May Cry</family>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosId>2936</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001115" />
+	</game>
+	<game id="21945">
+		<name>ICO</name>
+		<desc>Ico ist ein Action-/Abenteuerspiel für Playstation 2. Spielen Sie als Ico, ein kleiner Junge, der von seinen Mitschülern zu Unrecht eingesperrt wurde, weil er Hörner auf dem Kopf trägt. Ico muss aus seinem Gefängnis fliehen. Schnell entdeckt er Yorda, eine weitere Gefangene, die ihm helfen kann. Gegenseitige Hilfe steht im Mittelpunkt dieses Spiels mit allgegenwärtiger Poesie.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Ico (USA)-image.png</image>
+		<marquee>./images/Ico (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ico (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20010924T000000</releasedate>
+		<developer>SCE Japan</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001120" />
+	</game>
+	<game id="22117">
+		<name>Sly Cooper and the Thievius Raccoonus</name>
+		<desc>Sly Raccoon ist ein 3D-Plattformspiel für Playstation 2. Der Volus Ratonus, die Bibel des Einbruchs, wurde Slys Familie gestohlen, als er noch ein junger Waschbär war. Aus Rache macht sich Sly auf die Suche nach seinem wertvollsten Besitz und erlangt die Ehre seiner Familie zurück. Sicherheitspersonal vortäuschen, Infrarot-Laserstrahlen ausweichen, über Dächer fliehen ... Das wird Ihr tägliches Los sein!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Sly Cooper and the Thievius Raccoonus (USA)-image.png</image>
+		<marquee>./images/Sly Cooper and the Thievius Raccoonus (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sly Cooper and the Thievius Raccoonus (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20020927T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Sly Cooper</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3151</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001125" />
 	</game>
 	<game id="21891">
 		<name>Resident Evil 4</name>
@@ -343,7 +782,24 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2606</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092322" />
+		<scrap name="ScreenScraper" date="20260824T001127" />
+	</game>
+	<game id="22003">
+		<name>Shin Megami Tensei : Nocturne</name>
+		<desc>Shin Megami Tensei: Lucifer's Call ist ein Rollenspiel für PS2, das Ihnen die Rolle eines Teenagers bietet, der ausgewählt wurde, um die Zerstörung Tokios zu überleben, und der über die Zukunft der japanischen Metropole entscheiden muss. Der Titel bietet die Vorteile, Monster zu rekrutieren und zu vereinen, sodass sie als Verbündete kämpfen, sowie einen ziemlich schwierigen Schwierigkeitsgrad. Alles in einer extrem düsteren Handlung.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Shin Megami Tensei - Nocturne (USA)-image.png</image>
+		<marquee>./images/Shin Megami Tensei - Nocturne (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shin Megami Tensei - Nocturne (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041012T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Megami Tensei</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001131" />
 	</game>
 	<game id="21981">
 		<name>Prince of Persia : The Two Thrones</name>
@@ -361,7 +817,42 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>3291</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092323" />
+		<scrap name="ScreenScraper" date="20260824T001132" />
+	</game>
+	<game id="21923">
+		<name>Jak and Daxter: The Precursor Legacy</name>
+		<desc>Ein spannendes Abenteuer. Eine unerforschte, atemberaubende Welt. Ein bester Freund, der sich in ein Pelzknäuel verwandelt. Du bist dabei, dich auf eine sehr ungewönliche Reise zu begeben. Deine Abenteuer führen dich durch verbotene Dschungel, zu Unterwasser-Ruinen, durch feurige Canyons und über verschneite Berge. Du wirst fantastische Entdeckungen machen und eine bedrohliche Verschwörung aufdecken, die deine Welt für immer verändern kann. Doch schließlich wirst du eine schreckliche Entscheidung treffen müssen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1)-image.jpg</image>
+		<marquee>./images/Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011204T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Jak And Daxter</family>
+		<players>1</players>
+		<lang>it,es,de,fr,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001138" />
+	</game>
+	<game id="22226">
+		<name>SSX 3</name>
+		<desc>Lust auf frische Luft? Spielen Sie SSX 3, ein Surfspiel auf der Playstation 2. 17 Strecken verteilt auf 3 Gipfel warten auf Sie. Passen Sie Ihren Surfer mit den Kostümen Ihrer Wahl an und gehen Sie allein oder mit Ihren Freunden auf die Piste. Es gibt viele Herausforderungen wie Superpipe, Slopestyle, Big Air, Racing, Freeride und Super Challenges, alle begleitet von Musik von FatBoy Slim, N.E.R.D und vielen anderen.</desc>
+		<genre>Sport / Ski</genre>
+		<image>./images/SSX 3 (USA)-image.png</image>
+		<marquee>./images/SSX 3 (USA)-marquee.png</marquee>
+		<thumbnail>./images/SSX 3 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031002T000000</releasedate>
+		<developer>EA Canada</developer>
+		<publisher>EA Sports BIG</publisher>
+		<family>SSX</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2928</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001143" />
 	</game>
 	<game id="21985">
 		<name>Hitman 2 : Silent Assassin</name>
@@ -378,7 +869,23 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092328" />
+		<scrap name="ScreenScraper" date="20260824T001144" />
+	</game>
+	<game id="21917">
+		<name>Okami</name>
+		<desc>Okami ist ein Action-Adventure-Spiel für Playstation 2. Der Titel hat ein ganz besonderes grafisches Erscheinungsbild und ermöglicht es Ihnen, die als prächtiger weißer Wolf wiedergeborene Göttin Amaterasu zu verkörpern, um Leben und Farbe in Ihrer von zahlreichen Feinden terrorisierten Welt wiederherzustellen die die Dunkelheit zur Herrschaft bringen. Kämpfen Sie mit einem Pinsel, einer echten Erweiterung der Figur, die Sie spielen, und nutzen Sie ihn auch, um in der Geschichte voranzukommen.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Ookami (USA)-image.png</image>
+		<marquee>./images/Ookami (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ookami (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20060919T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001150" />
 	</game>
 	<game id="128570">
 		<name>God of War II</name>
@@ -396,7 +903,7 @@ Stattdessen geht es um James Sunderland, der die Stadt betritt, nachdem er einen
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2783</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092329" />
+		<scrap name="ScreenScraper" date="20260824T001152" />
 	</game>
 	<game id="22052">
 		<name>The Simpsons : Hit &amp; Run</name>
@@ -415,7 +922,24 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19010</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092331" />
+		<scrap name="ScreenScraper" date="20260824T001156" />
+	</game>
+	<game id="22736">
+		<name>Katamari Damacy</name>
+		<desc>Katamari Damacy ist ein Action-Puzzlespiel für PS2, das seinesgleichen sucht. Der König des Kosmos hat alle Sterne zerstört und du, der Prinz, musst den Schaden reparieren. Sie haben einen Ball namens Katamari, der alles anzieht, was er berührt. Je größer der Ball wird, desto größere Objekte zieht er an. Mit diesen Gegenständen, die Sie sammeln, können Sie die Sterne nachbilden und diesem Problem ein Ende setzen.</desc>
+		<genre>Puzzle</genre>
+		<image>./images/Katamari Damacy (USA)-image.png</image>
+		<marquee>./images/Katamari Damacy (USA)-marquee.png</marquee>
+		<thumbnail>./images/Katamari Damacy (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20040922T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>1323</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001158" />
 	</game>
 	<game id="21916">
 		<name>Lara Croft Tomb Raider : Anniversary</name>
@@ -433,7 +957,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19341</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092333" />
+		<scrap name="ScreenScraper" date="20260824T001200" />
 	</game>
 	<game id="21911">
 		<name>Gran Turismo 4</name>
@@ -451,7 +975,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>20580</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092337" />
+		<scrap name="ScreenScraper" date="20260824T001205" />
 	</game>
 	<game id="21958">
 		<name>Hitman : Blood Money</name>
@@ -469,7 +993,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19351</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092339" />
+		<scrap name="ScreenScraper" date="20260824T001207" />
 	</game>
 	<game id="22323">
 		<name>Tony Hawk's Underground</name>
@@ -486,7 +1010,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T092340" />
+		<scrap name="ScreenScraper" date="20260824T001211" />
 	</game>
 	<game id="127678">
 		<name>Ratchet : Deadlocked</name>
@@ -504,7 +1028,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>10873</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092345" />
+		<scrap name="ScreenScraper" date="20260824T001216" />
 	</game>
 	<game id="22238">
 		<name>Tony Hawk's Pro Skater 4</name>
@@ -522,7 +1046,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2827</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092347" />
+		<scrap name="ScreenScraper" date="20260824T001220" />
 	</game>
 	<game id="21933">
 		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
@@ -540,7 +1064,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>3073</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092352" />
+		<scrap name="ScreenScraper" date="20260824T001225" />
 	</game>
 	<game id="21887">
 		<name>Shadow of the Colossus</name>
@@ -557,7 +1081,24 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2992</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092357" />
+		<scrap name="ScreenScraper" date="20260824T001227" />
+	</game>
+	<game id="21957">
+		<name>Prince of Persia : Warrior Within</name>
+		<desc>Der Prinz wird von einer göttlichen Kreatur gejagt, die ihn tot sehen will, und begibt sich auf die Insel der Kaiserin der Zeit mit der Idee, dafür zu sorgen, dass der Sand der Zeit nie erschaffen wird, und den Fluch aufzuheben, der ihn bindet. geht weiter. Prince of Persia: Soul of the Warrior für Playstation 2 ist ein Actionspiel mit einer düsteren und fesselnden Atmosphäre. Erwecke den Krieger in dir und ändere dein Schicksal.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-image.png</image>
+		<marquee>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-marquee.png</marquee>
+		<thumbnail>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041130T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Prince of Persia</family>
+		<players>1</players>
+		<lang>es,fr,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001231" />
 	</game>
 	<game id="22376">
 		<name>FlatOut 2</name>
@@ -575,7 +1116,42 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>20731</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092359" />
+		<scrap name="ScreenScraper" date="20260824T001236" />
+	</game>
+	<game id="21886">
+		<name>Dragon Ball Z : Budokai 3</name>
+		<desc>Als Spieler hat man die Wahl gleich ins Dragonball-Universum einzusteigen, wo aus vielen verschiedenen aus der Serie bekannten Charakteren gewählt werden darf. Während man die verschiedenen Missionen im Universum bewältigt, kann man immer wieder neue Charaktere freischalten und versteckte Extras erhalten. Wichtig ist dafür, dass man das Universum mit allen Charakteren mehrere Male durchspielt, für Langzeitmotivation ist also gesorgt. Zudem erhält man mit wachsender Erfahrung noch zusätzliche Punkte, mit denen man seine Kämpfer aufleveln und so individuell verstärken kann.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Dragon Ball Z - Budokai 3 (USA)-image.png</image>
+		<marquee>./images/Dragon Ball Z - Budokai 3 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Dragon Ball Z - Budokai 3 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041116T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<family>Dragon Ball Z</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001240" />
+	</game>
+	<game id="22764">
+		<name>Gradius V</name>
+		<desc>Gradius V ist ein PS2-Shooter, der in einem futuristischen Universum spielt. Greife die Armee von Zelos an, einem Feind, der eine Raumstation im Orbit beschädigt hat. Als Fortsetzung einer langen Serie, deren erstes Werk auf einem Arcade-Automaten veröffentlicht wurde, bietet Gradius V Ihnen die Möglichkeit, zahlreiche Missionen am Steuer mehrerer Raumschiffe zu erfüllen.</desc>
+		<genre>Shoot'em Up</genre>
+		<image>./images/Gradius V (USA)-image.jpg</image>
+		<marquee>./images/Gradius V (USA)-marquee.png</marquee>
+		<thumbnail>./images/Gradius V (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040914T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<family>Gradius</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>19051</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001245" />
 	</game>
 	<game id="22171">
 		<name>Tony Hawk's Underground 2</name>
@@ -593,7 +1169,24 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19804</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092403" />
+		<scrap name="ScreenScraper" date="20260824T001247" />
+	</game>
+	<game id="21962">
+		<name>TimeSplitters 2</name>
+		<desc>TimeSplitters 2 ist ein Ego-Shooter für Playstation 2. Böse Außerirdische haben beschlossen, das Raum-Zeit-Kontinuum zu stören, und Ihre Pflicht ist es, ihre bösen Pläne zu vereiteln. Sie werden daher über ein inspiriertes Neo-Tokio vom Parvis de Notre Dame zum Planeten X projiziert. Auf der Waffenseite finden Sie exotische Waffen vom Blaster bis zum Plasmagewehr. Die Software ermöglicht Zusammenstöße mit bis zu 4 Spielern auf einem separaten Bildschirm.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/TimeSplitters 2 (USA)-image.png</image>
+		<marquee>./images/TimeSplitters 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/TimeSplitters 2 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021008T000000</releasedate>
+		<developer>Free Radical Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Timesplitters</family>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T001251" />
 	</game>
 	<game id="22145">
 		<name>Max Payne 2 : The Fall of Max Payne</name>
@@ -611,7 +1204,25 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>19130</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092407" />
+		<scrap name="ScreenScraper" date="20260824T001254" />
+	</game>
+	<game id="127586">
+		<name>Sly 2 : Band of Thieves</name>
+		<desc>Sly 2: Association of Thieves ist ein 3D-Plattformspiel für Playstation 2. Sly ist ein außergewöhnlicher Einbrecher, aber der Klaww-Clan holt die Teile von Clockwerk zurück, um sie für schreckliche Zwecke zu verwenden. Coopers Team will sie aufhalten. Spielen Sie in unglaublichen Missionen als der diskrete Sly, der mächtige Murray und der geniale Bentley.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Sly 2 - Band of Thieves (USA)-image.png</image>
+		<marquee>./images/Sly 2 - Band of Thieves (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sly 2 - Band of Thieves (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040914T000000</releasedate>
+		<developer>Sucker Punch Productions</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Sly Cooper</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3152</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T001255" />
 	</game>
 	<game id="21908">
 		<name>Need for Speed : Underground 2</name>
@@ -628,23 +1239,6 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5613</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T092413" />
-	</game>
-	<game id="21957">
-		<name>Prince of Persia : Warrior Within</name>
-		<desc>Der Prinz wird von einer göttlichen Kreatur gejagt, die ihn tot sehen will, und begibt sich auf die Insel der Kaiserin der Zeit mit der Idee, dafür zu sorgen, dass der Sand der Zeit nie erschaffen wird, und den Fluch aufzuheben, der ihn bindet. geht weiter. Prince of Persia: Soul of the Warrior für Playstation 2 ist ein Actionspiel mit einer düsteren und fesselnden Atmosphäre. Erwecke den Krieger in dir und ändere dein Schicksal.</desc>
-		<genre>Action / Abenteuer</genre>
-		<image>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-image.png</image>
-		<marquee>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-marquee.png</marquee>
-		<thumbnail>./images/Prince of Persia - Warrior Within (USA) (En,Fr,Es)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>20041130T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<family>Prince of Persia</family>
-		<players>1</players>
-		<lang>es,fr,en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T093202" />
+		<scrap name="ScreenScraper" date="20260824T001300" />
 	</game>
 </gameList>
