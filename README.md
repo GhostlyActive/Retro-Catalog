@@ -1,6 +1,6 @@
 # Retro-Sammlung
 
-A curated catalogue of 1195 retro games across 14 systems. Single HTML file,
+A curated catalogue of 1223 retro games across 14 systems. Single HTML file,
 no dependencies — open `index.html` directly or serve it from GitHub Pages.
 
 Personal project. Ratings, release data, descriptions and artwork come from

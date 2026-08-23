@@ -2,7 +2,7 @@
 
 Written by `tools/build.mjs` on every run — do not edit by hand.
 
-The catalogue as it stands: 1195 titles across 14 systems.
+The catalogue as it stands: 1223 titles across 14 systems.
 
 ## No gamelist entry — 0
 
