@@ -263,7 +263,16 @@ Die japanische Version, "Violent Soldier", hatte etwas andere Grafiken.</desc>
 		<scrap name="ScreenScraper" date="20260814T012728" />
 	</game>
 	<game>
-		<name>Power Drift (Japan)</name>
+		<name>Power Drift</name>
+		<desc>Segas Automat von 1988, entstanden bei AM2 unter Yu Suzuki. Kleine Buggys auf Achterbahn-artigen Strecken, die sich heben und senken — die Super-Scaler-Technik der Vorlage war der eigentliche Reiz. Die HuCard-Fassung erschien nur in Japan und kommt der Vorlage näher, als es die Hardware vermuten lässt.</desc>
+		<genre>Rennspiel</genre>
+		<image>./images/Power Drift (Japan)-image.png</image>
+		<thumbnail>./images/Power Drift (Japan)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Asmik</publisher>
+		<players>1</players>
+		<region>jp</region>
 		<scrap name="ScreenScraper" date="20260814T012729" />
 	</game>
 	<game id="78624">
@@ -1203,7 +1212,17 @@ Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, di
 		<scrap name="ScreenScraper" date="20260814T012940" />
 	</game>
 	<game>
-		<name>Dragon Spirit (USA)</name>
+		<name>Dragon Spirit</name>
+		<desc>Namcos Automat von 1987 als HuCard-Umsetzung. Der Krieger Amul wird in einen Drachen verwandelt, um Prinzessin Alicia zu befreien. Gegner greifen auf zwei Ebenen an: Der Feueratem trifft alles in der Luft, Bomben treffen den Boden — beides muss getrennt anvisiert werden. Aufwertungen geben dem Drachen einen zweiten und dritten Kopf und verbreitern damit das Schussfeld.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<image>./images/Dragon Spirit (USA)-image.png</image>
+		<thumbnail>./images/Dragon Spirit (USA)-thumb.png</thumbnail>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<family>Dragon Spirit</family>
+		<players>1</players>
+		<region>us</region>
 		<cheevosId>2242</cheevosId>
 		<scrap name="ScreenScraper" date="20260814T012943" />
 	</game>

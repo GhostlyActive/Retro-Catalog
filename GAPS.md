@@ -16,13 +16,13 @@ Either add to `DATA` in `index.html` or drop from the gamelist.
 
 _none_
 
-## Same description twice on one console — 1
+## Same description twice on one console — 0
 
 Usually two discs of one game sitting in the catalogue as two titles.
 
-- gbc | Pokemon — Gold Version   ·   gbc | Pokemon — Silver Version
+_none_
 
-## Not matched by name — 53
+## Not matched by name — 51
 
 Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 
@@ -62,9 +62,7 @@ Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 - [gba] `Ninja Five-0` → `Ninja Five-O` (similar 0.89)
 - [gba] `Dragon Ball Z — The Legacy of Goku II` → `Dragon Ball Z : The Legacy of Goku 2` (similar 0.93)
 - [pce] `Parodius Da!` → `Parodius Da! : Shinwa kara Owarai e` (subtitle)
-- [pce] `Dragon Spirit` → `Dragon Spirit (USA)` (subtitle)
 - [pce] `Dragon Saber` → `Dragon Saber : After Story of Dragon Spirit` (subtitle)
-- [pce] `Power Drift` → `Power Drift (Japan)` (subtitle)
 - [pce] `Bonk 3 — Bonk's Big Adventure` → `Bonk III : Bonk's Big Adventure` (similar 0.86)
 - [ngpc] `Densetsu no Ogre Battle Gaiden` → `Densetsu no Ogre Battle Gaiden - Zenobia no Ouji` (subtitle)
 - [ngpc] `Pocket Tennis Color` → `Pocket Tennis Color : Pocket Sports Series` (subtitle)
@@ -102,22 +100,18 @@ Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 - sms | Sensible Soccer
 - sms | The Ottifants
 
-## No year — 2
+## No year — 0
 
-- pce | Dragon Spirit
-- pce | Power Drift
+_none_
 
-## No cover — 2
+## No cover — 0
 
-- pce | Dragon Spirit
-- pce | Power Drift
+_none_
 
-## No screenshot — 2
+## No screenshot — 0
 
-- pce | Dragon Spirit
-- pce | Power Drift
+_none_
 
-## No description — 2
+## No description — 0
 
-- pce | Dragon Spirit
-- pce | Power Drift
+_none_

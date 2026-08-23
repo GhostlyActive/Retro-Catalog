@@ -248,7 +248,7 @@ Armageddon verwendet eine verbesserte Version der Worms 2-Engine, die zwar eine 
 	</game>
 	<game id="82619">
 		<name>Pokémon Gold Version</name>
-		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht.</desc>
+		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht. Ho-Oh ziert die Packung und ist das Legendäre, das dir diese Fassung über die Regenbogenfeder zuführt. Nur hier laufen dir Growlithe, Mankey, Spinarak und Gligar über den Weg — in der Silver Version stehen an ihrer Stelle Vulpix, Meowth, Ledyba und Skarmory.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
 		<marquee>./images/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
@@ -887,7 +887,7 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 	</game>
 	<game id="82616">
 		<name>Pokémon : Silver Version</name>
-		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht.</desc>
+		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht. Lugia ziert die Packung und ist das Legendäre, das dir diese Fassung über die Silberfeder zuführt. Nur hier laufen dir Vulpix, Meowth, Ledyba und Skarmory über den Weg — in der Gold Version stehen an ihrer Stelle Growlithe, Mankey, Spinarak und Gligar.</desc>
 		<genre>Rollenspiele</genre>
 		<image>./images/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
 		<marquee>./images/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
