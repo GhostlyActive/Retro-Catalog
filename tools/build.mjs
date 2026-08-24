@@ -22,7 +22,8 @@ const WURZEL = path.resolve(import.meta.dirname, '..');
 const QUELLORDNER = {
   snes: 'snes', nes: 'nes', md: 'megadrive', sms: 'mastersystem', gg: 'gamegear',
   n64: 'n64', gb: 'gameboy', gbc: 'gameboy_color', gba: 'gameboyadvance',
-  pce: 'pcengine', ngpc: 'neogeopocket', a26: 'atari2600', ps1: 'ps1', ps2: 'ps2'
+  pce: 'pcengine', ngpc: 'neogeopocket', a26: 'atari2600', ps1: 'ps1', ps2: 'ps2',
+  gc: 'gamecube', dc: 'dreamcast'
 };
 
 // Titel, die sich nicht über den Namen finden lassen: Untertitel, japanische

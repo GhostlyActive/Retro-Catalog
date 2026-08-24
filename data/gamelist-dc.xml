@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="13490">
+		<name>Skies of Arcadia</name>
+		<desc>Die Helden des Spiels sind Vyse, Sohn des Captains der Luftpiraten und Aika, eine treue Piratin, die stets an Vyses Seite ist. In der Welt von Skies of Arcadia leben die Menschen auf schwebenden Kontinenten und Inseln. Furchtlose Luftpiraten erkunden hier mit ihren Luftschiffen die unbekannten Gebiete dieser Welt. Stets auf der Suche nach Schätzen und ungeahnten Territorien, durchstreifen die Luftpiraten den Himmel, bis sie eines Tages auf ein Schlachtschiff des Valuan Empire stoßen und ihre Chance nutzen. Nach einem Gefecht gelingt den Luftpiraten schließlich die Übernahme des Schiffes und sie begeben sich mit unzählbaren Schätzen und einer bewusstlosen Gefangenen des Valuan Empires auf den Heimweg zur Pirate Isle. Dort angekommen, vertieft sich die Geschichte um die rätselhafte Gefangene namens Fina. Als dann plötzlich auch noch eine Flotte des Valuan Empires anrückt und die Piraten samt Fina gefangen nimmt, schwören Vyse und Aika Rache und machen sich auf den Weg, ihre Freunde zu befreien. Als das erledigt ist, begeben sie sich auf die Suche nach den Moon Crystals, sechs mystische Objekte die von der alten Moon Zivilisation stammen und mit deren Hilfe man die Gigas kontrollieren kann; Große Roboter, mit denen dem Volk Valua nichts mehr im Wege steht.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Skies of Arcadia (USA)-image.jpg</image>
+		<marquee>./images/Skies of Arcadia (USA)-marquee.png</marquee>
+		<thumbnail>./images/Skies of Arcadia (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20001114T000000</releasedate>
+		<developer>Overworks</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T235918" />
+	</game>
+	<game id="13489">
+		<name>Sonic Adventure</name>
+		<desc>Sonic ist wieder da! Und diesmal geht es um nichts geringeres, als die Welt vor dem verrückten Wissenschaftler Dr. Robotnik zu retten. In seinem größten und spannendsten Abenteuer muss Sonic mit alten und neuen Freunden, Dr. Robotnik davon abhalten 7 Steine zu finden und mit Hilfe dieser Chaos auf die Welten loszulassen. Sonic reist dabei in atemberaubenden 3D Welt voller lebendiger Details. High Speed Verfolgungsjagden und rätselhafte Stätten zum Erforschen sind dabei nur ein Bruchteil der zu bestehenden Abenteuer. Sonics Abenteuer haben erst begonnen!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Sonic Adventure (USA)-image.png</image>
+		<marquee>./images/Sonic Adventure (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Adventure (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T235920" />
+	</game>
+	<game id="13574">
+		<name>Crazy Taxi 2</name>
+		<desc>Das verrückte gelbe Taxi ist wieder da und macht diesmal die Straßen von New York unsicher. Mit 4 neuen Fahrern, einem "Crazy Jump"-Feature und vielen Pick-Ups. Für ein dickes Trinkgeld braucht man sich eigentlich nur eine Frage zu stellen: Bin ich verrückt?</desc>
+		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
+		<image>./images/Crazy Taxi 2 (USA)-image.png</image>
+		<marquee>./images/Crazy Taxi 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Taxi 2 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20010529T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<family>Crazy Taxi</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3400</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235922" />
+	</game>
+	<game id="13529">
+		<name>Ecco the Dolphin : Defender of the Future</name>
+		<desc>Als schlauer Delphin Ecco muss man die Erde retten. Außerirdische Mächte haben die Zeitlinien verändert. Nun hat man es selbst in der Hand, die Vergangenheit zu richten, um die Zukunft zu retten. Das ideale Game gegen den Alltagsstress.
+Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunden Sie geheimnisvolle Orte und bewegen sich zwischen vier Zeitlinien. Suchen Sie die majestätische Stadt Atlantis, erbaut von Menschen und Delfinen. Begegnen Sie in Ecco The Dolphin für die Dreamcast den Kreaturen des Ozeans, treten Sie fremden Mächten gegenüber und retten Sie die Erde und den Lauf der Geschichte!</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Ecco the Dolphin - Defender of the Future (USA)-image.png</image>
+		<marquee>./images/Ecco the Dolphin - Defender of the Future (USA)-marquee.png</marquee>
+		<thumbnail>./images/Ecco the Dolphin - Defender of the Future (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20000815T000000</releasedate>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>SEGA</publisher>
+		<family>Ecco the Dolphin</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3872</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235926" />
+	</game>
+	<game id="13486">
+		<name>Shenmue II</name>
+		<desc>Beim zweiten Teil des hoch gelobten Adventures verschlägt es Ryo Hazuki nach Hongkong, wo die Suche nach dem Mörder seines Vaters ihre (lineare) Fortsetzung findet. Sein Überleben finanziert der Spieler durch Straßenkämpfe, Hafenarbeiten, Glücksspiele oder den Verkauf gesammelter Gegenstände. Ein flottes Durchspielen erschweren Gangster und Triadenmitglieder, die überwiegend in den bekannten Quick-Time-Events zu erledigen sind. Dabei kommen nun nicht mehr nur vier, sondern alle Controllertasten zum Einsatz.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Shenmue II (Europe) (En,Fr,De,Es)-image.jpg</image>
+		<marquee>./images/Shenmue II (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Shenmue II (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011123T000000</releasedate>
+		<developer>SEGA AM2</developer>
+		<publisher>SEGA</publisher>
+		<family>Shenmue</family>
+		<players>1</players>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<cheevosId>3489</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235929" />
+	</game>
+	<game id="13498">
+		<name>Jet Set Radio</name>
+		<desc>Die Regierung versucht, die Kids von Tokyo ruhig zu halten, die jedoch mit motorisierten Inline-Skates bewaffnet und deshalb schwer zu fangen sind. DJ Professor K. gibt die volle Dröhnung von seinem Piratensender "Jet Set Radio" aus. Seine Musik verleiht die Kids im Kampf um ihr Recht sich auszudrücken, wozu sie auch Grafiti-Kunst zählen. Du kannst dein eigenes Tag entwerfen und sogar online neue Tags hoch- und runterladen. Fang an dich auszudrücken, greif zur Sprühdose und hinterlasse deine Tags überall in der Stadt. Verbünde dich mit gleichgesinnten Straßenkünstlern, die dir helfen dein Revier so zu halten, wie du es dir vorstellst. Du musst schon schnell sein auf deinen Skates, um rivalisierenden Banden und Gesetzeshütern immer einen Schritt voraus zu sein.</desc>
+		<genre>Sport</genre>
+		<image>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-image.png</image>
+		<marquee>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-marquee.png</marquee>
+		<thumbnail>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20001124T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<family>Jet Set Radio</family>
+		<players>1</players>
+		<lang>es,de,fr,en</lang>
+		<region>eu</region>
+		<cheevosId>3403</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235931" />
+	</game>
+	<game id="13503">
+		<name>Grandia II</name>
+		<desc>Geboren in verschiedenen Welten und durch die Fügung zusammengebracht, müssen sie der Vorsehung folgen, um ihr Schicksal zu erfüllen. Ryudo wurde angeheuert eine junge Priesterin zu beschützen, die an einer Zeremonie teilnehmen muss, um die Wiedergeburt von Valmar, dem Gott der Dunkelheit, zu verhindern. Verwickelt im Spiel der Kräfte des Guten und des Bösen, muss Ryudo seinem Schicksal folgen und die Menschen retten, die er so sehr verachtet.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Grandia II (USA)-image.jpg</image>
+		<marquee>./images/Grandia II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Grandia II (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20001206T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Grandia</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3488</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235932" />
+	</game>
+	<game id="13488">
+		<name>Sonic Adventure 2</name>
+		<desc>Die Welt kann ganz schön kompliziert und gefährlich sein, besonders wenn man zu zweit ist! Sonic bekommt es mit dem neuen, bösen Igel Shadow zu tun, aber Sie entscheiden über den Verlauf der Geschichte - Sie können ein Held sein oder sich für die dunkle Seite entscheiden.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Sonic Adventure 2 (USA)-image.png</image>
+		<marquee>./images/Sonic Adventure 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Sonic Adventure 2 (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20010619T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>Sonic</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3417</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235937" />
+	</game>
+	<game id="13514">
+		<name>Crazy Taxi</name>
+		<desc>Das verrückteste Taxi der Welt! Dieses Taxi sollten sie besser nicht rufen. Denn der gerade Weg ist hier immer der kürzeste, wenn auch nicht immer der angenehmste. Über Treppen, Parks und selbst durch U-Bahn-Tunnel darf abgekürzt werden. Stunts und guten Fahrstil kommentiert der Fahrgast mit einem Bonus, Chrashs dagegen mit üblen Flüchen. Fußgänger springen rechtzeitig mit einem Schrei zur Seite und wird das Fahrziel nicht rechtzeitig erreicht, steigt der Gast mit einem bösen Kommentar aus. Die Städte sind derart groß, dass auch nach langer Spielzeit noch immer etwas Neues zu entdecken ist. Die Straßen sind bevölkert von Autos, Lastwagen, Bussen, Bahn und einer Menge Fußgängern. Häuser und Umgebung wiederholen sich nicht, was den Eindruck vermittelt, in einer echten Stadt unterwegs zu sein.</desc>
+		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
+		<image>./images/Crazy Taxi (USA)-image.png</image>
+		<marquee>./images/Crazy Taxi (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crazy Taxi (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20000201T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<family>Crazy Taxi</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3399</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235942" />
+	</game>
+	<game id="13562">
+		<name>MDK 2</name>
+		<desc>MDK 2 auf Dreamcast ist ein Actionspiel, in dem Sie ein Team aus drei verrückten Kumpels anführen. Das Spiel weist einen großen Reichtum an Bewegungs- und Aktionsmöglichkeiten auf. Da die Software ein gewisses Maß an Geschick erfordert, gilt sie als sehr schwierig.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/MDK2 (USA)-image.png</image>
+		<marquee>./images/MDK2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/MDK2 (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20000331T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Interplay</publisher>
+		<family>Mdk</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T235944" />
+	</game>
+	<game id="13485">
+		<name>Shenmue</name>
+		<desc>Begleiten Sie den jungen Japaner Ryo auf seiner gefährlichen Reise, um den rätselhaften Tod seines Vaters aufzuklären und tauchen Sie ein in eine fremde Welt voll Liebe, Habgier und Neid. Vorbei an spielenden Kindern und aufwändigen Straßenzügen, genießen Sie vollkommene Handlungsfreiheit und interagieren Sie mit sämtlichen Personen sowie Gegenständen, um wertvolle Hinweise zu erhalten.
+Niemals zuvor wurde das Leben einer ganzen Stadt sowie deren Bewohner so realistisch in Szene gesetzt und mit einem neuartigen Zeitsystem versehen, welches direkten Einfluss auf den Verlauf der Geschichte nimmt. So gehen Geschäftsleute ihrem geregelten Tagesablauf nach, sind Büros nur zu bestimmten Zeiten geöffnet oder man findet sich selbst an einer Haltestelle wartend auf den Fünf-Uhr-Bus wieder.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Shenmue (USA)-image.jpg</image>
+		<marquee>./images/Shenmue (USA)-marquee.png</marquee>
+		<thumbnail>./images/Shenmue (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20001107T000000</releasedate>
+		<developer>SEGA AM2</developer>
+		<publisher>SEGA</publisher>
+		<family>Shenmue</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T235946" />
+	</game>
+	<game id="13556">
+		<name>Virtua Tennis</name>
+		<desc>Virtua Tennis auf Dreamcast ist ein Sportspiel mit Arcade- und Exhibition-Modi im Einzel oder Doppel. Machen Sie sich daran, die Weltmeisterschaft zu erobern, indem Sie einen der acht großen offiziellen Spieler des Herrenturniers verkörpern. Ein Trainingsmodus bereitet Sie darauf vor, in jedem Gelände konkurrenzfähig zu sein, und im Shop finden Sie alles, was Sie zur Ausrüstung benötigen. Zu deinen Schneeschuhen!</desc>
+		<genre>Sport / Tennis</genre>
+		<image>./images/Virtua Tennis (USA)-image.png</image>
+		<marquee>./images/Virtua Tennis (USA)-marquee.png</marquee>
+		<thumbnail>./images/Virtua Tennis (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20000711T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<family>Virtua Tennis</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>9778</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235951" />
+	</game>
+	<game id="13540">
+		<name>Street Fighter III : 3rd Strike</name>
+		<desc>Mit Street Fighter - Third Strike schreibt die Trilogie ein neues Kapitel. Lebe die Legende: Wähle deinen Liebling aus 19 Street Fighter Charakteren - erstmals auch mit fünf brandneuen Figuren. Ein Spiel ohne Limits: Die Spielmodi Arcade, VS, Training und Replay bieten dir eine unnachahmliche Spieltiefe und fordern dich immer wieder aufs Neue heraus. Dein Schicksal wartet auf dich.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Street Fighter III - 3rd Strike (USA)-image.jpg</image>
+		<marquee>./images/Street Fighter III - 3rd Strike (USA)-marquee.png</marquee>
+		<thumbnail>./images/Street Fighter III - 3rd Strike (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20001004T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin Interactive</publisher>
+		<family>Street Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>345</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T235952" />
+	</game>
+</gameList>

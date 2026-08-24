@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="4952">
+		<name>Super Monkey Ball 2</name>
+		<desc>Endlich! Das ultimative Party-Spiel Teil 2 ist da.
+Die witzigen Äffchen sind zurückgekehrt, und zwar mit 12 unglaublichen Partyspielen, einem völlig neuen Storymodus und über 150 neuen Levels! Und auf geht's in den Superspaß!</desc>
+		<genre>Action / Labyrinth</genre>
+		<image>./images/Super Monkey Ball 2 (USA)-image.png</image>
+		<marquee>./images/Super Monkey Ball 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Super Monkey Ball 2 (USA)-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20020825T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<family>Super Monkey Ball</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>6253</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233810" />
+	</game>
+	<game id="4745">
+		<name>The Legend of Zelda : The Wind Waker</name>
+		<desc>Endlich hat das Warten ein Ende! Mit Legend of Zelda - The Wind Waker wird die Erfolgsserie auf dem Nintendo GameCube fortgesetzt. In seinem ersten eigenen GameCube Abenteuer wird Link in die idyllische Inselwelt eines Ozeans versetzt. Doch das friedliche Leben auf dem Eiland wird zerstört, als ein Raubvogel Links geliebte Schwester entführt. Natürlich zögert unser Held keine Sekunde und macht sich auf die Reise, um sie aus den Fängen des Monsters zu befreien. Auf seiner waghalsigen Reise muss Link alles einsetzen, was er hat: Bekannte Items wie Pfeil &amp; Bogen, Bomben, Enterhaken und Bumerang, aber auch neue Tools wie den Wind Waker, mit dem er Melodien spielen und so Macht über den Wind gewinnen kann. Außerdem kann Link nun die Tageszeit ändern oder die Kontrolle über andere Figuren übernehmen.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Legend of Zelda, The - The Wind Waker (USA)-image.png</image>
+		<marquee>./images/Legend of Zelda, The - The Wind Waker (USA)-marquee.png</marquee>
+		<thumbnail>./images/Legend of Zelda, The - The Wind Waker (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030324T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T233812" />
+	</game>
+	<game id="4779">
+		<name>The Legend of Zelda : Four Swords Adventures</name>
+		<desc>Vor ewigen Zeiten wurde Hyrule vom bösen Zauberer Vaati heimgesucht. Er verbreitete überall Angst und Schrecken, denn er entführte die jungen und hübschen Mädchen des Landes. Niemand war in der Lage, Vaati zu stoppen, bis eines Tages ein junger Krieger auftauchte, der, nur mit einem Schwert bewaffnet, dem Zauberer gegenübertrat. Doch der junge Krieger verfügte über eine besondere Macht. Listig nutzte er sein Schwert, um sich selbst zu vervierfachen. Nun traten 4 tapfere Krieger dem Zauberer gegenüber, ein Ansturm, dem Vaati nicht gewachsen war. Er wurde besiegt. Die 4 Krieger verbannten Vaati in die tiefsten Kerker Hyrules und versiegelten den Kerker mit ihrem Schwert.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Legend of Zelda, The - Four Swords Adventures (USA)-image.png</image>
+		<marquee>./images/Legend of Zelda, The - Four Swords Adventures (USA)-marquee.png</marquee>
+		<thumbnail>./images/Legend of Zelda, The - Four Swords Adventures (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20040607T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>The Legend of Zelda</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3534</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233814" />
+	</game>
+	<game id="4751">
+		<name>Luigi's Mansion</name>
+		<desc>Luigi tritt aus dem Schatten seines Bruders Mario und betritt die düsteren Räume eines stark verfluchten Hauses – in seiner allerersten Hauptrolle. Ausgerüstet mit einer Taschenlampe und einem speziellen Staubsauger muss Luigi das Herrenhaus von Geistern und Boos befreien – und nebenbei seinen verschwundenen Bruder finden. Als Luigi suchst du nach Schlüsseln, die die zahlreichen verschlossenen Türen öffnen, saugst Münzen, Bargeld und Goldbarren auf und durchstöberst Vasen, Bücherregale und Schubladen. Vom kellerartigen Gemäuer bis zum unheimlichen Außenbereich steckt Luigi's Mansion voller Grusel, Spannung und überraschender Schockerlebnisse.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Luigi's Mansion (USA)-image.png</image>
+		<marquee>./images/Luigi's Mansion (USA)-marquee.png</marquee>
+		<thumbnail>./images/Luigi's Mansion (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20011117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<family>Luigi's Mansion</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T233816" />
+	</game>
+	<game id="4759">
+		<name>Fire Emblem : Path of Radiance</name>
+		<desc>Die rundenbasierte Strategiespiel-Serie Fire Emblem stößt mit ihrem ersten Nintendo GameCube-Titel in eine neue Dimension vor!Der Kontinent Tellius ist in Menschen und Halbmenschen unterteilt. Die beiden Rassen haben sich Jahrhunderte lang bekämpft und erst vor Kurzem einen instabilen Frieden geschlossen. Jetzt droht eine neue Macht die sieben Königreiche auseinander zu reißen und die Flammen des Krieges erneut zu entzünden.In Path of Radiance gibt es einige neue Einheiten wie die Laguz, die sich in wilde Bestien verwandeln können, um so ihre Gegner anzugreifen. Zusätzlich können die Charaktere jetzt einzigartige Fähigkeiten erlernen, wenn sie an Erfahrung gewinnen. Auf diese Weise haben die Spieler noch mehr Möglichkeiten, ihre Strategie anzupassen. Mit seinen wunderschön animierten Videosequenzen und den dreidimensionalen Schlachten sieht Fire Emblem so toll aus wie nie zuvor. Und dementsprechend spielt es sich auch...</desc>
+		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
+		<image>./images/Fire Emblem - Path of Radiance (USA)-image.png</image>
+		<marquee>./images/Fire Emblem - Path of Radiance (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fire Emblem - Path of Radiance (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20051017T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<family>Fire Emblem</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>8231</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233818" />
+	</game>
+	<game id="4803">
+		<name>Pikmin</name>
+		<desc>Hier kommen Strategen voll auf Ihre Kosten: In Pikmin, dem brandneuen Spiel für den Nintendo GameCube, muss der kleine Raumfahrer Olimar nach einem Zusammenstoß mit einem Meteoriten auf einem unbekannten Planeten notlanden. In dieser überdimensional großen Welt, auf der Grashalme wie Hochhäuser und Regenpfützen wie Badeseen wirken, gilt es nun, die etwa 30 fehlenden Teile seines zersörten Raumschiffes innerhalb von nur 30 Tagen wieder einzusammeln. Auf seiner Suche lernt er die kleinen pflanzenartigen Pikmin kennen. Sie unterstützen ihn nun tatkräftig beim Kampf gegen angriffslustige Gegner, beim Wegräumen und Überqueren von Hindernissen und bei der Verteidigung des Basiscamps gegen Eindringlinge. Durch diverse Transformatoren besitzen sie sogar die Möglichkeit, überwältigte Gegner in Pikmin umzuwandeln und sich somit zu vermehren.</desc>
+		<genre>Strategie</genre>
+		<image>./images/Pikmin (USA)-image.png</image>
+		<marquee>./images/Pikmin (USA)-marquee.png</marquee>
+		<thumbnail>./images/Pikmin (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20011202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pikmin</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>15540</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233820" />
+	</game>
+	<game id="4772">
+		<name>Animal Crossing</name>
+		<desc>Animal Crossing ist kein gewöhnliches Videospiel. Du wirst darin weder auf Monster stoßen, die es zu bekämpfen gilt, noch auf zu überwindende Abgründe. Und du musst auch keine Prinzessinnen retten. Stattdessen bietet ein bezauberndes Waldgebiet dem Spieler ein einzigartiges Erlebnis. Du kannst mit zahlreichen Lebewesen Freundschaft schließen, führst ein ehrenwertes Leben, verkaufst deine Rüben oder vertreibst dir die Zeit mit Videospielen.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Animal Crossing (USA)-image.png</image>
+		<marquee>./images/Animal Crossing (USA)-marquee.png</marquee>
+		<thumbnail>./images/Animal Crossing (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20020916T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<family>Animal Crossing</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>2901</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233822" />
+	</game>
+	<game id="4782">
+		<name>F-Zero GX</name>
+		<desc>Start frei mit F-Zero GX für Nintendo GameCube. Die Spieler liefern sich heisse Rennschlachten mit Superhelden wie Captain Falcon vom Team "Blue Falcon" und Jody Summer vom Team "White Cat". Nie zuvor war brutale Beschleunigung - von 0 auf 2.000 km/h - so hautnah erlebbar, und was gibt es Schöneres, als den Gegner von der Strecke zu rempeln und hinter die Schallmauer zu schicken? Hier ist alles möglich. Dafür sorgen 30 verschiedene Boliden und 20 unterschiedliche, spektakulär designte Rennstrecken mit atemberaubenden Loopings und Spiralen, dichten Wäldern sowie gefährlichen Hindernissen wie Hängebrücken und Betonpfeiler.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/F-Zero GX (USA)-image.png</image>
+		<marquee>./images/F-Zero GX (USA)-marquee.png</marquee>
+		<thumbnail>./images/F-Zero GX (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20030825T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<family>F-Zero</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>9699</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233827" />
+	</game>
+	<game id="4752">
+		<name>Super Mario Sunshine</name>
+		<desc>Der sympathische Klempner kommt einfach nicht zur Ruhe! Eigentlich wollte Mario zusammen mit Prinzessin Peach auf einer Tropeninsel Urlaub machen. Doch dort wird er beschuldigt, die ganze Insel mit Farbe beschmiert zu haben. Ausgestattet mit einer Wasserpumpe ist Mario in faszinierenden 3D-Welten unterwegs, um um die Insel und seinen Ruf wieder reinzuwaschen. Doch aufgepasst! An jeder Ecke lauern unzählige Gefahren und Überraschungen, die dem bekanntesten Charakter der Videospielgeschichte das Leben schwer machen. Super Mario Sunshine ist eine farbenfrohe Reise ins Abenteuerland, in dem Mario viele neue Moves zeigt. Mit Sprüngen über hohe Mauern, Rutsch- und Klettereinlagen und schnellen Sprints ist er beweglicher denn je. Grund genug für die Viseospiel-Fans, ihren Urlaub erst einmal zu verschieben.</desc>
+		<genre>Abenteuer</genre>
+		<image>./images/Super Mario Sunshine (USA)-image.png</image>
+		<marquee>./images/Super Mario Sunshine (USA)-marquee.png</marquee>
+		<thumbnail>./images/Super Mario Sunshine (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20020826T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Super Mario Bros</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>6049</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233830" />
+	</game>
+	<game id="4761">
+		<name>Paper Mario : The Thousand-Year Door</name>
+		<desc>Was gehört zu jedem großen Mario-Abenteuer? Richtig, die Entführung von Prinzessin Peach. Und auch bei Paper Mario 2 ist die Prinzessin einmal mehr Opfer eines Fieslings geworden. Doch diesmal ist es ausnahmsweise nicht der lumpige Bowser, der Peach gefangen hält. Ein neuer Schurke, der gemeine Riesendrache Hooktail, hat seine ungewaschenen Klauen nach der holden Prinzessin ausgestreckt.
+Mario macht sich also wieder einmal auf, die Prinzessin zu retten. Hilfreich ist dabei seine Form, denn in Paper Mario 2 ist unser Held platt wie eine Flunder, was ihm ungekannte Fähigkeiten verleiht. Er kann sich zu einem Papierflieger zusammenfalten, um weite Abgründe zu überqueren, oder sich zur Seite drehen und passt so auch durch die engsten Ritzen in Gemäuern. Doch Mario erhält noch mehr Unterstützung.</desc>
+		<genre>Rollenspiele / Japanisches Rollenspiel</genre>
+		<image>./images/Paper Mario - The Thousand-Year Door (USA)-image.png</image>
+		<marquee>./images/Paper Mario - The Thousand-Year Door (USA)-marquee.png</marquee>
+		<thumbnail>./images/Paper Mario - The Thousand-Year Door (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041011T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<family>Paper Mario</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>4000</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233834" />
+	</game>
+	<game id="4746">
+		<name>Super Smash Bros. Melee</name>
+		<desc>Auf in den Kampf! Und in die nächste Runde des brandneuen Super Smash Bros Mellee für den Nintendo GameCube. Hier treten, wie schon beim Vorgänger Super Smash Bros, nahezu alle Nintendo-Helden gegeneinander an: Mario, Luigi, Donkey Kong, Kirby, Yoshi, aber auch neue, wie z.B. Iceclimber und verschiedene Pokemon. Das Spielprinzip von Super Smash Bros. Melee ist ganz einfach. Man wählt einen Charakter aus und los geht's. Im Gemenge kämpfen bis zu 4 Freunde gleichzeitig. Da muss man einen klaren Kopf bewahren.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Super Smash Bros. Melee (USA) (Rev 1)-image.png</image>
+		<marquee>./images/Super Smash Bros. Melee (USA) (Rev 1)-marquee.png</marquee>
+		<thumbnail>./images/Super Smash Bros. Melee (USA) (Rev 1)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20011202T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Super Smash Bros</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260824T233840" />
+	</game>
+	<game id="4802">
+		<name>Pikmin 2</name>
+		<desc>Jetzt geht es endliche wieder zurück zu den putzigen kleinen Pflanzenköpfen - den Pikmin. Und auch diesmal ist der Anlass nicht weniger dramatisch als beim letzten Besuch. Zwar landet Captain Olimar ausnahmsweise gezielt und sicher auf dem Planeten der Pikmin, doch er hat eine dringende Aufgabe zu erfüllen. Seine Firma steht nämlich vor dem Ruin, und deshalb muss er möglichst schnell 10000 Pokos beschaffen. Doch wozu hat man denn einen ergebenen Assistenten Louie und ausgesprochen flinke Freunde im All? Olimar macht sich auf, die fehlenden Pokos zu besorgen. Und da auch bei den Pikmin die Schätze manchmal vergraben sind, kommt ihm eine neue Pikmin-Art ganz gelegen. Die weißen Pikmin sind nämlich unter anderem beherzte Buddler und graben versteckte Gegenstände in windeseile aus dem Boden aus.</desc>
+		<genre>Strategie</genre>
+		<image>./images/Pikmin 2 (USA)-image.png</image>
+		<marquee>./images/Pikmin 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/Pikmin 2 (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20040830T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pikmin</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>14817</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233842" />
+	</game>
+	<game id="4754">
+		<name>Mario Kart : Double Dash!!</name>
+		<desc>Mario Kart - wer bei diesem Titel keine Erinnerungen an endlose spaßige Spieleabende hat, hat wirklich etwas verpasst und sollte diese Lücke spätestens mit Mario Kart: Double Dash schließen.
+
+Die wichtigste Neuerung: In jedem Kart sitzen nun zwei der beliebten Nintendo-Charaktere. Dabei kann man sich aus den zunächst 16 zur Wahl stehenden Fahrern völlig frei seine Lieblingskombination zusammenstellen. Bei seiner Wahl sollte man jedoch sowohl das Gewicht und die Spezialwaffen der Fahrer als auch die Schnelligkeit und Eigenschaften der verschiedenen Karts beachten. Die "Zwei-Fahrer-pro-Kart"-Regel dient zudem noch einem anderen taktischen Zweck: So kann jedes Teammitglied ein Item aufsammeln und benutzen kann seine Waffe immer nur der Beifahrer.
+
+Während der Einzelspielermodus vornehmlich zum Erringen von Goldpokalen in den verschiedenen Cups dient (um neue Karts, Charaktere, Spielmodi, etc. freizuspielen), glänzt Mario Kart: Double Dash erwartungsgemäß im Mehrspielermodus.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Mario Kart - Double Dash!! (USA)-image.png</image>
+		<marquee>./images/Mario Kart - Double Dash!! (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mario Kart - Double Dash!! (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<family>Mario Kart</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>7693</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233844" />
+	</game>
+	<game id="4770">
+		<name>Metroid Prime 2 : Echoes</name>
+		<desc>Alles beginnt, als Samus Aran auf dem entlegenen Planeten Aether ein verlassenes Föderationsschiff entdeckt. Kaum daß sie sich entschlossen hat, das Schiff zu untersuchen, wird ihr eigener Raumgleiter durch eine seltsame elektrische Anomalie außer Gefecht gesetzt. Nur unter größter Anstrengung gelingt es ihr, auf der Planetenoberfläche notzulanden. Doch unglücklicherweise platzt sie hier mitten in eine wild tobende Schlacht. Die düsteren Horden der Ing fallen sofort über Samus und ihr Schiff her und stehlen alles, was sie in die Finger bekommen. Sie machen nicht einmal vor den Kräften von Samus' Anzug Halt. Schließlich verlassen die Ing den Kampfplatz doch noch und lassen eine arg lädierte Samus zurück.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Metroid Prime 2 - Echoes (USA)-image.png</image>
+		<marquee>./images/Metroid Prime 2 - Echoes (USA)-marquee.png</marquee>
+		<thumbnail>./images/Metroid Prime 2 - Echoes (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Retro</developer>
+		<publisher>Nintendo</publisher>
+		<family>Metroid</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>7683</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233845" />
+	</game>
+	<game id="4767">
+		<name>Metroid Prime</name>
+		<desc>Samus Aran ist zurück! Ihr neues Abenteuer ist schon das 4.Kapitel der extrem spannenden Story - und es beginnt in echter Metroid-Manier: Samus'Schiff dockt an ein gefährlich aussehendes Raumschiff an. Auf dem Planeten Tallon IV geht's dann richtig zur Sache. Im Kampf gegen die fiesen Space Pirates und auf der Suche nach den zwölf Artefakten muss die Jägerin zeigen was sie drauf hat. Metroid Prime kombiniert großartiges Gameplay mit faszinierenden 3D-Grafiken, die nahtlos zwischen First- und Third-Person-Perspektive gewechselt werden können. Samus kann in den Fights bekannte Waffen wie den Wave Beam und den Ice Beam einsetzen und darüber hinaus zwischen vier verschiedenen Visieren wählen, z.B. dem Kampf- und Scanmodus.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Metroid Prime (USA) (Rev 2)-image.png</image>
+		<marquee>./images/Metroid Prime (USA) (Rev 2)-marquee.png</marquee>
+		<thumbnail>./images/Metroid Prime (USA) (Rev 2)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20021119T000000</releasedate>
+		<developer>Retro</developer>
+		<publisher>Nintendo</publisher>
+		<family>Metroid</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3154</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233851" />
+	</game>
+	<game id="4876">
+		<name>Donkey Kong Jungle Beat</name>
+		<desc>Der Rhythmus, wo jeder mit muss...
+Das Spielprinzip ist altbekannt. Donkey Kong springt, rennt und schlägt sich bei seiner ewigen Jagd nach Bananen durch die verschiedenen Levels des Spiels. Doch dieses Mal steht der Spieler dabei vor einer ganz neuen Herausforderung: dem Bongo Controller. Während bei Donkey Konga der neue Controller nur zu einfachen Reaktionstests gebraucht wurde, zeigt sich bei Donkey Kong: Jungle Beat, was wirklich in dem neuen Gerät steckt.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Donkey Kong Jungle Beat (USA)-image.png</image>
+		<marquee>./images/Donkey Kong Jungle Beat (USA)-marquee.png</marquee>
+		<thumbnail>./images/Donkey Kong Jungle Beat (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050314T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<family>Donkey Kong</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>6238</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233853" />
+	</game>
+	<game id="4749">
+		<name>The Legend of Zelda : Twilight Princess</name>
+		<desc>Die Legende geht weiter - The Legend of Zelda kehrt auf den Nintendo GameCube zurück! Noch realistischer, noch dramatischer und mit noch mehr technischer Brillanz als seine Vorgänger. Mit fantastischer Grafik, perfektem Sound und einem unvergleichlichen Gameplay zieht das epische Actionabenteuer Spieler in seinen Bann und beeindruckt seine Fans mit noch fließenderen Bewegungen und noch liebevoller gestalteten Details, die sich durch alle Levels ziehen. Außer mit den technischen Innovationen werden Spieler aber auch mit ein paar inhaltlichen Neuerungen verwöhnt. Denn Link betritt den Powerwürfel in The Legend of Zelda: Twilight Princess in Wolfsgestalt und trifft so auf eine Vielzahl neuer Charaktere. Darüber hinaus verfügen Spieler über ein komplett neues Kampfsystem sowie einen magischen Bumerang und Pfeil und Bogen.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Legend of Zelda, The - Twilight Princess (USA)-image.png</image>
+		<marquee>./images/Legend of Zelda, The - Twilight Princess (USA)-marquee.png</marquee>
+		<thumbnail>./images/Legend of Zelda, The - Twilight Princess (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20061211T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<family>The Legend of Zelda</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3934</cheevosId>
+		<scrap name="ScreenScraper" date="20260824T233858" />
+	</game>
+</gameList>
