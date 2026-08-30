@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="14974">
+		<name>Gun Valkyrie</name>
+		<desc>GUN VALKYRIE ist ein Actionspiel, das auf einer alternativen Erde spielt, auf der im 19. Jahrhundert die Raumfahrt und andere technische Wunder möglich wurden. Auf der Reise zur Koloniewelt Tir na Nog des Britischen Empire müssen Sie Dr. Hebble finden, der unter mysteriösen Umständen verschwunden ist. Je nachdem, wie gut Sie bei den Missionen abschneiden, erhalten Sie eine Bezahlung. Mit dem Geld können Sie Ihren Charakter und seine Waffen verbessern.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<image>./images/Gun Valkyrie (USA) (En,Ja)-image.png</image>
+		<marquee>./images/Gun Valkyrie (USA) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Gun Valkyrie (USA) (En,Ja)-thumb.png</thumbnail>
+		<rating>0.65</rating>
+		<releasedate>20020319T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154149" />
+	</game>
+	<game id="14661">
+		<name>Mafia</name>
+		<desc>Mafia ist ein Actionspiel auf Xbox, das in der Unterwelt der 1930er Jahre spielt und in dem Sie die Rolle eines jungen Gangsters spielen, der entschlossen ist, sich einen Platz und einen Namen in der Welt zu erobern. Werden Sie zu einem von allen beneideten und gefürchteten Mann und bauen Sie sich bei Ihrem Streben nach Respekt und Macht innerhalb der Salieri-Familie einen Ruf als furchterregender Handlanger auf.</desc>
+		<genre>Abenteuer / 3D-Echtzeit</genre>
+		<image>./images/Mafia (USA)-image.png</image>
+		<marquee>./images/Mafia (USA)-marquee.png</marquee>
+		<thumbnail>./images/Mafia (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20040309T000000</releasedate>
+		<developer>Illusion Softworks</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<family>Mafia</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154150" />
+	</game>
+	<game id="14862">
+		<name>Otogi : Myth Of Demons</name>
+		<desc>Steuern Sie in OTOGI - MYTH OF DEMONS einen Vampirkrieger, der zwischen Leben und Tod gefangen ist, und durchlaufen Sie die 25 Levels dieses Spiels, das im alten Japan spielt. Sie können Ihren Charakter mithilfe der implantierten Rollenspielelemente weiterentwickeln.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Otogi - Myth of Demons-image.png</image>
+		<marquee>./images/Otogi - Myth of Demons-marquee.png</marquee>
+		<thumbnail>./images/Otogi - Myth of Demons-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20030905T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154155" />
+	</game>
+	<game id="14736">
+		<name>Panzer Dragoon Orta</name>
+		<desc>PANZER DRAGOON ORTA ist ein Shoot'em Up, das für die Xbox veröffentlicht wurde. nnnnIn der Rolle des Mannes, der auf dem Drachen Orta sitzt, durchqueren Sie 3D-Levels voller Feinde, die Sie durch die Kontrolle der Geschwindigkeit Ihres Reittiers oder durch das Wechseln zwischen den drei verfügbaren Flügelmodi blasen müssen.</desc>
+		<genre>Shoot'em Up</genre>
+		<image>./images/Panzer Dragoon Orta-image.png</image>
+		<marquee>./images/Panzer Dragoon Orta-marquee.png</marquee>
+		<thumbnail>./images/Panzer Dragoon Orta-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20030421T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<family>Panzer Dragoon</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154156" />
+	</game>
+	<game id="14853">
+		<name>Gladius</name>
+		<desc>Wähle deine Klasse und kämpfe in der Arena mit Gladius auf Xbox. Lernen Sie, Magie zu meistern, nutzen Sie Ihr Vintage-Arsenal, um Ihre Gegner zu besiegen, und treten Sie dann im Mehrspielermodus gegen bis zu drei Freunde an.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Gladius-image.png</image>
+		<marquee>./images/Gladius-marquee.png</marquee>
+		<thumbnail>./images/Gladius-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20031128T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Activision</publisher>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154200" />
+	</game>
+	<game id="14753">
+		<name>Fatal Frame</name>
+		<desc>PROJECT ZERO ist ein Survival-Horror-Spiel für die Xbox. 
+
+Begleite Miku, ein junges Mädchen auf der Suche nach ihrem Bruder, bei ihren Nachforschungen in der düsteren Vergangenheit des Himuro-Anwesens. Bewaffnet mit ihrem sechsten Sinn und einer einfachen Kamera, erlebt die junge Miku ein schreckliches Abenteuer.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Fatal Frame (USA)-image.jpg</image>
+		<marquee>./images/Fatal Frame (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Frame (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021122T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Microsoft</publisher>
+		<family>Project Zero - Fatal Frame</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154201" />
+	</game>
+	<game id="14617">
+		<name>Star Wars : Knights of the Old Republic II : The Sith Lords</name>
+		<desc>Star Wars: Knights of the Old Republic II: The Sith Lords on Xbox is a role-playing game set 3,000 years before the events of the film saga. You play the role of a survivor of the Jedi order, saved by his exile. Can you regain your lost status and save the galaxy from a terrible Sith threat? The game uses the D20 system used in the paper role-playing game.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Star Wars - Knights of the Old Republic II - The Sith Lords-image.jpg</image>
+		<marquee>./images/Star Wars - Knights of the Old Republic II - The Sith Lords-marquee.png</marquee>
+		<thumbnail>./images/Star Wars - Knights of the Old Republic II - The Sith Lords-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041206T000000</releasedate>
+		<developer>Obsidian</developer>
+		<publisher>LucasArts</publisher>
+		<family>Star Wars</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154203" />
+	</game>
+	<game id="14614">
+		<name>Halo 2</name>
+		<desc>Halo 2 auf Xbox ist ein Ego-Shooter, der den Spieler in ein Science-Fiction-Universum eintauchen lässt. Die Menschheit befindet sich in einem fast verlorenen Krieg gegen Außerirdische und verlässt sich für ihre Rettung nur auf den Master Chief. Über seinen dynamischen Einzelspielermodus hinaus zeichnet sich Halo 2 vor allem durch seinen Mehrspielermodus aus, der lokal oder auf Xbox Live geübt werden kann.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Halo 2-image.png</image>
+		<marquee>./images/Halo 2-marquee.png</marquee>
+		<thumbnail>./images/Halo 2-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Game</publisher>
+		<family>Halo</family>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154208" />
+	</game>
+	<game id="14741">
+		<name>Mercenaries: Playground of Destruction</name>
+		<desc>Mercenaries auf Xbox ist ein Third-Person-Actionspiel, bei dem Sie aus drei Charakteren auswählen müssen, um Ihre Missionen auszuführen. Am Vorabend der historischen Wiedervereinigung der beiden Koreas inszeniert ein rücksichtsloser General einen Militärputsch, um die Kontrolle über den nördlichen Teil des Landes zu übernehmen, und droht der ganzen Welt mit einem Atomkrieg. Schließe Missionen ab, um ihn zu eliminieren und die versprochene Belohnung einzuheimsen.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Mercenaries-image.jpg</image>
+		<marquee>./images/Mercenaries-marquee.png</marquee>
+		<thumbnail>./images/Mercenaries-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050111T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154212" />
+	</game>
+	<game id="14721">
+		<name>Call Of Cthulhu : Dark Corners Of The Earth</name>
+		<desc>Detective Jack Walters ist nach Innsmouth gekommen, um den Fall einer vermissten Person zu lösen. Doch schon bald sieht er sich mit schrecklichen Geheimnissen konfrontiert, die älter sind als die Menschheit, und mit den Geistern der mysteriösen Ereignisse, die vor Jahren zu seiner Inhaftierung in einer Nervenheilanstalt führten.</desc>
+		<image>./images/Call of Cthulhu - Dark Corners of the Earth-image.png</image>
+		<marquee>./images/Call of Cthulhu - Dark Corners of the Earth-marquee.png</marquee>
+		<thumbnail>./images/Call of Cthulhu - Dark Corners of the Earth-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20051028T000000</releasedate>
+		<developer>Headfirst</developer>
+		<publisher>2K Games</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154215" />
+	</game>
+	<game id="14613">
+		<name>Star Wars : Knights of the Old Republic</name>
+		<desc>Lange vor dem Galaktischen Bürgerkrieg beginnt ein episches Drama. Tauche ein in diese Saga, die im Goldenen Zeitalter der Republik spielt - über 4.000 Jahre vor dem ersten Star Wars-Film, als es sowohl Jedi als auch Sith zu Tausenden gab. Während die Galaxis von einem kürzlichen Konflikt mit den Dunklen Lords erschüttert wird, tobt der Kampf zwischen den Jedi und den Sith weiter.
+
+Es liegt an dir, deine anpassbaren und sich entwickelnden Charaktere durch zehn verschiedene Welten, rasante Minispiele und Schauplätze zu führen, darunter eine Sith-Welt, die Heimatwelt der Wookies und die Jedi-Akademie. Deine Handlungen entscheiden über den Ausgang dieses kolossalen galaktischen Krieges - und über dein Schicksal als Jedi.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Star Wars - Knights of the Old Republic (USA) (v1.10)-image.jpg</image>
+		<marquee>./images/Star Wars - Knights of the Old Republic (USA) (v1.10)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars - Knights of the Old Republic (USA) (v1.10)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20030715T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>LucasArts</publisher>
+		<family>Star Wars</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154217" />
+	</game>
+	<game id="14615">
+		<name>Halo: Combat Evolved</name>
+		<desc>Die Menschheit befindet sich mitten in einem langen Krieg gegen eine außerirdische Allianz namens Covenant, die eine Kolonie nach der anderen auslöscht.
+
+Ihr Held ist Master Chief, der im Spiel selbst keinen anderen Namen als seinen Rang erhält. Er ist auf der Pillar of Autumn stationiert, einem Schiff, das laut Protokoll einen Sprung in eine zufällige Richtung macht, um sich zurückzuziehen und den Standort der Erde nicht zu verraten. Sie finden sich am titelgebenden HALO wieder, einem planetengroßen Ring von mysteriöser Herkunft und Funktion, dem die Covenant auf den Fersen sind. Master Chief muss den Angriff der Covenant abwehren und die Geheimnisse von Halo mit Hilfe der weiblichen KI Cortana entdecken, die in seinem Anzug lebt und Missionen erteilt.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Halo - Combat Evolved (USA) (v1.08)-image.png</image>
+		<marquee>./images/Halo - Combat Evolved (USA) (v1.08)-marquee.png</marquee>
+		<thumbnail>./images/Halo - Combat Evolved (USA) (v1.08)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft</publisher>
+		<family>Halo</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154219" />
+	</game>
+	<game id="14671">
+		<name>Oddworld : Munch's Oddysee</name>
+		<desc>Steuern Sie in ODDWORLD - MUNCH'S ODDYSEE Munch oder Abe, um sie aus den Klauen der verrückten Wissenschaftler zu befreien, die sie gefangen genommen haben. Um dies zu erreichen, musst du die stärkenden Getränke und die verrückten Waffen, die ihnen zur Verfügung stehen, ausgiebig nutzen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Oddworld - Munch's Oddysee (USA)-image.png</image>
+		<marquee>./images/Oddworld - Munch's Oddysee (USA)-marquee.png</marquee>
+		<thumbnail>./images/Oddworld - Munch's Oddysee (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>Microsoft</publisher>
+		<family>Oddworld</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154223" />
+	</game>
+	<game id="15001">
+		<name>Voodoo Vince</name>
+		<desc>No Pain, No Gain!
+
+Vince was just a voodoo doll in a French Quarter shop, but when his maker was kidnapped, he became a vengeful doll on a mission! Using voodoo powers, Vince must kick his own butt to beat his enemies! If he stand under a falling safe, bad guys get flattened! Stick a pitch fork in him, and his enemies are done!</desc>
+		<genre>Plattform</genre>
+		<image>./images/Voodoo Vince-image.png</image>
+		<marquee>./images/Voodoo Vince-marquee.png</marquee>
+		<thumbnail>./images/Voodoo Vince-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20031017T000000</releasedate>
+		<developer>Beep</developer>
+		<publisher>Microsoft</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154227" />
+	</game>
+	<game id="14787">
+		<name>Rallisport Challenge 2</name>
+		<desc>RalliSport Challenge 2 is a 2004 rally racing video game, and the sequel to the 2002 RalliSport Challenge. This game contains new features such as a cockpit cameras and ability to change car at the last moment. However, stats like total horsepower and number of gears have been eliminated from the car selection screen.
+
+Cars are split up into 5 categories with 2 subcategories each plus "Classic" cars. There are 4 paint schemes on each car and drivers must drive 31, 87, and 249 miles before unlocking a new one. By winning all championships in the career mode, all paint schemes for all cars are unlocked.</desc>
+		<genre>Sport</genre>
+		<image>./images/RalliSport Challenge 2-image.jpg</image>
+		<marquee>./images/RalliSport Challenge 2-marquee.png</marquee>
+		<thumbnail>./images/RalliSport Challenge 2-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>Microsoft</publisher>
+		<players>1-16</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154228" />
+	</game>
+	<game id="14770">
+		<name>Ninja Gaiden Black</name>
+		<desc>NINJA GAIDEN BLACK für die Xbox ist ein Actionspiel, in dem Sie in die Rolle von Ryu Hayabusa schlüpfen, einem bekennenden Ninja. nnnnNachdem Lord Doku seinen Clan in Brand gesteckt hat, beschließt unser Held, sich mit seinem heiligen Schwert und spektakulären Akrobatikübungen zu rächen. nnnnDie Action steht im Vordergrund und nicht die Infiltration, die man von diesen Schattenwesen gewohnt ist.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Ninja Gaiden Black-image.jpg</image>
+		<marquee>./images/Ninja Gaiden Black-marquee.png</marquee>
+		<thumbnail>./images/Ninja Gaiden Black-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20051021T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Microsoft</publisher>
+		<family>Ninja Gaiden</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154230" />
+	</game>
+	<game id="14633">
+		<name>Tom Clancy's Splinter Cell : Chaos Theory</name>
+		<desc>SPLINTER CELL CHAOS THEORY für Xbox ist ein Infiltrationsspiel, in dem Sie erneut die Rolle von Sam Fisher übernehmen. Von Panama über die USA bis nach Korea bleibt das Ziel mehr oder weniger dasselbe, nämlich dank einer breiten Palette von Moves so nah wie möglich an Ihr Ziel heranzukommen. Lassen Sie sich von der Decke hängen und schweben Sie dann über einer Strecke, die mit bewegungserkennenden Lasern gespickt ist. nnnnOder möchten Sie lieber in diesen engen Schacht schlüpfen?</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Tom Clancy's Splinter Cell - Chaos Theory (USA)-image.jpg</image>
+		<marquee>./images/Tom Clancy's Splinter Cell - Chaos Theory (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tom Clancy's Splinter Cell - Chaos Theory (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050328T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Tom Clancy</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154232" />
+	</game>
+	<game id="14619">
+		<name>Star Wars Battlefront II</name>
+		<desc>STAR WARS BATTLEFRONT II für Xbox ist ein Third-Person-Shooter, der Sie in die Rolle eines Klons der großen Armee dessen versetzt, was bald das Imperium werden wird.
+
+Mit den Augen dieses Elitesoldaten müssen Sie die Pläne des Imperators ausführen, wobei sich die Handlung von den Anfängen von Revenge of the Sith bis zum Ende von Return of the Jedi entfaltet. nnnnEin Multiplayer-Modus ermöglicht Kämpfe im Mehrspielermodus.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Star Wars - Battlefront II (USA)-image.jpg</image>
+		<marquee>./images/Star Wars - Battlefront II (USA)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars - Battlefront II (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051101T000000</releasedate>
+		<developer>Pandemic</developer>
+		<publisher>LucasArts</publisher>
+		<family>Star Wars</family>
+		<players>1-32</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154236" />
+	</game>
+	<game id="14936">
+		<name>Otogi 2 : Immortal Warriors</name>
+		<desc>Der Krieger Raikoh tritt in OTOGI 2 - IMMORTAL WARRIORS mit fünf Gefährten wieder in Aktion, um Dämonen und andere höllische Kreaturen zu massakrieren. Die Spielwelt ist poetisch und gewalttätig zugleich und bietet Ihnen die Möglichkeit, durch verschiedene Landschaften zu streifen, von der trostlosen Ebene bis hin zum Wald, um die Ausgeburten der Hölle zu töten.</desc>
+		<genre>Beat'em Up</genre>
+		<image>./images/Otogi 2 - Immortal Warriors (USA)-image.png</image>
+		<marquee>./images/Otogi 2 - Immortal Warriors (USA)-marquee.png</marquee>
+		<thumbnail>./images/Otogi 2 - Immortal Warriors (USA)-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>FromSoftware</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154237" />
+	</game>
+	<game id="14663">
+		<name>Forza Motorsport</name>
+		<desc>Rennsimulation von Microsoft, die sich an Spieler richtet, die sich für Autos und Rennen begeistern. nnnnBesitzen Sie Ihre Lieblingsautos, passen Sie sie an und fahren Sie Rennen in der bisher technisch fortschrittlichsten und realistischsten Rennsimulation. Verwenden Sie die Renneinnahmen, um Upgrades und Zubehörteile zu kaufen, so dass Sie echte Serienfahrzeuge in Hochleistungsrennwagen verwandeln können. Erleben Sie auf der Rennstrecke eine beeindruckend genaue Simulation, während Sie Ihre leistungsgesteigerten Kreationen gegen die Online-Spielwelt auf Xbox Live antreten lassen. nnnnEnthält Fahrzeugmodelle von mehr als 60 Top-Automobilherstellern, individuelle Gestaltung durch Aufkleber und Team-Lackierungen sowie Fahrzeugtuning, das die Leistung wirklich beeinflusst.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/Forza Motorsport (USA)-image.png</image>
+		<marquee>./images/Forza Motorsport (USA)-marquee.png</marquee>
+		<thumbnail>./images/Forza Motorsport (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050503T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<family>Forza</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154241" />
+	</game>
+	<game id="14751">
+		<name>Fatal Frame II : Crimson Butterfly - Director's Cut</name>
+		<desc>The game tells the story of two Japanese twin sisters, Mayu and Mio, who, while walking in the forest where they played as children, Mayu senses a strange presence, and seems to see what appears to be a bright crimson butterfly. Her sister Mio, seeing it go, decides to follow it along a path until they reach what seems to be an abandoned village, covered by a strange darkness. They know the legend of a village that everyone comes to when they get lost in the forest, and from which there is no way out. They decide to investigate the houses, starting with the main one, following the instinct of these strange butterflies.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<image>./images/Fatal Frame II - Crimson Butterfly - Director's Cut (USA)-image.jpg</image>
+		<marquee>./images/Fatal Frame II - Crimson Butterfly - Director's Cut (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fatal Frame II - Crimson Butterfly - Director's Cut (USA)-thumb.png</thumbnail>
+		<rating>0.95</rating>
+		<releasedate>20021122T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Microsoft</publisher>
+		<family>Project Zero - Fatal Frame</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154246" />
+	</game>
+	<game id="14659">
+		<name>Def Jam Fight For NY</name>
+		<desc>DEF JAM FIGHT FOR NY ist ein Kampfspiel für die Xbox. In diesem Spiel, in dem zahlreiche US-Rapper unter dem Label Def Jam auftreten, können Sie die Unterwelt des Hip-Hop übernehmen. Erstellen Sie Ihren Charakter, schließen Sie sich einer Crew an und entwickeln Sie Ihre Kampfkünste, um Respekt zu erzwingen. Kämpfen Sie an über 20 verschiedenen Orten gegen zahlreiche Hip-Hop-Größen um die Kontrolle der Straße. Und das alles zu den Klängen des Labels Def Jam.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Def Jam - Fight for NY (USA)-image.png</image>
+		<marquee>./images/Def Jam - Fight for NY (USA)-marquee.png</marquee>
+		<thumbnail>./images/Def Jam - Fight for NY (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040920T000000</releasedate>
+		<developer>AKI</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Def Jam</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154248" />
+	</game>
+	<game id="14735">
+		<name>Kingdom Under Fire : The Crusaders</name>
+		<desc>KINGDOM UNDER FIRE - THE CRUSADERS ist ein Echtzeit-Action-Strategiespiel für die Xbox. Die Geschichte spielt 50 Jahre nach dem Ende des ersten Teils und dreht sich um eine neu formierte Schwarze Legion, die gerade ein menschliches Dorf an der Grenze zwischen dem Gebiet der Orks und der Dunkelelfen dem Erdboden gleichgemacht hat. Der Spieler hat die Möglichkeit, seine Truppen zu verbessern und anzupassen, während der Titel nicht weniger als 200 verschiedene Fantasy-Charaktere umfasst.</desc>
+		<genre>Strategie</genre>
+		<image>./images/Kingdom Under Fire - The Crusaders (USA)-image.png</image>
+		<marquee>./images/Kingdom Under Fire - The Crusaders (USA)-marquee.png</marquee>
+		<thumbnail>./images/Kingdom Under Fire - The Crusaders (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20041012T000000</releasedate>
+		<developer>Phantagram Interactive</developer>
+		<publisher>Microsoft Game</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154250" />
+	</game>
+	<game id="14998">
+		<name>Marvel vs. Capcom 2 : New Age of Heroes</name>
+		<desc>MARVEL VS. CAPCOM 2 - NEW AGE OF HEROES für die Xbox ist ein Kampfspiel, in dem die Helden des Spieleherstellers Capcom und die ikonischen Marvel-Figuren gegeneinander antreten. Über fünfzig Charaktere sind in dieser Fortsetzung spielbar, die die Formel des Teams aus drei Kämpfern, die jederzeit in den Kampf eingreifen können, beibehält.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Marvel vs. Capcom 2 - New Age of Heroes (USA)-image.jpg</image>
+		<marquee>./images/Marvel vs. Capcom 2 - New Age of Heroes (USA)-marquee.png</marquee>
+		<thumbnail>./images/Marvel vs. Capcom 2 - New Age of Heroes (USA)-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20030327T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Marvel Vs. Capcom</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154253" />
+	</game>
+	<game id="14713">
+		<name>The Chronicles Of Riddick : Escape From Butcher Bay</name>
+		<desc>THE CHRONICLES OF RIDDICK: ESCAPE FROM BUTCHER BAY ist ein Ego-Shooter für Xbox, der Sie in die Rolle des gleichnamigen Helden versetzt, der in den Filmen von Vin Diesel gespielt wird. nnnnDie Ereignisse finden zwischen den beiden Filmen statt und erzählen die Geschichte der Flucht des ruppigen Helden aus dem Gefängnis Butcher Bay. Bahne dir einen Weg an unaufmerksamen Wachen vorbei und nutze deine Nachtsicht, um aus diesem höllischen Ort zu entkommen.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Chronicles of Riddick, The - Escape from Butcher Bay (USA)-image.png</image>
+		<marquee>./images/Chronicles of Riddick, The - Escape from Butcher Bay (USA)-marquee.png</marquee>
+		<thumbnail>./images/Chronicles of Riddick, The - Escape from Butcher Bay (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040601T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Starbreeze</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154257" />
+	</game>
+	<game id="14652">
+		<name>Tom Clancy's Splinter Cell</name>
+		<desc>Infiltrate terrorists' positions, acquire critical intelligence by any means necessary, execute with extreme prejudice, and exit without a trace. In Tom Clancy's Splinter Cell, you are Sam Fisher, a highly trained secret operative of the NSA's secret arm: Third Echelon. Suit up with the latest classified field operative gear and weapons as you travel through diverse mission objectives. The world's future is in your hands, as cyber terrorism and international tensions are about to explode into WWIII.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Tom Clancy's Splinter Cell (USA)-image.png</image>
+		<marquee>./images/Tom Clancy's Splinter Cell (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tom Clancy's Splinter Cell (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20021117T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Tom Clancy</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154259" />
+	</game>
+	<game id="14656">
+		<name>Jade Empire</name>
+		<desc>JADE EMPIRE spielt in einer alten Welt, die vom mythischen China inspiriert ist, und lässt dich unter dem wachsamen Auge deines Meisters trainieren, während du mächtige Kampfkünste und mystische Kräfte erlernst. Wenn Gefahr droht, reist du quer durch die Welt, von den rauen Bergen des Landes der heulenden Geister bis zu den üppigen Gärten der Kaiserstadt. In deinen Abenteuern musst du dich mächtigen menschlichen und übernatürlichen Gegnern stellen, die exotischen und magischen Kampfkünste erlernen und die dunkelsten Geheimnisse der Welt entdecken. Übe die besten Kampfstile und besiege die mächtigsten Feinde, um ein Meister der Kampfkünste zu werden.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Jade Empire-image.png</image>
+		<marquee>./images/Jade Empire-marquee.png</marquee>
+		<thumbnail>./images/Jade Empire-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050422T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Microsoft Game</publisher>
+		<players>1-10</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154301" />
+	</game>
+	<game id="14705">
+		<name>Dead Or Alive 3</name>
+		<desc>DEAD OR ALIVE 3 ist ein Kampfspiel für die Xbox. 
+
+Schlüpfe in die Rolle von Kämpfern mit hervorstehenden Muskeln oder berauschenden Rundungen in erbitterten Kämpfen. 
+
+Im Mehrspielermodus kannst du gegen bis zu drei deiner Freunde antreten.</desc>
+		<genre>Kampf</genre>
+		<image>./images/Dead or Alive 3 (USA) (En,Ja)-image.png</image>
+		<marquee>./images/Dead or Alive 3 (USA) (En,Ja)-marquee.png</marquee>
+		<thumbnail>./images/Dead or Alive 3 (USA) (En,Ja)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<family>Dead or Alive</family>
+		<players>1-4</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154303" />
+	</game>
+	<game id="14610">
+		<name>The Elder Scrolls III : Morrowind</name>
+		<desc>THE ELDER SCROLLS III: MORROWIND ist ein Xbox-Rollenspiel, das dem Spieler viel Freiheit bietet. nnnnZu Beginn müssen Sie einen Charakter erstellen, indem Sie zwischen zehn Rassen wählen. Dann kann man sich entscheiden, ob man die Hauptquest oder eine der vielen angebotenen Nebenquests in Angriff nehmen will. Auf deinen Reisen wirst du viele verschiedene Kreaturen treffen, an denen du dein Schwert testen kannst.</desc>
+		<genre>Rollenspiele</genre>
+		<image>./images/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)-image.png</image>
+		<marquee>./images/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)-marquee.png</marquee>
+		<thumbnail>./images/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20020606T000000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<family>The Elder Scrolls</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154307" />
+	</game>
+	<game id="14623">
+		<name>Oddworld : Stranger's Wrath</name>
+		<desc>Ein Kopfgeldjäger, der nur als 'The Stranger' (dt. = 'der Fremde') bekannt ist, verfolgt und fängt verschiedene Kriminelle und versucht, genug Geld für eine geheimnisvolle Operation zu verdienen. Als er hört, dass eine von Grubbs bewohnte Stadt von einem Dämon heimgesucht wurde, begibt sich der Fremde dorthin. nnnnDie Stadt wurde einst von einer Rasse von Kreaturen beschützt, die als Steef bekannt sind, und die nun völlig ausgestorben zu sein scheinen. Der Fremde entdeckt bald, dass ein nahe gelegener Fluss durch einen Damm ausgetrocknet wurde, der von einer Person namens Sekto gebaut wurde. Der Fremde muss sich dieser Person stellen, während er weiterhin Geächtete jagt und nichts über seine Vergangenheit verrät. nnnnODDWORLD: STRANGER'S WRATH ist im fiktiven Oddworld-Universum angesiedelt und unterscheidet sich in vielerlei Hinsicht von seinem Vorgänger. Das Spiel umfasst zwei grundlegende Genres: Jump'n'Run-Action in der dritten Person und Ego-Shooter. Der Spieler kann jederzeit zwischen den beiden Modi wechseln, indem er eine Nahkampf- bzw. eine Fernkampfwaffe benutzt. nnnnDas Ziel des Spiels besteht größtenteils darin, die Gesetzlosen zu fangen und zu verhaften und dabei "Moolah" (die Währung des Spiels) zu sammeln. Der Fremde kann Feinde betäuben oder niederschlagen, aber auch verstohlen vorgehen, indem er sich z. B. im hohen Gras versteckt, um den Feind zu überraschen.</desc>
+		<genre>Plattform</genre>
+		<image>./images/Oddworld - Stranger's Wrath (USA)-image.png</image>
+		<marquee>./images/Oddworld - Stranger's Wrath (USA)-marquee.png</marquee>
+		<thumbnail>./images/Oddworld - Stranger's Wrath (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050125T000000</releasedate>
+		<developer>Oddworld Inhabitants</developer>
+		<publisher>Electronic Arts</publisher>
+		<family>Oddworld</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154311" />
+	</game>
+	<game id="14890">
+		<name>Phantom Dust</name>
+		<desc>Das Spiel PHANTOM DUST spielt in einer postapokalyptischen Welt, in der seltsamer Staub vom Himmel gefallen ist und das Gedächtnis aller Menschen ausgelöscht hat. Eine Gruppe von Menschen, die übernatürliche Kräfte entwickelt haben, die Espers, haben zwei Leichen in Winterschlafkapseln entdeckt. Einer der beiden heißt Edgar und könnte wichtige Informationen über den Geisterstaub enthalten. Der andere bist du.</desc>
+		<image>./images/Phantom Dust-image.png</image>
+		<marquee>./images/Phantom Dust-marquee.png</marquee>
+		<thumbnail>./images/Phantom Dust-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20050315T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<players>1-4</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154314" />
+	</game>
+	<game id="14653">
+		<name>JSRF : Jet Set Radio Future</name>
+		<desc>Ein Nachfolger des Dreamcast-Titels Jet Grind Radio. nnnnDer Schauplatz ist Tokio im Jahr 2024. Freiheit ist ein wertvolles Gut und freie Meinungsäußerung noch viel mehr. Gangs verhaltensauffälliger Teenager schnallen sich raketenbetriebene Rollerblades an und skaten, grinden und markieren ihr Revier mit Graffiti-Tags. nnnnDie Spieler schlüpfen in die Rolle der GGs und können im Hauptquartier der Bande zwischen den Mitgliedern der Bande wählen, die jeweils unterschiedliche Werte haben. Die Stadt Tokio kann in aller Ruhe und ohne Zeitlimit erkundet werden, aber es wird heiß hergehen, wenn Story-Missionen aktiviert werden und die GGs von rivalisierenden Gangs herausgefordert oder von der Polizei angegriffen werden. Dieses Mal erfordert das Sprühen keine Eingaben mit dem Thumbstick mehr; rollen Sie sich einfach zusammen und fangen Sie an zu sprühen, auch wenn für große Tags immer noch mehr Dosen benötigt werden als für kleinere Tags. In jedem Abschnitt der Stadt gibt es versteckte Ziele, die durch das Auffinden eines versteckten Klebebands aufgedeckt werden, und sobald diese Herausforderungen abgeschlossen sind, werden neue Graffitimuster freigeschaltet.</desc>
+		<genre>Plattform</genre>
+		<image>./images/JSRF - Jet Set Radio Future (USA)-image.png</image>
+		<marquee>./images/JSRF - Jet Set Radio Future (USA)-marquee.png</marquee>
+		<thumbnail>./images/JSRF - Jet Set Radio Future (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20020225T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>SEGA</publisher>
+		<family>Jet Set Radio</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154316" />
+	</game>
+	<game id="14611">
+		<name>Fable : The Lost Chapters</name>
+		<desc>Fable: The Lost Chapters auf Xbox ist ein Action-Rollenspiel, in dem Sie einen Charakter von der Kindheit bis zum Weißbart führen. Erfülle die von deiner Gilde anvertrauten Missionen und lenke das Schicksal deines Helden, um eine Legende über Gut oder Böse zu werden. Sie können sich tatsächlich dafür entscheiden, die Massen zu terrorisieren, indem Sie grausam und gnadenlos sind, oder dem Volk zu dienen und den Unterdrückten zu helfen. In dieser Ausgabe sind neue Quests verfügbar.</desc>
+		<genre>Rollenspiele / Action-RPG</genre>
+		<image>./images/Fable - The Lost Chapters (USA)-image.png</image>
+		<marquee>./images/Fable - The Lost Chapters (USA)-marquee.png</marquee>
+		<thumbnail>./images/Fable - The Lost Chapters (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Lionhead Studios</publisher>
+		<family>FABLE</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154318" />
+	</game>
+	<game id="15097">
+		<name>Crazy Taxi 3</name>
+		<desc>Crazy Taxi 3 auf Xbox ist ein Autospiel, bei dem Sie ein Taxi durch eine fiktive Stadt fahren können. Drittes Werk der Reihe. Ziel des Spiels ist es, die zahlreichen Kunden innerhalb einer vorgegebenen Zeit an ihr jeweiliges Ziel in einer Stadt zu führen, in der alles erlaubt ist... Mit anderen Worten, Sie können die Straßenverkehrsordnung bereits vergessen!</desc>
+		<genre>Rennen, Fahren / Motorradrennen, 3. Pers.</genre>
+		<image>./images/Crazy Taxi 3 - High Roller-image.png</image>
+		<marquee>./images/Crazy Taxi 3 - High Roller-marquee.png</marquee>
+		<thumbnail>./images/Crazy Taxi 3 - High Roller-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20020920T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>SEGA</publisher>
+		<family>Crazy Taxi</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20260830T154322" />
+	</game>
+	<game id="14636">
+		<name>Tom Clancy's Splinter Cell : Double Agent</name>
+		<desc>SPLINTER CELL DOUBLE AGENT ist ein Infiltrationsspiel für Xbox. nnnnSie spielen wieder als Sam Fisher, diesmal als Doppelagent. Im Spiel stehen seine Moral und Loyalität gegenüber seinen Auftraggebern und seinem Land an erster Stelle. Er muss alles tun, um seine Tarnung zu schützen, was ihn während des gesamten Spiels auf Trab hält. Es liegt an Ihnen, die richtigen Entscheidungen zu treffen, die das Szenario direkt beeinflussen.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Tom Clancy's Splinter Cell - Double Agent (USA)-image.jpg</image>
+		<marquee>./images/Tom Clancy's Splinter Cell - Double Agent (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tom Clancy's Splinter Cell - Double Agent (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20061026T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Tom Clancy</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154324" />
+	</game>
+	<game id="14712">
+		<name>Tom Clancy's Splinter Cell : Pandora Tomorrow</name>
+		<desc>SPLINTER CELL PANDORA TOMORROW ist ein Infiltrationsspiel für die Xbox. nnnnSpiele als Agent Sam Fisher, der eine Gruppe von Terroristen aufspürt, um die Geheimnisse der Operation Pandora Tomorrow aufzudecken. Schleichen Sie sich in den Schatten, um Ihre Gegner zu überraschen und nicht entdeckt zu werden. Die vielen Gadgets unseres Agenten werden mehr als einmal den Tag retten.</desc>
+		<genre>Action / Abenteuer</genre>
+		<image>./images/Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)-image.jpg</image>
+		<marquee>./images/Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)-marquee.png</marquee>
+		<thumbnail>./images/Tom Clancy's Splinter Cell - Pandora Tomorrow (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20040323T000000</releasedate>
+		<developer>Ubisoft Shanghai</developer>
+		<publisher>Ubisoft</publisher>
+		<family>Tom Clancy</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154328" />
+	</game>
+	<game id="14657">
+		<name>Star Wars : Republic Commando</name>
+		<desc>In STAR WARS: REPUBLIC COMMANDO für Xbox übernehmt ihr das Kommando über eine kleine Elitetruppe der zukünftigen großen Armee des Imperiums. Begleitet von drei anderen Soldaten, jeder mit seiner eigenen Spezialisierung, musst du dich durch den Feind und andere Droiden kämpfen, die sich dir in den Weg stellen. nnnnDie Geschichte ist zwischen den Episoden II und III der großen Saga angesiedelt.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<image>./images/Star Wars - Republic Commando (USA)-image.jpg</image>
+		<marquee>./images/Star Wars - Republic Commando (USA)-marquee.png</marquee>
+		<thumbnail>./images/Star Wars - Republic Commando (USA)-thumb.png</thumbnail>
+		<rating>0.9</rating>
+		<releasedate>20050301T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<family>Star Wars</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154330" />
+	</game>
+	<game id="14785">
+		<name>Crimson Skies : High Road To Revenge</name>
+		<desc>Sie schlüpfen in die Rolle des verwegenen Luftpiraten Nathan Zachary, Anführer der berüchtigten Fortune Hunters. 
+
+Die Einzelspielerkampagne des hochfliegenden Abenteuers ist gefüllt mit Fluchten, Verteidigungs- und Eskortmissionen und Dogfights. 
+
+Sie können auch gegen Freunde über Xbox Live! antreten.</desc>
+		<genre>Simulation / Fahrzeuge</genre>
+		<image>./images/Crimson Skies - High Road to Revenge (USA)-image.png</image>
+		<marquee>./images/Crimson Skies - High Road to Revenge (USA)-marquee.png</marquee>
+		<thumbnail>./images/Crimson Skies - High Road to Revenge (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20031021T000000</releasedate>
+		<developer>Fasa</developer>
+		<publisher>Microsoft</publisher>
+		<family>Crimson Skies</family>
+		<players>1-16</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154332" />
+	</game>
+	<game id="14946">
+		<name>OutRun 2</name>
+		<desc>Fahren Sie in OUTRUN 2 mit Ihrem Rennwagen durch die verschiedenen Checkpoints auf den zahlreichen Strecken des Spiels, bevor der Timer abläuft. Beeindrucke deine Freundin, indem du wie ein Verrückter fährst und einfach die Verkehrsregeln vergisst. Es gibt noch weitere Modi, die den Titel bereichern, und Sie haben auch die Möglichkeit, sich im Online-Spiel zu versuchen, um allen Ihre Fahrkünste zu zeigen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<image>./images/OutRun 2 (USA)-image.png</image>
+		<marquee>./images/OutRun 2 (USA)-marquee.png</marquee>
+		<thumbnail>./images/OutRun 2 (USA)-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>SEGA AM2</developer>
+		<publisher>SEGA</publisher>
+		<family>OutRun</family>
+		<players>1-8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20260830T154334" />
+	</game>
+</gameList>
