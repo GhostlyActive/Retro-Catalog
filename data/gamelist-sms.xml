@@ -6,9 +6,6 @@
 
 Fantasy Zone ist ein Shooter im Arcade-Stil für einen oder zwei Spieler. Das Ziel ist es, alle Kreaturen auf jedem Planeten zu zerstören und so viele der verlorenen Münzen wie möglich einzusammeln. Am Ende eines jeden Levels befindet sich ein großer Feind, der besiegt werden muss, bevor man in die nächste Welt weiterziehen kann. An verschiedenen Stellen im Spiel kann der Spieler einen Teile-Shop finden, in dem er Verbesserungen für sein Raumschiff kaufen kann, darunter bessere Waffen und schnellere Motoren.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Fantasy Zone (World) (Rev 1)-image.png</image>
-		<marquee>./images/Fantasy Zone (World) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Fantasy Zone (World) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19860901T000000</releasedate>
 		<developer>SEGA</developer>
@@ -18,16 +15,12 @@ Fantasy Zone ist ein Shooter im Arcade-Stil für einen oder zwei Spieler. Das Zi
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10025</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003838" />
 	</game>
 	<game id="755">
 		<name>Sonic the Hedgehog</name>
 		<desc>Schlage ein riesiges Loch durch die Videospiel-Geschwindigkeitsmauer mit Sonic, dem Igel. FEtzmit (fast) Schallgeschwindigkeit vorbei und schlage Deine Feine mit dem Super Sonic Spin Angriff zusammen.
 Stolper Tunnel hinunter und fliege durch den Weltraum. Hüpf in einen Pinball-Automaten herum, bis Dir schwindelig wird. Du hast noch nie so etwas gesehen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911025T000000</releasedate>
 		<developer>Ancient</developer>
@@ -37,15 +30,11 @@ Stolper Tunnel hinunter und fliege durch den Weltraum. Hüpf in einen Pinball-Au
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>9962</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003840" />
 	</game>
 	<game id="769">
 		<name>Astérix</name>
 		<desc>Miraculix, der Druide, dessen Zaubertrank bisher das Dorf vor den Römern geschützt hat, wurde entführt! Gehen Sie mit Asterix und Obelix zusammen auf die Suche, um den Druiden zu befreien und das Dorf zu retten!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Asterix (Europe, Brazil) (En,Fr) (Rev 1)-image.png</image>
-		<marquee>./images/Asterix (Europe, Brazil) (En,Fr) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Asterix (Europe, Brazil) (En,Fr) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19920401T000000</releasedate>
 		<developer>SEGA</developer>
@@ -54,7 +43,6 @@ Stolper Tunnel hinunter und fliege durch den Weltraum. Hüpf in einen Pinball-Au
 		<players>1-2</players>
 		<lang>fr,en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003841" />
 	</game>
 	<game id="754">
 		<name>Alex Kidd in Miracle World</name>
@@ -64,9 +52,6 @@ Es gibt elf Orte die Alex erforschen muss, jeder einzelne mit einzigartigen Gefa
 
 Alex findet heraus, dass Janken der Große, Herrscher des Planeten Janbarik, zusammen mit seinen Gefolgsleuten die schöne Stadt Radaxian erobern und für immer beherrschen will. Er reist in die Miracle World, um Janken und seine bösen Diener zu besiegen. Er besiegt alle seine Diener einmal, aber als er das Radaxian-Schloss erreicht und seinen Bruder rettet, ist Janken noch unterwegs, das Mondstein-Medaillon vom Nibana-Königreich zu stehlen. Er erfährt da auch, dass die Diener von Janken noch nicht endgültig besiegt sind. Als Alex das Nibana-Königreich erreicht, findet er heraus, dass Janken das Mondstein-Medaillon bereits gestohlen hat. Er folgt ihm bis zu seinem Schloss, wo er seine Mutter findet. Er besiegt Janken, nimmt das Mondstein-Medaillon und rettet seine Mutter. Endgültig findet er die ?Krone?, mit dem er alle gesteinerten Menschen wieder normal macht. Da aber sein Vater nicht gefunden ist, wird sein Bruder der neue König.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)-image.png</image>
-		<marquee>./images/Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19870901T000000</releasedate>
 		<developer>SEGA</developer>
@@ -76,7 +61,6 @@ Alex findet heraus, dass Janken der Große, Herrscher des Planeten Janbarik, zus
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>9998</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003843" />
 	</game>
 	<game id="825">
 		<name>Shadow Dancer : The Secret of Shinobi</name>
@@ -87,9 +71,6 @@ In diesem spannenden und gefährlichen Abenteuer sind Sie der berühmte Ninja Sh
 
 Lassen Sie nicht zu, dass die Terroristen dem Raumfahrtprogramm in die Quere kommen. Kämpfen Sie mit Ihrem mächtigen Schwert, greifen Sie mit Ihren tödlichen Sternen an oder setzen Sie bei Bedarf Ninjutsu-Magie ein. Zeigen Sie, dass Sie ein echter Ninja sein können!</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -98,7 +79,6 @@ Lassen Sie nicht zu, dass die Terroristen dem Raumfahrtprogramm in die Quere kom
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003845" />
 	</game>
 	<game id="778">
 		<name>Alex Kidd in Shinobi World</name>
@@ -107,9 +87,6 @@ Lassen Sie nicht zu, dass die Terroristen dem Raumfahrtprogramm in die Quere kom
 Der dunkle Ninja, der vor 10.000 Jahren verbannt wurde, ist zurückgekehrt, um die Wunderwelt zu beherrschen. Er entführt auch die Freundin des jungen Alex und benutzt sie als Opfer. Um Alex zu helfen, den Dunklen Ninja zu besiegen und seine Freundin zu retten, dringt ein Gott in Alex' Körper ein, wodurch Alex zu einem Ninja-Meister wird.
 </desc>
 		<genre>Plattform</genre>
-		<image>./images/Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -119,7 +96,6 @@ Der dunkle Ninja, der vor 10.000 Jahren verbannt wurde, ist zurückgekehrt, um d
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10005</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003849" />
 	</game>
 	<game id="892">
 		<name>Road Rash</name>
@@ -127,9 +103,6 @@ Der dunkle Ninja, der vor 10.000 Jahren verbannt wurde, ist zurückgekehrt, um d
 
 Indem du Rennen gewinnst, kannst du in eine stärkere Division aufsteigen und Geld verdienen, mit dem du dir ein besseres Motorrad kaufen kannst. Immer wenn Sie von Ihrem Motorrad gestoßen oder angefahren werden, müssen Sie zurück zu Ihrem Motorrad laufen und verlieren wertvolle Zeit.</desc>
 		<genre>Rennen, Fahren / Motorradrennen, 3. Pers.</genre>
-		<image>./images/Road Rash (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Road Rash (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Road Rash (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940301T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -139,15 +112,11 @@ Indem du Rennen gewinnst, kannst du in eine stärkere Division aufsteigen und Ge
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10813</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003851" />
 	</game>
 	<game id="824">
 		<name>Ys : The Vanished Omens</name>
 		<desc>Einst, vor langer Zeit, fiel das Königreich von Y's unter eine Herrschaft des Bösen. Doch die Göttinnen von Y's retteten das Königreich vor dem Untergang. Ihre Taten wurden in sechs magischen Büchern niedergeschrieben und versteckt, bis die Zeit gekommen war, in der die Göttinnen wieder gebraucht werden würden. 1.000 Jahre später ist diese Zeit gekommen. Du bist Aron, ein Wanderer. Ein böser Zauberer namens Dark Dekt plant teuflische Magie. Und die Seherin Sara sucht verzweifelt nach einem Schwertkämpfer, der ihr hilft, die verschwundenen sechs Bücher des Y zu finden. Wappnen Sie sich jetzt und machen Sie sich bereit für ein Abenteuer ins Unbekannte. Wo Höhlen und Türme mit Kreaturen und Schatzhaufen gefüllt sind. Wo die seltsamsten Menschen Hinweise für Dich haben. Wo Dein Geschick im Kampf von Deinen Reflexen abhängt. Wenn Sie erfolgreich sind, haben Sie die Macht, die Göttinnen herbeizurufen. Wenn du versagst, wird Dark Dekt das Königreich für immer mit einer Schreckensherrschaft regieren!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Ys - The Vanished Omens (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ys - The Vanished Omens (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ys - The Vanished Omens (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -157,15 +126,11 @@ Indem du Rennen gewinnst, kannst du in eine stärkere Division aufsteigen und Ge
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10717</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003852" />
 	</game>
 	<game id="812">
 		<name>Astérix and the Secret Mission</name>
 		<desc>Miraculix, dem Druiden, ist der magische Trank ausgegangen! Wenn Caesar davon Wind bekommt, bedeutet das mit Sicherheit eine Invasion. Asterix und Obelix machen sich daher auf den Weg, um die für den Trank benötigten Kräuter zu suchen. Dieser Auftrag führt sie durch alle möglichen von Römern heimgesuchten Gegenden - Meere und Flüsse, Wälder und Wüsten, Tempel und Ruinen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De)-image.png</image>
-		<marquee>./images/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De)-marquee.png</marquee>
-		<thumbnail>./images/Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -174,7 +139,6 @@ Indem du Rennen gewinnst, kannst du in eine stärkere Division aufsteigen und Ge
 		<players>1</players>
 		<lang>de,fr,en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003856" />
 	</game>
 	<game id="779">
 		<name>Deep Duck Trouble Starring Donald Duck</name>
@@ -182,9 +146,6 @@ Indem du Rennen gewinnst, kannst du in eine stärkere Division aufsteigen und Ge
 
 Deep Duck Trouble ist ein Plattformspiel, in dem Sie als Donald Duck spielen. Sie müssen sich Ihren Weg durch vier verschiedene Bereiche der Insel bahnen - den Dschungel, eine Bucht, einen Vulkan und ein Tal - und am Ende jedes Bereichs Bosse besiegen. Donald kann Feinde besiegen, indem er auf ihre Köpfe springt. Er kann sie auch besiegen, indem er gegen Ziegelsteine tritt, die dann seine Gegner treffen können. Donalds Markenzeichen, das Temperament, kommt auch ins Spiel: Wenn er eine Chilischote isst, wird er wütend und pflügt durch alles, was ihm im Weg steht, seien es Ziegelsteine oder Feinde!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -194,15 +155,11 @@ Deep Duck Trouble ist ein Plattformspiel, in dem Sie als Donald Duck spielen. Si
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10443</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003900" />
 	</game>
 	<game id="878">
 		<name>Space Harrier</name>
 		<desc>Laufen... Fliegen... Weichen Sie den Hindernissen aus, aber erwidern Sie das Feuer auf Welle um Welle angreifender Aliens. Bewaffnet mit einer wirklich großen Kanone, müssen Sie sich gegen die Alien-Horden verteidigen, indem Sie Ihren Verstand benutzen, um auf dem Bildschirm zu navigieren. Aber passen Sie auf die Endbosse am Ende des Levels auf!</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Space Harrier (Japan, USA) (En)-image.png</image>
-		<marquee>./images/Space Harrier (Japan, USA) (En)-marquee.png</marquee>
-		<thumbnail>./images/Space Harrier (Japan, USA) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19861221T000000</releasedate>
 		<developer>SEGA</developer>
@@ -212,15 +169,11 @@ Deep Duck Trouble ist ein Plattformspiel, in dem Sie als Donald Duck spielen. Si
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>10033</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003902" />
 	</game>
 	<game id="837">
 		<name>Super Monaco GP</name>
 		<desc>Super Monaco GP auf dem Master System ist die Adaption des gleichnamigen Arcade-Spiels. Das Spiel beinhaltet das Qualifying, in dem Sie glänzen müssen, um das Rennen in einer guten Position zu starten. Testen Sie allein oder mit 2 Spielern im geteilten Bildschirm Ihre Reflexe auf den offiziellen FIA-Weltmeisterschaftsstrecken der damaligen Zeit.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Super Monaco GP (USA)-image.png</image>
-		<marquee>./images/Super Monaco GP (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Monaco GP (USA)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>19900901T000000</releasedate>
 		<developer>SEGA</developer>
@@ -229,7 +182,6 @@ Deep Duck Trouble ist ein Plattformspiel, in dem Sie als Donald Duck spielen. Si
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T003904" />
 	</game>
 	<game id="784">
 		<name>Golden Axe</name>
@@ -237,9 +189,6 @@ Deep Duck Trouble ist ein Plattformspiel, in dem Sie als Donald Duck spielen. Si
 
 Dies ist ein horizontales Kampfspiel, bei dem Sie alles niederschlagen, was sich zwischen Sie und Death-Adder selbst stellt. Der Zwerg und die Amazone fehlen in diesem Port, aber ihre Magie bleibt, wie Sie zu Beginn des Spiels wählen können.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Golden Axe (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Golden Axe (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Golden Axe (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Team Shinobi</developer>
@@ -249,7 +198,6 @@ Dies ist ein horizontales Kampfspiel, bei dem Sie alles niederschlagen, was sich
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10705</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003908" />
 	</game>
 	<game id="912">
 		<name>Legend of Illusion Starring Mickey Mouse</name>
@@ -257,9 +205,6 @@ Dies ist ein horizontales Kampfspiel, bei dem Sie alles niederschlagen, was sich
 
 Als Mickey Mouse reisen Sie in diesem Plattformspiel durch verschiedene Level. Mickey schießt eine unbegrenzte Anzahl von kleinen Bällen auf die Feinde, kann springen, auf Treppen klettern, an Seilen hängen und andere Tricks ausführen. Mickey kann auch Gegenstände aufheben und sie an einer anderen Stelle ablegen, um z.B. eine höhere Ebene zu erreichen oder eine Schatztruhe aufzubrechen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Legend of Illusion Starring Mickey Mouse (Brazil) (En)-image.png</image>
-		<marquee>./images/Legend of Illusion Starring Mickey Mouse (Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Illusion Starring Mickey Mouse (Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -269,7 +214,6 @@ Als Mickey Mouse reisen Sie in diesem Plattformspiel durch verschiedene Level. M
 		<lang>en,br</lang>
 		<region>br</region>
 		<cheevosId>12653</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003910" />
 	</game>
 	<game id="876">
 		<name>Gain Ground</name>
@@ -277,9 +221,6 @@ Als Mickey Mouse reisen Sie in diesem Plattformspiel durch verschiedene Level. M
 
 Der Spieler beginnt mit nur drei Soldaten, kann aber auf andere Soldaten treffen, die gerettet werden können, indem man sie berührt. Wenn der neue Soldat lange genug überlebt, um den Ausgang zu erreichen, kann er dem Soldateninventar hinzugefügt werden. Die Anzahl der möglichen Soldaten in der Armee des Spielers beträgt über 30 Soldaten. Es gibt insgesamt 50 Etappen, die in 10er-Runden unterteilt sind. Am Ende jeder Runde trifft der Spieler auf einen feindlichen Boss.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Gain Ground (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Gain Ground (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Gain Ground (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -288,15 +229,11 @@ Der Spieler beginnt mit nur drei Soldaten, kann aber auf andere Soldaten treffen
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>11659</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003911" />
 	</game>
 	<game id="886">
 		<name>Populous</name>
 		<desc>Einmal Gott spielen! * Die Erde in 7 Tagen erschaffen und im Handumdrehen zerstören * 5000 feindliche Welten erobern * Überschwemmungen, Vulkanausbrüche und Erdbeben auslösen * Populous wurde rund um die Welt 750.000 Mal verkauft</desc>
 		<genre>Strategie</genre>
-		<image>./images/Populous (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Populous (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Populous (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911001T000000</releasedate>
 		<developer>Bullfrog</developer>
@@ -305,7 +242,6 @@ Der Spieler beginnt mit nur drei Soldaten, kann aber auf andere Soldaten treffen
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003915" />
 	</game>
 	<game id="933">
 		<name>Impossible Mission</name>
@@ -314,9 +250,6 @@ Elvin Atombender zu stoppen, von dem man annimmt, dass er die Computer der natio
 
 Die Roboter, Räume und Puzzleteile werden beim erneuten Starten ausgetauscht, was einen hohen Wiederspielwert bietet.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Impossible Mission (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Impossible Mission (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Impossible Mission (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19901101T000000</releasedate>
 		<developer>Epyx</developer>
@@ -325,7 +258,6 @@ Die Roboter, Räume und Puzzleteile werden beim erneuten Starten ausgetauscht, w
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003919" />
 	</game>
 	<game id="877">
 		<name>Penguin Land</name>
@@ -337,9 +269,6 @@ Richtig, Sie sind Overbite, Kommandant einer speziellen Pinguin-Task-Force.Ihre 
 
 Aber denken Sie daran, dass Ihr Raumschiff und Ihre Crew Sie auch brauchen. Seien Sie also vorsichtig, dass Sie nicht "durchdrehen", denn mit "Ei im Gesicht" können Sie kein Held sein.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Penguin Land (USA, Europe)-image.png</image>
-		<marquee>./images/Penguin Land (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Penguin Land (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -347,15 +276,11 @@ Aber denken Sie daran, dass Ihr Raumschiff und Ihre Crew Sie auch brauchen. Seie
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003920" />
 	</game>
 	<game id="777">
 		<name>Streets of Rage II</name>
 		<desc>Nachdem Axel Stone, Blaze Fielding und Adam Hunter den bösen Anführer des Syndikats, Mr. X, vernichtet hatten, wurde die Stadt ein friedlicher Ort zum Leben, und jeder von ihnen ging seinen eigenen Weg. Ein Jahr später, nach ihrer Wiedervereinigung, kehrte Adams Bruder Sammy von der Schule zurück, um ihre Wohnung in einem Chaos vorzufinden, und Adam war nirgends zu sehen. Nachdem er seine beiden Freunde angerufen hatte, bemerkte einer von ihnen ein Foto von Adam, der an eine Wand gekettet war, neben jemandem, den sie sehr gut kannten - Mr. X, der zurückgekehrt war, um die friedliche Stadt wieder in ein Kriegsgebiet zu verwandeln. Nun müssen sich Axel, Blaze, Sammy und Axels guter Freund Max, ein Profi-Wrestler, auf den Weg machen, um Mr. X noch einmal aufzuhalten... hoffentlich für immer...</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage II (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Streets of Rage II (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage II (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19940201T000000</releasedate>
 		<developer>Japan System House</developer>
@@ -365,15 +290,11 @@ Aber denken Sie daran, dass Ihr Raumschiff und Ihre Crew Sie auch brauchen. Seie
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>11585</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003922" />
 	</game>
 	<game id="891">
 		<name>Miracle Warriors : Seal of the Dark Lord</name>
 		<desc>Miracle Warriors auf dem Master System ist ein Rollenspiel, in dem Sie die Rolle eines Kriegers spielen, der ein goldenes Siegel finden soll. Rekrutieren Sie drei Mitstreiter und reisen Sie durch die fünf magischen Welten, um das Siegel aus den Klauen des schrecklichen Terranin-Lords zu retten. Sammeln Sie während Ihres Abenteuers durch das Töten von Kreaturen Geld, um in den Dörfern verschiedene Ausrüstungsgegenstände zu kaufen.</desc>
 		<genre>Rollenspiele / Japanisches Rollenspiel</genre>
-		<image>./images/Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19881101T000000</releasedate>
 		<developer>Kogado</developer>
@@ -382,7 +303,6 @@ Aber denken Sie daran, dass Ihr Raumschiff und Ihre Crew Sie auch brauchen. Seie
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12843</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003924" />
 	</game>
 	<game id="822">
 		<name>Kenseiden</name>
@@ -390,9 +310,6 @@ Aber denken Sie daran, dass Ihr Raumschiff und Ihre Crew Sie auch brauchen. Seie
 
 Kenseiden ist ein Spiel für einen Spieler, das aus sechzehn Levels besteht. Jeder der Levels ist ein Side-Scroller, mit Bambushäusern oder feuchten, gespenstischen Höhlen als Hintergrund. In diesen Levels wird Hayato von Geistern, Skeletten und anderen Geistern des Übernatürlichen bedrängt. An seiner Seite hat er sein gebogenes Schwert, das er nach Belieben gegen die Monster schwingen kann. Wenn Hayato mit einem Monster in Berührung kommt, verliert er einige Leben.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Kenseiden (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Kenseiden (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Kenseiden (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -401,15 +318,11 @@ Kenseiden ist ein Spiel für einen Spieler, das aus sechzehn Levels besteht. Jed
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10011</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003929" />
 	</game>
 	<game id="820">
 		<name>Dragon Crystal</name>
 		<desc>Dragon Crystal ist ein Dungeon-Crawler mit RPG-Elementen, ganz im Sinne von Klassikern wie Rogue oder Nethack. Ohne sich auf eine Story zu verlassen, wirft Sie das Spiel in eine zufällig generierte Welt, die Sie sorgfältig erkunden sollten - und vor allem, in der Sie überleben müssen! Die komplexen, labyrinthartigen Levels offenbaren ihre Struktur erst, wenn Sie die entsprechenden Kartenbereiche abdecken. Ihr Ziel in jedem Level ist es, einen Teleporter zu erreichen, der Sie in das nächste bringt. Es gibt auch eine Menge zufälliger Gegenstände, die verstreut sind - Waffen, Rüstungen, Geld und Nahrung. Geld ermöglicht es Ihnen, das Spiel fortzusetzen, wenn Sie sterben, Nahrung verhindert, dass Sie verhungern. Die Feinde sind auf dem Bildschirm sichtbar, und Sie bekämpfen sie in einem schnellen, rundenbasierten Kampf, indem Sie sich bewegen und Richtungspfeile drücken, um mit der ausgerüsteten Waffe zuzuschlagen. Sie werden immer von einem Ei begleitet, das schließlich zu einem Drachen heranwächst, wenn Sie genug gelevelt haben.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Crystal (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Dragon Crystal (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Crystal (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.35</rating>
 		<releasedate>19911001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -418,16 +331,12 @@ Kenseiden ist ein Spiel für einen Spieler, das aus sechzehn Levels besteht. Jed
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>11586</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003932" />
 	</game>
 	<game id="818">
 		<name>Ultima IV : Quest of the Avatar</name>
 		<desc>An einem schönen Nachmittag legst du dich an einen Baum und döst vor dich hin, als plötzlich in deiner Nähe eine Art blaues Tor auftaucht, aus dem ein Ankh, ein Kreuz, eine Stoffkarte und zwei Bücher fallen - eines beschreibt die Welt von Britannia, das andere spricht über Magie. Als Sie wieder aufstehen, bemerken Sie ein Nomadenlager, das Sie überraschenderweise vorher nicht gesehen haben, und lassen sich zum Wohnwagen der Wahrsagerin führen, die Ihnen eine Reihe von Fragen stellt, woraufhin Sie ohnmächtig werden. Als Sie wieder aufwachen, liegt die Welt von Britannia vor Ihnen. Können Sie Ihren Wert beweisen und sich als Avatar der Tugenden würdig erweisen?
 Ultima IV bietet eine Draufsicht, mit Ausnahme der Dungeons, die aus der subjektiven Perspektive gespielt werden. Die Kampfphasen sind rundenbasiert. Britannia ist eine riesige Welt, die Sie nach Belieben durchstreifen können.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Ultima IV - Quest of the Avatar (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ultima IV - Quest of the Avatar (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ultima IV - Quest of the Avatar (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>ORIGIN Systems</developer>
@@ -437,7 +346,6 @@ Ultima IV bietet eine Draufsicht, mit Ausnahme der Dungeons, die aus der subjekt
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10032</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003936" />
 	</game>
 	<game id="18516">
 		<name>Sagaia</name>
@@ -445,9 +353,6 @@ Ultima IV bietet eine Draufsicht, mit Ausnahme der Dungeons, die aus der subjekt
 
 Darius II, oder Sagaia, wie es im Westen genannt wird, ist der zweite Teil von Taitos erster Shoot 'em up-Serie. Seine Hauptunterscheidungsmerkmale sind das nicht-lineare Level-System und die Feinde, die verschiedene Arten von Meeresfrüchten sind.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Sagaia (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sagaia (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sagaia (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Natsume</developer>
@@ -455,15 +360,11 @@ Darius II, oder Sagaia, wie es im Westen genannt wird, ist der zweite Teil von T
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003940" />
 	</game>
 	<game id="937">
 		<name>Zillion</name>
 		<desc>Sind Sie bereit für die ultimative Gefahr? Du bist allein, in der Unterzahl und es gibt keine Garantie, dass du es lebendig schaffst. Sie sind J.J. Ihr Ziel: heimlich in das unterirdische Labyrinth des Norsa-Imperiums einzudringen und ihre Pläne für die Vorherrschaft zu stehlen. Bewaffnet mit der ultraschnellen Kraft des Zillion Laser, ist Ihre Mission komplex. Und bloße Stärke allein wird diese nicht gewinnen. Sie werden bei dieser ausgeklügelten Operation mehr Köpfchen als Muskeln brauchen. Wie werden Sie sich also Ihren Weg zum Sieg denken? Mit schlauer Strategie und Gedächtnis, um Sie erfolgreich durch das Labyrinth zu führen, das Sie erwartet. Dort finden Sie die nötigen Informationen, um die Norsas zu vernichten und den Frieden für immer wiederherzustellen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Zillion (USA, Europe) (Rev 1)-image.png</image>
-		<marquee>./images/Zillion (USA, Europe) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Zillion (USA, Europe) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19871001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -473,7 +374,6 @@ Darius II, oder Sagaia, wie es im Westen genannt wird, ist der zweite Teil von T
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>10969</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003941" />
 	</game>
 	<game id="870">
 		<name>Out Run</name>
@@ -481,9 +381,6 @@ Darius II, oder Sagaia, wie es im Westen genannt wird, ist der zweite Teil von T
 
 Das Spielgeschehen wird von knapp über und hinter dem Auto betrachtet, so dass Sie es sehen können. Die Straßen sind voller scharfer Kurven und Hindernisse, bei deren Berührung der Wagen ins Schlingern geraten kann und Sie Zeit verlieren. Auf jedem Streckenabschnitt gibt es eine Weggabelung, an der Sie sich entscheiden können, in welche Richtung Sie fahren. Sie müssen insgesamt 5 Streckenabschnitte von den 15 im Spiel absolvieren.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/OutRun (World)-image.png</image>
-		<marquee>./images/OutRun (World)-marquee.png</marquee>
-		<thumbnail>./images/OutRun (World)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19871001T000000</releasedate>
 		<developer>SEGA AM2</developer>
@@ -493,7 +390,6 @@ Das Spielgeschehen wird von knapp über und hinter dem Auto betrachtet, so dass 
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10042</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003946" />
 	</game>
 	<game id="770">
 		<name>Bubble Bobble</name>
@@ -501,9 +397,6 @@ Das Spielgeschehen wird von knapp über und hinter dem Auto betrachtet, so dass 
 
 Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist. Alle Feinde müssen in einem Level besiegt werden, um zum nächsten zu gelangen. Mit einem Spieler, der Bub kontrolliert und dem anderen, der Bob kontrolliert, kann der Spieler springen und Gegenstände für Punkte (wie Obst) sammeln. Die wahre Kraft, die Bub und Bob haben, ist jedoch die Fähigkeit, Blasen zu blasen. Diese Blasen können als Plattformen dienen, auf die man springen kann, oder man kann Feinde in ihnen fangen. Auf Feinde, die in einer Blase gefangen sind, muss man springen, damit diese zu Früchten werden. Außerdem schweben manchmal Power-Ups in Blasen. Dazu gehören Blitze, die Feine horizontal treffen, und Wasser, das Spieler und Feinde direkt über Plattformen nach unten spült. Wenn Sie zu lange brauchen, um ein Level zu beenden, wird Baron Von Blubba gerufen, der auf dem Bildschirm herumschwebt und versucht, den Spieler zu zerstören.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Bubble Bobble (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Bubble Bobble (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Bubble Bobble (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19911201T000000</releasedate>
 		<developer>Taito</developer>
@@ -512,7 +405,6 @@ Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist. Al
 		<players>1-2</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003947" />
 	</game>
 	<game id="868">
 		<name>Dynamite Dux</name>
@@ -520,9 +412,6 @@ Bubble Bobble ist ein Plattformspiel, bei dem jedes Level ein Bildschirm ist. Al
 
 Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens Bin (und sein roter Kumpel Pin) ist und die Bewegungen eindeutig watschelnd aussehen. Die zu bekämpfenden Feinde stammen alle aus dem Tierreich, sind aber etwas schräg - Krokodile mit Boxmanövern und Kühe mit Raketenrucksäcken zum Beispiel. Bin muss sechs Levels bewältigen, bevor er Lucy aus den Fängen von Achacha befreien kann.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Dynamite Dux (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Dynamite Dux (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Dynamite Dux (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA AM2</developer>
@@ -532,15 +421,11 @@ Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens B
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10767</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003951" />
 	</game>
 	<game id="835">
 		<name>Power Strike</name>
 		<desc>Die Erde wird von mutierten Pflanzenwesen und ihren gehirngewaschenen menschlichen Anhängern bedroht. Nur eine Kraft kann das böse Gemüse aufhalten, Wurzeln zu schlagen: Power Strike, der vielseitigste Düsenjäger der Welt. Sprenge den Feind in der Luft und am Boden und rette den Planeten vor der schleichenden grünen Bedrohung.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Power Strike (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Power Strike (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Power Strike (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -550,30 +435,22 @@ Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens B
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10000</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003953" />
 	</game>
 	<game id="18509">
 		<name>The Ottifants</name>
 		<desc>Nichts läuft gut für Bruno, das Ottifanten-Baby. Ein Vater, der von Fremden entführt wurde! So stellt sich unser kleiner Otti vor, als er der Spur der Süßigkeiten folgt, die ihn zu seinem entführten Vater führen soll. Es ist ein gefährlicher und abenteuerlicher Weg, übersät mit furchterregendem Spielzeug, einem blutigen Keller und einem HiTech-Büro in all seinem Schrecken.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Graftgold Creative Software</developer>
 		<publisher>SEGA</publisher>
 		<players>1</players>
 		<lang>it,es,de,fr,en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T003956" />
 	</game>
 	<game id="767">
 		<name>Wonder Boy</name>
 		<desc>Durchstreifen Sie tiefe dunkle Wälder. Überqueren Sie endlose Meere. Ziehen Sie durch unendliche Wüsten. Und während der ganzen Zeit kämpfen Sie gegen bösartige Kreaturen - bis Sie sie finden. Bis Sie Ihre Freundin gerettet haben. Tanya, aus den Klauen eines grausamen Königs.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)-image.png</image>
-		<marquee>./images/Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Escape</developer>
@@ -583,15 +460,11 @@ Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens B
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10009</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T003958" />
 	</game>
 	<game id="890">
 		<name>Ayrton Senna's Super Monaco GP II</name>
 		<desc>Die Trainingssitzungen waren hart, aber Sie haben sich für das Rennen qualifiziert. Neben Ihnen in der Startaufstellung steht Ayrton Senna, dreifacher Formel-1-Weltmeister und der wagemutigste Fahrer der letzten Jahre. Das rote Licht leuchtet, und Ihr Adrenalinspiegel ist am Limit. Sie spüren ein Kribbeln im Bauch und machen sich bereit für den Start. Grünes Licht... Jetzt ist es wirklich so weit. Sie fahren mit über 300 km/h in der Königsklasse des weltweiten Motorsports. Enge Kurven, Herunterschalten und alle Emotionen von F-l in Ihren Händen. Alles mit exklusiven Tipps von unserem Champion, der direkt an der Entwicklung des Spiels mitgewirkt hat, damit die Bilder die von den Fahrern während der 16 Rennen der Meisterschaft empfundene Realität perfekt wiedergeben können.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920601T000000</releasedate>
 		<developer>SEGA</developer>
@@ -601,7 +474,6 @@ Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens B
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10039</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004002" />
 	</game>
 	<game id="806">
 		<name>Prince of Persia</name>
@@ -609,9 +481,6 @@ Dieses Spiel hebt sich jedoch dadurch ab, dass die Spielfigur eine Ente namens B
 
 Prince of Persia ist ein 2D-Plattformer mit Run-and-Jump-Gameplay. Ihr Held muss tödlichen Fallen ausweichen, einige einfache Rätsel lösen und sich Schwertkämpfe mit den Wachen liefern. Der Spieler hat unendlich viele Leben, muss aber jedes Mal, wenn er stirbt, am Anfang eines Levels neu starten und muss das Spiel innerhalb einer Stunde beenden. Ein besonders bemerkenswerter Aspekt des Spiels ist die sehr flüssige Animation der Spielfigur.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Prince of Persia (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Prince of Persia (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Prince of Persia (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921001T000000</releasedate>
 		<developer>Domark</developer>
@@ -620,7 +489,6 @@ Prince of Persia ist ein 2D-Plattformer mit Run-and-Jump-Gameplay. Ihr Held muss
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004006" />
 	</game>
 	<game id="788">
 		<name>Ninja Gaiden</name>
@@ -628,9 +496,6 @@ Prince of Persia ist ein 2D-Plattformer mit Run-and-Jump-Gameplay. Ihr Held muss
 
 Die Geschichte handelt ebenfalls vom ursprünglichen Protagonisten, dem Drachen-Ninja Ryu Hayabusa, der in das Dorf seines Clans zurückkehrt, nur um es völlig zerstört und die Bewohner ermordet vorzufinden. Ein einzelner Überlebender erzählt Ryu in seinen letzten Sekunden, dass die Heilige Schriftrolle des Bushido gestohlen wurde. Mit der Macht der Schriftrolle ist ihr Besitzer mächtig genug, die Kontrolle über die ganze Welt zu erlangen. So schwört Ryu, die Schriftrolle zurückzuerobern und die Auslöschung seines Clans zu rächen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ninja Gaiden (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ninja Gaiden (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ninja Gaiden (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Sims</developer>
@@ -640,15 +505,11 @@ Die Geschichte handelt ebenfalls vom ursprünglichen Protagonisten, dem Drachen-
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10014</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004008" />
 	</game>
 	<game id="927">
 		<name>Micro Machines</name>
 		<desc>Ein fesselndes Rennen von Miniaturfahrzeugen. Der Spieler steuert Speedboote in einer Badewanne, Autos auf Billardtischen und mehr. Das Rennen wird von oben gesehen, und um die Gegner zu überholen, müssen Sie Hindernissen wie Bleistiften und Schrauben ausweichen. Allein die Strecken sind schon ziemlich cool, und die tolle Steuerung rundet das Paket ab.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines (Europe)-image.png</image>
-		<marquee>./images/Micro Machines (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines (Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Codemasters</developer>
@@ -658,15 +519,11 @@ Die Geschichte handelt ebenfalls vom ursprünglichen Protagonisten, dem Drachen-
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>13231</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004010" />
 	</game>
 	<game id="911">
 		<name>Alien Storm</name>
 		<desc>Weltraumungeheuer, die ständig ihre Form verändern, haben Ihre Stadt übernommen. Braten Sie die schleimigen Widerlinge, und vereiteln Sie ihren Plan zur Welteroberung. Halten Sie voll drauf mit Flammenwerfern, elektrischen Peitschen und mehr!</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Alien Storm (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Alien Storm (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Alien Storm (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19911001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -674,7 +531,6 @@ Die Geschichte handelt ebenfalls vom ursprünglichen Protagonisten, dem Drachen-
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004011" />
 	</game>
 	<game id="809">
 		<name>Master of Darkness</name>
@@ -682,9 +538,6 @@ Die Geschichte handelt ebenfalls vom ursprünglichen Protagonisten, dem Drachen-
 
 Sie spielen als Psychologe, der versucht, Dracula zu besiegen. Dazu müssen Sie sich durch verschiedene gruselige Orte wie Friedhöfe, Labore, Schlösser oder ein Haus aus Wachspuppen kämpfen. Um Ihre Feinde zu besiegen, können Sie verschiedene Primär- und Sekundärwaffen einsetzen. Primärwaffen sind Nahkampfwaffen von Messern über Rapiere bis hin zu Äxten, die sich in Reichweite und Effizienz unterscheiden. Sekundärwaffen sind Fernkampfwaffen (Pistolen, Bomben usw.) mit begrenzter Munition. Das Spiel bietet 5 Runden, die in 3 Etappen unterteilt sind. Am Ende jeder Etappe muss ein Endgegner besiegt werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Master of Darkness (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Master of Darkness (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Master of Darkness (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930501T000000</releasedate>
 		<developer>Sims</developer>
@@ -693,7 +546,6 @@ Sie spielen als Psychologe, der versucht, Dracula zu besiegen. Dazu müssen Sie 
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10015</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004016" />
 	</game>
 	<game id="828">
 		<name>Die Schlümpfe</name>
@@ -701,9 +553,6 @@ Sie spielen als Psychologe, der versucht, Dracula zu besiegen. Dazu müssen Sie 
 
 In jedem Level müssen Sie fünf Sterne sammeln, um Zugang zum Bonuslevel zu erhalten. (Sie müssen die fünf Sterne nicht sammeln, um durch das Hauptlevel zu kommen) Im Bonuslevel versuchen Sie, so viele Boni wie möglich zu sammeln, bevor die Zeit abläuft. Es gibt drei Bonuslevels: "Der Damm", "Die Pilze" und "Die Schmetterlinge".</desc>
 		<genre>Plattform</genre>
-		<image>./images/Smurfs, The (Europe, Brazil) (En,Fr,De,Es)-image.png</image>
-		<marquee>./images/Smurfs, The (Europe, Brazil) (En,Fr,De,Es)-marquee.png</marquee>
-		<thumbnail>./images/Smurfs, The (Europe, Brazil) (En,Fr,De,Es)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Bit Managers</developer>
@@ -713,7 +562,6 @@ In jedem Level müssen Sie fünf Sterne sammeln, um Zugang zum Bonuslevel zu erh
 		<lang>es,de,fr,en,br</lang>
 		<region>eu</region>
 		<cheevosId>27244</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004020" />
 	</game>
 	<game id="794">
 		<name>Golden Axe Warrior</name>
@@ -721,9 +569,6 @@ In jedem Level müssen Sie fünf Sterne sammeln, um Zugang zum Bonuslevel zu erh
 
 In alten Zeiten rebellierte eine Horde von Riesen gegen die Ältesten und ein brutaler Krieg folgte. Es sah schlimm aus, bis schließlich ein Held mit der Goldenen Axt auftauchte und die Riesen zurücktrieb. Seitdem wurde das Königreich Feuerholz von einer Familie regiert, die die Macht der neun Kristalle gemeistert hatte, um alles Böse aus Feuerholz zu vertreiben. Alle lebten in Frieden, bis einer der Minister von Firewood seinen König verriet und die neun Kristalle an Death Adder, einen der bösen Riesen, verkaufte. Death Adder hat die neun Kristalle in neun Kerkern versteckt, hat Horden von Monstern entfesselt und droht, die Welt zu übernehmen. Wird es einen weiteren Helden geben, der die Goldene Axt finden und Death Adder besiegen kann?</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Golden Axe Warrior (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Golden Axe Warrior (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Golden Axe Warrior (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910501T000000</releasedate>
 		<developer>SEGA</developer>
@@ -733,7 +578,6 @@ In alten Zeiten rebellierte eine Horde von Riesen gegen die Ältesten und ein br
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10004</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004022" />
 	</game>
 	<game id="854">
 		<name>Cyborg Hunter</name>
@@ -741,9 +585,6 @@ In alten Zeiten rebellierte eine Horde von Riesen gegen die Ältesten und ein br
 
 Der Spielbildschirm ist in drei Bereiche unterteilt. Dazu gehört eine First-Person-Ansicht der Karte, in der Sie die Objekte sehen können, die auf Sie zukommen. Es gibt zwei Arten von Objekten: rote Objekte zeigen die unteren Cyborgs an, während weiße Objekte die Haupt-Cyborgs anzeigen. Daneben befindet sich eine Karte der Gegend, die Ihr Leben und Ihre psychische Kraft zählt. Darunter befindet sich der Aktionsbildschirm.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Cyborg Hunter (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Cyborg Hunter (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Cyborg Hunter (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -752,15 +593,11 @@ Der Spielbildschirm ist in drei Bereiche unterteilt. Dazu gehört eine First-Per
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10696</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004024" />
 	</game>
 	<game id="18529">
 		<name>SpellCaster</name>
 		<desc>Sie spielen als Kane, der junge Lehrling von Daikak, dem Mönch des Bergtempels. Daikak hat Sie in die Geheimnisse des Kampfes und der Magie im japanischen Mittelalter eingeweiht. Eines Tages bittet er Sie, einen Angriff zu untersuchen, der in einem nahegelegenen Tempel stattgefunden hat. Sie werden feststellen, dass es keine Überlebenden gibt. Hier beginnt das Abenteuer, denn Sie werden mit einer riesigen Verschwörung konfrontiert, die Sie aufklären müssen, sonst geht die Welt unter.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/SpellCaster (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/SpellCaster (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/SpellCaster (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -769,7 +606,6 @@ Der Spielbildschirm ist in drei Bereiche unterteilt. Dazu gehört eine First-Per
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>13233</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004032" />
 	</game>
 	<game id="832">
 		<name>After Burner</name>
@@ -777,9 +613,6 @@ Der Spielbildschirm ist in drei Bereiche unterteilt. Dazu gehört eine First-Per
 
 Das Spiel wird aus der Sicht hinter dem Flugzeug gespielt, wobei Sie eine Welle nach der anderen von feindlichen Jägern bekämpfen. Aber im Grunde bietet es die übliche Shooter-Mechanik, d.h. Sie verbringen die meiste Zeit mit Ausweichen und Schießen. Manchmal stößt man auf ein befreundetes Versorgungsflugzeug und wenn man daran andockt, kann man seine Raketen wieder auffüllen.</desc>
 		<genre>Shooter / Flugzeug, 3. Pers.</genre>
-		<image>./images/After Burner (World)-image.png</image>
-		<marquee>./images/After Burner (World)-marquee.png</marquee>
-		<thumbnail>./images/After Burner (World)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -789,7 +622,6 @@ Das Spiel wird aus der Sicht hinter dem Flugzeug gespielt, wobei Sie eine Welle 
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10051</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004037" />
 	</game>
 	<game id="957">
 		<name>Power Strike II</name>
@@ -797,9 +629,6 @@ Das Spiel wird aus der Sicht hinter dem Flugzeug gespielt, wobei Sie eine Welle 
 
 Power Strike II ist ein Top-Down-Shooter, bei dem Sie auswählen müssen, welche Waffe Sie während des Spiels verwenden möchten, und sich dann durch verschiedene Stadien kämpfen, wobei Sie sowohl Luft- als auch Bodenfeinde auf dem Weg zerstören müssen. Sie können Ihre Waffen aufrüsten, indem Sie Power-Ups sammeln, die nur durch das Abschießen bestimmter Schiffe gefunden werden können. Sie müssen den Endboss am Ende des Levels besiegen (indem Sie Teile von ihm zerstören), um zum nächsten Level zu gelangen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Power Strike II (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Power Strike II (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Power Strike II (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Compile</developer>
@@ -809,7 +638,6 @@ Power Strike II ist ein Top-Down-Shooter, bei dem Sie auswählen müssen, welche
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10045</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004041" />
 	</game>
 	<game id="765">
 		<name>Aladdin</name>
@@ -817,9 +645,6 @@ Power Strike II ist ein Top-Down-Shooter, bei dem Sie auswählen müssen, welche
 
 Wie andere Versionen ist es ein seitlich scrollendes Actionspiel. Der Spieler steuert Aladdin und bahnt sich seinen Weg durch eine Vielzahl von Schauplätzen, darunter die Straßen von Agrabah, die Höhle der Wunder, den Palast des Sultans und mehr. Das Gameplay nimmt verschiedene Formen an: Einige Levels sind Verfolgungsjagden, bei denen Aladdin automatisch läuft, aber über Abgründe oder rollende Felsen und Fässer springen, herabfallenden Objekten ausweichen und vermeiden muss, von einer Wache erwischt zu werden. Andere Levels sind Platforming-Angelegenheiten: Aladdin muss laufen, springen und klettern, Schlüssel oder Schalter finden, um Türen zu öffnen, während er nach dem Ausgang sucht. Steine können eingesammelt und geworfen werden, um Feinde auszuschalten oder Knöpfe zu treffen, die sonst unerreichbar wären. Schließlich gibt es im Spiel auch mehrere Fahrten mit dem fliegenden Teppich, bei denen der Level automatisch rollt und der Spieler darauf achten muss, dass er alle Hindernisse im Weg umgeht.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Aladdin (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Aladdin (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Aladdin (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19940401T000000</releasedate>
 		<developer>Disney Software</developer>
@@ -829,15 +654,11 @@ Wie andere Versionen ist es ein seitlich scrollendes Actionspiel. Der Spieler st
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10016</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004042" />
 	</game>
 	<game id="774">
 		<name>Wonder Boy in Monster World</name>
 		<desc>Monster World war ein friedlicher, glücklicher Ort, bis eines dunklen Tages eine Armee von BioMeka-Monstern einfiel. Als junger Mann namens Shion haben Sie geschworen, die feindlichen Feinde zu besiegen und das Land wieder friedlich zu machen. Sie werden die Feinde mit Schwertern und Speeren angreifen und sich mit Schilden und Rüstungen gegen eindringende Geschosse schützen. Während Sie durch die vielen verschiedenen Regionen der Monsterwelt reisen, werden Sie mit den Stadtbewohnern sprechen, Geld für den Kauf von Gegenständen sammeln und eine große Auswahl an Waffen und Magie sammeln. Je weiter Sie sich vorwagen, desto mächtiger werden Ihre Waffen und Ihre Ausrüstung, einschließlich Rüstungen und Stiefel, werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy in Monster World (Europe)-image.png</image>
-		<marquee>./images/Wonder Boy in Monster World (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy in Monster World (Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Shimada Kikaku</developer>
@@ -847,7 +668,6 @@ Wie andere Versionen ist es ein seitlich scrollendes Actionspiel. Der Spieler st
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>10776</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004044" />
 	</game>
 	<game id="771">
 		<name>Land of Illusion Starring Mickey Mouse</name>
@@ -855,9 +675,6 @@ Wie andere Versionen ist es ein seitlich scrollendes Actionspiel. Der Spieler st
 
 Dies ist ein Plattform-Jump-and-Run-Spiel. Für jedes Level gibt es ein Zeitlimit. Mickey kann springen, sich ducken, klettern und Feinde besiegen, indem er auf sie springt und gleichzeitig den Pfeil nach unten drückt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930601T000000</releasedate>
 		<developer>SEGA</developer>
@@ -867,7 +684,6 @@ Dies ist ein Plattform-Jump-and-Run-Spiel. Für jedes Level gibt es ein Zeitlimi
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10013</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004048" />
 	</game>
 	<game id="862">
 		<name>Golvellius : Valley of Doom</name>
@@ -875,9 +691,6 @@ Dies ist ein Plattform-Jump-and-Run-Spiel. Für jedes Level gibt es ein Zeitlimi
 
 In diesem Spiel gibt es eine Passwort-Speicherfunktion. Zu Beginn jedes Gebiets kannst du eine Höhle betreten, in der dir eine Frau das Passwort sagt. Wenn du im Laufe deiner Suche stirbst, wird das Passwort bereits enthüllt. Wenn du dieses Passwort eingibst, kannst du das Spiel von der Öffnung des Tals (wenn du so weit kommst) mit all deinen Besitztümern beginnen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Golvellius - Valley of Doom (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Golvellius - Valley of Doom (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Golvellius - Valley of Doom (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Compile</developer>
@@ -886,16 +699,12 @@ In diesem Spiel gibt es eine Passwort-Speicherfunktion. Zu Beginn jedes Gebiets 
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10001</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004053" />
 	</game>
 	<game id="785">
 		<name>Psycho Fox</name>
 		<desc>Psycho Fox ist ein Plattformspiel, in dem Sie einen Fuchs spielen und durch sieben Welten gelangen müssen, die jeweils aus drei Bereichen bestehen. Am Ende jeder Welt wartet einer von sieben Bossen darauf, Sie zu vernichten, aber einige der späteren Bosse sind genau die gleichen wie die früheren. Der Titel ist ein wenig irreführend, denn Sie können auch als drei andere Charaktere spielen, darunter Hippo, Leopard und Monkey Boy. Jeder Charakter hat seine eigenen Nachteile. Zum Beispiel ist Hippo viel langsamer als die anderen drei. Eines haben jedoch alle Charaktere gemeinsam: Sie können ihre Fäuste benutzen und auf Gegner einschlagen, wenn sie sich ihnen nähern. Sie können auch auf sie springen und sie so lange in den Boden stoßen, bis sie vom Erdboden verschwinden. Wenn sie sie nicht verschwinden lassen, tauchen sie wieder auf und machen sich auf den Weg, um sich zu rächen. In jedem Gebiet sind Hindernisse verstreut, darunter Stacheln, Kanonenkugeln, Eskulatoren, Feuerbälle und Dampf.
 </desc>
 		<genre>Plattform</genre>
-		<image>./images/Psycho Fox (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Psycho Fox (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Psycho Fox (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Vic Tokai</developer>
@@ -904,16 +713,12 @@ In diesem Spiel gibt es eine Passwort-Speicherfunktion. Zu Beginn jedes Gebiets 
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10046</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004054" />
 	</game>
 	<game id="764">
 		<name>Wonder Boy in Monster Land</name>
 		<desc>Nachdem der böse König besiegt wurde, glich das Königreich Wonder Land einem Paradies - für eine Weile. Der Frieden fand sein jähes Ende, als ein grausamer, feuerspeiender Drache ohne Vorwarnung zuschlug und Wonder Land mit einem Schwarm bösartiger, monströser Handlanger einnahm, wodurch das einst friedliche Land in ein heilloses Chaos gestürzt und zu Monster Land wurde. Die wehrlosen Bewohner blickten zu Wonder Boy. Er merkte, dass er die letzte Hoffnung für Wonder Land war, und so brach Wonder Boy zu einer unglaublichen Reise auf, um das Land von den Monstern zu befreien und den "unverwundbaren" bösen Drachen ein für alle Mal zu besiegen.
 Führe Wonder Boy durch verschiedene Gebiete, Verliese und besiege Gegner mit speziellen Waffen und Zaubersprüchen im Laufe deiner Reise!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy in Monster Land (USA, Europe)-image.png</image>
-		<marquee>./images/Wonder Boy in Monster Land (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy in Monster Land (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -923,7 +728,6 @@ Führe Wonder Boy durch verschiedene Gebiete, Verliese und besiege Gegner mit sp
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>10777</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004100" />
 	</game>
 	<game id="780">
 		<name>Lemmings</name>
@@ -931,9 +735,6 @@ Führe Wonder Boy durch verschiedene Gebiete, Verliese und besiege Gegner mit sp
 
 Sie steuern keinen einzelnen Lemming, sondern ein Fadenkreuz, das Sie über jeden der Lemminge bewegen können. Am unteren Rand des Fadenkreuzes befinden sich verschiedene Funktionen, die einem Lemming zugewiesen werden können, wie z.B. Klettern, Schweben und Schlagen. Sie müssen klicken, um die entsprechende Funktion auszuwählen, und dann auf den Lemming klicken, um sie zu aktivieren. Jeder Level hat eine andere Auswahl an Fähigkeiten, eine andere Anzahl an Lemmings und ein anderes prozentuales Ziel, um voranzukommen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Lemmings (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Lemmings (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Lemmings (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -943,15 +744,11 @@ Sie steuern keinen einzelnen Lemming, sondern ein Fadenkreuz, das Sie über jede
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10711</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004101" />
 	</game>
 	<game id="756">
 		<name>Sonic The Hedgehog 2</name>
 		<desc>Lassen Sie Sonic, den schnellsten blauen Igel der Erde, durch atemberaubende Schleifen und schwindelerregende Stürze, über brodelnde Lava, Wasserfälle und unzählige Hindernisse schweben. Sammeln Sie Ringe und stoppen Sie Dr. Eggman bei seinen Plänen zur Weltherrschaft im Jump'n'Run-Spiel Sonic the Hedgehog auf der virtuellen Konsole.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19921101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -961,7 +758,6 @@ Sie steuern keinen einzelnen Lemming, sondern ein Fadenkreuz, das Sie über jede
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>9997</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004103" />
 	</game>
 	<game id="759">
 		<name>Castle of Illusion Starring Mickey Mouse</name>
@@ -971,9 +767,6 @@ Um seine Freundin Minnie vor der bösen Hexe Mizrabel zu retten, muss sich Micke
 
 Jeder Level bietet einzigartige Hindernisse, Feinde und einen Endboss. Die Feinde können besiegt werden, indem man auf sie draufspringt. Eine alternative Möglichkeit besteht darin, herumliegende Objekte aufzusammeln (wie Steine im Wald oder blaue Bälle im Spielzeuglevel) und sie auf die Feinde zu werfen. Mickeys Fähigkeit, Dinge aufzuheben und herumzutragen, führt auch zu einem puzzleorientierten Gameplay. Indem er Objekte an der richtigen Stelle platziert und von ihnen abspringt, kann er in Bereiche gelangen, die sonst unerreichbar wären. In einigen Levels muss er auch Schlüssel sammeln, um Türen zu öffnen. Ein einzigartiger Objekttyp ist die Schatztruhe - wenn Mickey auf eine solche springt oder sie wirft, erhält er Zugang zu ihrem Inhalt, der zusätzliche Leben, ein Gesundheits-Power-Up oder Münzen enthalten kann, die er für Punkte einsammelt.</desc>
 		<genre>Plattform / Jump 'n' Run Scrolling</genre>
-		<image>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)-image.png</image>
-		<marquee>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -982,15 +775,11 @@ Jeder Level bietet einzigartige Hindernisse, Feinde und einen Endboss. Die Feind
 		<players>1</players>
 		<lang>br,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004105" />
 	</game>
 	<game id="839">
 		<name>Rastan</name>
 		<desc>Reisen Sie in die dunklen Lande von Semia, wo sich kein Mensch hinwagt. Eine Prinzessin ist entführt worden. Wenn Sie sie retten, ist unermeßlicher Reichtum Ihre Belohnung. Sie sind jedoch ein Barbar... ein Meister der blanken Waffe! Und wer bestimmt tatsächlich Ihr Schicksal?</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Rastan (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Rastan (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Rastan (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Taito</developer>
@@ -1000,15 +789,11 @@ Jeder Level bietet einzigartige Hindernisse, Feinde und einen Endboss. Die Feind
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10898</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004109" />
 	</game>
 	<game id="781">
 		<name>The Lucky Dime Caper Starring Donald Duck</name>
 		<desc>Die böse Zauberin Magica De Spell hat die Glückstaler gestohlen und Tick, Trick und Track entführt! Begleiten Sie Donald au seinen Weg durch sechs gefahrvolle Länder, um seine Neffen zu retten und die Glückstaler zurückzuholen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1018,7 +803,6 @@ Jeder Level bietet einzigartige Hindernisse, Feinde und einen Endboss. Die Feind
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10714</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004110" />
 	</game>
 	<game id="888">
 		<name>Danan : The Jungle Fighter</name>
@@ -1026,9 +810,6 @@ Jeder Level bietet einzigartige Hindernisse, Feinde und einen Endboss. Die Feind
 
 Eines Tages kehrte Danan von seiner morgendlichen Jagd zurück, als er Jimba tot auffand. Jimbas letzte Worte rieten Danan, einen alten Propheten aufzusuchen, denn eine Sekte plant, einen alten Dämon namens Gilbas wieder auferstehen zu lassen. Nun soll Danan den Tod des alten Jimba rächen und verhindern, dass dieser mächtige Dämon wieder zum Leben erwacht. Dazu muss der Krieger den Wald auf der Suche nach dem Tempel durchqueren, in dem die Sekte Gilbas lebt.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Danan - The Jungle Fighter (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Danan - The Jungle Fighter (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Danan - The Jungle Fighter (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1037,15 +818,11 @@ Eines Tages kehrte Danan von seiner morgendlichen Jagd zurück, als er Jimba tot
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10556</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004114" />
 	</game>
 	<game id="814">
 		<name>R-Type</name>
 		<desc>R-TYPE – einer der beliebtesten Arcade-Shooter aller Zeiten in einer pixelgenauen Umsetzung! Zerstörte POW-Kapseln setzen eines von sechs verschiedenen Extra-Items zum Aufrüsten des eigenen R-9-Jägers frei. Die Force, ein hoch entwickeltes Angriffsmodul, ist ein unerlässliches Hilfsmittel im Kampf gegen die außerirdische Bedrohung: Geschickte Piloten koppeln sie von ihrem R-9 ab und schicken sie auf Gegnerjagd oder bestücken sie mit zahlreichen Extrawaffen wie Reflektor-Laser, Luft-Boden- oder Flugabwehrraketen. Ein längerer Druck auf den Feuerknopf aktiviert die Beam-Kanone: Wer es schafft, diese mächtige Wunderwaffe lange genug aufzuladen, entfesselt einen Energiestoß, in dem jeder Widerstand verglüht! Die unbestrittenen Höhepunkte dieses Meisterwerks sind die bildschirmfüllenden Endgegner und der legendäre dritte Level, in dem der Spieler allein gegen ein monströses Schlachtschiff bestehen muss.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/R-Type (World)-image.png</image>
-		<marquee>./images/R-Type (World)-marquee.png</marquee>
-		<thumbnail>./images/R-Type (World)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19881201T000000</releasedate>
 		<developer>Compile</developer>
@@ -1055,15 +832,11 @@ Eines Tages kehrte Danan von seiner morgendlichen Jagd zurück, als er Jimba tot
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10058</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004119" />
 	</game>
 	<game id="758">
 		<name>Wonder Boy III : The Dragon's Trap</name>
 		<desc>Wonder Boy ist verflucht worden! Wonder Boy hat das häßliche Biest tödlich verwundet, aber der letzte Atem des MEKA-Drachens hat Wonder Boy in einen Eidechsenmann verwandelt! Der junge Recks muß nun das Salamanderkreuz suchen, da dies die einzige Möglichkeit bietet, wieder zu einem normalen Menschen zu werden. Zuerst muß er es aber finden...</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy III - The Dragon's Trap (USA, Europe)-image.png</image>
-		<marquee>./images/Wonder Boy III - The Dragon's Trap (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy III - The Dragon's Trap (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Westone</developer>
@@ -1073,7 +846,6 @@ Eines Tages kehrte Danan von seiner morgendlichen Jagd zurück, als er Jimba tot
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>10007</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004124" />
 	</game>
 	<game id="768">
 		<name>Phantasy Star</name>
@@ -1081,9 +853,6 @@ Eines Tages kehrte Danan von seiner morgendlichen Jagd zurück, als er Jimba tot
 
 Dieses Spiel ist der allererste Teil der langlebigen Phantasy Star-Serie. Es ist ein futuristisches RPG, das ein rundenbasiertes Kampfsystem (aus der Ego-Perspektive) verwendet. Ein ungewöhnliches Merkmal dieses Spiels ist, dass einige Orte auch aus der Ego-Perspektive betrachtet werden können. Sie können diese Orte erkunden, indem Sie sich vorwärts oder rückwärts bewegen, und die Umgebungen sind in Pseudo-3D.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Phantasy Star (USA, Europe) (Rev A)-image.png</image>
-		<marquee>./images/Phantasy Star (USA, Europe) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Phantasy Star (USA, Europe) (Rev A)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1093,15 +862,11 @@ Dieses Spiel ist der allererste Teil der langlebigen Phantasy Star-Serie. Es ist
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>9999</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004131" />
 	</game>
 	<game id="810">
 		<name>Ghouls'n Ghosts</name>
 		<desc>Ghouls'n Ghost auf dem Master-System ist ein Actionspiel, das in einem mittelalterlichen Universum spielt. Die Geschichte beginnt, als Geister das Königreich angreifen und die Freundin des Ritters Arthur gefangen nehmen. Spielen Sie als er und gehen Sie auf einen Kreuzzug gegen die Invasoren, bevor sie seine Liebste opfern, um einen furchterregenden Dämon wiederzuerwecken.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ghouls'n Ghosts (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ghouls'n Ghosts (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ghouls'n Ghosts (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910401T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1111,16 +876,12 @@ Dieses Spiel ist der allererste Teil der langlebigen Phantasy Star-Serie. Es ist
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10889</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004132" />
 	</game>
 	<game id="871">
 		<name>Strider</name>
 		<desc>Sie spielen Hiryu, ein Mitglied der Bruderschaft der Striders, einer Art Ritterorden der Neuzeit, der gegen den finsteren "Grand Master Meio" kämpft, der die Weltherrschaft an sich reißen will. Nachdem Ihre Bruderschaft dezimiert wurde, sind Sie einer der wenigen noch lebenden Striders, die Rache fordern. Das Spiel ist als Jump'n'Run-Spiel konzipiert. Mit Ihrem Lichtschwert (Cypher) bewaffnet, müssen Sie in den verschiedenen Levels, die von der Sowjetunion bis zum Urwald reichen, zahlreiche Gegner ausschalten.  Sie können sich auch mit einem Metallhaken an den Wänden festhalten.
 Gelegentlich können Sie durch das Zerstören von Kapseln Boni erhalten, mit denen Sie die Reichweite Ihres Schwertes vergrößern oder von einem kleinen Roboter begleitet werden können, der Ihre Feinde vernichtet. Die Bewegungen des Spielers, der seine Waffe zieht oder durch die Luft springt, sind spektakulär.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Strider (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Strider (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Strider (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>Tiertex</developer>
@@ -1129,7 +890,6 @@ Gelegentlich können Sie durch das Zerstören von Kapseln Boni erhalten, mit den
 		<players>1</players>
 		<lang>br,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004134" />
 	</game>
 	<game id="992">
 		<name>Sensible Soccer : European Champions</name>
@@ -1137,9 +897,6 @@ Gelegentlich können Sie durch das Zerstören von Kapseln Boni erhalten, mit den
 
 Das Spiel wurde in einer Reihe von Bereichen aufgeräumt und verändert. Die bedeutendste Änderung ist die Einführung von roten und gelben Karten für die Disziplin (2 gelbe Karten oder ein "Profi-Foul" (Vereiteln einer klaren Torchance des Gegners) führen zu einem Platzverweis für den betreffenden Spieler). Die Torhüter wurden in ihren Fähigkeiten verbessert, und das WM-Qualifikationsturnier 1994 wurde hinzugefügt.</desc>
 		<genre>Sport / Fußball</genre>
-		<image>./images/Sensible Soccer (Europe)-image.png</image>
-		<marquee>./images/Sensible Soccer (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Sensible Soccer (Europe)-thumb.png</thumbnail>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Eurocom</developer>
 		<publisher>Sony Imagesoft</publisher>
@@ -1147,7 +904,6 @@ Das Spiel wurde in einer Reihe von Bereichen aufgeräumt und verändert. Die bed
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004137" />
 	</game>
 	<game id="766">
 		<name>Mortal Kombat II</name>
@@ -1155,9 +911,6 @@ Das Spiel wurde in einer Reihe von Bereichen aufgeräumt und verändert. Die bed
 
 Um das Hauptturnier zu gewinnen, muss der Spieler jeden anderen menschlichen Spieler schlagen, bevor er gegen Shang Tsung, Kintaro und schließlich gegen Shao Kahn antritt. Den Spielern stehen eine Reihe von Schlägen und Tritten sowie fliegende Tritte, Oberschnitte, Roundhouses und Spezialbewegungen zur Verfügung, die für jeden Spieler unterschiedlich sind. Dazu gehören Würfe, Uppercuts, Langstreckengeschosse, Fahrradtritte und eine Teleport-Funktion.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Mortal Kombat II (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Mortal Kombat II (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat II (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -1167,7 +920,6 @@ Um das Hauptturnier zu gewinnen, muss der Spieler jeden anderen menschlichen Spi
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10738</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004142" />
 	</game>
 	<game id="773">
 		<name>Streets of Rage</name>
@@ -1175,9 +927,6 @@ Um das Hauptturnier zu gewinnen, muss der Spieler jeden anderen menschlichen Spi
 
 Das Gameplay ist geradlinig und einfach. Drei Tasten werden verwendet, eine zum Springen, eine zum Angreifen und eine weitere, um einen Fernangriff aus einem unterstützenden Polizeiauto auszuführen. Jeder Charakter hat eine begrenzte Anzahl von Bewegungen, die Schläge und Tritte oder einen Angriff von hinten (wenn er im Freien steht), zwei Greifbewegungen (je nachdem, ob man den Gegner vorne oder am Rücken festhält), einen Flugangriff und, wenn man mit einem anderen Spieler spielt, zwei zusätzliche Tag-Attacken und verschiedene Fähigkeiten umfassen: Adam ist langsam, aber ein guter Springer und ein harter Schläger, Axel schnell und ebenfalls ein harter Schläger, aber ein lausiger Springer und Blaze schnell und ein guter Springer, aber ein schwacher Schläger.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Streets of Rage (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19930607T000000</releasedate>
 		<developer>Ancient</developer>
@@ -1187,7 +936,6 @@ Das Gameplay ist geradlinig und einfach. Drei Tasten werden verwendet, eine zum 
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>14622</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004143" />
 	</game>
 	<game id="848">
 		<name>Fantasy Zone II</name>
@@ -1195,9 +943,6 @@ Das Gameplay ist geradlinig und einfach. Drei Tasten werden verwendet, eine zum 
 
 Meistens werden einige große Kreaturen eher ein Warptor als einen Dollarschein offenbaren. Sie können durch das Warp-Tor gehen, um in einen anderen Teil des Landes zu gelangen und weitere große Kreaturen zu zerstören. Nur einer von ihnen wird ein Warptor in Form eines "Stopp"-Schildes haben - das ist Ihr Ticket zum runden Boss, aber Sie müssen alle großen Kreaturen besiegen, um es zu passieren. Auch wie im Original können Sie auf dem Boden laufen, um herannahenden Feinden auszuweichen, und im Shop Geld ausgeben, um neue Waffen zu bekommen (die aber nur für eine begrenzte Zeit halten).</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Fantasy Zone II (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Fantasy Zone II (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Fantasy Zone II (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1207,7 +952,6 @@ Meistens werden einige große Kreaturen eher ein Warptor als einen Dollarschein 
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10191</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004148" />
 	</game>
 	<game id="761">
 		<name>Shinobi</name>
@@ -1217,9 +961,6 @@ Jeder Level ist in kleinere Szenen unterteilt und die Geiseln werden von großen
 
 Wenn Sie das Ende eines jeden Levels erreichen, müssen Sie gegen einen Endgegner antreten. Diese reichen von acht Fuß großen Riesen bis hin zu Hubschrauber-Kanonenschiffen.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Shinobi (USA, Europe, Brazil) (En) (Rev 1)-image.png</image>
-		<marquee>./images/Shinobi (USA, Europe, Brazil) (En) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Shinobi (USA, Europe, Brazil) (En) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1229,7 +970,6 @@ Wenn Sie das Ende eines jeden Levels erreichen, müssen Sie gegen einen Endgegne
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10034</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004153" />
 	</game>
 	<game id="786">
 		<name>The Jungle Book</name>
@@ -1239,9 +979,6 @@ Der Spieler steuert Mowgli auf seiner Reise zum Menschendorf. Mowgli schwingt si
 
 Das Ziel eines jeden der 10 zeitlich begrenzten Levels (oder "Szenen") ist es, Edelsteine zu sammeln, die in ihnen verstreut sind. Das Sammeln bestimmter Mengen von Edelsteinen gewährt Zugang zu Bonuslevels. Der Spieler beginnt das Spiel mit 4 Leben und 1 Fortsetzung.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Jungle Book, The (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Jungle Book, The (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Jungle Book, The (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Syrox Developments</developer>
@@ -1250,15 +987,11 @@ Das Ziel eines jeden der 10 zeitlich begrenzten Levels (oder "Szenen") ist es, E
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T004157" />
 	</game>
 	<game id="775">
 		<name>Sonic Chaos</name>
 		<desc>Dr. Robotnik hat den Roten Chaos-Edelstein gestohlen, und Sonic The Hedgehog muß ihn zurückerobern! Rasen sie als Sonic oder "Tails", der zweischwänzige Fuchs, durch die Zonen, und gebrauchen Sie Ihre Beweglichkeit und ihr helles Köpfchen, um Ringe zu sammeln und Robotniks neuesten Badniks zu entwischen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic Chaos (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic Chaos (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Chaos (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19931025T000000</releasedate>
 		<developer>Aspect</developer>
@@ -1268,7 +1001,6 @@ Das Ziel eines jeden der 10 zeitlich begrenzten Levels (oder "Szenen") ist es, E
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10010</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004159" />
 	</game>
 	<game id="840">
 		<name>California Games</name>
@@ -1276,9 +1008,6 @@ Das Ziel eines jeden der 10 zeitlich begrenzten Levels (oder "Szenen") ist es, E
 
 Gestartet wird in Hollywood. Mit dem Skateboard muss sich der Spieler mit waghalsigen Manövern in der Halfpipe beweisen. Anschließend geht die Reise nach San Francisco. Bei der Trendsportart Footbag geht es darum, einen kleinen Ball mit allen Körperteilen, außer den Händen, in der Luft zu halten. Als nächstes reist man an die Strände Kaliforniens. Beim Rollschuhlaufen durchquert man einen aufregenden Hinderniskurs. Es folgt die Königsdisziplin aller Strandwettkämpfe – das Wellenreiten. Auf der Suche nach der perfekten Welle gleitet der Spieler mit dem Surfbrett auf der Welle entlang. In der nächsten Disziplin zeigt man auf dem BMX-Rad Kunststücke im Geländekurs. Der letzte Wettkampf ist Frisbie-Werfen (und -Fangen) und findet im schönen Yosemite statt.</desc>
 		<genre>Sport / Multisport</genre>
-		<image>./images/California Games (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/California Games (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/California Games (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Epyx</developer>
@@ -1288,7 +1017,6 @@ Gestartet wird in Hollywood. Mit dem Skateboard muss sich der Spieler mit waghal
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10691</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T004201" />
 	</game>
 	<game id="808">
 		<name>Alex Kidd : The Lost Stars</name>
@@ -1296,9 +1024,6 @@ Gestartet wird in Hollywood. Mit dem Skateboard muss sich der Spieler mit waghal
 
 Alex muss sich dann ins Weltall wagen, um die böse Ziggurat zu besiegen. Zu den Schauplätzen gehören die Toy World, die Machine World, die World of Make Believe, die Water World und die Monster World. Sie werden sogar durch den Körper des Riesen reisen. Sobald Sie die sechs Wunderkugeln erhalten haben, müssen Sie alle Schauplätze erneut durchlaufen, aber diese wiederholten Schauplätze führen neue Gegner ein.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Alex Kidd - The Lost Stars (World)-image.png</image>
-		<marquee>./images/Alex Kidd - The Lost Stars (World)-marquee.png</marquee>
-		<thumbnail>./images/Alex Kidd - The Lost Stars (World)-thumb.png</thumbnail>
 		<rating>0.35</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1308,7 +1033,6 @@ Alex muss sich dann ins Weltall wagen, um die böse Ziggurat zu besiegen. Zu den
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10044</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102303" />
 	</game>
 	<game id="834">
 		<name>Aztec Adventure : The Golden Road to Paradise</name>
@@ -1318,9 +1042,6 @@ Das Labyrinth ist voll von Kreaturen aus der aztekischen Mythologie und anderen 
 
 Obwohl es ein Labyrinth-Spiel ist, ist die Steuerung sehr einfach und leicht zu handhaben.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Aztec Adventure (World)-image.png</image>
-		<marquee>./images/Aztec Adventure (World)-marquee.png</marquee>
-		<thumbnail>./images/Aztec Adventure (World)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19880301T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1329,7 +1050,6 @@ Obwohl es ein Labyrinth-Spiel ist, ist die Steuerung sehr einfach und leicht zu 
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>11559</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102305" />
 	</game>
 	<game id="838">
 		<name>Choplifter</name>
@@ -1337,9 +1057,6 @@ Obwohl es ein Labyrinth-Spiel ist, ist die Steuerung sehr einfach und leicht zu 
 
 Ursprünglich für Apple II Heimcomputer veröffentlicht, wurde Choplifter später in die Spielhallen und auf eine Reihe von Videospielkonsolen portiert. Viele Nachahmer und Hommagen sollten folgen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Choplifter (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Choplifter (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Choplifter (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19870801T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1349,7 +1066,6 @@ Ursprünglich für Apple II Heimcomputer veröffentlicht, wurde Choplifter spät
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10020</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102310" />
 	</game>
 	<game id="852">
 		<name>Alien Syndrome</name>
@@ -1359,9 +1075,6 @@ Ihre Aufgabe ist es, herumzulaufen und alle Gefangenen zu retten und es zur Fluc
 
 Sie können als Einzelspieler oder zu zweit spielen und sich dabei abwechseln. (Spieler 2 beginnt das Spiel, wenn Spieler 1 stirbt und umgekehrt).</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Alien Syndrome (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Alien Syndrome (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Alien Syndrome (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19880101T000000</releasedate>
 		<developer>Sanritsu Denki</developer>
@@ -1370,15 +1083,11 @@ Sie können als Einzelspieler oder zu zweit spielen und sich dabei abwechseln. (
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10747</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102311" />
 	</game>
 	<game id="856">
 		<name>Sonic Blast</name>
 		<desc>Sonic Blast wurde für den Game Gear zusammen mit Sonic 3D Blast (aka Sonic 3D: Flickies' Island) für Genesis/MD und Saturn veröffentlicht. Es verfügte über ähnlich gerenderte Charakter-Sprites und bunte Hintergründe. Das Spiel war eine weitere Ergänzung der Serie und Sega hatte gehofft, dass es die Titelauswahl des sterbenden Game Gear zu dieser Zeit ankurbeln würde. Das brasilianische Unternehmen TecToy veröffentlichte das Spiel 1997, ein Jahr nach der Erstveröffentlichung, erneut für das Sega Master System.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic Blast (Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic Blast (Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Blast (Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19970101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -1388,7 +1097,6 @@ Sie können als Einzelspieler oder zu zweit spielen und sich dabei abwechseln. (
 		<lang>en,br</lang>
 		<region>br</region>
 		<cheevosId>10736</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102315" />
 	</game>
 	<game id="851">
 		<name>Gauntlet</name>
@@ -1398,9 +1106,6 @@ Dabei hat man die Wahl zwischen vier Charakteren, die jeweils über unterschiedl
 
 Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde strömen aus Generatoren, also zerstören Sie diese, bevor Sie den Rest in Angriff nehmen.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Gauntlet (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Gauntlet (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Gauntlet (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19901101T000000</releasedate>
 		<developer>Tiertex</developer>
@@ -1409,15 +1114,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<players>1-2</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102318" />
 	</game>
 	<game id="941">
 		<name>Renegade</name>
 		<desc>Dies ist die Umsetzung von Taitos scrollendem Beat 'em up, von dem später die inoffiziellen Fortsetzungen Target: Renegade und Renegade III: The Final Chapter. Das Spiel spielt in den gemeinen Straßen von Brooklyn, durch die Sie sich wagen müssen, um Ihre Freundin zu treffen und sie dann vor ihren Entführern zu retten. Dies ist in fünf Levels aufgeteilt, die Sie durch die U-Bahn und die Docks sowie durch einige unwirtliche Straßen führen. Es wird eine breite Palette an aggressiven Moves geboten, darunter Kopfstöße, Tritte, Schläge und fliegende Tritte. Ein Großteil der Gewalt im Spiel wird in einem ziemlich augenzwinkernden Stil dargestellt, mit einem Element des versuchten Humors auf dem Weg.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Renegade (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Renegade (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Renegade (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Natsume</developer>
@@ -1425,15 +1126,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<players>1-2</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102320" />
 	</game>
 	<game id="849">
 		<name>Thunder Blade</name>
 		<desc>Thunder Blade auf dem Master System ist ein Shoot'em Up, in dem Sie die Kontrolle über einen Kampfhubschrauber übernehmen. Es werden zwei Arten von Levels angeboten, klassisch in der Draufsicht oder innovativer in der Third-Person-Ansicht. Wenn sich der Kamerawinkel ändert, bleibt das Ziel dasselbe, nämlich alles zu vernichten, was sich Ihnen in den Weg stellt.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Thunder Blade (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Thunder Blade (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Thunder Blade (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19881105T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1442,15 +1139,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<players>1</players>
 		<lang>br,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102324" />
 	</game>
 	<game id="833">
 		<name>Ghost House</name>
 		<desc>Ghost House auf dem Master System ist ein Plattformspiel, das, wie der Name schon sagt, in einem Spukhaus spielt. Der Held namens Nick ist dabei, einige unbezahlbare Juwelen zu erben, aber er muss sie finden. Tatsächlich werden sie in einem Haus mit allen möglichen Kreaturen versteckt, eine furchterregender als die andere.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ghost House (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ghost House (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ghost House (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19870801T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1458,15 +1151,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<players>1-2</players>
 		<lang>br,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102329" />
 	</game>
 	<game id="795">
 		<name>Astérix and the Great Rescue</name>
 		<desc>Der Druide Miraculix und Idefix sind von den Römern entführt worden. Benutzen Sie Zaubertränke um Asterix und Obelix zu helfen, sich durch 5 Level bis nach Rom vorzukämpfen, um ihre Freunde aus Cäsars Fängen zu befreien.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Core Design</developer>
@@ -1476,15 +1165,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>it,es,de,fr,en,br</lang>
 		<region>eu</region>
 		<cheevosId>10751</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102334" />
 	</game>
 	<game id="998">
 		<name>Quartet</name>
 		<desc>Ihre Aufgabe ist es, den Endboss des Levels zu finden und ihn zu besiegen, um den Schlüssel zu erhalten, der den Levelausgang öffnet, aber Ihre Aufgabe wird durch die Bewohner des Planeten erschwert. Holen Sie sich das Jet-Pack, um die Navigation im Level zu erleichtern und schießen Sie alle Bewohner ab, die Ihnen in die Quere kommen. Diese Bewohner hinterlassen etwas, das Sie bekommen können, um Ihre Punktzahl zu erhöhen, und die Bewohner regenerieren sich schließlich. Wenn einer von ihnen Sie berührt, während Sie das Jet-Pack haben, landen Sie auf dem Boden oder der nächsten Plattform und müssen es erneut holen; und die gleiche Regel gilt für den Schlüssel.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Quartet (USA, Europe)-image.png</image>
-		<marquee>./images/Quartet (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Quartet (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1493,15 +1178,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>10035</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102335" />
 	</game>
 	<game id="821">
 		<name>Black Belt</name>
 		<desc>Die Geschichte spielt in den 1990er Jahren auf einem durch einen Atomkrieg verwüsteten Land. In diesem postapokalyptischen Ödland spielen Sie einen Hokuto Shinken-Meister namens Kenshiro, alias Ken. Ihre Verlobte wurde von Raoh, Ihrem Adoptivbruder, entführt, und um sie zu retten, müssen Sie sich durch eine unerbittliche Armee von Feinden kämpfen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Black Belt (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Black Belt (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Black Belt (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19870801T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1511,15 +1192,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10757</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102341" />
 	</game>
 	<game id="915">
 		<name>Zillion II : The Tri Formation</name>
 		<desc>In dem Action-/Plattformspiel Zillion II: The Tri Formation für das Master System greift das gefürchtete Norva-Imperium erneut an, bedrohlicher denn je. Gehen Sie zurück zum Angriff, aber dieses Mal wartet Baron Ricks auf Sie. Werden Sie der Aufgabe ein zweites Mal gewachsen sein?</desc>
 		<genre>Plattform</genre>
-		<image>./images/Zillion II - The Tri Formation (World)-image.png</image>
-		<marquee>./images/Zillion II - The Tri Formation (World)-marquee.png</marquee>
-		<thumbnail>./images/Zillion II - The Tri Formation (World)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19880701T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1529,15 +1206,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10716</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102342" />
 	</game>
 	<game id="975">
 		<name>Out Run Europa</name>
 		<desc>Das dritte Spiel der OutRun-Serie, die den Stil der Rennspiele in der Third-Person-Perspektive revolutionierte. Die Levels sind in ganz Europa angesiedelt, während Sie versuchen, der Polizei zu entkommen. Anders als in den Vorgängern benutzen Sie in jedem Level ein anderes Fahrzeug, wobei Motorräder und Jet-Skis für Abwechslung sorgen und unterschiedliche Fähigkeiten erfordern. Sie müssen jeden Level innerhalb des strikten Zeitlimits absolvieren, und die Straßen sind gespickt mit anderen Autos, denen Sie ausweichen und überholen müssen. Sie können zwischen Soundeffekten oder Musik wählen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/OutRun Europa (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/OutRun Europa (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/OutRun Europa (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19920201T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -1546,15 +1219,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<players>1</players>
 		<lang>en,br</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102345" />
 	</game>
 	<game id="763">
 		<name>Alex Kidd : High-Tech World</name>
 		<desc>Alex Kidd: High-Tech World ist ein Plattformspiel für das Master System. Der Spieler verkörpert den kleinen Alex Kidd, der acht Kartenfragmente finden muss, um in einer brandneuen Spielhalle zu spielen. Das Spiel gliedert sich in Action-Phasen, Waldkämpfe gegen knurrende Ninjas und Adventure-Sequenzen, in denen Alex sich mit den Einheimischen unterhalten muss, um die Fragmente zu finden und verschiedene Rätsel zu lösen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.35</rating>
 		<releasedate>19891001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1564,15 +1233,11 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10221</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102351" />
 	</game>
 	<game id="916">
 		<name>Sonic Spinball</name>
 		<desc>Dr. Robotniks neuste Festung ist ein gigantischer Flipperautomat mit schleimigen Abwasserkanälen und einem monströsen Maschinenraum! Wird er einer Sonic-"Spin"-vasion bei Sonic Spinball für Mega Drive standhalten? Lasse Dich von riesigen Flippern und zischenden Dampfdüsen abstoßen. Jage durch schwindelerregende Loopings und über gefährlich steile Rampen!</desc>
 		<genre>Flipper</genre>
-		<image>./images/Sonic Spinball (Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic Spinball (Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Spinball (Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950125T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1582,7 +1247,6 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 		<lang>en,br</lang>
 		<region>eu</region>
 		<cheevosId>10735</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102352" />
 	</game>
 	<game id="857">
 		<name>Vigilante</name>
@@ -1590,9 +1254,6 @@ Geister, Goblins und sogar der lebensentziehende Tod sind Ihre Feinde. Feinde st
 
 Das Spiel bietet fünf verschiedene Schauplätze, wie z. B. die Straßen der Stadt und einen Schrottplatz, mit vielen verschiedenen Schlägern mit unterschiedlichen Stärken. Du kämpfst mit deinen Fäusten, Füßen und einer Kette. In jedem Level gibt es einen Endboss, der eine spezielle Taktik erfordert, um weiterzukommen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Vigilante (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Vigilante (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Vigilante (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1601,7 +1262,6 @@ Das Spiel bietet fünf verschiedene Schauplätze, wie z. B. die Straßen der Sta
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10427</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102356" />
 	</game>
 	<game id="762">
 		<name>Double Dragon</name>
@@ -1609,9 +1269,6 @@ Das Spiel bietet fünf verschiedene Schauplätze, wie z. B. die Straßen der Sta
 
 Mit allen Techniken, die ihnen zur Verfügung stehen, von einfachen Schlägen und Tritten bis hin zum unverwundbaren Ellbogenschlag, sowie jeder Waffe, die ihnen in die Hände fällt, müssen die Lee-Brüder die Bande durch den Stadtslum, das Industriegebiet und den Wald verfolgen, bevor sie ihr Versteck erreichen, um den Big Boss Willy zu konfrontieren.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Double Dragon (World)-image.png</image>
-		<marquee>./images/Double Dragon (World)-marquee.png</marquee>
-		<thumbnail>./images/Double Dragon (World)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19881101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1621,15 +1278,11 @@ Mit allen Techniken, die ihnen zur Verfügung stehen, von einfachen Schlägen un
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>10426</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102400" />
 	</game>
 	<game id="796">
 		<name>The Ninja</name>
 		<desc>Dieses berühmte Actionspiel auf Master System versetzt Sie in die Lage eines Ninja-Kriegers. Deine Aufgabe wird es sein, eine Prinzessin zu retten, die vom schrecklichen Gyokuro in Okhami Castle gefangen ist. Sie werden durch mehrere Tische mit Feinden und Fallen gehen. Glücklicherweise können Sie durch Ihr Training und Ihre Selbstlosigkeit Ihre Mission erfolgreich abschließen.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Ninja, The (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ninja, The (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ninja, The (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1638,15 +1291,11 @@ Mit allen Techniken, die ihnen zur Verfügung stehen, von einfachen Schlägen un
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>10773</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102405" />
 	</game>
 	<game id="918">
 		<name>Astro Warrior</name>
 		<desc>Astro Warrior entführt Sie in die Weiten des Universums, in einen spannenden Kampf gegen mächtige feindliche Stationen und Schiffe. Schießen Sie schnell. Schießen Sie pünktlich. Die Genauigkeit wird Ihr größter Verbündeter sein. In diesem Weltraum-Abenteuer-Spiel sind die Chancen gegen Sie, und der einzige Ausweg ist, Ihr Schiff stärker und mit mehr Waffen zu machen. Aber dafür muss man ein echter Champion sein. Machen Sie sich auf eine Menge Action gefasst, denn jede Unachtsamkeit kann zum Ende des Spiels führen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Astro Warrior (Japan, USA, Brazil) (En)-image.png</image>
-		<marquee>./images/Astro Warrior (Japan, USA, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Astro Warrior (Japan, USA, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19861214T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1655,15 +1304,11 @@ Mit allen Techniken, die ihnen zur Verfügung stehen, von einfachen Schlägen un
 		<lang>br,en,jp</lang>
 		<region>jp</region>
 		<cheevosId>10753</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102410" />
 	</game>
 	<game id="844">
 		<name>Enduro Racer</name>
 		<desc>Enduro Racer ist ein Offroad-Rennspiel, in dem der Spieler ein Cross-Motorrad durch extrem hügelige und verwinkelte Strecken steuert. Jede Strecke ist mit Holzstöcken, Felsen, Bäumen und Gegnern bedeckt, die übersprungen oder umfahren werden müssen. Sprünge sind nur an bestimmten Stellen auf jeder Strecke möglich. An diesen Stellen befindet sich eine Rampe, die sich über die gesamte Breite der Rennstrecke erstreckt. Die Spieler müssen sich im "Wheelie" befinden, wenn die Rampe erreicht wird, und das Motorrad wird in die Luft katapultiert. Wenn sich das Motorrad nicht im "Wheelie" befindet, wird die Rampe zwar überfahren, aber das Motorrad landet auf dem Vorderrad und stürzt ab.</desc>
 		<genre>Rennen, Fahren / Motorradrennen, 3. Pers.</genre>
-		<image>./images/Enduro Racer (Japan)-image.png</image>
-		<marquee>./images/Enduro Racer (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Enduro Racer (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19870518T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1671,6 +1316,5 @@ Mit allen Techniken, die ihnen zur Verfügung stehen, von einfachen Schlägen un
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T102415" />
 	</game>
 </gameList>

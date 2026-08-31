@@ -4,9 +4,6 @@
 		<name>Final Fantasy VIII</name>
 		<desc>In Final Fantasy VIII schlüpfst du in die Rolle von Squall, einem Mitglied einer Elite-Militärtruppe, der in einen Konflikt mit einem rivalisierenden Gegner, einer mächtigen Hexe und seinen eigenen mysteriösen Träumen verwickelt wird. Das Spiel verbindet realistische Figuren und detaillierte Hintergründe mit atmosphärischer Musik und erzählt eine epische Geschichte über Liebe, Hass, Krieg und Frieden in einer riesigen Welt. Mit dem innovativen Junction-System kannst du Charaktere individuell mit Zaubern ausstatten, die du von Gegnern gewinnst. Nahtlos integrierte CG-Filmsequenzen in Motion Capturing machen das Erlebnis noch intensiver.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Final Fantasy VIII (USA)-image.png</image>
-		<marquee>./images/Final Fantasy VIII (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy VIII (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19990907T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -16,7 +13,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11270</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113926" />
 	</game>
 	<game id="19444">
 		<name>Need for Speed : Porsche Unleashed</name>
@@ -29,9 +25,6 @@ FEATURES:
 - Realistische Strecken mit 20 Straßenabschnitten sowie drei Rennkursen
 - Multiplay-Modus für 4 Spieler.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Need for Speed - Porsche Unleashed (USA)-image.png</image>
-		<marquee>./images/Need for Speed - Porsche Unleashed (USA)-marquee.png</marquee>
-		<thumbnail>./images/Need for Speed - Porsche Unleashed (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000324T000000</releasedate>
 		<developer>Eden Studios</developer>
@@ -41,15 +34,11 @@ FEATURES:
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>14732</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113927" />
 	</game>
 	<game id="19258">
 		<name>Resident Evil 3 : Nemesis</name>
 		<desc>Nur wenige Tage nach dem Zwischenfall im Gen-Labor den Arclay-Bergen quittiert Jill Valentine Ihren Dienst bei S.T.A.R.S. und will Racoon City so schnell wie möglich verlassen. Ein Vorhaben, dass sich gestaltet als erwartet: Als das tödliche T-Virus die Stadt erreicht, verwandeln sich die ahnungslosen Bürger in furchterregende Zombies und grässliche Mutanten - es offenbart sich eine neue, erbarmungslose Nemesis, der Jill sich stellen muss. Nach und nach kommt sie hinter das ganze Ausmaß der schrecklichen Bio-Genetischen Experimente der Umbrella Corporation... </desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Resident Evil 3 - Nemesis (USA)-image.png</image>
-		<marquee>./images/Resident Evil 3 - Nemesis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil 3 - Nemesis (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19991110T000000</releasedate>
 		<developer>Capcom</developer>
@@ -59,15 +48,11 @@ FEATURES:
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11265</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113929" />
 	</game>
 	<game id="20051">
 		<name>Einhänder</name>
 		<desc>Steuere den technologisch fortschrittlichsten Shooter aller Zeiten. Du bist ein Kamikazepilot im entscheidenden Kampf um die Erde. Schlage dich durch Horden feindlicher Kämpfer und bezwinge die furchteinflößendsten Bosse, die jemals erschaffen wurden.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Einhaender (USA)-image.png</image>
-		<marquee>./images/Einhaender (USA)-marquee.png</marquee>
-		<thumbnail>./images/Einhaender (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19980505T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -76,16 +61,12 @@ FEATURES:
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11329</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113933" />
 	</game>
 	<game id="19269">
 		<name>Castlevania : Symphony of the Night</name>
 		<desc>Die Legende kehrt zurück
 Alucard wird durch das Wiedererscheinen von Castlevania aus seinem ewigen Schlummer erweckt und muss wieder einmal gegen die Knechte der Finsternis antreten. Setzen sie Ihre vampirischen Kräfte sowie Waffen, Tränke und andere Zaubermittel in, um die Geschicke des Kampfes zu Ihren Gunsten zu wenden. Eine Mischung aus Plattformspiel und Rollenspielaction mit vielen verborgenen Bereichen und Geheimnissen. Können Sie alle entdecken?</desc>
 		<genre>Rollenspiele / Action-RPG</genre>
-		<image>./images/Castlevania - Symphony of the Night (USA)-image.png</image>
-		<marquee>./images/Castlevania - Symphony of the Night (USA)-marquee.png</marquee>
-		<thumbnail>./images/Castlevania - Symphony of the Night (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19971002T000000</releasedate>
 		<developer>KCET</developer>
@@ -95,7 +76,6 @@ Alucard wird durch das Wiedererscheinen von Castlevania aus seinem ewigen Schlum
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11240</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113940" />
 	</game>
 	<game id="19287">
 		<name>Chrono Cross</name>
@@ -111,9 +91,6 @@ Der auffälligste Unterschied zwischen Chrono Cross und Radical Dreamers liegt i
 
 Die Geschichte wird von vielen im Vergleich zu Chrono Trigger als sehr komplex empfunden. Die meisten Dialoge bei Chrono Cross muss man sehr genau durchlesen, um der Geschichte weitgehend folgen zu können, ganz im Gegensatz zu Chrono Trigger, welches sehr geradlinig verläuft.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Chrono Cross (USA)-image.png</image>
-		<marquee>./images/Chrono Cross (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chrono Cross (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20000815T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -123,15 +100,11 @@ Die Geschichte wird von vielen im Vergleich zu Chrono Trigger als sehr komplex e
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11258</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113942" />
 	</game>
 	<game id="19862">
 		<name>Silhouette Mirage</name>
 		<desc>Silhouette Mirage ist ein Actionspiel für PlayStation. In einer apokalyptischen Zukunft muss Shyna Nera Shyna den bösen Edo-Computer zerstören. Nur der Weg, der die Heldin zu ihm führen muss, ist voller Mutanten und Monster aller Art. Nutzen Sie Ihre Silhouette- oder Mirage-Kräfte, um Ihr Ziel zu erreichen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Silhouette Mirage (USA)-image.png</image>
-		<marquee>./images/Silhouette Mirage (USA)-marquee.png</marquee>
-		<thumbnail>./images/Silhouette Mirage (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20000105T000000</releasedate>
 		<developer>Treasure</developer>
@@ -139,34 +112,11 @@ Die Geschichte wird von vielen im Vergleich zu Chrono Trigger als sehr komplex e
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260823T113944" />
-	</game>
-	<game id="19249">
-		<name>Final Fantasy VII</name>
-		<desc>Die Shinra Corporation entzieht unserem Planeten alle Lebensenergie. Cloud ein eiskalter Söldner, übernimmt einen Auftrag von einer Gruppe von Öko-Kriegern. Doch er weiß nicht, dass dieser ihn auf eine Reise führt, die nicht nur sein Leben, sondern das Dasein aller Lebewesen im Universum verändern wird...
-Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft aufeinander, Freundschaften werden geschlossen und wieder gelöst, und die Taten eines Einzelnen können die Zukunft entscheidend prägen!    </desc>
-		<genre>Rollenspiele</genre>
-		<image>./images/Final Fantasy VII (USA)-image.png</image>
-		<marquee>./images/Final Fantasy VII (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy VII (USA)-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19970815T000000</releasedate>
-		<developer>Squaresoft</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<family>Final Fantasy</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11242</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113945" />
 	</game>
 	<game id="19318">
 		<name>Tomba!</name>
 		<desc>Tombi, ein kleiner Junge aus der Wildnis mit pinken Haaren und zerrissener Hose, hat einen goldenen Armreif von seinem Großvater geschenkt bekommen. Eines Tages gerät er auf der Jagd nach Wildschweinen in einen Komplott einiger böser Schweine, die ihn angreifen und schließlich seinen kostbaren Armreif stehlen.Also macht sich Tombi auf, das Geheimnis dieser Schweine zu lüften und seinen Armreif wieder zu erlangen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Tomba! (USA)-image.png</image>
-		<marquee>./images/Tomba! (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tomba! (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19980630T000000</releasedate>
 		<developer>Whoopee Camp</developer>
@@ -176,15 +126,11 @@ Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11276</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113951" />
 	</game>
 	<game id="19525">
 		<name>Marvel vs. Capcom : Clash of Super Heroes</name>
 		<desc>Marvel vs. Capcom: Clash of Super Heroes ist ein Crossover-Kampfspiel, das von Capcom entwickelt und veröffentlicht wurde. Es ist die dritte Ausgabe der Marvel vs. Capcom-Serie, die Charaktere aus den Videospiel-Franchisen von Capcom und die von Marvel Comics veröffentlichten Comic-Bücher enthält.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Marvel vs. Capcom - Clash of Super Heroes (USA)-image.png</image>
-		<marquee>./images/Marvel vs. Capcom - Clash of Super Heroes (USA)-marquee.png</marquee>
-		<thumbnail>./images/Marvel vs. Capcom - Clash of Super Heroes (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000127T000000</releasedate>
 		<developer>Capcom</developer>
@@ -194,15 +140,11 @@ Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11314</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113952" />
 	</game>
 	<game id="19266">
 		<name>Crash Team Racing</name>
 		<desc>Neo Cortex ist leider nicht der einzige geisteskranke Erfinder auf den drei Inseln, die Crash bewohnt. Dr. Nitros Oxide hat in seiner verrückten Art eine ganz eigene Vorstellung, wie er die Weltherrschaft an sich reißen kann. Nachdem er als Kind einen schweren Unfall erlitt, verwandelte er sich in einen ultraschnellen Geschwindigkeitsfreak. Seit dieser Zeit fordert er die Bewohner der Insel zum Rennen heraus, und seit 10 Jahren ist es niemandem gelungen ihn zu schlagen. Dr. Cortex hat seine beiden Freunde und viele seiner Feinde zusammengerufen, um Nitros Oxide ein für alle mal den Garaus zu machen. Wenn einer von ihnen es schafft ihn im Rennen zu schlagen, könnte es vielleicht gelingen, Nitros seinen Hyper Activator abzujagen. Der Hyper Activator ist in der Lage, die ganze Welt in Hochgeschwindigkeitszone zu verwandeln, und dies hätte mit Sicherheit verheerende Folgen. Doch was ist wenn der verrückte Neo Cortex oder ein anderer durchgedrehter Erfinder den Hyper Activator in seine Finger bekommt? Crash und seine Freunde werden dies hoffentlich zu verhindern wissen. Jeder fährt gegen Jeden. Wer ist der Beste und wer kann Nitros Oxide im großen Showdown gegenüber treten? Der 4-Spieler-Splitscreen-Modus sorgt für Spaß und Action bei spannenden Rennen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/CTR - Crash Team Racing (USA)-image.png</image>
-		<marquee>./images/CTR - Crash Team Racing (USA)-marquee.png</marquee>
-		<thumbnail>./images/CTR - Crash Team Racing (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19990930T000000</releasedate>
 		<developer>Naughty Dog</developer>
@@ -212,15 +154,11 @@ Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10438</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T113954" />
 	</game>
 	<game id="19313">
 		<name>Oddworld : Abe's Exoddus</name>
 		<desc>Während der Feier anlässlich der Befreiung der Mudokons aus RuptureFarms ereilt Abe eine Vision, in der er von den Geistern toter Mudokons um Hilfe gebeten wird. Die Glukkons nutzen demnach zumeist blinde Mudokon-Sklaven, um in der alten Begräbnisstätte Necrum die Gebeine der Verstorbenen auszugraben und daraus Brühe herzustellen, das sogenannte SoulStorm Brew. Abes Ziel ist es, die Grabschändungen zu stoppen und die Brauerei stillzulegen</desc>
 		<genre>Plattform</genre>
-		<image>./images/Oddworld - Abe's Exoddus (USA)-image.png</image>
-		<marquee>./images/Oddworld - Abe's Exoddus (USA)-marquee.png</marquee>
-		<thumbnail>./images/Oddworld - Abe's Exoddus (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19981101T000000</releasedate>
 		<developer>Oddworld Inhabitants</developer>
@@ -230,7 +168,6 @@ Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11285</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114001" />
 	</game>
 	<game id="19501">
 		<name>WipEout</name>
@@ -240,9 +177,6 @@ Es gibt Meisterschafts-, Einzelrennen- und Zeitfahrmodi. Der Gewinn der Meisters
 
 Es gibt auch einen Zwei-Spieler-Modus, in dem zwei Gegner gegeneinander rennen und aufeinander schießen können.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/WipEout (USA)-image.png</image>
-		<marquee>./images/WipEout (USA)-marquee.png</marquee>
-		<thumbnail>./images/WipEout (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19951121T000000</releasedate>
 		<developer>Psygnosis</developer>
@@ -252,7 +186,6 @@ Es gibt auch einen Zwei-Spieler-Modus, in dem zwei Gegner gegeneinander rennen u
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11378</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114006" />
 	</game>
 	<game id="19597">
 		<name>Quake II</name>
@@ -260,9 +193,6 @@ Es gibt auch einen Zwei-Spieler-Modus, in dem zwei Gegner gegeneinander rennen u
 
 In ferner Zukunft wird die Menschheit von einer außerirdischen Rasse von Cyborgs bedroht, den Strogg. Das Spiel setzt zu dem Zeitpunkt ein, als das terranische Militär einen Großangriff auf den Heimatplaneten der Strogg startet. Als Soldat ist man bei einem Absturz von seiner Mannschaft getrennt worden und befindet sich nun allein im feindlichen Gebiet. Über Funk mit der Kommandozentrale verbunden, bekommt der Spieler nun verschiedene Aufträge, darunter Sabotage, Beschaffung von Daten, Zielmarkierung von Luftangriffen und letztendlich die Vernichtung des obersten Feldherrn der Strogg. Im Verlaufe des Spiels erkundet der Spieler diverse Einrichtungen der Strogg, darunter Industriegebiete, Militärstützpunkte, Gefängnisse, Fabriken zur Verarbeitung von Menschen und den Palast des Strogg-Herrschers.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Quake II (USA)-image.png</image>
-		<marquee>./images/Quake II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Quake II (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990930T000000</releasedate>
 		<developer>Activision</developer>
@@ -272,15 +202,11 @@ In ferner Zukunft wird die Menschheit von einer außerirdischen Rasse von Cyborg
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>14629</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114007" />
 	</game>
 	<game id="19299">
 		<name>Suikoden II</name>
 		<desc>Suikoden II erzählt die Geschichte rund um Riou und Jowy zwei Freund aus Kindertagen die in der Armee ihres Heimatlandes dienen. Ihre Jugendbrigade gerät jedoch in einen Hinterhalt, der dazu dienen soll die Feindseligkeiten zwischen Highland und dem Stadt Staat Jowston wieder aufflammen zu lassen. Als einzige Überlebenden diese Nacht werden die beiden Protagonisten tief in die Wirren des beginnenden Krieges gezogen und durch leben all seine Schrecken. Doch der eigentlich Konflikt steht ihnen noch bevor als sich ihr Schicksal offenbart und jeder von ihnen mit einer mächtigen Rune, Riou der Bright Shield Rune und Jowy the Black Sword Rune, bedacht wird. So wie Schild und Schwert sich gegenüberstehen so gegensetztlich entwickeln sich auch die Wege der beiden Freunde im Verlauf des Spiels weiter, bis sie sich schließlich am Ausgangsort des Krieges und der Geschichte wieder gegenüberstehen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Suikoden II (USA)-image.png</image>
-		<marquee>./images/Suikoden II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Suikoden II (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990831T000000</releasedate>
 		<developer>Konami</developer>
@@ -290,41 +216,12 @@ In ferner Zukunft wird die Menschheit von einer außerirdischen Rasse von Cyborg
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11241</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114013" />
-	</game>
-	<game id="19519">
-		<name>WipEout 3</name>
-		<desc>Das atemberaubende Anti-Gravitations-Rennen geht in die dritte Runde. Noch schneller, noch spannender und noch adrenalintreibender als je zuvor. Mit neuen Flugobjekten und neuen Waffen geht es über haarsträubende Strecken in einer noch nie dagewesenen Grafik. Durch den 2-Spieler-Splitscreen-Modus sind heiße Duelle vorprogrammiert. Anfänger und geübte Wipeout-Fans werden den Boden unter den Füßen verlieren - dieses Rennfieber packt jeden.
-
-Features:
-
-- 8 neue Rennstrecken, mit denen auch Anfänger ihre helle Freude haben
-
-- lizensierter Soundtrack mit dem europaweit bekannten DJ Sasha und anderen internationalen Stars der Techno-Szene
-
-- insgesamt 8 Rennteams</desc>
-		<genre>Rennen, Fahren</genre>
-		<image>./images/WipEout 3 (USA)-image.png</image>
-		<marquee>./images/WipEout 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/WipEout 3 (USA)-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19990923T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<family>Wipeout</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20260823T114015" />
 	</game>
 	<game id="19289">
 		<name>Grandia</name>
 		<desc>Begleite Justin und seine Freunde auf einer abenteuerlichen Reise durch gewaltige Polygon-Welten von Grandia. 80 Stunden feinstes Gameplay, ein einzigartiges Kampfsystem und äußerst detaillierte Szenarien, warten darauf, von dir entdeckt zu werden
 Grandia ist ein Muss für jeden Gamer!</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Grandia (USA)-image.png</image>
-		<marquee>./images/Grandia (USA)-marquee.png</marquee>
-		<thumbnail>./images/Grandia (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19991026T000000</releasedate>
 		<developer>Game Arts</developer>
@@ -334,15 +231,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11281</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114017" />
 	</game>
 	<game id="19468">
 		<name>Klonoa : Door to Phantomile</name>
 		<desc>Machen Sie sich mit Klonoa auf zu einer abenteuerlichen Reise durch eine magische Welt, in der Träume und Realität auf wundersame Art eins werden. Enthüllen Sie das Geheimnis des legendären Mondanhängers, und retten Sie die Sängerin Lephise aus den Klauen des bösen Ghadius.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Klonoa - Door to Phantomile (USA)-image.png</image>
-		<marquee>./images/Klonoa - Door to Phantomile (USA)-marquee.png</marquee>
-		<thumbnail>./images/Klonoa - Door to Phantomile (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19980601T000000</releasedate>
 		<developer>Namco</developer>
@@ -352,15 +245,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11261</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114023" />
 	</game>
 	<game id="19493">
 		<name>Ape Escape</name>
 		<desc>Ein superintelligenter Affe klaut eine Zeitmaschine, um seine dümmlichen Artgenossen auf die Menschheitshistorie loszulassen und den Lauf der Geschichte zu verändern. Spike und Buzz, zwei jugendliche Parahelden, verfolgen die Affenbande, um mit innovativen Fallen dem anstehenden Chaos Einhalt zu gebieten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ape Escape (USA)-image.png</image>
-		<marquee>./images/Ape Escape (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ape Escape (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19990531T000000</releasedate>
 		<developer>SCE Japan</developer>
@@ -370,15 +259,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11283</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114033" />
 	</game>
 	<game id="19256">
 		<name>Final Fantasy IX</name>
 		<desc>Zidane, ein Mitglied einer Räuberbande, muss an einem schönen Abend die Prinzessin entführen. Dummerweise schnappt ihr euch auch noch ihren Bodyguard mit. Weniger sauer als froh schließt sich die Prinzessin der Truppe an, die diese letztendlich vor ihrer eigenen Mutter retten muss. Auf ihrer toll inszenierten Reise quer durch die mittelalterliche Welt erlebt ihr märchenhafte Abenteuer und müsst am Ende natürlich die Welt retten. Auch in diesem Teil steht sehr viel mit Liebe auf dem Spiel.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Final Fantasy IX (USA, Canada)-image.png</image>
-		<marquee>./images/Final Fantasy IX (USA, Canada)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy IX (USA, Canada)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20001115T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -388,15 +273,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>fr,en</lang>
 		<region>us</region>
 		<cheevosId>11247</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114045" />
 	</game>
 	<game id="19288">
 		<name>Spyro the Dragon</name>
 		<desc>Spyro ist ein süßer, lila Drache, der in der Klemme steckt. Alle Drachenfreunde von Spyro sind dem bösen Gnasty Gnorc zum Opfer gefallen, der sie in Kristalle verwandelt hat. In Begleitung der Libelle Sparx macht sich Spyro auf den Weg, seine Freunde zu befreien und dabei Edelsteine zu sammeln. Sparx dient dabei auch als eine Art Anzeige für Spyros Gesundheit, denn die Libelle leuchtet golden, wenn Spyro gesund und munter ist, und nimmt ein immer dunkler werdendes Grün an, je mehr er ermüdet. Um Energie zu gewinnen, kann Spryo bestimmte Wesen mittels Feuer in Schmetterlinge verwandeln, die Sparx dann wiederum in die benötigten Energielieferanten umwandelt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Spyro the Dragon (USA)-image.png</image>
-		<marquee>./images/Spyro the Dragon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Spyro the Dragon (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19980910T000000</releasedate>
 		<developer>Insomniac Games</developer>
@@ -406,15 +287,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11279</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114046" />
 	</game>
 	<game id="19466">
 		<name>Bushido Blade</name>
 		<desc>"Bushido" ist die Seele Japans - ein uralter Ehrenkodex, dem Samurai-Krieger seit Jahrhunderten folgen. Tauche in reale Kämpfe in riesigen 3D-Umgebungen ein, die du ausführen, in Scheiben schneiden und durchbrechen kannst. Schwertkämpfe werden unglaublich real, wo ein entscheidender Schlag die mittlere Differenz zwischen Tod und Sieg ist.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Bushido Blade (USA)-image.png</image>
-		<marquee>./images/Bushido Blade (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bushido Blade (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19971001T000000</releasedate>
 		<developer>Light Weight</developer>
@@ -424,33 +301,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11394</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114051" />
-	</game>
-	<game id="19304">
-		<name>Gran Turismo 2 (Arcade Mode)</name>
-		<desc>„Gran Turismo 2“ kehrt zurück mit über 500 Wagenmodellen und mehr als 20 Strecken. Das Spiel bringt realistische Fahrphysik, detaillierte Streckensimulationen und DUALSHOCK-Vibration für ein authentisches Rennerlebnis. Neben Straßenrennen sind diesmal auch Rallye- und Querfeldein-Rennen im Fokus. Fahrzeuge aus aller Welt, von Japan über Europa bis zu den USA, stehen zur Auswahl und können mit Turboladern, Spoilern, Reifen und Getrieben individuell aufgerüstet werden. Bevor alle Möglichkeiten freigeschaltet sind, gilt es, 60 anspruchsvolle Lizenzprüfungen zu meistern. Der Splitscreen-Modus bietet spannende Duelle für zwei Spieler. Bereit für die ultimative Rennherausforderung?</desc>
-		<genre>Rennen, Fahren</genre>
-		<image>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-image.png</image>
-		<marquee>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>19991223T000000</releasedate>
-		<developer>Polyphony Digital</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<family>Gran Turismo</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11278</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114053" />
 	</game>
 	<game id="19268">
 		<name>Tomb Raider</name>
 		<desc>Auf der Suche nach einem geheimnisvollen Artefakt führen Sie die Abenteurerin Lara Croft durch die vielleicht faszinierendsten 3D-Welten, die es je auf Ihrem Bildschirm zu sehen gab. Mit einer unglaublichen Akrobatik bewegt sich Lara völlig frei durch gigantische, mit Fallen gespickte Höhlen, Tempelanlagen und Tunnelsysteme. Die intelligente Kameraführung setzt Laras Aktionen aus vier verschiedenen Perspektiven immer optimal in Szene. In Tomb Raider verschmelzen Adventure, Rätsel und Action zu einem atemberaubenden 3D-Spektakel! Tomb Raider – ein Spiel wie ein Sog!</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Tomb Raider (USA) (Rev 6)-image.png</image>
-		<marquee>./images/Tomb Raider (USA) (Rev 6)-marquee.png</marquee>
-		<thumbnail>./images/Tomb Raider (USA) (Rev 6)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19961114T000000</releasedate>
 		<developer>Core Design</developer>
@@ -460,15 +315,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11342</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114059" />
 	</game>
 	<game id="19293">
 		<name>Spyro : Year of the Dragon</name>
 		<desc>Diebe haben ein Nest mit Dracheneiern entführt, während gleichzeitig in einem anderen Teil der Drachenwelt ein Tor zu vergessenen Welt entdeckt wurde. Spyro der Drache muss die Eier zurückerobern. Gemeinsam mit seinem besten Freund Sparx begibt er sich auf die Reise ins Unbekannte, wo ihm seine bislang schwerste Prüfung bevorsteht: der Kampf gegen die böse Zauberin. Brandneue Spielfiguren, irre Herausforderungen und aufregende neue Welten - Hier beginnt das Jahr des Drachen. Hier kannst du durch die Lüfte gleiten, unter Wasser tauchen, Skateboard fahren, durch Schnellschuss-Galerien ballern, einen Panzer fahren und sogar gegen einen Yeti boxen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Spyro - Year of the Dragon (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Spyro - Year of the Dragon (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Spyro - Year of the Dragon (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20001025T000000</releasedate>
 		<developer>Insomniac Games</developer>
@@ -478,15 +329,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11267</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114101" />
 	</game>
 	<game id="19277">
 		<name>Tomb Raider III : Adventures of Lara Croft</name>
 		<desc>Lara Croft kehrt zurück mit ihrem bisher gewagtesten Abenteuer. Begleiten Sie die Archäologin auf der Suche nach vier rätselhaften Artefakten. Erkunden Sie mit LAra mystische Stätten Indiens, unterirdische Gewölbe Londons und die geheime Militärbasis Area 51 in der Wüste Nevadas. Folgen Sie den Spuren der Artefakte ins ewige Eis der Antarktis und auf eine Insel im Südpazifik. Neue Waffen, Fahrzeuge und Moves helfen Lara, sich gegen finstere Gestalten zu wehren.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Tomb Raider III - Adventures of Lara Croft (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19981121T000000</releasedate>
 		<developer>Core</developer>
@@ -495,15 +342,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260823T114103" />
 	</game>
 	<game id="19615">
 		<name>R-Type Delta</name>
 		<desc>R-Type Delta ist die letzte Folge von Irem's Klassiker Serie der Weltraum Shoot'em up's. Durch die hervorragende 3D-Engine der Play Station kommt dieser Klassiker in einer Brillanz auf den Schirm, die ihresgleichen sucht. In jedem der über 7 Level warten 3 Superbosse auf den Spieler, die mit Sicherheit nur von den Wenigsten auf Anhieb besiegt werden können. Durch atemberaubende Zwischensequenzen wird der Spieler fast in's All katapultiert um den Fight seines Lebens zu bestreiten. 3 unterschiedliche Raumschiffe, mit individueller Bewaffnung, stehen für das große Weltraumabenteuer zur Verfügung. Ein weiteres Schiff kann im Verlauf des Games erspielt werden, doch das Schiff ist nicht alles. Schnelle Reaktionen und waghalsige Flugmanöver sind gefragt um sich gegen die feindlichen Mächte zu behaupten.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/R-Type Delta (USA)-image.png</image>
-		<marquee>./images/R-Type Delta (USA)-marquee.png</marquee>
-		<thumbnail>./images/R-Type Delta (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990810T000000</releasedate>
 		<developer>Irem</developer>
@@ -513,15 +356,11 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11339</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114104" />
 	</game>
 	<game id="19275">
 		<name>Rayman</name>
 		<desc>Machen Sie eine Forschungsreise in die tolle und humoristische Welt von Rayman! 60 verschiedene Level in sechs einzigartigen Welten mit detaillierter Grafik und phantastischen Animationen sorgen für stundenlangen Spielspass. Sammeln Sie verwunderliche Kräfte, entdecken Sie mehrere geheime Level. Mehr als 50 verschiedene Charaktere, die Ihren Spielstil lernen und sich so immer intelligenter verteidigen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Rayman (USA)-image.png</image>
-		<marquee>./images/Rayman (USA)-marquee.png</marquee>
-		<thumbnail>./images/Rayman (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950909T000000</releasedate>
 		<developer>Ubisoft</developer>
@@ -531,7 +370,6 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11346</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114109" />
 	</game>
 	<game id="19392">
 		<name>Tekken 2</name>
@@ -539,9 +377,6 @@ Grandia ist ein Muss für jeden Gamer!</desc>
 
 Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStation weltweit veröffentlicht. Es war in Amerika 24 Wochen lang die Nummer Eins unter den Arcade-Spielen und wurde für die PlayStation-Konsole weltweit über 3 Millionen mal verkauft. Für die PlayStation 3 wurde diese Version im PS-Store hinzugefügt. Am Tag der Eröffnung gab es einen Umsatz von $ 250.000, was zu dieser Zeit ein Rekord war.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Tekken 2 (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Tekken 2 (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Tekken 2 (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19960825T000000</releasedate>
 		<developer>Namco</developer>
@@ -551,33 +386,11 @@ Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStatio
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11316</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114114" />
-	</game>
-	<game id="19527">
-		<name>Tony Hawk's Pro Skater</name>
-		<desc>Tony Hawk's Pro Skater wartet mit einem ausgeklügelten Trick- und Kombisystem auf, bei dem die Spieler sich an Hunderte von Kombinationen aus halsbrecherischen Moves und Stunts wagen können. Dabei stehen ihnen absolut realistische Strecken zur Verfügung, die sie mit der Geschwindigkeit und Beweglichkeit eine professionellen Skaters entlangheizen können. Auch die Spielumgebung hat jede Menge zu bieten: geheime Gelände, Abkürzungen und nahezu unzugängliche Punkte sowie zahlreiche Locations - von Einkaufszentren und Autobahnen bis hin zu Grundschulen und überfüllten Innenstädten. Mit unterschiedlichen Spielmodi, darunter ein einzigartiger Career Mode, bei dem die Laufbahn eines Profi-Skaters simuliert wird.</desc>
-		<genre>Sport / Skateboard</genre>
-		<image>./images/Tony Hawk's Pro Skater (USA)-image.jpg</image>
-		<marquee>./images/Tony Hawk's Pro Skater (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tony Hawk's Pro Skater (USA)-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19990831T000000</releasedate>
-		<developer>Neversoft</developer>
-		<publisher>Activision</publisher>
-		<family>Tony Hawk</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11331</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114119" />
 	</game>
 	<game id="19292">
 		<name>Valkyrie Profile</name>
 		<desc>In Vorbereitung auf Ragnarok, die letzte Schlacht zwischen den Göttern, hat Odin Lenneth der Walküre befohlen, in die niedere Welt hinabzusteigen und die Seelen der gefallenen Helden zu sammeln, damit Sie als Soldaten in dem sich nähernden Konflikt dienen können. Du spielst als Lenneth, versammelst Soldaten und trainierst sie, um sie auf die Schlachtfelder der Götter zu bringen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Valkyrie Profile (USA)-image.png</image>
-		<marquee>./images/Valkyrie Profile (USA)-marquee.png</marquee>
-		<thumbnail>./images/Valkyrie Profile (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20000829T000000</releasedate>
 		<developer>Tri-Ace</developer>
@@ -587,15 +400,11 @@ Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStatio
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11249</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114121" />
 	</game>
 	<game id="19281">
 		<name>MediEvil</name>
 		<desc>Vom Winde der Zeit verweht, ist die Geschichte von Gallowmere, einem Land in dem Magie mehr gilt als Wissenschaft und in dem ein Hexer - der finstere Zarok - ihre dunkelsten Mächte an sich gerissen hat. Sir Daniel Fortesque ist der einzige, der ihn besiegen kann - doch leider starb er vor mehr als hundert Jahren. Als Skelettritter wieder zum Leben erweckt, muß Sir Dan ein ganzes Arsenal an Waffen ansammeln, um den kampf gegen den üblen Magier aaufzunehmen. Eindrucksvolle Lichteffekte, einzigartige Figuren und eine humorvolle, spannende Story machen Medievil zu einem Abenteuer voller unterhaltsamer Action im Stil eines Rollenspieles.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/MediEvil (USA)-image.png</image>
-		<marquee>./images/MediEvil (USA)-marquee.png</marquee>
-		<thumbnail>./images/MediEvil (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19981021T000000</releasedate>
 		<developer>SCE Studio Cambridge</developer>
@@ -605,7 +414,6 @@ Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStatio
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11317</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114127" />
 	</game>
 	<game id="19301">
 		<name>Final Fantasy Tactics</name>
@@ -613,9 +421,6 @@ Tekken 2 erschien im Jahr 1995 in Spielhallen und wurde 1996 für die PlayStatio
 
 Bestreite hunderte von Schlachten auf gefährlichen 3D-Landschaften, während eine uralte Blutfehde einen noch tödlicheren Feind auf den Plan ruft.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Final Fantasy Tactics (USA)-image.png</image>
-		<marquee>./images/Final Fantasy Tactics (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy Tactics (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19980128T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -625,15 +430,11 @@ Bestreite hunderte von Schlachten auf gefährlichen 3D-Landschaften, während ei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11246</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114129" />
 	</game>
 	<game id="19282">
 		<name>Crash Bandicoot</name>
 		<desc>Auf ins Gefecht mit den hyperaktiven Beuteldachs Crash Bandicoot. Das Überqueren von Flammengräben, eine wilde Flußfahrt und ein Ritt auf einem wilden Schwein sind nur drei der Prüfungen im Kampf gegen die wilden Tiere vom Land "Down under" und um das Leben seiner Freundin Tawna.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Crash Bandicoot (USA)-image.png</image>
-		<marquee>./images/Crash Bandicoot (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crash Bandicoot (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960831T000000</releasedate>
 		<developer>Naughty Dog</developer>
@@ -643,34 +444,11 @@ Bestreite hunderte von Schlachten auf gefährlichen 3D-Landschaften, während ei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10434</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114131" />
-	</game>
-	<game id="19260">
-		<name>Metal Gear Solid</name>
-		<desc>FOXHOUND, ein abtrünniges, genetisch verbessertes Spezialkommando, unternimmt einen Putsch auf einem abgelegenen Archipel in Alaska, bei dem es sich in Wahrheit um "Shadow Moses", eine geheime Abrüstungseinrichtung der Regierung, handelt. Die Einheit unter der Leitung des Söldners Liquid Snake haben mehrere atomare Sprengköpfe in ihre Gewalt gebracht sowie den Mecha Metal Gear REX, der die Atomraketen abfeuern kann. Mit diesem Trumpf erpressen die Terroristen die US-Regierung, um die sterblichen Überreste des legendären Söldners Big Boss zu erhalten.
-Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte von Colonel Roy Campbell hin darauf angesetzt, die Verteidigungslinien der Terroristen zu durchdringen und die terroristische Bedrohung zu zerschlagen.</desc>
-		<genre>Action / Abenteuer</genre>
-		<image>./images/Metal Gear Solid (USA)-image.png</image>
-		<marquee>./images/Metal Gear Solid (USA)-marquee.png</marquee>
-		<thumbnail>./images/Metal Gear Solid (USA)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>19981021T000000</releasedate>
-		<developer>KCEJ</developer>
-		<publisher>Konami</publisher>
-		<family>Metal Gear</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11244</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114133" />
 	</game>
 	<game id="19262">
 		<name>Crash Bandicoot : Warped</name>
 		<desc>Crash Bandicot kehrt zurück... Er begibt sich diesmal auf eine Zeitreise, die ihn unter anderem in das Alte Ägypten, Rom und England führt. Sogar in die vorgeschichtliche Zeit reist Crash, dort reitet er auf einem Dinosaurier. Crash hat allerhand Eigenschaften, wie Rennen, Fliegen und tauchen. Diesmal hat er sogar in einigen Leveln seine Schwester Coco zur Seite. Auf gehts!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Crash Bandicoot - Warped (USA)-image.png</image>
-		<marquee>./images/Crash Bandicoot - Warped (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crash Bandicoot - Warped (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19981115T000000</releasedate>
 		<developer>Naughty Dog</developer>
@@ -680,15 +458,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10433</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114139" />
 	</game>
 	<game id="19302">
 		<name>Spyro 2 : Ripto's Rage!</name>
 		<desc>Der lebhafte kleine Drache ist wieder da, und zwar in einem Nachfolger, der dem Original weit überlegen ist. Spyro-Fans, aber auch solche, die das erste Spiel nicht kennen, werden von der Grandiosität von Spyro 2: Ripto's Rage begeistert sein. Wie weggeblasen sind die unmöglichen Aufgaben, die unschlagbaren Gegner und der zerstückelte Spielfluss. Dieses Spiel bringt überlegene Steuerung, farbenprächtigere und schnellere Grafik, eine dichtere Story, erreichbare Ziele und viel Abwechslung mit.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Spyro 2 - Ripto's Rage! (USA)-image.png</image>
-		<marquee>./images/Spyro 2 - Ripto's Rage! (USA)-marquee.png</marquee>
-		<thumbnail>./images/Spyro 2 - Ripto's Rage! (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19990907T000000</releasedate>
 		<developer>Insomniac Games</developer>
@@ -698,15 +472,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11260</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114140" />
 	</game>
 	<game id="19537">
 		<name>R4 : Ridge Racer Type 4</name>
 		<desc>R4 Ridge Racer Type 4 kombiniert die Arcade-Fahraction seiner Vorgänger mit Elementen im Simulationsstil wie Custom Cars und der Teilnahme an einer kompletten Rennsaison. Das Spiel bietet 45 einzigartige Autos (plus über 300 Varianten), acht verschiedene Strecken und die folgenden drei Spielmodi: Grand Prix, Time Attack und Versus Battle.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/R4 - Ridge Racer Type 4 (USA)-image.png</image>
-		<marquee>./images/R4 - Ridge Racer Type 4 (USA)-marquee.png</marquee>
-		<thumbnail>./images/R4 - Ridge Racer Type 4 (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19990501T000000</releasedate>
 		<developer>Namco</developer>
@@ -716,15 +486,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11305</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114142" />
 	</game>
 	<game id="19254">
 		<name>Resident Evil : Director's Cut</name>
 		<desc>Umbrella Corporation, ein geheimnisumwobener Pharmakonzern in der Nähe der Kleinstadt Raccoon City. Neben legaler Forschung betreibt die Firma Biowaffenforschung sowie Genmanipulation unter dem Namen White Umbrella, mit dem Ziel, einen Superkrieger zu erschaffen. Dazu kreierten skrupellose Forscher das sogenannte Tyrant-Virus, durch den sein Wirt bereits nach kurzer Zeit mutiert und nur noch einem Urinstinkt folgt: Fressen. Er wird zu einem lebenden Toten. Als ultimativer Test wird die Belegschaft des Herrenhauses und des in ihm befindlichen Labors unwissentlich infiziert und durch Bestechung des Polizeipräsidenten das kampferprobte S.T.A.R.S.-Team zur angeblichen Aufklärung seltsamer Mordfälle losgeschickt, um die wahre Stärke des T-Virus zu testen. Auf ihrer Suche nach Nahrung brechen die Infizierten aus und machen Jagd auf ahnungslose Wanderer im umliegenden Raccoon Forest. Nachdem einige verstümmelte Leichen gefunden worden sind, wird das Bravo-Team des Spezialkommandos S.T.A.R.S. entsandt, um für Aufklärung zu sorgen.</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Resident Evil - Director's Cut - Dual Shock Ver. (USA)-image.png</image>
-		<marquee>./images/Resident Evil - Director's Cut - Dual Shock Ver. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil - Director's Cut - Dual Shock Ver. (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19970930T000000</releasedate>
 		<developer>Capcom</developer>
@@ -733,15 +499,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260823T114144" />
 	</game>
 	<game id="19494">
 		<name>Twisted Metal 2</name>
 		<desc>Es gibt eine neue Welt zum Zerstören, mit neuen Autos, neuen Schlachtfeldern und neuer Kampf-Action. Jetzt mit intelligenteren, tödlicheren, tieferen Kämpfen für kreative Fahrzeug-Schlachten in der ganzen Welt.</desc>
 		<genre>Shooter / Fahrzeug, 3. Pers.</genre>
-		<image>./images/Twisted Metal 2 (USA)-image.png</image>
-		<marquee>./images/Twisted Metal 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Twisted Metal 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19961031T000000</releasedate>
 		<developer>SingleTrac</developer>
@@ -751,15 +513,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11298</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114146" />
 	</game>
 	<game id="19326">
 		<name>Tony Hawk's Pro Skater 2</name>
 		<desc>Tony Hawk ist zurück. Mit neuer Grafik, neuen Profis und neuen Tricks. Die Legende rollt weiter. Skate als einer von 13 Profis in komplett neuen Leveln oder erstelle deinen ganz persönlichen Skater. Neue Moves wie Blunt Slides, FS/BS Nose- und Tall-Slides und Hurricanes bringen jede Menge Knete, die du um Skateshop oder für Statistikpunkte ausgeben kannst. Errichte mit dem Park-Editor deine eigenen Traumpark in Echtzeit-3D und statte ihn mit Rampen, Funboxen, Rails und vielem mehr aus. Verschiedenste Modi wie Karriere oder Skate for Fun für einen Spieler oder Trick-Turnier, Graffiti, Loser und Gotcha für zwei Spieler sorgen für Abwechslung und Spielspaß pur.</desc>
 		<genre>Sport / Skateboard</genre>
-		<image>./images/Tony Hawk's Pro Skater 2 (USA)-image.png</image>
-		<marquee>./images/Tony Hawk's Pro Skater 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tony Hawk's Pro Skater 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000920T000000</releasedate>
 		<developer>Neversoft</developer>
@@ -769,15 +527,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11282</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114151" />
 	</game>
 	<game id="214640">
 		<name>Resident Evil 2 (Leon Kennedy Disc)</name>
 		<desc>Der Anfang allen Übels war ein Unfall im Versuchslabor eines Herrenhauses. Dieser Unfall hatte zur Folge, daß der T-Virus, ein bilogischer Kampfstoff der Umbrella Corporation, freigesetzt wurde. Alles Leben in seiner ursprünglichen Form wurde vernichtet und in schleckliche Mutationen verwandelt. Dies liegt etwa zwei Monate zurück und der Fall schien abgeschlossen, doch die schrecklichen Experimente der Umbrella Corporation waren alles andere als vorbei. Der T-Virus war nur ein Vorbote. Ganz Raccoon City wurde durch den noch todbringenderen G-Virus infiziert. Die Stadt wird von Zombies und anderen höllischen Kreaturen bevölkert. Zu diesem Zeitpunkt treffen Leon. S. Kennedy und Claire Redfield nichts ahnend in der Stadt ein und stürtzen Hals über Kopf in das Abenteuer Ihres Lebens.</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Resident Evil 2 - Dual Shock Ver. (USA)-image.png</image>
-		<marquee>./images/Resident Evil 2 - Dual Shock Ver. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil 2 - Dual Shock Ver. (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19980110T000000</releasedate>
 		<developer>Capcom</developer>
@@ -787,15 +541,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11245</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114157" />
 	</game>
 	<game id="19278">
 		<name>Vagrant Story</name>
 		<desc>Als Ashley Lionet, Agent der Spezialeinheit "Riskbreaker", ist es Ihre Aufgabe die Stadt der Schatten, Le Monde, zu infiltrieren. Benutzen Sie Heimlichkeit und Kampfkunst um die großen Gefahren zu überwinden, die Sie in dieser mysteriösen Welt erwarten und erlernen Sie die Kunst der Magie um die Wahrheit hinter den politischen Intrigen aufzudecken.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Vagrant Story (USA)-image.png</image>
-		<marquee>./images/Vagrant Story (USA)-marquee.png</marquee>
-		<thumbnail>./images/Vagrant Story (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20000515T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -804,15 +554,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11275</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114159" />
 	</game>
 	<game id="19290">
 		<name>Legacy of Kain : Soul Reaver</name>
 		<desc>Raziel, einer der sechs Statthalter des Vampir­fürsten Kain, hat noch vor seinem Herrn eine neue Entwicklungsstufe erreicht und als erster Vampir fledermausartige Flügel bekommen. Kain sieht dies als Anmaßung an, da gewöhnlich er das Privileg besitzt, als erster eine Metamorphose zu durchleben und damit seine Fähigkeiten zu steigern. In einem Anfall von Eifersucht reißt Kain Raziels Flügelknochen heraus und wirft ihn in den Seelenstrudel, in dem Raziel für alle Zeit Höllenqualen erleiden soll, denn Wasser ist für Nosgoths Vampire tödlich. Doch Raziel wird vom Älteren, einer uralten Gottheit, die im Abgrund lebt, gerettet und mit neuen Fähigkeiten ausgestattet. Raziel ist nun zu einer Art Todesengel geworden; statt nach Blut dürstet es ihn nun nach den Seelen seiner Opfer. Angetrieben durch seinen Durst nach Vergeltung und die dunklen Pläne des alten Gottes begibt er sich auf einen Rachefeldzug.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Legacy of Kain - Soul Reaver (USA)-image.png</image>
-		<marquee>./images/Legacy of Kain - Soul Reaver (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legacy of Kain - Soul Reaver (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990816T000000</releasedate>
 		<developer>Crystal Dynamics</developer>
@@ -822,15 +568,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11297</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114204" />
 	</game>
 	<game id="19476">
 		<name>Metal Slug X</name>
 		<desc>Das gefeierte Gameplay der ersten Metal Slug X-Fassung kommt auch in der neuesten Version wieder zum Einsatz. Die sechs Level strotzen nur so vor traditioneller Arcade-Shoot'em Up-Action und bieten neben humorigen Charakteren auch zahlreiche bombastische Waffen wie zum Beispiel Panzer, Kampfjets und bewaffnete Kamele. Die PSOne-Version wartet mit einer Reihe von Überraschungen auf. Ein neuartiges Feature ist beispielsweise der Kampftrainingsmodus mit vollkommen neuen Levels, in denen man sich so richtig austoben kann. Hat man den Standard Modus einmal geschafft, können zwei weitere neue Modi aktiviert werden: Special Secret Mission und Gallery. Zu den besten Neuerungen gehört jedoch, dass sich die Spieler nun auch zu zweit zusammenschließen können, um simultane 2-Player-Action zu erleben.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Metal Slug X (USA)-image.png</image>
-		<marquee>./images/Metal Slug X (USA)-marquee.png</marquee>
-		<thumbnail>./images/Metal Slug X (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20010414T000000</releasedate>
 		<developer>SNK</developer>
@@ -840,15 +582,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11359</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114209" />
 	</game>
 	<game id="99472">
 		<name>I.Q. : Intelligent Qube</name>
 		<desc>Das 3D-Puzzle Kurushi ist eine Prüfung, ein Intelligenztest, der von einer höheren Macht entwickelt wurde. Sie sehen sich gewaltigen Würfeln gegenüber, die erbarmungslos auf Sie zurollen. Das Ziel: Nutzen Sie die Kraft Ihres Verstandes und Ihrer Minen, um die Würfel zu zerstören und sich einen Weg durch das Chaos zu bahnen, oder Sie werden untergehen! Denn nur wer seinen Fluchtweg rechtzeitig sichert, überlebt!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/I.Q - Intelligent Qube (USA)-image.png</image>
-		<marquee>./images/I.Q - Intelligent Qube (USA)-marquee.png</marquee>
-		<thumbnail>./images/I.Q - Intelligent Qube (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19970930T000000</releasedate>
 		<developer>G-Artists</developer>
@@ -857,15 +595,11 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>13904</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114210" />
 	</game>
 	<game id="19613">
 		<name>Road &amp; Track Presents : The Need for Speed</name>
 		<desc>The Need for Speed war das erste Spiel der Need-for-Speed-Serie und wurde erstmals 1994 für den 3DO veröffentlicht. 1995 wurde der Konsolen-Titel für den PC portiert, 1996 erschien der Titel auf der PlayStation und dem Sega Saturn. Im Spiel stehen acht Fahrzeuge zur Auswahl, die man auf sieben verschiedenen Strecken ausfahren kann. Eine Besonderheit des Spiels ist es, dass die Rennen auf normal befahrenen Straßen unter Polizeiverfolgung gespielt werden. Das Spiel entstand in Zusammenarbeit mit der US-amerikanischen Auto-Zeitschrift ?Road &amp; Track?, die genaue technische Details und viele Bilder und Videos zu den Autos beisteuerte.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Road &amp; Track Presents - The Need for Speed (USA)-image.png</image>
-		<marquee>./images/Road &amp; Track Presents - The Need for Speed (USA)-marquee.png</marquee>
-		<thumbnail>./images/Road &amp; Track Presents - The Need for Speed (USA)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>19960315T000000</releasedate>
 		<developer>EA Canada</developer>
@@ -875,7 +609,6 @@ Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5330</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114212" />
 	</game>
 	<game id="19252">
 		<name>Dino Crisis</name>
@@ -891,9 +624,6 @@ sie kennen keine Gnade.
 Also besorgen Sie sich Waffen und sehen Sie zu, daß Sie den Echsen aus dem Weg gehen, dem diese wartem nur auf Ihre Chance, 
 Sie in Stücke zu reißen.</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Dino Crisis (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Dino Crisis (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Dino Crisis (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19990901T000000</releasedate>
 		<developer>Capcom</developer>
@@ -902,15 +632,11 @@ Sie in Stücke zu reißen.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260823T114214" />
 	</game>
 	<game id="19270">
 		<name>Crash Bandicoot 2 : Cortex Strikes Back</name>
 		<desc>Die neuen Abenteuer von Crash Bandicoot, der die Welt wieder vor den mutierten Kreaturen des irren Wissenschaftlers retten muß. Brandneue 3D-Charaktere, komplett überarbeitete Grafiken und eine gerenderte Umgebung für totale Bewegungsfreiheit in einer Inselwelt voller verborgener Levels, geheimer Pfade und zusätzlicher Puzzles.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-image.png</image>
-		<marquee>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crash Bandicoot 2 - Cortex Strikes Back (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19971101T000000</releasedate>
 		<developer>Naughty Dog</developer>
@@ -920,15 +646,11 @@ Sie in Stücke zu reißen.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10432</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114216" />
 	</game>
 	<game id="19465">
 		<name>Clock Tower</name>
 		<desc>Clock Tower ist ein Survival-Horror-Point-and-Click-Adventure, das 1995 von Human Entertainment für den Super Famicom entwickelt und veröffentlicht wurde. Es ist der erste Teil der Clock Tower-Serie. In Japan ist das Spiel als Clock Tower 2 für die Playstation 1996 auf den Markt gekommen.</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Clock Tower (USA)-image.png</image>
-		<marquee>./images/Clock Tower (USA)-marquee.png</marquee>
-		<thumbnail>./images/Clock Tower (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19970110T000000</releasedate>
 		<developer>Human Entertainment</developer>
@@ -938,16 +660,12 @@ Sie in Stücke zu reißen.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>12783</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114221" />
 	</game>
 	<game id="19373">
 		<name>Syphon Filter 2</name>
 		<desc>Siphon Filter 2, die Fortsetzung des letztjährigen Siphon Filter, bietet neue Funktionen wie einen Zwei-Spieler-Modus, neue Orte, neue Waffen und mehr.
 Das Spiel lässt sich mit Goldeneye auf dem N64 vergleichen. Es ist ein Shooter, aber Sie müssen auch Strategie anwenden. Sie verfügen über eine Gesundheitsanzeige, es handelt sich also nicht um ein „Ein Schuss und Sie sind tot“-Spiel. Sie müssen Missionen erfüllen oder sich in einem Deathmatch mit Ihren Freunden oder Feinden messen. In der Handlung geht es darum, dass Sie den Verkauf des Siphon-Filter-Virus an eine terroristische Nation verhindern müssen.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Syphon Filter 2 (USA)-image.png</image>
-		<marquee>./images/Syphon Filter 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Syphon Filter 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000229T000000</releasedate>
 		<developer>Eidetic</developer>
@@ -957,33 +675,11 @@ Das Spiel lässt sich mit Goldeneye auf dem N64 vergleichen. Es ist ein Shooter,
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11286</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114228" />
-	</game>
-	<game id="19265">
-		<name>Silent Hill</name>
-		<desc>Harry Mason, ein seit vier Jahren verwitweter Schriftsteller, fährt gemeinsam mit seiner siebenjährigen Tochter Cheryl in den Urlaub, den beide auf Wunsch von Cheryl in der Kleinstadt Silent Hill verbringen wollen. Während der nächtlichen Fahrt schreckt er auf, da plötzlich ein junges Mädchen die Straße zu überqueren scheint. Er versucht auszuweichen und fährt in einen Graben, woraufhin er sein Bewusstsein verliert. Als er wieder aufwacht, ist Cheryl spurlos verschwunden. Daraufhin begibt sich Harry in das nahegelegene Silent Hill, um dort nach ihr zu suchen. Als er die Stadt erreicht, stellt er fest, dass diese in Nebel gehüllt ist und dass Monster umherlaufen. Aus Harrys verzweifelter Suche nach seiner verschollenen Tochter wird ein Abenteuer in einer Welt, in der Realität und Traum zu verschwimmen scheinen.</desc>
-		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Silent Hill (USA)-image.png</image>
-		<marquee>./images/Silent Hill (USA)-marquee.png</marquee>
-		<thumbnail>./images/Silent Hill (USA)-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19990131T000000</releasedate>
-		<developer>Team Silent</developer>
-		<publisher>Konami</publisher>
-		<family>Silent Hill</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11252</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114235" />
 	</game>
 	<game id="19264">
 		<name>Oddworld : Abe's Oddysee</name>
 		<desc>Abe ist ein Wesen aus dem Volk der Mudokaner und eigentlich ein Anti-Held. Wie viele seines Volkes ist er ein Sklave des Fleischproduzenten Molluck aus dem Volk der Glukkons. Als solcher ist er für das Bohnern der Gänge in dessen Lebensmittelfabrik RuptureFarms zuständig. Während seines Dienstes belauscht Abe zufällig eine Vorstandssitzung. Er erfährt, dass die Firma als Reaktion auf die nahezu ausgelöschten Nutztier-Bestände ein neues Lebensmittelprodukt mit der Bezeichnung ?New 'n' Tasty? auf den Markt zu bringen gedenkt. Grundlage dafür soll das Fleisch der Mudokaner sein. Ob dieser Erkenntnis gerät Abe in Panik und versucht zu fliehen. Abes Ziel ist es, aus RuptureFarm zu fliehen und anschließend für ihre Schließung zu sorgen, um so zu verhindern, dass die Produktion von New 'n' Tasty anlaufen kann.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Oddworld - Abe's Oddysee (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19970919T000000</releasedate>
 		<developer>Oddworld Inhabitants</developer>
@@ -993,7 +689,6 @@ Das Spiel lässt sich mit Goldeneye auf dem N64 vergleichen. Es ist ein Shooter,
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11295</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114237" />
 	</game>
 	<game id="19532">
 		<name>WipEout XL</name>
@@ -1001,9 +696,6 @@ Das Spiel lässt sich mit Goldeneye auf dem N64 vergleichen. Es ist ein Shooter,
 
 Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Klassiker. Jetzt kommt eine brutale neue Generation von Anti-Schwerkraft-Rennen. Vollgepackt mit schnellerer, flüssigerer Grafik, mehr Strecken, mehr Gleitern und einer Reihe fieser neuer Waffen, wird Wipeout XL dir den Rausch deines Lebens geben.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Wipeout XL (USA)-image.png</image>
-		<marquee>./images/Wipeout XL (USA)-marquee.png</marquee>
-		<thumbnail>./images/Wipeout XL (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19960930T000000</releasedate>
 		<developer>Psygnosis</developer>
@@ -1013,15 +705,11 @@ Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Kla
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>13913</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114238" />
 	</game>
 	<game id="19274">
 		<name>Tomb Raider II : Starring Lara Croft</name>
 		<desc>Lara Croft ist zurück! In ihrem neuesten Abenteuer begibt sich die Archäologin auf die Spur des Dolches von Xian. Wer diese mystische Waffe entdeckt, bekommt einem alten chinesischen Glauben zufolge eine unvorstellbare Macht verliehen... Laras gefährliche Suche nach dem Dolch beginnt an der Chinesischen Mauer, doch schon kurz darauf führt die abenteuerliche Reise an die verschiedensten Stätten rund um den Globus. Und Lara ist nicht allein... Andere finstere Banditen haben das gleiche Ziel: Den magischen Dolch in die Finger zu bekommen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-image.png</image>
-		<marquee>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-marquee.png</marquee>
-		<thumbnail>./images/Tomb Raider II - Starring Lara Croft (USA) (Rev 3)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19971031T000000</releasedate>
 		<developer>Core</developer>
@@ -1031,51 +719,11 @@ Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Kla
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11341</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114240" />
-	</game>
-	<game id="19280">
-		<name>Tekken 3</name>
-		<desc>Eine uralte böse Macht ist erwacht, die heimlich angreift und sich von den Seelen mächtiger Kriegern ernährt. Um Sie aus dem Versteck zu locken, wird es das größte Kampfturnier geben, das die Welt je gesehen hat ... Tekken 3. Manche kämpfen für Rache, manche um Ehre. Letztendlich kämpfen alle um ihr Leben und das Schicksal der gesamten Menschheit.</desc>
-		<genre>Kampf / Versus</genre>
-		<image>./images/Tekken 3 (USA)-image.png</image>
-		<marquee>./images/Tekken 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tekken 3 (USA)-thumb.png</thumbnail>
-		<rating>0.9</rating>
-		<releasedate>19980429T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<family>Tekken</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11259</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114242" />
-	</game>
-	<game id="19295">
-		<name>Gran Turismo</name>
-		<desc>In Gran Turismo trittst du in realistisch simulierten Rennen gegen KI-Gegner an und sammelst Fahrzeuge, Geld und Trophäen. Im Arcade-Modus kannst du frei aus Autos und Strecken wählen, während der Simulationsmodus dich dazu zwingt, Führerscheine zu bestehen, Rennen zu gewinnen und dein Geld strategisch für neue Fahrzeuge und Tuning einzusetzen. Je erfolgreicher du bist, desto mehr Inhalte schaltest du frei – bis hin zu Bonusvideos und Geheimwagen, die teilweise nur per Cheat verfügbar sind. Mit über 180 Autos und zahlreichen Strecken ist das Spiel ein Meilenstein für Rennspielfans.</desc>
-		<genre>Rennen, Fahren</genre>
-		<image>./images/Gran Turismo (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Gran Turismo (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Gran Turismo (USA) (Rev 1)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>19980512T000000</releasedate>
-		<developer>Polyphony Digital</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<family>Gran Turismo</family>
-		<players>1-2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>11320</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114244" />
 	</game>
 	<game id="19798">
 		<name>PaRappa the Rapper</name>
 		<desc>In der Rolle des Comic-Charakters Parappa muß der Spieler in verschiedenen Situationen seine Rap-Skills unter Beweis stellen. Das Spielprinzip beschränkt sich zu Beginn auf das korrekte Wiederholen von verschiedenen Phrasen, gefolgt von zahlreichen Sprachsamples. Ähnlich wie beim Karaoke erscheinen die jeweils benötigten Samples im Bildschirm. Um erfolgreich voranzukommen, ist perfektes Timing und ein gewisses Maß an Rhythmusgefühl nötig.</desc>
 		<genre>Musik und Tanz / Rythmus</genre>
-		<image>./images/PaRappa the Rapper (USA) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/PaRappa the Rapper (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/PaRappa the Rapper (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19971031T000000</releasedate>
 		<developer>Nanaon-Sha</developer>
@@ -1085,15 +733,11 @@ Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Kla
 		<lang>it,es,de,fr,en</lang>
 		<region>us</region>
 		<cheevosId>11368</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114245" />
 	</game>
 	<game id="19353">
 		<name>Doom</name>
 		<desc>Von der Union Aerospace Corporation (UAC) durchgeführte Teleportationsexperimente auf den beiden Marsmonden Phobos und Deimos öffnen ungewollt ein Portal zur Hölle. Dämonen besetzen die Forschungseinrichtungen, Menschen werden getötet oder in Zombies verwandelt. Der Spieler schlüpft in die Rolle eines Space Marines, der sich zu Beginn des Spieles nur mit einer Pistole bewaffnet auf dem Mond Phobos befindet. Im weiteren Verlauf erweitert sich das Arsenal um Kettensäge, Flinte, Gatling-Gewehr, Raketenwerfer, Plasmagewehr sowie die fiktive BFG9000 (laut Entwicklern die Abkürzung für Big Fucking Gun, oder Bio Force Gun im Doom-Film). Nachdem der Spieler das experimentelle Portal auf Phobos erreicht hat, teleportiert er sich von dort aus nach Deimos. Dieser zweite Marsmond befindet sich jedoch inzwischen nicht mehr in der Umlaufbahn des Planeten, sondern in der Höllendimension, aus der die angreifenden Monster stammen. Nachdem er auch die dortigen Einrichtungen von den Dämonen befreit hat, begibt sich der Spieler direkt in die Hölle, um den Urheber der dämonischen Invasion zu finden.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Doom (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Doom (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Doom (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19951116T000000</releasedate>
 		<developer>Williams Entertainment</developer>
@@ -1103,6 +747,240 @@ Der Vorgänger hat die Spielwelt in Brand gesteckt und wurde sofort zu einem Kla
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11256</cheevosId>
-		<scrap name="ScreenScraper" date="20260823T114250" />
+	</game>
+	<game id="19260">
+		<name>Metal Gear Solid</name>
+		<desc>FOXHOUND, ein abtrünniges, genetisch verbessertes Spezialkommando, unternimmt einen Putsch auf einem abgelegenen Archipel in Alaska, bei dem es sich in Wahrheit um "Shadow Moses", eine geheime Abrüstungseinrichtung der Regierung, handelt. Die Einheit unter der Leitung des Söldners Liquid Snake haben mehrere atomare Sprengköpfe in ihre Gewalt gebracht sowie den Mecha Metal Gear REX, der die Atomraketen abfeuern kann. Mit diesem Trumpf erpressen die Terroristen die US-Regierung, um die sterblichen Überreste des legendären Söldners Big Boss zu erhalten.
+Solid Snake kehrt notgedrungen aus dem Ruhestand zurück und wird auf die Bitte von Colonel Roy Campbell hin darauf angesetzt, die Verteidigungslinien der Terroristen zu durchdringen und die terroristische Bedrohung zu zerschlagen.</desc>
+		<genre>Action / Abenteuer</genre>
+		<rating>0.95</rating>
+		<releasedate>19981021T000000</releasedate>
+		<developer>KCEJ</developer>
+		<publisher>Konami</publisher>
+		<family>Metal Gear</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11244</cheevosId>
+	</game>
+	<game id="19527">
+		<name>Tony Hawk's Pro Skater</name>
+		<desc>Tony Hawk's Pro Skater wartet mit einem ausgeklügelten Trick- und Kombisystem auf, bei dem die Spieler sich an Hunderte von Kombinationen aus halsbrecherischen Moves und Stunts wagen können. Dabei stehen ihnen absolut realistische Strecken zur Verfügung, die sie mit der Geschwindigkeit und Beweglichkeit eine professionellen Skaters entlangheizen können. Auch die Spielumgebung hat jede Menge zu bieten: geheime Gelände, Abkürzungen und nahezu unzugängliche Punkte sowie zahlreiche Locations - von Einkaufszentren und Autobahnen bis hin zu Grundschulen und überfüllten Innenstädten. Mit unterschiedlichen Spielmodi, darunter ein einzigartiger Career Mode, bei dem die Laufbahn eines Profi-Skaters simuliert wird.</desc>
+		<genre>Sport / Skateboard</genre>
+		<rating>0.9</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Neversoft</developer>
+		<publisher>Activision</publisher>
+		<family>Tony Hawk</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11331</cheevosId>
+	</game>
+	<game id="19280">
+		<name>Tekken 3</name>
+		<desc>Eine uralte böse Macht ist erwacht, die heimlich angreift und sich von den Seelen mächtiger Kriegern ernährt. Um Sie aus dem Versteck zu locken, wird es das größte Kampfturnier geben, das die Welt je gesehen hat ... Tekken 3. Manche kämpfen für Rache, manche um Ehre. Letztendlich kämpfen alle um ihr Leben und das Schicksal der gesamten Menschheit.</desc>
+		<genre>Kampf / Versus</genre>
+		<rating>0.9</rating>
+		<releasedate>19980429T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>Tekken</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11259</cheevosId>
+	</game>
+	<game id="19265">
+		<name>Silent Hill</name>
+		<desc>Harry Mason, ein seit vier Jahren verwitweter Schriftsteller, fährt gemeinsam mit seiner siebenjährigen Tochter Cheryl in den Urlaub, den beide auf Wunsch von Cheryl in der Kleinstadt Silent Hill verbringen wollen. Während der nächtlichen Fahrt schreckt er auf, da plötzlich ein junges Mädchen die Straße zu überqueren scheint. Er versucht auszuweichen und fährt in einen Graben, woraufhin er sein Bewusstsein verliert. Als er wieder aufwacht, ist Cheryl spurlos verschwunden. Daraufhin begibt sich Harry in das nahegelegene Silent Hill, um dort nach ihr zu suchen. Als er die Stadt erreicht, stellt er fest, dass diese in Nebel gehüllt ist und dass Monster umherlaufen. Aus Harrys verzweifelter Suche nach seiner verschollenen Tochter wird ein Abenteuer in einer Welt, in der Realität und Traum zu verschwimmen scheinen.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<rating>0.8</rating>
+		<releasedate>19990131T000000</releasedate>
+		<developer>Team Silent</developer>
+		<publisher>Konami</publisher>
+		<family>Silent Hill</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11252</cheevosId>
+	</game>
+	<game id="19519">
+		<name>WipEout 3</name>
+		<desc>Das atemberaubende Anti-Gravitations-Rennen geht in die dritte Runde. Noch schneller, noch spannender und noch adrenalintreibender als je zuvor. Mit neuen Flugobjekten und neuen Waffen geht es über haarsträubende Strecken in einer noch nie dagewesenen Grafik. Durch den 2-Spieler-Splitscreen-Modus sind heiße Duelle vorprogrammiert. Anfänger und geübte Wipeout-Fans werden den Boden unter den Füßen verlieren - dieses Rennfieber packt jeden.
+
+Features:
+
+- 8 neue Rennstrecken, mit denen auch Anfänger ihre helle Freude haben
+
+- lizensierter Soundtrack mit dem europaweit bekannten DJ Sasha und anderen internationalen Stars der Techno-Szene
+
+- insgesamt 8 Rennteams</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.9</rating>
+		<releasedate>19990923T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Wipeout</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="19304">
+		<name>Gran Turismo 2 (Arcade Mode)</name>
+		<desc>„Gran Turismo 2“ kehrt zurück mit über 500 Wagenmodellen und mehr als 20 Strecken. Das Spiel bringt realistische Fahrphysik, detaillierte Streckensimulationen und DUALSHOCK-Vibration für ein authentisches Rennerlebnis. Neben Straßenrennen sind diesmal auch Rallye- und Querfeldein-Rennen im Fokus. Fahrzeuge aus aller Welt, von Japan über Europa bis zu den USA, stehen zur Auswahl und können mit Turboladern, Spoilern, Reifen und Getrieben individuell aufgerüstet werden. Bevor alle Möglichkeiten freigeschaltet sind, gilt es, 60 anspruchsvolle Lizenzprüfungen zu meistern. Der Splitscreen-Modus bietet spannende Duelle für zwei Spieler. Bereit für die ultimative Rennherausforderung?</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.95</rating>
+		<releasedate>19991223T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11278</cheevosId>
+	</game>
+	<game id="19295">
+		<name>Gran Turismo</name>
+		<desc>In Gran Turismo trittst du in realistisch simulierten Rennen gegen KI-Gegner an und sammelst Fahrzeuge, Geld und Trophäen. Im Arcade-Modus kannst du frei aus Autos und Strecken wählen, während der Simulationsmodus dich dazu zwingt, Führerscheine zu bestehen, Rennen zu gewinnen und dein Geld strategisch für neue Fahrzeuge und Tuning einzusetzen. Je erfolgreicher du bist, desto mehr Inhalte schaltest du frei – bis hin zu Bonusvideos und Geheimwagen, die teilweise nur per Cheat verfügbar sind. Mit über 180 Autos und zahlreichen Strecken ist das Spiel ein Meilenstein für Rennspielfans.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.95</rating>
+		<releasedate>19980512T000000</releasedate>
+		<developer>Polyphony Digital</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Gran Turismo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11320</cheevosId>
+	</game>
+	<game id="19249">
+		<name>Final Fantasy VII</name>
+		<desc>Die Shinra Corporation entzieht unserem Planeten alle Lebensenergie. Cloud ein eiskalter Söldner, übernimmt einen Auftrag von einer Gruppe von Öko-Kriegern. Doch er weiß nicht, dass dieser ihn auf eine Reise führt, die nicht nur sein Leben, sondern das Dasein aller Lebewesen im Universum verändern wird...
+Willkommen bei Final Fantasy VII - In dieser Welt prallen Magie und Wissenschaft aufeinander, Freundschaften werden geschlossen und wieder gelöst, und die Taten eines Einzelnen können die Zukunft entscheidend prägen!    </desc>
+		<genre>Rollenspiele</genre>
+		<rating>0.9</rating>
+		<releasedate>19970815T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Final Fantasy</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11242</cheevosId>
+	</game>
+	<game id="19376">
+		<name>Tenchu : Stealth Assassins</name>
+		<desc>Schleichen Sie sich an, und schlagen Sie mit tödlicher Präzision zu. Sie sind Rikimaru oder Ayame, ein Ninja in der dunklen Welt des feudalen Japan. Ausgerüstet mit mystischen Waffen und einem wachen Auge müssen Sie kämpfen, ohne entdeckt zu werden. Nur wer verborgen bleibt, überlebt.</desc>
+		<genre>Abenteuer</genre>
+		<rating>0.9</rating>
+		<releasedate>19980820T000000</releasedate>
+		<developer>Acquire</developer>
+		<publisher>Activision</publisher>
+		<family>Tenchu</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11300</cheevosId>
+	</game>
+	<game id="19407">
+		<name>Persona 2 : Eternal Punishment</name>
+		<desc>In Persona 2: Eternal Punishment, einem Rollenspiel für Playstation, schlüpfen Sie in die Rolle von Maya Amano, einer Journalistin in der japanischen Kleinstadt Sumaru, wo kürzlich seltsame Morde begangen wurden. Gemeinsam mit Ulala, der Seherin, und Katsuya, der Detektivin, versuchen Sie, die Wahrheit hinter diesen mysteriösen Morden aufzudecken.</desc>
+		<genre>Rollenspiele</genre>
+		<rating>0.9</rating>
+		<releasedate>20001222T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<family>Persona</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11325</cheevosId>
+	</game>
+	<game id="19298">
+		<name>Xenogears</name>
+		<desc>Eine geheimnisvolle Organisation wendet das Blatt eines jahrhundertelangen Krieges mit uralter Technologie - riesigen Kampfrobotern.
+Durch einen missglückter Versuch einen der Roboter zu stehlen, gelangt diese mächtige mechanisierte Waffe in die widerwilligen Hände des jungen Fei und seiner zweifelhaften Verbündeten.
+Jetzt wird er von Militärregierungen, königlichen Piraten, Spionen, dem Kaiser und seiner eigenen vergessenen Vergangenheit verfolgt.</desc>
+		<genre>Rollenspiele / Japanisches Rollenspiel</genre>
+		<rating>0.85</rating>
+		<releasedate>19981020T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11248</cheevosId>
+	</game>
+	<game id="19343">
+		<name>Soul Blade</name>
+		<desc>Namco, Schöpfer der Tekken-Serie, präsentiert die fortschrittlichste Waffen-Kampfsimulation aller Zeiten! Wilde Schwertkämpfe mit Teilnehmern aus der ganzen Welt – ein episches Spiel exklusiv für die PlayStation!</desc>
+		<genre>Kampf</genre>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>SoulCalibur</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="19328">
+		<name>Syphon Filter</name>
+		<desc>Der Geheimdienst hat die Machenschaften einer internationalen Terroristenorganisation aufgedeckt, die biologische Kampfwaffen entwickelt. Nun ist Ihr Einsatz gefragt, um ein weltweites Blutbad zu verhindern. Von Erkundungen, über verdeckte Einsätze, bis zu radikalen Kampfaktionen – erfüllen Sie Ihre Mission ohne Rücksicht auf Verluste.</desc>
+		<genre>Shooter</genre>
+		<rating>0.9</rating>
+		<releasedate>19990131T000000</releasedate>
+		<developer>Eidetic</developer>
+		<publisher>989</publisher>
+		<family>Syphon Filter</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10675</cheevosId>
+	</game>
+	<game id="19255">
+		<name>Star Ocean : The Second Story</name>
+		<desc>In einem endlosen Sternenmeer am Rande des Universums steht eine einzelne, schicksalhafte Begegnung bevor. Die Götter haben einen tödlichen Meteoriten auf einen ahnungslosen Planeten geschleudert und damit mysteriöse Ereignisse und plötzliches Chaos ausgelöst. Nun treffen zwei Menschen aus völlig verschiedenen Welten aufeinander und werden in ein Abenteuer von solcher Tiefe verstrickt, dass sie vielleicht nie wieder zurückkehren können.
+
+Mit Star Ocean - The second Story meldete sich Enix nach langer Abstinenz wieder mit einem Rollenspiel ausserhalb Japans zurück. Das Spiel stellt die offizielle Fortsetzung des Super Nintendo-Klassikers Star Ocean dar, welcher nur in Japan erschien. Star Ocean war damals eines der letzten großartigen SNES Spiele, fand jedoch trotz vieler Innovationen angesichts der aufkeimenden 32-Bit Euphorie nicht den verdienten Erfolg.</desc>
+		<genre>Rollenspiele</genre>
+		<rating>0.85</rating>
+		<releasedate>19990531T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<family>Star Ocean</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11253</cheevosId>
+	</game>
+	<game id="19308">
+		<name>Parasite Eve</name>
+		<desc>Eine von ihnen ist eine Polizistin. Die Andere ist von einem uralten Übel besessen, das alles Leben auf der Erde bedroht. Die schreckliche Verbindung zwischen ihnen wird weitergehen, bis eine von ihnen stirbt.</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<rating>0.8</rating>
+		<releasedate>19980908T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<family>Parasite Eve</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11277</cheevosId>
+	</game>
+	<game id="19316">
+		<name>Suikoden</name>
+		<desc>Im "Reich des scharlachroten Mondes" geht der Verrat um. Ist das Imperium korrupt oder verhält sich das Volk illoyal? Nur Sie können das herausfinden. Übernehmen Sie in diesem Epos um Treuebruch, Neid und Ehre die Rolle des Reichwächters. Leiten Sie aus Soldaten und Magiern bestehende Einheiten, führen Sie Gefechte gegen gefährliche Monster, und lüften Sie das Geheimnis um das bedrohte Reich. Suikoden ist ein einzigartiges Rollenspiel. Der gesamte Bildschirm erscheint in englicher Sprache.</desc>
+		<genre>Rollenspiele</genre>
+		<rating>0.8</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<family>Suikoden</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>11255</cheevosId>
 	</game>
 </gameList>

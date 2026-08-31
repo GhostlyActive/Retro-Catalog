@@ -4,9 +4,6 @@
 		<name>Ridge Racer 64</name>
 		<desc>Namco präsentiert mit Ridge Racer 64 eine ausgefeilte Umsetzung bisheriger Ridge Racer-Titel sowie exklusiv für das Nintendo 64 gestaltete, völlig neue Kurse! Die authentische Renn-Action bietet jede Menge Effekte: Fantastische Lichteffekte, Kurvendrifting oder rauchende Reifen - für realistischen Rennspielspaß ist bestens gesorgt! - Der Arcade-Hit nun endlich für das Nintendo 64! - Steuere mehr als 30 verschiedene Rennwagen auf 9 schwierigen Strecken! - Exklusive Rennstrecken, die nur für das Nintendo 64 programmiert wurden! - Für spannende Rennduelle mit bis zu 4 Spielern gleichzeitig!</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/RR64 - Ridge Racer 64 (USA)-image.png</image>
-		<marquee>./images/RR64 - Ridge Racer 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/RR64 - Ridge Racer 64 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000214T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -16,15 +13,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10186</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005318" />
 	</game>
 	<game id="5637">
 		<name>San Francisco Rush 2049</name>
 		<desc>San Francisco im Jahre 2049: Steigen Sie ein in einen raketengetriebenen Supersportwagen und liefern Sie sich mit dem Computer oder Freunden spannende Hochgeschwindigkeitsduelle durch die Häuserschluchten der kalifornischen Metropole! Alternativ können Sie heiße Stunts mit Ihrem Wagen auf extra dafür vorgesehene Parcours absolvieren, oder, ausgestattet mit High-Tech-Waffen, in der Arena gegnerische Fahrzeuge in einem modernen Gladiatorkampf besiegen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/San Francisco Rush 2049 (USA)-image.png</image>
-		<marquee>./images/San Francisco Rush 2049 (USA)-marquee.png</marquee>
-		<thumbnail>./images/San Francisco Rush 2049 (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20000907T000000</releasedate>
 		<developer>Midway</developer>
@@ -34,15 +27,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10333</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005320" />
 	</game>
 	<game id="59511">
 		<name>WinBack : Covert Operations</name>
 		<desc>Der erste Schuß zerstörte das Weltrauminstitus. In genau 3 Stunden wird der High-Tech Satellit wieder schußbereit sein... Es ist Ihre Aufgabe dies zu verhindern. Eine Terroristengruppe namens Crying Lions hat sich den einzigen Zugang zu DAMOCLES verschafft, einem militärischen Top Secret-Satelliten, und nutzte ihn gnadenlos. Der Verteidigungsminister weiß, daß er nur noch ein As im Ärmel hat - er befiehlt S.C.A.T. (dem Strategic Covert Actions Team) sich zu mobilisieren - Ihre Einsatzbefehle: Stürmen des Kontrollzentrums in Westham und die Zurückeroberung der Kontrolle über DAMOCLES.</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/WinBack - Covert Operations (USA)-image.png</image>
-		<marquee>./images/WinBack - Covert Operations (USA)-marquee.png</marquee>
-		<thumbnail>./images/WinBack - Covert Operations (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990930T000000</releasedate>
 		<developer>OMEGA Force</developer>
@@ -52,15 +41,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11608</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005322" />
 	</game>
 	<game id="5431">
 		<name>Mario Tennis</name>
 		<desc>Die bekanntesten Helden des Nintendo Universums, u.a. Mario, Donkey Kong, Wario und Luigi haben sich versammelt, um dem weißen Sport zu frönen. Zusätzlich gibt es in Mario Tennis auch einen neuen Charakter und zwar Warios Bruder und Luigis Erzfeind Waluigi, von dem man auch in Zukunft noch viel hören wird! Mario Tennis vereint alle Qualitäten des realen Sports: rasante Ballwechsel, spektakuläre Schlagtechniken und atemberaubende Doppel! Diverse Bonus-Courts, witzige Extras und vieles mehr sorgen für Abwechslung im Tenniszirkus.</desc>
 		<genre>Sport / Tennis</genre>
-		<image>./images/Mario Tennis (USA)-image.png</image>
-		<marquee>./images/Mario Tennis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Tennis (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000828T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -70,15 +55,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10024</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005324" />
 	</game>
 	<game id="5568">
 		<name>Rocket : Robot On Wheels</name>
 		<desc>DIE HOFFNUNG HAT EINEN NEUEN NAMEN: ROCKET - ROBOT ON WHEELS! Erkunde den Park mit durchgeknallten Vehikeln und benutze Deinen Traktorstrahl, um Objekte zu benutzen, zu heben und zu werfen.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Rocket - Robot on Wheels (USA)-image.png</image>
-		<marquee>./images/Rocket - Robot on Wheels (USA)-marquee.png</marquee>
-		<thumbnail>./images/Rocket - Robot on Wheels (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19991031T000000</releasedate>
 		<developer>Sucker Punch Productions</developer>
@@ -87,33 +68,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10900</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005329" />
-	</game>
-	<game id="5438">
-		<name>Kirby 64 : The Crystal Shards</name>
-		<desc>Kirby legt sich mit Dark Matter an und sucht die Stücke des zerschmetterten Kristalls. Auf seinen fanatischen Abenteuern begegnet er über 50 Fieslingen, die über die Kristalle wachen. Um sie zu besiegen, setzt Kirby seine einmaligen Fähigkeiten ein, dann er kann Gegner einatmen und dadurch ihre Eigenschaften annehmen! Mit den neu errungenen Features gelingt es Kirby, weitere Feinde zu attackieren. Insgesamt gibt es 35 Möglichkeiten, die unterschiedlichen Eigenschaften zu kombinieren.</desc>
-		<genre>Plattform</genre>
-		<image>./images/Kirby 64 - The Crystal Shards (USA)-image.png</image>
-		<marquee>./images/Kirby 64 - The Crystal Shards (USA)-marquee.png</marquee>
-		<thumbnail>./images/Kirby 64 - The Crystal Shards (USA)-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<family>Kirby</family>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>10246</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005331" />
 	</game>
 	<game id="5490">
 		<name>International Superstar Soccer 2000</name>
 		<desc>Das Warten hat sich gelohnt. Mit noch mehr Features, verbesserter Grafik und verfeinertem Gameplay erwartet den Spieler das realistischste und spannendste Fußballspiel des neuen Jahrtausends. Bahnbrechend ist der neue Karriere-Modus. Der Spieler durchlebt in der Rolle eines Schülers den harten Weg von der Jugend bis hin zum Profifußball. Das gesamte soziale Umfeld eines Jugendlichen wird dabei berücksichtigt. Einfach unglaublich ist die Tatsache, daß neben Disziplin und Teamgeist auch das soziale Verhalten außerhalb des Spielfelds die Eigenschaften des Spielers prägen. Kein Spieler entwickelt sich identisch! Allein der Karriere-Modus würde ein eigenes Spiel rechtfertigen. Gigantisch.</desc>
 		<genre>Sport / Fußball</genre>
-		<image>./images/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)-image.png</image>
-		<marquee>./images/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20000803T000000</releasedate>
 		<developer>KCEO</developer>
@@ -122,15 +81,11 @@
 		<players>1-4</players>
 		<lang>es,en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005333" />
 	</game>
 	<game id="5566">
 		<name>World Driver Championship</name>
 		<desc>Mit World Driver Championship ist der heißeste Anwärter für das beste N64-Rennspiel gestartet. Die Fachpresse ist sich einig: World Driver Championship ist das Gran Turismo für das N64. Als Karrierefahrer gilt es, sich einen Namen zu machen, um hinter das Steuer der coolsten Wagen dieser Welt zu gelangen. Nur die besten erhalten die einmalige Chance, für die großen Teams zu fahren und die GT1-Klasse zu erreichen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/World Driver Championship (USA)-image.png</image>
-		<marquee>./images/World Driver Championship (USA)-marquee.png</marquee>
-		<thumbnail>./images/World Driver Championship (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990531T000000</releasedate>
 		<developer>Boss Game</developer>
@@ -139,15 +94,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10091</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005335" />
 	</game>
 	<game id="5521">
 		<name>Space Station Silicon Valley</name>
 		<desc>Reisen Sie in die Zukunft und lösen Sie das Geheimnis der Raum-Station Silicon Valley, der erste Versuch der Menschheit, intelligente, sich selbst reproduzierende und entwickelnde Roboter zu schaffen, schlug fehl. Treffen Sie auf Ihrer Reise raketenwerfende Füchse, Lamas mit Kettensägen, Polarbären mit Katapulten und viele andere. Kriechen Sie durch Abwasserkanäle, erklimmen Sie hohe Berge oder entdecken Sie neue Landschaften, aber in jedem Fall: lösen die das Geheimnis dieser Raumstation.</desc>
 		<genre>Plattform</genre>
-		<image>./images/SpaceStation Silicon Valley (USA) (Rev 1)-image.png</image>
-		<marquee>./images/SpaceStation Silicon Valley (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/SpaceStation Silicon Valley (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19981021T000000</releasedate>
 		<developer>DMA Design</developer>
@@ -155,15 +106,11 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005337" />
 	</game>
 	<game id="5395">
 		<name>The Legend of Zelda : Ocarina of Time</name>
 		<desc>Im Alter von neun Jahren wird Link zum Wächter des Volkes geschickt, dem Deku-Baum ? ein fabelhaftes Wesen in Gestalt eines Baumes. Der Deku-Baum weist Link eine Fee namens Navi als Begleiterin zu und offenbart dem Jungen eine Bedrohung durch Ganondorf, dem Anführer des Wüstenvolkes der Gerudo. Kurz darauf stirbt der Deku-Baum an den Folgen eines Fluches. Dessen letzten Worten folgend, reist Link zum Schloss Hyrule und trifft dort Prinzessin Zelda. Diese misstraut Ganondorf, da sie in einem Traum von dessen bösen Absichten erfuhr. Obwohl Ganondorf dem König von Hyrule seine Treue schwört, begehrt er das Triforce, ein göttliches Relikt unendlicher Macht, das sich in Hyrule befinden soll. Weil Zelda verhindern möchte, dass Ganondorf das Triforce erhält, weiht sie Link in einen Plan ein, das Heiligtum vor Ganondorf zu beschützen. Das Triforce befindet sich im Heiligen Reich, für dessen Zugang als Schlüssel die drei heiligen Steine benötigt werden.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19981123T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -172,7 +119,6 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005345" />
 	</game>
 	<game id="5416">
 		<name>Star Fox 64</name>
@@ -180,9 +126,6 @@
 
 Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich General Pepper an das neue Star-Fox-Team, bestehend aus James? Sohn Fox McCloud, Falco Lombardi, Slippy Toad und Peppy Hare. In ihren Händen liegt nun das Schicksal des Lylat-Systems.</desc>
 		<genre>Shooter / Fahrzeug, 3. Pers.</genre>
-		<image>./images/Star Fox 64 (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Star Fox 64 (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Star Fox 64 (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19970630T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -191,15 +134,11 @@ Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005352" />
 	</game>
 	<game id="5467">
 		<name>Goemon's Great Adventure</name>
 		<desc>Mystical Ninja 2 - Starring Goemon ist im Gegensatz zu seinem Vorgänger auf dem N64 ein traditionelles, horizontal scrollendes Jump &amp; Run mit Adventure-Elementen, das durch sein hervorragendes Gameplay gerade im Zweispieler-Modus besticht. Grafik und Sound sind wie bei Goemon-Spielen üblich völlig abgedreht und unterstreichen einmal mehr den Kultstatus der Serie.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Goemon's Great Adventure (USA)-image.png</image>
-		<marquee>./images/Goemon's Great Adventure (USA)-marquee.png</marquee>
-		<thumbnail>./images/Goemon's Great Adventure (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990915T000000</releasedate>
 		<developer>Konami</developer>
@@ -209,15 +148,11 @@ Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10198</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005354" />
 	</game>
 	<game id="5418">
 		<name>F-Zero X</name>
 		<desc>...in wenigen Momenten beginnt das haarsträubendste, wahnwitzigste und spektakulärste Hochgeschwindigkeits-Rennen des 22. Jahrhunderts. Mit futuristischen Raumgleitern, die innerhalb weniger Sekunden von 0 auf 1000 Stundenkilometer beschleunigen, rast Du durch verrückte Cyber-Landschaften voller Loopings, Sprungschanzen und Schikanen. Nur die besten Fahrer haben eine reelle Chance, lebendig das Ziel zu erreichen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/F-Zero X (USA)-image.png</image>
-		<marquee>./images/F-Zero X (USA)-marquee.png</marquee>
-		<thumbnail>./images/F-Zero X (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19981026T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -227,15 +162,11 @@ Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10133</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005401" />
 	</game>
 	<game id="5410">
 		<name>Pokémon Snap</name>
 		<desc>Der berühmte Professor bittet dich, die wolden Pokemon, die auf der Pokemon-Inseln leben, auf Film zu bannen. In deinem ZERO-ONE Multifunktionsfahrzeug machst du dich auf, um Pokemon in ihrer natürlichen Umgebung zu erforschen. Aber wilde Pokemon sind oft sehr scheu. Um ein Pokemon vor die Linse zu bekommen, musst du verschiedene Gegenstände gezielt einsetzen. Jedoch akzeptiert Prof. Eich nur die besten und schärfsten Fotos, die witzigsten Posen und aufregendsten Aktionen. Also mach dich auf, und "SNAP" sie dir alle!Der berühmte Professor bittet dich, die wolden Pokemon, die auf der Pokemon-Inseln leben, auf Film zu bannen. In deinem ZERO-ONE Multifunktionsfahrzeug machst du dich auf, um Pokemon in ihrer natürlichen Umgebung zu erforschen. Aber wilde Pokemon sind oft sehr scheu. Um ein Pokemon vor die Linse zu bekommen, musst du verschiedene Gegenstände gezielt einsetzen. Jedoch akzeptiert Prof. Eich nur die besten und schärfsten Fotos, die witzigsten Posen und aufregendsten Aktionen. Also mach dich auf, und "SNAP" sie dir alle!</desc>
 		<genre>Shooter / Fahrzeug, 1. Pers.</genre>
-		<image>./images/Pokemon Snap (USA)-image.png</image>
-		<marquee>./images/Pokemon Snap (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Snap (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990630T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -245,15 +176,11 @@ Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10155</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005408" />
 	</game>
 	<game id="5398">
 		<name>Super Smash Bros.</name>
 		<desc>Durch die umfangreiche Auswahl an Special Moves und Extras überraschen Dich die Spielfiguren bei Super Smash Bros. für N64 mit immer wieder neuen, fulminanten Angriffsvarianten. Kämpfe gegen besondere Gegner wie den Marionator, den Riesen-Donkey oder gegen die rauflustige Polygon-Gang. Vier versteckte Kämpfer und unzählige Bonusspiele mit Jump'n'Run-Einlagen bieten durchgehenden Spielspaß bis zum finalen Endgegner: Giganten-Glover! Super Smash Bros. für N64 bietet schnelles, actionreiches Gameplay für bis zu vier Spieler gleichzeitigmit den beliebtesten Figuren aus den Nintendo Meisterwerken!</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Super Smash Bros. (USA)-image.png</image>
-		<marquee>./images/Super Smash Bros. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Smash Bros. (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990426T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -263,7 +190,6 @@ Als Andross eines Tages erneut das Lylat-System zu erobern versucht, wendet sich
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10082</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005414" />
 	</game>
 	<game id="5429">
 		<name>Mario Party 2</name>
@@ -273,9 +199,6 @@ Zur gleichen Zeit tauchte plötzlich unerwartet Bowser auf und fing an, Mario La
 
 Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht die Welt nach dem Helden der Bowser besiegt"? Die Freunde stimmten einander ein und machten sich auf den Weg nach "Mario Land"!</desc>
 		<genre>Brettspiele</genre>
-		<image>./images/Mario Party 2 (USA)-image.png</image>
-		<marquee>./images/Mario Party 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Party 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000124T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -285,15 +208,11 @@ Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10264</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005420" />
 	</game>
 	<game id="5409">
 		<name>Diddy Kong Racing</name>
 		<desc>Das böse Zauberschwein Wizpig ist auf der Insel von Taj eingefallen und hat diese mit einem Fluch belegt. Da Tajs magische Kräfte nicht ausreichen, um das Unheil abzuwenden, bittet er Timber und seine Freunde um Hilfe, die wiederum Kontakt zu Diddy Kong aufnehmen. Um den Fluch von der Insel zu nehmen, müssen sie in den vier Bereichen der Insel goldene Ballongs sammeln und die Wächter der Welten von ihrem Fluch befreien, indem sie sie in einem Rennen besiegen...</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Diddy Kong Racing (USA) (En,Fr) (Rev 1)-image.png</image>
-		<marquee>./images/Diddy Kong Racing (USA) (En,Fr) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Diddy Kong Racing (USA) (En,Fr) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19971124T000000</releasedate>
 		<developer>Rareware</developer>
@@ -302,15 +221,11 @@ Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht 
 		<players>1-4</players>
 		<lang>fr,en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005421" />
 	</game>
 	<game id="5582">
 		<name>Snowboard Kids 2</name>
 		<desc>Verteidige so gut es geht die Stadt vor dem fiesen Damien! Das geht am besten mit coolen Tricks, rasanten Geschwindigkeiten und perfekter Balance. Bei N64 - Snowboard Kids 2 stürzt Du Dich in ein Abenteuer voller wintersportgeladener Action. Du kannst dein eigenes Board wählen, verschiedene Charakter ausprobieren und sogar unterschiedliche Arten von Pisten auswählen! Und das ganze musst Du nicht mal alleine machen; Snowboard Kids 2 gibt dir die Möglichkeit, auf deinem N64 mit drei Deiner Freunde die rasante Welt des Snowboardens zu erobern. Hast Du das Zeug dazu. die Stadt zu verteidigen und dabei unschlagbar coole Tricks zu machen? Oder bist Du doch eher der Speedtyp, der Pisten so schnell wie kein anderer fahren kann? Finde es jetzt mit dem Klassiker Snowboard Kids 2 heraus!</desc>
 		<genre>Sport / Ski</genre>
-		<image>./images/Snowboard Kids 2 (USA)-image.png</image>
-		<marquee>./images/Snowboard Kids 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Snowboard Kids 2 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19990302T000000</releasedate>
 		<developer>Racdym</developer>
@@ -320,15 +235,11 @@ Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10247</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005426" />
 	</game>
 	<game id="5439">
 		<name>Wave Race 64</name>
 		<desc>Bei diesem sensationell realistischen Jet-Ski-Rennen peitscht Dir der Wind der Gischt nur so um die Ohren. Schwing Dich auf den Jet-Ski Deiner Wahl und begib Dich auf die Jagd nach Bestzeiten. Vermeide vollbeladene Tanker im Hafen, Holzstege und Riffe. Hänge Deine Verfolger ab und nutze die unterschiedlichen Witterungsbedingungen zu Deinem Vorteil. Meterhohe Sprünge aus einem aufgewählten Wellental, 360°-Drehungen, unglaubliche Stunts und nervenzerfetzende Rennen gegen die stärksten Wave Rider der Welt erwarten Dich! Spiele gegen den Computer oder fordere einen Freund zum Wettkampf heraus. Wave Race eröffnet eine völlig neues Rennspiel-Zeitalter!</desc>
 		<genre>Sport / nautisch</genre>
-		<image>./images/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19961101T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -338,15 +249,11 @@ Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10617</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005432" />
 	</game>
 	<game id="5422">
 		<name>Worms Armageddon</name>
 		<desc>Endlich sind auch im N-64 die Würmer drin! Der Spieler dirigiert seine eigene Worms-Armee und zieht in den Kampf gegen andere Teams. Taktik und spielerische Kalkül sind gefragt, um den Gegner in die Enge zu treiben. Marsbrühe und Lavagruben, mit bis an die Zähne bewaffneten Kriechtieren.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Worms Armageddon (USA) (En,Fr,Es)-image.png</image>
-		<marquee>./images/Worms Armageddon (USA) (En,Fr,Es)-marquee.png</marquee>
-		<thumbnail>./images/Worms Armageddon (USA) (En,Fr,Es)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000330T000000</releasedate>
 		<developer>Infogrames</developer>
@@ -355,7 +262,6 @@ Als Bowser Mario Land zerstörte kam Toad auf die Idee: "Warum nennen wir nicht 
 		<players>1-4</players>
 		<lang>es,fr,en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005437" />
 	</game>
 	<game id="5402">
 		<name>Conker's Bad Fur Day</name>
@@ -365,9 +271,6 @@ In diesem Fall hat Conker eine höllische Nacht hinter sich, und wenn er aufwach
 
 Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf klassischen Filmen wie The Matrix, Jaws, Aliens, The Terminator und sogar Eyes Wide Shut basieren. Ein Multiplayer-Modus ist ebenfalls enthalten, der es 4 Spielern ermöglicht, in vielen verschiedenen Arten von Multiplayer-Gameplay zu kämpfen.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Conker's Bad Fur Day (USA)-image.png</image>
-		<marquee>./images/Conker's Bad Fur Day (USA)-marquee.png</marquee>
-		<thumbnail>./images/Conker's Bad Fur Day (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20010305T000000</releasedate>
 		<developer>Rareware</developer>
@@ -377,15 +280,11 @@ Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10164</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005442" />
 	</game>
 	<game id="5449">
 		<name>Bomberman 64</name>
 		<desc>Bomberman 64 ist ein Actionspiel auf Nintendo 64. Du spielst Bomberman und gehst durch Levels, indem du alles auf deinem Weg in die Luft jagst, egal ob es Mauern oder Feinde sind. Dieses Spiel bietet dir 24 Levels und die Möglichkeit, deinen kleinen Bomber individuell zu gestalten. Bomberman 64 ist mit 4 auf der gleichen Bildschirm spielbar.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Bomberman 64 (USA)-image.png</image>
-		<marquee>./images/Bomberman 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman 64 (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19971130T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -395,15 +294,11 @@ Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10120</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005444" />
 	</game>
 	<game id="5408">
 		<name>Pokémon Stadium 2</name>
 		<desc>Jetzt geht der Wettstreit um den Titel des besten Pokemon Trainers weiter. Für faszinierend actionreiche Kämpfe stehen im Pokemon Stadium 2 nun alle 251 Pokemon aus der Goldenen, Silbernen, Roten, Blauen und Gelben Edition bereit! Spektakuläre 3D-Grafiken lassen die Arenen noch lebendiger erscheinen. Atemberaubende Spezialeffekte sowie eine Vielzahl von Spielmodi garantieren jedem begeisterten Pokemon Freak noch spannendere Dimensionen: Alle Pokemon Editionen (Gold, Silber, Rot, Blau und Gelb), die bisher für den Game Boy erschienen sind, können auf dem Nintendo 64 gespielt werden. Darüber hinaus kann man die im Game Boy Spiel geschnappten Pokemon in voller Dreidimensionalität auf dem Nintendo 64 gegeneinander antreten lassen!</desc>
 		<genre>Strategie</genre>
-		<image>./images/Pokemon Stadium 2 (USA)-image.png</image>
-		<marquee>./images/Pokemon Stadium 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Stadium 2 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20010325T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -413,15 +308,11 @@ Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10258</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005446" />
 	</game>
 	<game id="5528">
 		<name>WWF No Mercy</name>
 		<desc>Mischen sie die WWF mal so richtig auf! Steigen sie zusammen mit den mächtigsten und fiesesten Jabronis in den Ring und erleben sie die härteste Wrestling-Action, die sie je in einem Konsolespiel gesehen haben. FEATURES: - Alle neuen "Double Team Moves" wie z.B. der "Dudley 3D Deathtrop" - Fordern Sie im Survival-Modus die ganze WWF heraus - Mehr als 65 WWF Supersars - Völlig neues Leiter Match.</desc>
 		<genre>Sport / Kampfsport</genre>
-		<image>./images/WWF No Mercy (USA) (Rev 1)-image.png</image>
-		<marquee>./images/WWF No Mercy (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/WWF No Mercy (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20001117T000000</releasedate>
 		<developer>AKI Corporation</developer>
@@ -431,16 +322,12 @@ Conker durchläuft viele wilde und verrückte Levels, von denen die meisten auf 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10331</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005451" />
 	</game>
 	<game id="5478">
 		<name>Body Harvest</name>
 		<desc>2050 Die Erde ist tot. Die Menschheit vernichtet. Durch ein Jahrhundert von Alien-Angriffen ausgestorben. Eine letzte, verzweifelte Chance bleibt. Jemand muss in der Zeit zurückreisen und die außerirdischen Raubtiere bekämpfen, bevor sie ihre abscheuliche Invasion beenden.
 Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Reise in die Weiten der Erdgeschichte zu machen. Sein Ziel - stoppt die Aliens.</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Body Harvest (USA)-image.png</image>
-		<marquee>./images/Body Harvest (USA)-marquee.png</marquee>
-		<thumbnail>./images/Body Harvest (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19981020T000000</releasedate>
 		<developer>DMA Design</developer>
@@ -449,16 +336,12 @@ Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Rei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10265</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005456" />
 	</game>
 	<game id="5412">
 		<name>Star Wars Episode I : Racer</name>
 		<desc>Steig ein, schnall Dich an und spüre, wie Dir das Adrenalin durch die Adern schießt, wenn Du die Rennsequenzen aus Star Wars Episode I: Die Dunkle Bedrohung neu erleben darfst. Übernimm als Anakin Skywalker, dem potentiellen Jedi, die Kontrolle über Deinen Podracer, oder schlüpf in die Rolle eines der anderen 20 Piloten. Lass Dich von zwei riesigen Jet-Turbinen auf eine Geschwindigkeit von über 950 km/h beschleunigen und flieg über acht verschiedene Welten. Bei Star Wars: Episode 1 Racer meisterst Du brennende Methan-Seen, Angriffe von Tusken, Anti-Grav-Tunnel und andere Hindernisse in einem Rennen, das Dich bis an Dein Limit fordern wird. Ein Wettkampf, bei dem es um alles geht und jeder Pilot versuchen wird, als erster die Ziellinie zu überqueren! Erlebe die Spannung und Dramatik der Rennsequenzen aus Star Wars Episode I: Die Dunkle Bedrohung, wenn Du mit deinem Podracer mit Deinen Nachbrennern mühelos Geschwindigkeiten von über 950 Kilometern in der Stunde erreichst.
 </desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Star Wars Episode I - Racer (USA)-image.png</image>
-		<marquee>./images/Star Wars Episode I - Racer (USA)-marquee.png</marquee>
-		<thumbnail>./images/Star Wars Episode I - Racer (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19990519T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -468,15 +351,11 @@ Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Rei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10161</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005501" />
 	</game>
 	<game id="5523">
 		<name>Blast Corps</name>
 		<desc>Blast Corps ist ein Actionspiel auf Nintendo 64. Mit Planierraupen, Baurobotern, Raketen und Lastwagen zerstören Sie ganze Städte. Ihr habt viele Waffen zur Verfügung, um euren Durst nach Chaos zu stillen.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Blast Corps (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Blast Corps (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Blast Corps (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19970324T000000</releasedate>
 		<developer>Rareware</developer>
@@ -485,51 +364,11 @@ Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Rei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10162</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005503" />
-	</game>
-	<game id="5441">
-		<name>1080 TenEighty Snowboarding</name>
-		<desc>Der Spieler hat die Aufgabe, als Snowboarder Rennen zu fahren oder Tricks ausüben. 1080° Snowboarding besitzt mehrere Rennmodi, die sich ungefähr in zwei Gruppen aufteilen lassen: in den Trick-Modi geht es darum, mit dem Snowboard so viele Tricks wie möglich auszuführen, während man in den Renn-Modi gegen die Zeit oder andere Spieler eine Piste herunterfahren muss. Man kann zu Beginn des Spiels zwischen fünf Snowboardern sowie acht Snowboards wählen, weitere lassen sich freischalten.</desc>
-		<genre>Sport / Ski</genre>
-		<image>./images/1080 Snowboarding (Japan, USA) (En,Ja)-image.png</image>
-		<marquee>./images/1080 Snowboarding (Japan, USA) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/1080 Snowboarding (Japan, USA) (En,Ja)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19980228T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<family>1080</family>
-		<players>1-2</players>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<cheevosId>10136</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005513" />
-	</game>
-	<game id="5396">
-		<name>Super Mario 64</name>
-		<desc>Prinzessin Peach hat Mario einen Brief gesendet, in dem stand, dass er zum Schloss kommen soll, da sie ihm einen Kuchen gebacken hat. Im Schloss angekommen, ertönt eine schaurige Stimme die ihm befielt, dass er sofort das Schloss verlassen soll. Daraufhin wird er von einem Toad informiert, dass Prinzessin Peach von Bowser entführt wurde und er die Power Sterne des Schlosses entwendet hat. Nun liegt es an Mario die Power Sterne aus den insgesamt 15 Welten zurückzuerobern, um sich mit ihrer Hilfe seinen Weg durchs Schloss zu bahnen, um Prinzessin Peach aus den Klauen von Bowser zu befreien!</desc>
-		<genre>Action / Abenteuer</genre>
-		<image>./images/Super Mario 64 (USA)-image.png</image>
-		<marquee>./images/Super Mario 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario 64 (USA)-thumb.png</thumbnail>
-		<rating>0.95</rating>
-		<releasedate>19960926T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<family>Mario</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>10003</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005515" />
 	</game>
 	<game id="5417">
 		<name>Rayman 2 : The Great Escape</name>
 		<desc>Ein neues Abenteuer beginnt. Kaum ist Rayman wieder da, wird er schon von merkwürdigen Kreaturen verschleppt, die ihn in einen intergalaktischen Zoo stecken wollen. Rayman kann zwar entkommen, muß aber seine Freunde zurücklassen. Wird es ihm gelingen, sie aus der Gefangenschaft zu befreien? Und wird er in den neuen wunderschön gestalteten Landschaften und 10 verschiedenen Welten alle Aufgaben bewältigen, die sich ihm stellen? Wie schon im ersten Teil, so tobt auch der neue Rayman wieder durch ein total verrücktes Universum mit jeder Menge Spielspaß, Humor, wahnwitziger Action und kniffligen Rätseln. Dabei gibt es fast nichts, was der neue Rayman in seinen Abenteuern nicht kann: Er geht, er rennt, er klettert, er schwimmt, er taucht, er schwingt sich über Hindernisse, er gleitet auf Eis, auch diesmal verwandeln sich seine Haare zu Rotoren, mit denen er sich in die Lüfte heben kann.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19991106T000000</releasedate>
 		<developer>Ubi Soft Entertainment</developer>
@@ -538,7 +377,6 @@ Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Rei
 		<players>1</players>
 		<lang>it,es,de,fr,en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005520" />
 	</game>
 	<game id="5405">
 		<name>Banjo-Kazooie</name>
@@ -546,9 +384,6 @@ Adam Drake, ein genetisch verbesserter Marinesoldat wird ausgewählt, um die Rei
 
 Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile finden, die ihnen ein weiteres Vordringen durch die Höhle zur Hexe ermöglichen. Dabei treffen sie auf den Schamanen Mumbo Jumbo, der Banjo in andere Tiere verwandelt, und auf die gutmütige Schwester von Gruntilda namens Brentilda, die dem Protagonistenduo Geheimnisse über ihre Schwester erzählt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Banjo-Kazooie (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Banjo-Kazooie (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Banjo-Kazooie (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19980629T000000</releasedate>
 		<developer>Rareware</developer>
@@ -557,15 +392,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005522" />
 	</game>
 	<game id="5406">
 		<name>Resident Evil 2</name>
 		<desc>Der Anfang allen Übels war ein Unfall im Versuchslabor eines Herrenhauses. Dieser Unfall hatte zur Folge, daß der T-Virus, ein bilogischer Kampfstoff der Umbrella Corporation, freigesetzt wurde. Alles Leben in seiner ursprünglichen Form wurde vernichtet und in schleckliche Mutationen verwandelt. Dies liegt etwa zwei Monate zurück und der Fall schien abgeschlossen, doch die schrecklichen Experimente der Umbrella Corporation waren alles andere als vorbei. Der T-Virus war nur ein Vorbote. Ganz Raccoon City wurde durch den noch todbringenderen G-Virus infiziert. Die Stadt wird von Zombies und anderen höllischen Kreaturen bevölkert. Zu diesem Zeitpunkt treffen Leon. S. Kennedy und Claire Redfield nichts ahnend in der Stadt ein und stürtzen Hals über Kopf in das Abenteuer Ihres Lebens.</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Resident Evil 2 (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Resident Evil 2 (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil 2 (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19991031T000000</releasedate>
 		<developer>Angel</developer>
@@ -575,15 +406,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10077</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005524" />
 	</game>
 	<game id="5453">
 		<name>Pokémon Puzzle League</name>
 		<desc>Pokemon Puzzle League ist die neue Herausforderung für alle Pokemon Fans und -Trainer: Das geniale Spielprinzip des beliebtesten Puzzle-Klassikers aller Zeiten wird hier kombiniert mit den erfolgreichsten Videospiel-Charakteren, die es je gab! Die Aufgabe: Werde bester Puzzle Master von allen! Das Spiel wartet mit 6 verschiedenen Spielmodi sowie mehr als 250 Puzzles auf, die im Verlauf des Spiels gelöst werden müssen! Nur wer geschickt und vorausschauend spielt, wird ein Puzzle-Master!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Pokemon Puzzle League (USA)-image.png</image>
-		<marquee>./images/Pokemon Puzzle League (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Puzzle League (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000925T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -593,15 +420,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10270</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005530" />
 	</game>
 	<game id="5529">
 		<name>Dr. Mario 64</name>
 		<desc>Was macht Mario in seiner Freizeit? Er zerstört Viren. Dr. Mario 64 setzt das Tetris-Gameplay der Vorgängerversionen fort und fügt einen 4-Spieler-Modus hinzu.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Dr. Mario 64 (USA)-image.png</image>
-		<marquee>./images/Dr. Mario 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dr. Mario 64 (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20010408T000000</releasedate>
 		<developer>Newcom</developer>
@@ -611,15 +434,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11200</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005532" />
 	</game>
 	<game id="5415">
 		<name>Killer Instinct Gold</name>
 		<desc>ls aktualisierte Umsetzung von Killer Instinct 2 aus den Spielhallen sind alle Kämpfer, Moves und Stages verfügbar (einschließlich der drei neuesten Kämpfer, Maya, Kim Wu und Tusk) sowie neue Spielmodi wie Team, Team Elimination, 5 Geschwindigkeitsstufen und ein kompletter Trainingsmodus, mit dem du die vielen Moves, Combos und Spezialangriffe für jeden Kämpfer lernen kannst.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Killer Instinct Gold (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Killer Instinct Gold (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Killer Instinct Gold (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19961125T000000</releasedate>
 		<developer>Rareware</developer>
@@ -629,15 +448,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10473</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005538" />
 	</game>
 	<game id="5413">
 		<name>Star Wars : Rogue Squadron</name>
 		<desc>Fliege in Deinem X-Wing lebensgefährliche Einsätze im Kampf gegen die imperialen Truppen! Zerstöre alle Stützpunkte des Imperiums und rette die Bewohner fremder Planeten! Du bist Luke Skywalker, der bravouröse Kampfpilot und Anführer des legendären Rogue Squadron. Mit Fliegern dieser Eliteeinheit bietest Du den Soldaten des Imperiums die Stirn. Zur Seite stehen Dir gewandte Piloten der Rebellenalianz sowie Deine alten Kampfgefährten Han Solo und Chewbacca!</desc>
 		<genre>Shooter / Fahrzeug, 3. Pers.</genre>
-		<image>./images/Star Wars - Rogue Squadron (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Star Wars - Rogue Squadron (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Star Wars - Rogue Squadron (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19981117T000000</releasedate>
 		<developer>Factor 5</developer>
@@ -647,15 +462,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10648</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005540" />
 	</game>
 	<game id="5424">
 		<name>Yoshi's Story</name>
 		<desc>Die Yoshis, ein lustiges Völkchen knallbunter Dinosaurier, stehen vor einem großen Problem - und nur Du kannst ihnen helfen! Baby Bowser hat den Happy-Baum entwendet und die Insel der Yoshis in ein Bilderbuch verwandelt. Nun fehlt den knuddeligen Inselbewohnern die Quelle der Fröhlichkeit und außerdem ist ihre Heimat erschreckend zweidimensional geworden. Begib Dich zusammen mit sechs quietschvergnügten Yoshis auf der Suche nach dem Baum der Fröhlichkeit und erlebe aufregende Abenteuer in einer der fantasievollsten Videospiel-Welten, die je geschaffen wurden.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Yoshi's Story (USA) (En,Ja)-image.png</image>
-		<marquee>./images/Yoshi's Story (USA) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Yoshi's Story (USA) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19980310T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -665,15 +476,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosId>10173</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005545" />
 	</game>
 	<game id="5420">
 		<name>Jet Force Gemini</name>
 		<desc>Das Weltall bebt! Der böse Tyrann Mizar erobert fast täglich weitere Planeten, ein interstellarer Krieg steht unmittelbar bevor. Das Team der Jet Force Gemini um Juno, Vela und ihr Schoßtier Lupus registriert auf ihren Patrouillen ein bedrohliches Ausmaß an Zerstörung und Verwüstung, doch ihre vehementen Rufe nach Verstärkung werden von den zentralen Behörden schlichtweg ignoriert. Als Mizar mit seinen Insektenhorden sogar in die benachbarte Galaxie ihres Heimatplaneten vordringt und befreundete Völker gefangen nimmt, bleibt für Jet Force Gemini nur die Flucht nach vorne, getreu dem Motto: Angriff ist die beste Verteidigung!</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Jet Force Gemini (USA)-image.png</image>
-		<marquee>./images/Jet Force Gemini (USA)-marquee.png</marquee>
-		<thumbnail>./images/Jet Force Gemini (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19991011T000000</releasedate>
 		<developer>Rareware</developer>
@@ -682,15 +489,11 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>30</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005547" />
 	</game>
 	<game id="5432">
 		<name>Mario Party 3</name>
 		<desc>Ein besonderer Stern wurde geboren, was nur alle 1000 Jahre passiert... Dabei handelt es sich um den Millennium Stern, welcher gleich nach seiner Geburt vom Himmel gefallen ist. Mario hat sich vor Peachs Schloss amüsiert, da stürzte plötzlich der Millennium Stern ab. Mario und seine Freunde stritten sich, wer der Besitzer sein soll. Da kam Mario die Idee, dass Problem mit einer Mario Party zu lösen. Lakitu kam mit einer Spielzeugkiste angeflogen und sagte: "Na klar! Mit Mario Party lösen wir die Streiterei!"</desc>
 		<genre>Brettspiele</genre>
-		<image>./images/Mario Party 3 (USA)-image.png</image>
-		<marquee>./images/Mario Party 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Party 3 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20010507T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -700,7 +503,6 @@ Sie müssen durch anfangs verschlossene Tore in verschiedenen Welten Puzzleteile
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10108</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005549" />
 	</game>
 	<game id="5477">
 		<name>Beetle Adventure Racing!</name>
@@ -710,9 +512,6 @@ Die Lizenz für das Nutzen der New Beetles erlang Paradigm ähnlich wie beim Fil
 
 Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfällig und an manchen Stellen action-lastig.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Beetle Adventure Racing! (USA) (En,Fr,De)-image.png</image>
-		<marquee>./images/Beetle Adventure Racing! (USA) (En,Fr,De)-marquee.png</marquee>
-		<thumbnail>./images/Beetle Adventure Racing! (USA) (En,Fr,De)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990228T000000</releasedate>
 		<developer>Paradigm Entertainment</developer>
@@ -721,15 +520,11 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<lang>de,fr,en</lang>
 		<region>us</region>
 		<cheevosId>10170</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005556" />
 	</game>
 	<game id="5464">
 		<name>Ogre Battle 64 : Person of Lordly Caliber</name>
 		<desc>Das Spiel erzählt die Geschichte von Magnus Gallant, einem kürzlich graduierten Soldaten der Palatinischen Armee, der den unruhigen südlichen Gebieten seines eigenen Heimatlandes zugeteilt wird. Dort wird er Zeuge der Misere der Unterschichten – den Opfern einer tyrannisch regierenden Elite, deren einzige Sorge die Erhaltung ihres eigenen erhabenen Ranges ist. Infolge dieses brodelnden Bürgerkrieges sieht sich Magnus vor eine schwere Entscheidung gestellt: Soll er seine eigenen noblen Ursprünge im Namen der Freiheit verraten oder soll er die Sünden seiner niederträchtigen Gesellschaft wissentlich ignorieren.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
-		<image>./images/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20001007T000000</releasedate>
 		<developer>Quest</developer>
@@ -738,15 +533,11 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005558" />
 	</game>
 	<game id="5446">
 		<name>Doom 64</name>
 		<desc>Nachdem der Marine den Angriff auf die Erde durch die Dämonen überlebt hatte, beschloss er, die Monde, von denen sie kamen, zu bombardieren und ließ die tödliche Strahlung für jedes Lebewesen zurück. Eine Kreatur aus der Hölle, die sich vor den Sensoren wegen ihrer hohen Strahlungsintensität verstecken konnte, hat eine Menge Dämonen verjüngt, und die Hauptfigur aus Dooms früherer Kapitulation wurde geschickt, um diese neuen Monster loszuwerden, die gesandt wurden.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Doom 64 (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Doom 64 (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Doom 64 (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19970331T000000</releasedate>
 		<developer>Midway</developer>
@@ -755,15 +546,11 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005559" />
 	</game>
 	<game id="5502">
 		<name>Vigilante 8 : 2nd Offense</name>
 		<desc>Mitte der 70er hatten die Vigilantes die Plage des Südwesten - die Coyotes - so richtig fertiggemacht. Jetzt, vier Jahrzehnte später, will ihr kaltblütiger Anführer Slick Clyde einen Sprung in die Vergangenheit machen, um die Geschichte umzuschreiben. Sieht so aus, als würde bald wieder jede Menge Schlamm spritzen. Vigilante 8: 2.Herausforderung hat alle Vorteile seines erfolgreichen Vorgängers 8 neue komplett zerstörbare Umgebungen, 8 durchgeknallte Charaktere und eine bahnbrechende Grafik - und legt noch einen Zahn zu mit Spezialangriffsmoves, explosivem Realismus, einer Morphing-Erweiterung und zusätzlichen Mehrspieler-Optionen. Steuern Sie 18 neue, waffenstarrende Gefährte aus den 70ern, die Sie alle mit modernster Technik und Power-Ups aufmotzen können.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Vigilante 8 - 2nd Offense (USA)-image.png</image>
-		<marquee>./images/Vigilante 8 - 2nd Offense (USA)-marquee.png</marquee>
-		<thumbnail>./images/Vigilante 8 - 2nd Offense (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20000201T000000</releasedate>
 		<developer>Luxoflux</developer>
@@ -772,15 +559,11 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005604" />
 	</game>
 	<game id="5403">
 		<name>Perfect Dark</name>
 		<desc>Joanna Dark ist Agentin des Carrington Institute, eine geheime Organisation, die von anonymen Quellen finanziert wird und sich dem Schutz der Welt verschrieben hat. Carrington behält durch seine gut ausgebildeten Agenten und speziellen Gerät ein Auge auf Terroristen, Weltmächte und seltsame Ereignisse. Die Geschwindigkeit, mit der sich die dataDyne Corporation durch die Entwicklung neuer Technologien etabliert hat, macht dem Institut Sorgen. Als Carrington eine Nachricht von dem Wissenschaftler Dr. Caroll erhält, der dataDyne entkommen will, schicken sie ihre beste Agentin in das Firmenhauptquartier ...</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Perfect Dark (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Perfect Dark (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Perfect Dark (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20000522T000000</releasedate>
 		<developer>Rareware</developer>
@@ -790,15 +573,11 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10110</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005606" />
 	</game>
 	<game id="5397">
 		<name>GoldenEye 007</name>
 		<desc>Die Handlung hält sich, bis auf zwei Bonusmissionen, über das gesamte Spiel hinweg an die Handlung des Filmes GoldenEye, jedoch erhält der Spieler auch Aufträge, die im Film nur am Rande erwähnt werden, einige Details wurden (im Vergleich zum Film) verändert.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/GoldenEye 007 (USA)-image.png</image>
-		<marquee>./images/GoldenEye 007 (USA)-marquee.png</marquee>
-		<thumbnail>./images/GoldenEye 007 (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19970825T000000</releasedate>
 		<developer>Rareware</developer>
@@ -808,7 +587,6 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10073</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005608" />
 	</game>
 	<game id="5428">
 		<name>Castlevania : Legacy of Darkness</name>
@@ -816,9 +594,6 @@ Obwohl die Fahrzeuge wie New Beetles aussehen, steuern sie sich eher schwerfäll
 
 Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: J. A. Oldrey, der Herr der Villa, Maria, seine Frau und Henry, ihr Sohn. Gilles de Rais und Actrise haben Oldrey Senior in einen Vampir verwandelt. Auf Marys Bitte führt Cornell Henry in Sicherheit. Später im Leben kehrt Henry nach Castlevania zurück, um entführte Kinder zu retten.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Castlevania - Legacy of Darkness (USA)-image.png</image>
-		<marquee>./images/Castlevania - Legacy of Darkness (USA)-marquee.png</marquee>
-		<thumbnail>./images/Castlevania - Legacy of Darkness (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19991130T000000</releasedate>
 		<developer>Konami</developer>
@@ -828,15 +603,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10159</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005610" />
 	</game>
 	<game id="5435">
 		<name>Turok 2 : Seeds Of Evil</name>
 		<desc>Die Erde und das verlorene Land sind dem Untergang geweiht. Ein tödliches, außerirdisches Wesen ohne Gnade ist aus den Tiefen der Erde auferstanden. Indianerheld Turok steht seinem bisher größten Feind gegenüber - dem Primagen. In der am heißesten erwarteten Fortsetzung des Jahres müssen Sie als Turok mit allen Mitteln verhindern, das der Primagen aus seiner unterirdischen Festung entkommt und die Grenze zwischen Unterwelt und Erde überschreiten. Sonst ist die Menschheit für immer verloren.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Turok 2 - Seeds of Evil (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Turok 2 - Seeds of Evil (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Turok 2 - Seeds of Evil (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19981021T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -846,15 +617,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10520</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005612" />
 	</game>
 	<game id="5472">
 		<name>Excitebike 64</name>
 		<desc>Excitebike 64 ist ein Motocross-Rennspiel auf Nintendo 64. Sie werden 20 verschiedene Indoor- und Outdoor-Kurse im Herzen haben. Zusätzlich können Sie dank der drei Schwierigkeitsstufen des Titels Ihren Entwicklungsstand sehen. Schließlich fordern Sie Ihre Freunde mit Multiplayer spielbar Modus bis zu 4 im Split-Screen-Modus.</desc>
 		<genre>Rennen, Fahren / Motorrad</genre>
-		<image>./images/Excitebike 64 (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Excitebike 64 (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Excitebike 64 (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000430T000000</releasedate>
 		<developer>Left Field Productions</developer>
@@ -864,15 +631,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10869</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005618" />
 	</game>
 	<game id="5433">
 		<name>Turok : Dinosaur Hunter</name>
 		<desc>Im düsteren Urwald durchstreift der Jäger Turok halbzerfallene Ruinen und verlassene Tempel, um zu ergründen, welches Ereignis seine Welt in einen Vorhof der Hölle verwandelte. Anno 1997 begeisterte Iguana Entertainment die Zockerwelt mit "Turok - Dinosaur Hunter", einem der grafisch spektakulärsten Spiele seiner Zeit. Noch mehr Begeisterung verursachte die PC-Umsetzung des Actionspektakels, die in Sachen Grafik noch einiges draufsetze, zugleich war das Spiel eines der ersten, die eine 3D-Beschleunigerkarte zwingend voraussetzen. Leider kam auch dieser Shooter nur in zensierter Form in den deutschen Handel. Die Zensuren von Nintendo 64 und PC-version sind identisch.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Turok - Dinosaur Hunter (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Turok - Dinosaur Hunter (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Turok - Dinosaur Hunter (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19970304T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -881,15 +644,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005620" />
 	</game>
 	<game id="5394">
 		<name>The Legend of Zelda : Majora's Mask</name>
 		<desc>Ein paar Monate nach dem Ende von Ocarina of Time macht sich Link auf die Suche nach seiner Fee Navi und bei einem Ritt durch einen finsteren Wald wird er aber vom maskierten Skull Kid überfallen, das ihm nicht nur seine Ocarina, sondern auch sein Pferd Epona stiehlt. Das setzt eine Kette von Ereignissen in Gang, die Link einem so ungewöhnlichen wie beängstigenden Gegner gegenüberstellt: dem Mond. Dieser droht in nur drei Tagen mit der Erde zu kollidieren und das will und muss natürlich verhindert werden.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Majora's Mask (USA)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Majora's Mask (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Majora's Mask (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20001026T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -899,15 +658,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10679</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005622" />
 	</game>
 	<game id="5488">
 		<name>Mischief Makers</name>
 		<desc>Mischief Makers ist ein Spiel für den Nintendo 64 von den legendären Entwicklern von Treasure. Es ist ein 2D-Side-Scrolling-Plattformspiel, in dem die Protagonistin ihre Hände verwendet, um Objekte zu greifen, zu schütteln und zu werfen. Es gibt 5 "Welten" im Spiel mit jeweils etwa 10 Levels. Sie sind Marina Liteyears, Assistentin von Professor Theo. Der Professor wurde entführt und einige Truppen von König Aster sind übergelaufen. Es liegt an Marina, mit Hilfe der dem König noch immer loyalen Truppen, den Professor zu retten und das böse Imperium zu besiegen.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Mischief Makers (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Mischief Makers (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Mischief Makers (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19971001T000000</releasedate>
 		<developer>Treasure</developer>
@@ -915,15 +670,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005623" />
 	</game>
 	<game id="5400">
 		<name>Paper Mario</name>
 		<desc>In Paper Mario für Nintendo 64 erwartet die Mario Fans ein kunterbuntes Rollenspiel-Abenteuer. Dabei begegnen Mario und seine Freunde vielen bekannten Gesichtern aus dem legendären Mario-Universum. Gemeinsam durchstreifen sie 8 wundervoll gestaltete 3D-Welten, in denen knifflige Geheimnisse gelüftet und aufregende Abenteuer bestanden werden müssen. Auch actionreiche Kämpfe mit angriffslustigen Gegnern stehen den Spielhelden bevor. Das jedoch erfordert jede Menge Mut und Training. Zum Glück stehen Mario auf seiner Suche nach der Prinzessin Freunde mit einer Vielzahl ganz besonderer Fähigkeiten zur Seite. Zusätzlich müssen die Spieler Sternsplitter einsammeln, deren magische Energie dem Spielhelden nutzt, um erfolgreich gegen die Bösewichte anzutreten. Somit sind Mario und seine Freunde für das fantastische Abenteuer bestens gewappnet. Paper Mario für Nintendo 64: ein Rollenspiel mit erstklassiger Besetzung!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Paper Mario (USA)-image.png</image>
-		<marquee>./images/Paper Mario (USA)-marquee.png</marquee>
-		<thumbnail>./images/Paper Mario (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20010205T000000</releasedate>
 		<developer>Intelligent Systems</developer>
@@ -933,15 +684,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10154</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005625" />
 	</game>
 	<game id="5430">
 		<name>Duke Nukem 64</name>
 		<desc>Macht euch bereit, in die Rolle des größten, bösesten, gnadenlosesten Alienjägers zu schlüpfen, den das erforschte Universum je gesehen hat - Duke Nukem. Schießt Euch euren Weg frei durch die Straßen von Los Angeles, zu einer Weltraumstation im Orbit und schließlich bis zum Mond!</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Duke Nukem 64 (USA)-image.png</image>
-		<marquee>./images/Duke Nukem 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Duke Nukem 64 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19971031T000000</releasedate>
 		<developer>Eurocom</developer>
@@ -951,15 +698,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10121</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005630" />
 	</game>
 	<game id="5469">
 		<name>Mario Golf</name>
 		<desc>Entdecke zusammen mit Mario die wunderbare Welt des Golfsports in einem ebenso spannenden wie witzigen Golfturnier! Auf 6 Golfkursen - u.a. Toad Tournament, Yoshi Classic und Koopa Cup - kannst Du Dich mit den berühmtesten Charakteren des Nintendo Imperiums in einem fairen Wettstreit messen. Du hast die Wahl zwischen 10 verschiedenen Nintendo Stars, darunter Mario, Luigi oder Peach. Realistisch animierte Schwünge und Schläge sowie individuell einstellbare Handicaps garantieren dabei eine realitätsnahe Golf-Simulation. Oder magst Du lieber witzige Action? Dann wähle den Time Attack-Modus und versuche, den Ball über einen kompletten Golfkurs in kürzester Zeit bis zum letzten Loch zu schlagen! Hier wird der elegante, ruhige Sport zum wilden Golf Racing! - Insgesamt stehen 10 verschiedene Spielmodi zur Verfügung!</desc>
 		<genre>Sport / Golf</genre>
-		<image>./images/Mario Golf (USA)-image.png</image>
-		<marquee>./images/Mario Golf (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Golf (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990726T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -969,15 +712,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10259</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005636" />
 	</game>
 	<game id="5411">
 		<name>Banjo-Tooie</name>
 		<desc>Die Handlung beginnt zwei Jahre nach dem Ende des ersten Teils als die Hexe Gruntilda von ihrem Turm stürzte und von einem Felsen begraben wurde. In einer gewittrigen Nacht wird Gruntilda von ihren beiden Schwestern, Mingella und Blobbelda, durch einen Levitationszauber von jenem Felsen befreit. Durch die lange Verweildauer unter der Erde hat sie sich jedoch in ein Skelett verwandelt und sinnt deswegen auf Rache an Banjo und Kazooie.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Banjo-Tooie (USA)-image.png</image>
-		<marquee>./images/Banjo-Tooie (USA)-marquee.png</marquee>
-		<thumbnail>./images/Banjo-Tooie (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20001120T000000</releasedate>
 		<developer>Rareware</developer>
@@ -987,15 +726,11 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10211</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005638" />
 	</game>
 	<game id="5489">
 		<name>Harvest Moon 64</name>
 		<desc>In Harvest Moon für N64 müsst ihr die Farm eurer verstorbenen Großmutter auf Vordermann bringen. Bewaffnet euch mit Sichel, Axt und Hammer und geht in den Kampf gegen Unkraut, Bäume und Steine, und baut eure eigene Farm auf. Alle zwei Jahre und vier Monate wird euer Fortschritt bewertet. Neben dem Züchten von Tieren und Anpflanzen von Gemüse und Getreide geht es auch darum Beziehungen mit den Dorfbewohnern zu verbessern und euch nach einem anstrengendem Tag auszuruhen, z.B. durch Angeln am See. Das Leben des Farmers Pete in einen perfekten Einklang zu bringen bereitet eine Menge Spaß und ist eine große Herausforderung.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Harvest Moon 64 (USA)-image.png</image>
-		<marquee>./images/Harvest Moon 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Harvest Moon 64 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19991222T000000</releasedate>
 		<developer>Victor Interactive Software</developer>
@@ -1005,16 +740,12 @@ Im Laufe des Spiels stößt Cornell auf ein großes Anwesen der Familie Oldrey: 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10157</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005643" />
 	</game>
 	<game id="5404">
 		<name>Donkey Kong 64</name>
 		<desc>Donkey Kong ist zurück - mit alten Freunden und neuen Streitern im Kampf gegen seinen Erzfeind, dem Schuppen-Fiesling King. K. Rool!
 K. Rool hat die Kongs entführt! Kann Donkey Kong seine Freunde retten, die Goldenen Bananen zurückfordern und seine Heimat vor dem sicheren Untergang bewahren?</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Donkey Kong 64 (USA)-image.png</image>
-		<marquee>./images/Donkey Kong 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong 64 (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19991122T000000</releasedate>
 		<developer>Rareware</developer>
@@ -1024,15 +755,11 @@ K. Rool hat die Kongs entführt! Kann Donkey Kong seine Freunde retten, die Gold
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10075</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005645" />
 	</game>
 	<game id="5539">
 		<name>Extreme-G XG2</name>
 		<desc>XG2: Extreme-G ist ein Rennspiel auf Nintendo 64. Der Spieler sitzt am Steuer eines speziellen Motorrads: ein XG2, das mehr als 400 km/h fahren kann. Der Titel hat mehrere verschiedene Modi, einschließlich des Championship-Modus, mit dem Sie auf verschiedenen Rennstrecken antreten können. Der Rennsieg ermöglicht es Ihnen, Geld zu sammeln, um neue Teile zu kaufen und Ihr Auto zu verbessern.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Extreme-G XG2 (USA)-image.png</image>
-		<marquee>./images/Extreme-G XG2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Extreme-G XG2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19981117T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -1042,15 +769,11 @@ K. Rool hat die Kongs entführt! Kann Donkey Kong seine Freunde retten, die Gold
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10460</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005647" />
 	</game>
 	<game id="5461">
 		<name>Tsumi to Batsu : Hoshi no Keishousha</name>
 		<desc>Die Erde wird von den Ruffians bedroht! Mutanten, die gezüchtet wurden, um Nahrungsengpässe zu beheben, und die sich jetzt gegen ihre Schöpfer erhoben haben. Als junger Widerstandskämpfer mit dem Ziel, die Erde zu befreien, musst du Welle auf Welle biogenetischer Wesen und korrupter Soldaten abwehren.Zum ersten Mal können Spieler außerhalb Japans die atemberaubende Action dieses Klassikers für Nintendo 64 erleben, erstellt von den Meistern des Genres: Treasure Co. Ltd.Kämpfe dich zu Lande, zu Wasser und in der Luft durch Wellen von Gegnern, sammle Energie und Punkteboni. Mit gewaltigen Kombinationen kannst du zusätzliche Zeit gewinnen. Stelle dich gewaltigen Boss-Gegnern.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Tsumi to Batsu - Hoshi no Keishousha (Japan)-image.png</image>
-		<marquee>./images/Tsumi to Batsu - Hoshi no Keishousha (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Tsumi to Batsu - Hoshi no Keishousha (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20001121T000000</releasedate>
 		<developer>Treasure</developer>
@@ -1060,7 +783,6 @@ K. Rool hat die Kongs entführt! Kann Donkey Kong seine Freunde retten, die Gold
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>10119</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005651" />
 	</game>
 	<game id="5652">
 		<name>Bakuretsu Muteki Bangaioh</name>
@@ -1070,9 +792,6 @@ Als die Piloten der Bangaioh-Mech muss du eine verrückte Gruppe davon abhalten,
 
 Die Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Version gibt es in den USA und Europa.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Bakuretsu Muteki Bangaioh (Japan)-image.png</image>
-		<marquee>./images/Bakuretsu Muteki Bangaioh (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Bakuretsu Muteki Bangaioh (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19990903T000000</releasedate>
 		<developer>Treasure</developer>
@@ -1080,15 +799,11 @@ Die Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Versio
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T005653" />
 	</game>
 	<game id="5526">
 		<name>Mystical Ninja Starring Goemon</name>
 		<desc>Begleite Goemon und seine Freunde auf Ihrer abenteuerlichen Reise durch das altertümliche Japan, und befreie das Reich aus den Klauen einer Bande Außerirdischer. Um Deine Aufgaben erfolgreich zu beenden, mußt Du verzwickte Rätsel lösen, Deine Gefährten mit viel Geschick durch eine komplexe 3D-Welt dirigieren und ihre einzigartigen Fähigkeiten gezielt einsetzen. Im Gespräch mit Dorfbewohnern erhältst Du wichtige Hinweise und Gegenstände, die Dir beim Kampf gegen die verrückten Aliens hilfreich sind.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Mystical Ninja Starring Goemon (USA)-image.png</image>
-		<marquee>./images/Mystical Ninja Starring Goemon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mystical Ninja Starring Goemon (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19980416T000000</releasedate>
 		<developer>Konami</developer>
@@ -1098,25 +813,6 @@ Die Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Versio
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10081</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005655" />
-	</game>
-	<game id="5401">
-		<name>Mario Kart 64</name>
-		<desc>3-2-1-Startschuß! Piste frei für den größten Rennspiel-Spaß seit der Erfindung des Motors. Hier kennt die Action keine Grenzen. Rase mit bis zu drei Freunden über dreidimensionale Strecken oder fordere sie im Battle-Modus zum gegenseitigen Kräftemessen heraus. Im Mario Grand Prix kannst Du Dich solo austoben oder im Time Trial sogar gegen Deinen eigenen Geist antreten. Vorbei sind die Zeiten, in denen nur die Uhr Dein Gegner war. Innovative Mehrspielermodi, genial designte Strecken und technische Perfektion sorgen für Action, Spaß und Spannung in noch nie dagewesener Form!</desc>
-		<genre>Rennen, Fahren</genre>
-		<image>./images/Mario Kart 64 (USA)-image.png</image>
-		<marquee>./images/Mario Kart 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Kart 64 (USA)-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>19970210T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<family>Mario Kart</family>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>10078</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005657" />
 	</game>
 	<game id="5631">
 		<name>Tetrisphere</name>
@@ -1124,9 +820,6 @@ Die Nintendo 64 Version wurde nur in Japan veröffentlicht. Die Dreamcast-Versio
 
 Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und das Spielfeld zu räumen. Dieses Mal ist das Spielfeld jedoch eine Kugel, und Sie müssen die Kugel umdrehen, um einen Platz zum Ablegen der Teile zu finden und schließlich zum Kern zu gelangen, um zu gewinnen. Wenn Sie das Spielfeld räumen, werden bei bestimmten Bewegungen möglicherweise magische Gegenstände zum Vorschein kommen (Raketen, Dynamit usw.).</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Tetrisphere (USA)-image.png</image>
-		<marquee>./images/Tetrisphere (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tetrisphere (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19970811T000000</releasedate>
 		<developer>H20 Interactive</developer>
@@ -1136,15 +829,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10172</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005701" />
 	</game>
 	<game id="5448">
 		<name>Extreme-G</name>
 		<desc>Extreme-G ist ein futuristisches Rennspiel auf Nintendo 64. Beseitigen Sie Ihre Gegner mit Lasergewehren, Raketen, Minen, Bomben und einer Vielzahl anderer zerstörerischer Waffen während der Rennen bei über 300km/Stunde. Verschiedene Spielmodi stehen zur Verfügung, einschließlich Championship-Modus, Multiplayer-Modus und Playable Tournament-Modus für bis zu 16 Spieler.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Extreme-G (USA)-image.png</image>
-		<marquee>./images/Extreme-G (USA)-marquee.png</marquee>
-		<thumbnail>./images/Extreme-G (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19970930T000000</releasedate>
 		<developer>Probe Entertainment</developer>
@@ -1154,15 +843,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10609</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102005" />
 	</game>
 	<game id="5647">
 		<name>Custom Robo</name>
 		<desc>Custom Robot on Nintendo 64 ist ein taktisches Kampfspiel mit Robotern. Suche nach Robotern und bereite dich darauf vor, dich mächtigen mechanischen Gegnern zu stellen. Es gibt zwei Spielmodi: einen Rollenspiel-Modus, in dem du nach Verbesserungen für deinen Roboter suchen kannst und einen Battle-Modus, in dem du gegen andere Maschinen kämpfen kannst.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Custom Robo (Japan)-image.png</image>
-		<marquee>./images/Custom Robo (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Custom Robo (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19991208T000000</releasedate>
 		<developer>Noise Factory</developer>
@@ -1172,16 +857,12 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>10574</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102009" />
 	</game>
 	<game id="5455">
 		<name>Mega Man 64</name>
 		<desc>Mega Man stürmt zum ersten Mal auf das Nintendo® 64-System! Dieses epische Abenteuer kombiniert das Beste aus klassischer Mega-Man-Action mit riesigen Bossen, einer packenden Handlung und die Tiefe des heißesten Rollenspiels. Erkunde riesige 3-D-Welten. Sie werden die atemberaubende 3-D-Grafik, die mächtigen Waffen und die Non-Stop-Action lieben.
 </desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Mega Man 64 (USA)-image.png</image>
-		<marquee>./images/Mega Man 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man 64 (USA)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>20010110T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1191,15 +872,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10115</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102010" />
 	</game>
 	<game id="5407">
 		<name>Pokémon Stadium</name>
 		<desc>Erlebe erstmals alle Pokémon in einzigartigen 3-D-Animationen und lasse sie in einer Arena gegeneinander antreten! Ganz egal, ob du gegen einen Freund, einen Arenaleiter oder einen anderen Turnierteilnehmer kämpfst, du wirst Zeuge der spektakulärsten Pokémon-Duelle der Geschichte! Mit Hilfe des Transfer Paks kannst du deine eigenen, selbst trainierten Pokémon von deinem Pokémon Game Boy Spiel auf dein Stadium-Modul übertragen. Auf diese Weise bleiben dir deine treuen Freunde auch in der dreidimensionalen Pokémon-Arena erhalten. Kämpfe dich auf den Spuren von Ash durch alle bekannten Arenen und erlebe das größte Abenteuer deines Lebens!</desc>
 		<genre>Strategie</genre>
-		<image>./images/Pokemon Stadium (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Pokemon Stadium (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Stadium (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000229T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -1208,33 +885,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102017" />
-	</game>
-	<game id="59770">
-		<name>Doubutsu no Mori</name>
-		<desc>Dies ist die japanische Version von Animal Crossing, Doubutsu no Mori bedeutet übersetzt "Animal Forest". Animal Crossing ist ein sozialer Simulator, der von Nintendo als "Kommunikationsspiel" bezeichnet wird. Es ist ein offenes Spiel, bei dem ein Spieler weit weg vom Stress der Stadt leben kann.</desc>
-		<genre>Rollenspiele</genre>
-		<image>./images/Doubutsu no Mori (Japan)-image.png</image>
-		<marquee>./images/Doubutsu no Mori (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Doubutsu no Mori (Japan)-thumb.png</thumbnail>
-		<rating>0.75</rating>
-		<releasedate>20010414T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<family>Animal Crossing</family>
-		<players>1</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosId>10835</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102019" />
 	</game>
 	<game id="5570">
 		<name>Snowboard Kids</name>
 		<desc>Hier kommt der eisgekühlte Snowboard-Spaß aus Fernost! 5 wahnwitzige Cartoon-Helden blicken der Gefahr ins Auge und wagen sich mit ihren rasanten Surfbrettern auf halsbrecherische Pisten, die (teils schneebedeckt, teils sonnig begrünt) zum Kampf um Punkte und Pokale locken. Wenn auch Du Dir die Lizenz zum Brettern besorgen und einen der wertvollen Skipässe ergattern willst, solltest Du nicht nur flink sein, sondern auch die mehr als 36 Special-Stunts erlernen.</desc>
 		<genre>Sport / Ski</genre>
-		<image>./images/Snowboard Kids (USA)-image.png</image>
-		<marquee>./images/Snowboard Kids (USA)-marquee.png</marquee>
-		<thumbnail>./images/Snowboard Kids (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19980315T000000</releasedate>
 		<developer>Racdym</developer>
@@ -1244,15 +899,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10199</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102025" />
 	</game>
 	<game id="5459">
 		<name>WipEout 64</name>
 		<desc>Es ist soweit: Die auf der PlayStation zur Legende gewordene Rennspielserie hält nun auch Einzug auf dem Nintendo 64 - mit neuer, famoser 64-Bit-Optik und nochmals verbessertem Gameplay. Packende Rennen, Challenges, Time Trails und Multiplayer-Liga - Wipeout 64 bietet den totalen, adrenalintreibenden Rennspielspaß. Und es ist schnell. Verdammt schnell. Schneller als Sie sich vorstellen können!</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Wipeout 64 (USA)-image.png</image>
-		<marquee>./images/Wipeout 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Wipeout 64 (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19981103T000000</releasedate>
 		<developer>Psygnosis</developer>
@@ -1262,15 +913,11 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10532</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102031" />
 	</game>
 	<game id="98597">
 		<name>The Legend of Zelda : Ocarina of Time Master Quest</name>
 		<desc>The Legend of Zelda: Ocarina of Time Master Quest ist eine spezielle Version des Spieles, die nicht für das N64 veröffentlicht wurde. Sie war als kostenlose Beilage zur limitierten Auflage des Zelda-Teils The Wind Waker auf dem Nintendo GameCube erhältlich. Zu den Unterschieden zählen die schwierigere Gestaltung der Labyrinthe, veränderte Rätsel, neue Anordnung der goldene Skulltulas und es werden früher im Spiel stärkere Gegner verwendet.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20030228T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -1279,7 +926,6 @@ Wie üblich wirfst du Steine in das Spielfeld, um die Blöcke zu beseitigen und 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102034" />
 	</game>
 	<game id="5414">
 		<name>Castlevania</name>
@@ -1289,9 +935,6 @@ Der Spieler kann entweder Reinhardt Schneider (für die traditionelle Peitschenh
 
 Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für das N64: Castlevania: Legacy of Darkness, das neue Layouts für die Levels dieses Spiels hat.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Castlevania (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Castlevania (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Castlevania (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990126T000000</releasedate>
 		<developer>Konami</developer>
@@ -1301,15 +944,11 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10667</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102039" />
 	</game>
 	<game id="5444">
 		<name>StarCraft 64</name>
 		<desc>In ferner Zukunft ist eine kleine Gruppe von Menschen im Exil dazu verdammt, am Rande der Galaxis ums Überleben zu kämpfen. Durch militärische Stärke, Spionage und Täuschung hat eine vereinte terranische Regierung einen unruhigen Frieden aufrechterhalten. Da jedoch die Ressourcen und der Treibstoff knapp werden, blicken die konföderierten Staaten auf die reichen Welten ihrer außerirdischen Nachbarn, der rätselhaften Protoss. Um die Sache noch komplizierter zu machen, scheint eine bisher unbekannte Spezies - die Zerg - in den Protoss-Raum eingetreten zu sein und alles auf ihrem Weg zu zerstören. Die Zeit für den Krieg ist gekommen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/StarCraft 64 (USA)-image.png</image>
-		<marquee>./images/StarCraft 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/StarCraft 64 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000613T000000</releasedate>
 		<developer>Mass Media</developer>
@@ -1319,15 +958,11 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10272</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102043" />
 	</game>
 	<game id="5399">
 		<name>Mario Party</name>
 		<desc>Mario, Luigi, Peach, Yoshi, Donkey Kong und Wario streiten sich darum, wer von ihnen der Superstar ist. Da sagt Toad: "Warum veranstalten wir nicht eine Party, um herauszufinden, wer der Superstar ist?" Damit sind alle einverstanden und somit spielen unsere Freunde ein paar Minispiele und gehen über verschieden Spielbretter auf dem Weg zum Superstar. Leider steht Bowser ihnen dabei auch im Weg...</desc>
 		<genre>Brettspiele</genre>
-		<image>./images/Mario Party (USA)-image.png</image>
-		<marquee>./images/Mario Party (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Party (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990208T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1337,15 +972,11 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10263</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102045" />
 	</game>
 	<game id="5419">
 		<name>Star Wars : Shadows of the Empire</name>
 		<desc>Noch während sich Luke Skywalker und die Rebellen mit Darth Vader und dem Imperium erbitterte Gefechte liefern, droht aus den Tiefen des Alls neue Gefahr. Dark Prince Xizor, Kopf des geheimnisvollen Black Sun Syndikates, hat den Tod von Luke angeordnet, um dann Dath Vader die Schuld dafür anzulasten. So erhofft er sich, die Position von Vader an der Seite des Imperators einzunehmen. Als Dash Rendar liegt es nun an Dir, Luke zu beschützen! Du wirst lernen müssen, die unterschiedlichsten Weltraum-Kampfjäger und Sternen-Kreuzer zu fliegen. Erkunde Weltraumstationen und Städte, triff auf die Stormtrooper des Imperiums, AT-AT Walkers, Snowtroopers, TIE Fighter, Sternenkreuzer, Wampa Ice-Kreaturen und vieles mehr! Von nun an bist Du Teil eines anderes Universums - Spüre die Macht!</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Star Wars - Shadows of the Empire (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Star Wars - Shadows of the Empire (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Star Wars - Shadows of the Empire (USA) (Rev 2)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19961203T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -1355,15 +986,11 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10153</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102051" />
 	</game>
 	<game id="5519">
 		<name>Bomberman Hero</name>
 		<desc>Bomberman Hero auf dem Nintendo 64 ist ein Action-Spiel, wo das Ziel ist es, Bomben an den richtigen Ort zu platzieren, um Feinde zu zerstören oder Wände zu zerbrechen. Das Spiel hat 71 Levels verteilt auf 5 Planeten und ca. 20 nützliche Objekte, um dein Arsenal zu verbessern.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Bomberman Hero (USA)-image.png</image>
-		<marquee>./images/Bomberman Hero (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman Hero (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19980901T000000</releasedate>
 		<developer>AI</developer>
@@ -1373,15 +1000,11 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10285</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102056" />
 	</game>
 	<game id="5434">
 		<name>Turok 3 : Shadow of Oblivion</name>
 		<desc>Lange bevor es die Welt von Turok 3 für N64, so wie wir sie kennen, gab, existierte das Oblivion, ein monströses, kosmisches Etwas, das alles Leben verschlang. Es griff sich lebende Körper und fraß sie bis auf den letzten Bissen. Das Oblivion lebt von der Energie der Toten und der Sterbenden. Als der Primagen in Turok 3 ausgelöscht wurde, löste das eine Kette von mächtigen Beben aus, die so stark waren, daß das Universum, so wie es zu der Zeit existierte, völlig ausge-öscht wurde. Auch das allmächitge Ablivion wurde beinahe voll- kommen zerstört. Zum ersten Mal in seinem Leben fühlte das Oblivion in Turok 3 Schmerz, Angst und ... HASS!</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Turok 3 - Shadow of Oblivion (USA)-image.png</image>
-		<marquee>./images/Turok 3 - Shadow of Oblivion (USA)-marquee.png</marquee>
-		<thumbnail>./images/Turok 3 - Shadow of Oblivion (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000906T000000</releasedate>
 		<developer>Acclaim Entertainment</developer>
@@ -1390,7 +1013,6 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102057" />
 	</game>
 	<game id="5517">
 		<name>International Superstar Soccer 64</name>
@@ -1398,9 +1020,6 @@ Reinhardt &amp; Carrie erscheinen beide wieder im zweiten Castlevania-Spiel für
 Auch Elfmeterschießen-Wettbewerb mit bis zu 4 Spielern ist möglich oder bestimmte Szenario Spiele zu beenden (wobei jedes Spiel mit einem bestimmten Ziel eingerichtet ist, z. B. ein Tor innerhalb eines vorgegebenen Zeitlimits zu erzielen oder die gegnerische Mannschaft zu stoppen)
 </desc>
 		<genre>Sport / Fußball</genre>
-		<image>./images/International Superstar Soccer 64 (USA)-image.png</image>
-		<marquee>./images/International Superstar Soccer 64 (USA)-marquee.png</marquee>
-		<thumbnail>./images/International Superstar Soccer 64 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19970731T000000</releasedate>
 		<developer>KCEO</developer>
@@ -1409,15 +1028,11 @@ Auch Elfmeterschießen-Wettbewerb mit bis zu 4 Spielern ist möglich oder bestim
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102059" />
 	</game>
 	<game id="5574">
 		<name>Hydro Thunder</name>
 		<desc>Hydro Thunder für Nintendo 64 ist ein aufgeladenes Bootsrennspiel. Es ist eine Portierung vom Arcade-Automaten. Die Software ist eher Arcade-orientiert und basiert auf einem System von Kontrollpunkten, die Sie nacheinander überqueren müssen, um das Rennen bis zum Ende fortzusetzen. Geschwindigkeitsboni sind über die dreizehn vom Titel angebotenen Kurse verteilt.</desc>
 		<genre>Rennen, Fahren / Boot</genre>
-		<image>./images/Hydro Thunder (USA)-image.png</image>
-		<marquee>./images/Hydro Thunder (USA)-marquee.png</marquee>
-		<thumbnail>./images/Hydro Thunder (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000229T000000</releasedate>
 		<developer>Eurocom</developer>
@@ -1426,15 +1041,11 @@ Auch Elfmeterschießen-Wettbewerb mit bis zu 4 Spielern ist möglich oder bestim
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10383</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102101" />
 	</game>
 	<game id="5516">
 		<name>Bomberman 64 : The Second Attack!</name>
 		<desc>Bomberman 64: The Second Attack ist ein Actionspiel in isometrischer Perspektive auf Nintendo 64. Während er eine wohlverdiente Pause einlegt, wird Bomberman in ein schwarzes Loch gesaugt, das von Rukifellth's Gravitationsgeneratoren erzeugt wird. Deine Feinde planen, alle Planeten mit diesen Generatoren anzugreifen. Hilf Bomberman dabei, verschiedene Rätsel zu lösen und deine Feinde zu besiegen.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Bomberman 64 - The Second Attack! (USA)-image.png</image>
-		<marquee>./images/Bomberman 64 - The Second Attack! (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman 64 - The Second Attack! (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000528T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1444,15 +1055,11 @@ Auch Elfmeterschießen-Wettbewerb mit bis zu 4 Spielern ist möglich oder bestim
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10330</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102103" />
 	</game>
 	<game id="5421">
 		<name>Shadow Man</name>
 		<desc>Durch den kaltblütigen Mord an seinem kleinen Bruder Luke ist Professor Mike LeRoi zu einem gewissenlosen Rächer geworden. Auf der verzweifelten Suche nach dem Killer verkauft LeRoi seine Seele an einen gottlosen Voodoo-Kult und wird zum Sklaven der Totenwelt - Shadowman. Die Jagd nach dem Mörder führt den übernatürlichen Shadowman nach New Orleans in die Welt der Untoten. Dort hat sich der wahre Killer versteckt! Der Spieler kämpft gegen monströse Kreaturen und abartige Ausgeburten aus anderen Welten. Erst wenn Shadowman den Mord an seinem Bruder rächen kann, wird seine Seele befreit und die Erde gerettet.</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Shadow Man (USA)-image.png</image>
-		<marquee>./images/Shadow Man (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shadow Man (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990815T000000</releasedate>
 		<developer>Acclaim Entertainment</developer>
@@ -1462,6 +1069,102 @@ Auch Elfmeterschießen-Wettbewerb mit bis zu 4 Spielern ist möglich oder bestim
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>10255</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102105" />
+	</game>
+	<game id="5438">
+		<name>Kirby 64 : The Crystal Shards</name>
+		<desc>Kirby legt sich mit Dark Matter an und sucht die Stücke des zerschmetterten Kristalls. Auf seinen fanatischen Abenteuern begegnet er über 50 Fieslingen, die über die Kristalle wachen. Um sie zu besiegen, setzt Kirby seine einmaligen Fähigkeiten ein, dann er kann Gegner einatmen und dadurch ihre Eigenschaften annehmen! Mit den neu errungenen Features gelingt es Kirby, weitere Feinde zu attackieren. Insgesamt gibt es 35 Möglichkeiten, die unterschiedlichen Eigenschaften zu kombinieren.</desc>
+		<genre>Plattform</genre>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<family>Kirby</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10246</cheevosId>
+	</game>
+	<game id="5401">
+		<name>Mario Kart 64</name>
+		<desc>3-2-1-Startschuß! Piste frei für den größten Rennspiel-Spaß seit der Erfindung des Motors. Hier kennt die Action keine Grenzen. Rase mit bis zu drei Freunden über dreidimensionale Strecken oder fordere sie im Battle-Modus zum gegenseitigen Kräftemessen heraus. Im Mario Grand Prix kannst Du Dich solo austoben oder im Time Trial sogar gegen Deinen eigenen Geist antreten. Vorbei sind die Zeiten, in denen nur die Uhr Dein Gegner war. Innovative Mehrspielermodi, genial designte Strecken und technische Perfektion sorgen für Action, Spaß und Spannung in noch nie dagewesener Form!</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.8</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Mario Kart</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10078</cheevosId>
+	</game>
+	<game id="5396">
+		<name>Super Mario 64</name>
+		<desc>Prinzessin Peach hat Mario einen Brief gesendet, in dem stand, dass er zum Schloss kommen soll, da sie ihm einen Kuchen gebacken hat. Im Schloss angekommen, ertönt eine schaurige Stimme die ihm befielt, dass er sofort das Schloss verlassen soll. Daraufhin wird er von einem Toad informiert, dass Prinzessin Peach von Bowser entführt wurde und er die Power Sterne des Schlosses entwendet hat. Nun liegt es an Mario die Power Sterne aus den insgesamt 15 Welten zurückzuerobern, um sich mit ihrer Hilfe seinen Weg durchs Schloss zu bahnen, um Prinzessin Peach aus den Klauen von Bowser zu befreien!</desc>
+		<genre>Action / Abenteuer</genre>
+		<rating>0.95</rating>
+		<releasedate>19960926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Mario</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10003</cheevosId>
+	</game>
+	<game id="59770">
+		<name>Doubutsu no Mori</name>
+		<desc>Dies ist die japanische Version von Animal Crossing, Doubutsu no Mori bedeutet übersetzt "Animal Forest". Animal Crossing ist ein sozialer Simulator, der von Nintendo als "Kommunikationsspiel" bezeichnet wird. Es ist ein offenes Spiel, bei dem ein Spieler weit weg vom Stress der Stadt leben kann.</desc>
+		<genre>Rollenspiele</genre>
+		<rating>0.75</rating>
+		<releasedate>20010414T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Animal Crossing</family>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosId>10835</cheevosId>
+	</game>
+	<game id="5441">
+		<name>1080 TenEighty Snowboarding</name>
+		<desc>Der Spieler hat die Aufgabe, als Snowboarder Rennen zu fahren oder Tricks ausüben. 1080° Snowboarding besitzt mehrere Rennmodi, die sich ungefähr in zwei Gruppen aufteilen lassen: in den Trick-Modi geht es darum, mit dem Snowboard so viele Tricks wie möglich auszuführen, während man in den Renn-Modi gegen die Zeit oder andere Spieler eine Piste herunterfahren muss. Man kann zu Beginn des Spiels zwischen fünf Snowboardern sowie acht Snowboards wählen, weitere lassen sich freischalten.</desc>
+		<genre>Sport / Ski</genre>
+		<rating>0.85</rating>
+		<releasedate>19980228T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>1080</family>
+		<players>1-2</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<cheevosId>10136</cheevosId>
+	</game>
+	<game id="5481">
+		<name>Pilotwings 64</name>
+		<desc>Vergiss alles, was Du bisher an Flugsimulationen gesehen hast! Dies ist das ultimative Flugerlebnis. Pilotwings 64 katapultiert Dich in eine gigantische 3D-Umgebung. Fliege verschiedene Fluggeräte und bestaune atemberaubende Landschaften. Erfülle erfolgreich Deine Flugmissionen, um die begehrten Auszeichnungen zu erhalten. Je höher Dein Score, desto höher ist die Chance in Bonusrunden z.B. als menschliche Kanonenkugel oder als Fallschirmspringer zu spielen. Steige auf in die tiefblauen Weiten von Pilotwings 64!</desc>
+		<genre>Rennen, Fahren / Flugzeug</genre>
+		<rating>0.8</rating>
+		<releasedate>19960929T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<family>Pilotwings</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10277</cheevosId>
+	</game>
+	<game id="5470">
+		<name>Hybrid Heaven</name>
+		<desc>Hybrid Heaven ist ein von Konami für den Nintendo 64 entwickeltes Action-/RPG-Videospiel, das Genres vermischt, indem es die Erkundung von Abenteuerspielen mit den rundenbasierten Konfrontationen von RPGs kombiniert. Sie sind Agent Diaz, der in eine riesige Verschwörung von Außerirdischen verwickelt ist, die durch das Klonen des Präsidenten der Vereinigten Staaten die Macht an sich reißen wollen.</desc>
+		<genre>Rollenspiele / Action-RPG</genre>
+		<rating>0.7</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10683</cheevosId>
 	</game>
 </gameList>

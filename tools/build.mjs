@@ -71,7 +71,19 @@ const NICHT_VERGROESSERN = new Set(['screenshot']);
 // öffentliches Inventar, und die Spielstände gehen ohnehin niemanden etwas an.
 // Der Build braucht keines davon.
 const RAUSWERFEN = ['path', 'md5', 'cheevosHash', 'lastplayed', 'playcount',
-  'gametime', 'favorite', 'video', 'multidisk'];
+  'gametime', 'favorite', 'video', 'multidisk', 'marquee'];
+
+// image und thumbnail zeigen auf Dateien, die nach der ROM heißen — derselbe
+// öffentliche Inventarzettel wie path. Der Build braucht sie aber, um ein noch
+// nicht umgewandeltes Cover in der Quelle zu finden, deshalb fliegen sie erst
+// am Ende raus, wenn die Bilder liegen. Ein frisch abgelegtes gamelist bringt
+// sie einmal mit, wird einmal ausgewertet und danach genauso gesäubert.
+const RAUSWERFEN_ZUM_SCHLUSS = ['image', 'thumbnail'];
+
+// Der Scrape-Zeitstempel steht in jedem Eintrag und ergibt über tausend Einträge
+// ein Tagebuch: an welchen Tagen und zu welchen Uhrzeiten am Rechner gesessen
+// wurde. Der Build liest das Feld nicht.
+const SCRAP_MARKE = /[ \t]*<scrap [^>]*\/>\r?\n/g;
 
 const ANFANG = '/* ---- Erzeugt von tools/build.mjs — nicht von Hand ändern ---- */';
 const ENDE = '/* ---- Ende erzeugter Block ---- */';
@@ -127,9 +139,9 @@ function kuratierungLesen() {
 // gamelist ihre Prüfsummen gar nicht erst in einen Commit tragen.
 function gamelistSaeubern(datei, xml) {
   const muster = new RegExp(`[ \\t]*<(${RAUSWERFEN.join('|')})>[\\s\\S]*?</\\1>\\r?\\n`, 'g');
-  const sauber = xml.replace(muster, '');
+  const sauber = xml.replace(muster, '').replace(SCRAP_MARKE, '');
   if (sauber === xml) return { xml, entfernt: 0 };
-  const entfernt = (xml.match(muster) || []).length;
+  const entfernt = (xml.match(muster) || []).length + (xml.match(SCRAP_MARKE) || []).length;
   fs.writeFileSync(datei, sauber);
   return { xml: sauber, entfernt };
 }
@@ -368,13 +380,19 @@ for (const konsole of data) {
       belegt[kid].add(name);
 
       const einplanen = (xmlPfad, arten, marke) => {
-        if (!xmlPfad) return false;
-        const von = path.join(quelle, QUELLORDNER[kid] || kid, xmlPfad.replace(/^\.\//, ''));
         const ziele = arten.map(art => ({ art, ziel: path.join(WURZEL, 'images', art, kid, name + '.jpg') }));
-        const fertig = ziele.every(z => fs.existsSync(z.ziel));
+        // Liegt das Bild schon im Repo, ist die Quelle gleichgültig. Erst dadurch
+        // darf der Lauf am Ende image und thumbnail aus den gamelists werfen,
+        // ohne dass der nächste Lauf die Seite ohne Cover zurücklässt.
+        if (ziele.every(z => fs.existsSync(z.ziel))) {
+          e[marke] = marke === 'c' ? name : 1;
+          return true;
+        }
         // Ohne Bildlauf zählt nur, was schon dasteht — sonst verweist die Seite
         // auf Dateien, die dieser Lauf gar nicht angelegt hat.
-        if (!fertig && (nurDaten || !fs.existsSync(von))) return false;
+        if (!xmlPfad || nurDaten) return false;
+        const von = path.join(quelle, QUELLORDNER[kid] || kid, xmlPfad.replace(/^\.\//, ''));
+        if (!fs.existsSync(von)) return false;
         ziele.forEach(z => bildauftraege.push({
           ...z, von, breite: BREITE[z.art], qualitaet: QUALITAET[z.art]
         }));
@@ -419,9 +437,9 @@ const bis = html.indexOf(ENDE) + ENDE.length;
 // Die Titelzahl steht auch in der Meta-Beschreibung und im README. Von Hand
 // gepflegt läuft sie beim ersten entfernten Spiel auseinander.
 const zahlenNachziehen = t => t
-  .replace(/(Kuratierte Sammlung von )\d+( Retro-Spielen über )\d+( Systeme)/,
+  .replace(/(Kuratierte Sammlung von )\d+( Retro-Spielen über )\d+( Systeme)/g,
     `$1${spieleGesamt}$2${data.length}$3`)
-  .replace(/(A curated catalogue of )\d+( retro games across )\d+( systems)/,
+  .replace(/(A curated catalogue of )\d+( retro games across )\d+( systems)/g,
     `$1${spieleGesamt}$2${data.length}$3`);
 
 fs.writeFileSync(path.join(WURZEL, 'index.html'),
@@ -431,6 +449,22 @@ const readmeDatei = path.join(WURZEL, 'README.md');
 const readme = fs.readFileSync(readmeDatei, 'utf8');
 const readmeNeu = zahlenNachziehen(readme);
 if (readmeNeu !== readme) fs.writeFileSync(readmeDatei, readmeNeu);
+
+// Jetzt liegen die Bilder — die Pfade auf die ROM-Dateinamen werden nicht mehr
+// gebraucht und haben in einem öffentlichen Ordner nichts zu suchen.
+let nachgeraeumt = 0;
+for (const konsole of data) {
+  const datei = path.join(WURZEL, 'data', `gamelist-${konsole.id}.xml`);
+  if (!fs.existsSync(datei)) continue;
+  const xml = fs.readFileSync(datei, 'utf8');
+  const muster = new RegExp(`[ \\t]*<(${RAUSWERFEN_ZUM_SCHLUSS.join('|')})>[\\s\\S]*?</\\1>\\r?\\n`, 'g');
+  const sauber = xml.replace(muster, '');
+  if (sauber === xml) continue;
+  nachgeraeumt += (xml.match(muster) || []).length;
+  fs.writeFileSync(datei, sauber);
+}
+if (nachgeraeumt) console.log(`\n${nachgeraeumt} Bildpfade aus den gamelists entfernt `
+  + `(${RAUSWERFEN_ZUM_SCHLUSS.join(', ')}) — sie tragen die ROM-Dateinamen.`);
 
 const bericht = lueckenbericht();
 fs.writeFileSync(path.join(WURZEL, 'GAPS.md'), bericht.text);

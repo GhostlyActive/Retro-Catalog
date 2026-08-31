@@ -4,9 +4,6 @@
 		<name>Mario Tennis</name>
 		<desc>„Mario Tennis“ bringt Tennisspaß auf den Game Boy Color und kombiniert präzise Steuerung mit spannender Action. Die Version bietet zahlreiche RPG-Elemente und ermöglicht es, zu Beginn als männlicher oder weiblicher Spieler anzutreten.</desc>
 		<genre>Sport / Tennis</genre>
-		<image>./images/Mario Tennis (USA)-image.png</image>
-		<marquee>./images/Mario Tennis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Tennis (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20000116T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -16,15 +13,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5043</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005705" />
 	</game>
 	<game id="36892">
 		<name>Crystalis</name>
 		<desc>Crystalis ist ein Top-Down-Action-Rollenspiel. Beginnend in der Kryokammer übernimmt der Spieler die Rolle eines Helden, der das Geheimnis des Turms aufdecken muss. Der Charakter kann Waffen, Rüstungen, Schilde und Handschuhe oder Armbänder an seinem Körper tragen und einen einzelnen Gegenstand aus seinem Inventar auf dem Schlachtfeld verwenden. Um Ihnen bei Ihrem Abenteuer zu helfen, werden Ihnen die vier Weisen ihre Magie beibringen, während Sie die vier Elementarschwerter erhalten, die Ihnen beim Fortschritt helfen. Spieler gewinnen Erfahrung und Gold, indem sie Monster besiegen. Erfahrung wird verwendet, um Stufen zu erreichen und Statistiken zu verbessern. Es ist jedoch eine Mindeststufe erforderlich, bevor Sie Bossen Schaden zufügen können. Gold wird zum Kauf von Artikeln in Geschäften verwendet.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Crystalis (USA)-image.png</image>
-		<marquee>./images/Crystalis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crystalis (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20000626T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -33,15 +26,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>6385</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005709" />
 	</game>
 	<game id="36932">
 		<name>Harvest Moon 3 GBC</name>
 		<desc>Der Charakter kann als Junge oder Mädchen gewählt werden. Der Anfang und das Ende sind je nach vom Spieler gewählten Charakter unterschiedlich.Harvest Moon 3 GBC findet auf einer Insel statt, die einige Bergregionen hat , eine Wiese , ein kleines Dorf und die Farm, wo ein großer Teil des Spiels stattfindet.Das Wachstum der Kulturen und die Aufzucht von Rindern gehören zu den Hauptaufgaben.der Spieler hat die Möglichkeit, seinen Partner zu heiraten, und sogar ein Baby zu bekommen.</desc>
 		<genre>Simulation</genre>
-		<image>./images/Harvest Moon 3 GBC (USA)-image.png</image>
-		<marquee>./images/Harvest Moon 3 GBC (USA)-marquee.png</marquee>
-		<thumbnail>./images/Harvest Moon 3 GBC (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20011114T000000</releasedate>
 		<developer>Victor Interactive Software</developer>
@@ -51,15 +40,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5143</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005712" />
 	</game>
 	<game id="37084">
 		<name>Grand Theft Auto</name>
 		<desc>GTA: Erleben Sie selbst jedes klassische Autorennen, das Sie noch nie gesehen haben. Rennen Sie schnell durch eine riesige, lebendige und unerreichbare Stadt, die aus Mitgliedern rivalisierender Banden, Söldnern, Auftragsmördern und einer ganzen Polizei besteht. Fahren Sie Dutzende von abwechslungsreichen Fahrzeugen um drei der schwierigsten Städte Amerikas. Nur die Besten können die schnellsten Autos zähmen. Nur der Klügste wird alle Abkürzungen und Kommen und Gehen der heißesten Räder kennen. Nur das Schwierigste wird in der Lage sein, die Welt zu nehmen und die Arbeit wie ein Profi zu beenden ...</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Grand Theft Auto (USA) (GB Compatible)-image.png</image>
-		<marquee>./images/Grand Theft Auto (USA) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Grand Theft Auto (USA) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19991122T000000</releasedate>
 		<developer>Tarantula</developer>
@@ -68,15 +53,11 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005714" />
 	</game>
 	<game id="36918">
 		<name>Game &amp; Watch Gallery 2</name>
 		<desc>Game And Watch Gallery 2 ist ein Spiel, das von Nintendo für Gameboy entwickelt wurde. Dieser Titel ist eigentlich eine Gruppierung von 6 einst "elektronischen" Minispielen mit Mario und seiner fröhlichen Bande! Man findet unter anderem "Parachute", der Mario auf einem Boot inszeniert, das Toad und Donkey Kong einholen muss, die mit dem Fallschirm fliegen. Weitere Minispiele sind Helmet, Chef, Vermin, Donkey Kong und Ball.</desc>
 		<genre>Sammlung</genre>
-		<image>./images/Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19981120T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -86,16 +67,12 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>5369</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005716" />
 	</game>
 	<game id="82375">
 		<name>The Legend of Zelda : Link's Awakening DX</name>
 		<desc>Gefangen in einem Traum! Link strandet auf der geheimnisvollen Insel Cocolint, weit entfernt von seinem Heimatland Hyrule. Die einzige Möglichkeit das Eiland wieder zu verlassen, besteht darin, dass Rätsel vom schlafenden Windfisch zu lösen.
 In diesem einzigartigen Abenteuer für den Game Boy begleitest du Link durch düstere Labyrinthe, musst mysteriöse Geheimnisse lösen und übermächtige Gegner bezwingen- und das Ganze erstmals in stimmungsvoller Farbpracht! Ein komplett neues Dungeon, speziell für die Game Boy Color Version programmiert, macht dieses Kultspiel zu einem einzigartigen Erlebnis!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19981201T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -105,7 +82,6 @@ In diesem einzigartigen Abenteuer für den Game Boy begleitest du Link durch dü
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>5371</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005717" />
 	</game>
 	<game id="36986">
 		<name>Rayman</name>
@@ -115,9 +91,6 @@ Rayman is side-scrolling platformer starring the titular Rayman, a big-nosed cha
 
 The Game Boy Color version of Rayman remains true to the spirit of the original game, but makes some notable changes, particularly when compared to the original's bright, vibrant graphics.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Rayman (USA) (En,Fr,De,Es,It,Nl)-image.png</image>
-		<marquee>./images/Rayman (USA) (En,Fr,De,Es,It,Nl)-marquee.png</marquee>
-		<thumbnail>./images/Rayman (USA) (En,Fr,De,Es,It,Nl)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20000329T000000</releasedate>
 		<developer>Ubi Soft Entertainment</developer>
@@ -127,16 +100,12 @@ The Game Boy Color version of Rayman remains true to the spirit of the original 
 		<lang>nl,it,es,de,fr,en</lang>
 		<region>us</region>
 		<cheevosId>537</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005719" />
 	</game>
 	<game id="37128">
 		<name>Mega Man Xtreme</name>
 		<desc>Mega Man X — ein blauer Roboter mit hoher Intelligenz, einer gütigen Persönlichkeit und beeindruckender Macht — wurde vor vielen Jahren von Dr. Cain entdeckt und studiert. Der Wissenschaftler versuchte, weitere Roboter nach dessen Vorbild zu erschaffen, die er 'Reploids' nannte. Doch einige der Reploids, die sogenannten Kampfroboter, erlitten Fehlfunktionen. Die 'Kampfroboter-Jäger', eine Gruppe fähiger Reploids wie Mega Man X, Zero und Sigma, wurde zusammengestellt, um der Situation wieder Herr zu werden. Doch eines Tages revoltierte Sigma und hackte sich in den Muttercomputer, was den Kampfrobotern noch mehr Macht verlieh.
 Während sich am Horizont das Chaos zusammenbraut, muss Mega Man X gemeinsam mit seinem Partner Zero und Middy, einem genialen Hacker, wieder für Frieden sorgen. Du reist durch die Vergangenheit, musst starke gegnerische Roboter besiegen und erlangst neue Fähigkeiten, während du in diesem actiongeladenen Jump'n'Run Verbrechen bekämpfst.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man Xtreme (USA, Europe) (GB Compatible)-image.png</image>
-		<marquee>./images/Mega Man Xtreme (USA, Europe) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man Xtreme (USA, Europe) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20010112T000000</releasedate>
 		<developer>Capcom</developer>
@@ -146,7 +115,6 @@ Während sich am Horizont das Chaos zusammenbraut, muss Mega Man X gemeinsam mit
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>713</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005723" />
 	</game>
 	<game id="37173">
 		<name>Return of the Ninja</name>
@@ -156,9 +124,6 @@ Am Tag an de Tsukikage und Saiyuri in ihr Dorf zurückkehren sehen sie es in Fla
 
 Die Spielfigur wird mit dem D-Pad gesteuert. Der A- und B-Button wird benutzt um zu springen oder anzugreifen. Es gibt einen grundsätzlichen Unterschied zwischen den beiden Spielfiguren, aber sie haben unterschiedliche Animationen. Neben den Feinden, denen man auswichen muss, gibt es auch Gefahren durch die Umwelt, denen man ausweichen muss, wie Feuer, das man vermeiden muss.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Return of the Ninja (USA)-image.png</image>
-		<marquee>./images/Return of the Ninja (USA)-marquee.png</marquee>
-		<thumbnail>./images/Return of the Ninja (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20010604T000000</releasedate>
 		<developer>Natsume</developer>
@@ -167,16 +132,12 @@ Die Spielfigur wird mit dem D-Pad gesteuert. Der A- und B-Button wird benutzt um
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7450</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005725" />
 	</game>
 	<game id="37204">
 		<name>Super Mario Bros. Deluxe</name>
 		<desc>Diese verbesserte Version des Klassikers war auf dem Game Boy Color ein großer Hit. Super Mario Bros. Deluxe enthält alle 32 Level des Originals aus dem Jahr 1985 und noch vieles mehr!
 Im Herausforderungs-Modus kannst du klassische Level aufs Neue erleben und dabei besondere rote Münzen und Yoshi-Eier sammeln, um den Highscore zu knacken. Oder stelle dich einem altbekannten Feind in einem Wettlauf durch acht spezielle Level bei Du gegen Buu Huu! Es gibt sogar ein paar besonders herausfordernde geheime Level zu entdecken, in denen du deine Fähigkeiten bei Super Mario Bros. auf die Probe stellen kannst!</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Super Mario Bros. Deluxe (USA, Europe) (Rev 1)-image.png</image>
-		<marquee>./images/Super Mario Bros. Deluxe (USA, Europe) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario Bros. Deluxe (USA, Europe) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990701T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -186,15 +147,11 @@ Im Herausforderungs-Modus kannst du klassische Level aufs Neue erleben und dabei
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>732</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005730" />
 	</game>
 	<game id="37070">
 		<name>Dragon Warrior Monsters 2 : Cobi's Journey</name>
 		<desc>Wie das Original Dragon Warrior Monsters für den Game Boy Color kombiniert Dragon Warrior Monsters 2: Cobi's Journey Themen und Charaktere aus der langjährigen Dragon Warriors-Reihe von Enix mit Gameplay-Aspekten, die in den äußerst beliebten Pokémon-Handheld-Spielen etabliert sind. Der Spieler übernimmt die Rolle von Cobi und begibt sich auf ein neues Abenteuer des Sammelns, Trainierens und Kämpfens von Monstern. Ein gleichzeitig veröffentlichtes Begleitspiel, Dragon Warrior Monsters 2: Tara's Adventure, folgt den ähnlichen Abenteuern von Cobis Schwester.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20010915T000000</releasedate>
 		<developer>Enix</developer>
@@ -204,15 +161,11 @@ Im Herausforderungs-Modus kannst du klassische Level aufs Neue erleben und dabei
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5105</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005734" />
 	</game>
 	<game id="82657">
 		<name>Bust-A-Move 4</name>
 		<desc>Bust-A-Move ist ein großer Arcade-Klassiker. Diese vierte Version auf Gameboy Color behält das erfolgreiche Rezept bei, das darin besteht, farbige Bullen auf einen Tisch zu schicken und sie durch die Neugruppierung identischer Farbzellen klar zu machen. Diese Version etabliert die Bullen arc-en-sky, auch wenn die Bullen étoile sind. Die Mode von zwei Spielern, so wird angekündigt, sei mit von der Partie, mit der Möglichkeit, eigene Rätsel zu erstellen.</desc>
 		<genre>Puzzle / Werfen</genre>
-		<image>./images/Bust-A-Move 4 (USA, Europe) (GB Compatible)-image.png</image>
-		<marquee>./images/Bust-A-Move 4 (USA, Europe) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Bust-A-Move 4 (USA, Europe) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19990601T000000</releasedate>
 		<developer>Taito</developer>
@@ -221,7 +174,6 @@ Im Herausforderungs-Modus kannst du klassische Level aufs Neue erleben und dabei
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T005738" />
 	</game>
 	<game id="37235">
 		<name>Worms Armageddon</name>
@@ -233,9 +185,6 @@ Alles ist in einem humorvollen Cartoon-Stil gehalten, von den Landschaften bis z
 
 Armageddon verwendet eine verbesserte Version der Worms 2-Engine, die zwar eine Verbesserung gegenüber Worms 2 darstellt, aber keine große Veränderung ist.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Worms Armageddon (USA) (En,Fr,Es)-image.png</image>
-		<marquee>./images/Worms Armageddon (USA) (En,Fr,Es)-marquee.png</marquee>
-		<thumbnail>./images/Worms Armageddon (USA) (En,Fr,Es)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Infogrames</developer>
@@ -244,15 +193,11 @@ Armageddon verwendet eine verbesserte Version der Worms 2-Engine, die zwar eine 
 		<players>1-2</players>
 		<lang>es,fr,en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T005743" />
 	</game>
 	<game id="82619">
 		<name>Pokémon Gold Version</name>
 		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht. Ho-Oh ziert die Packung und ist das Legendäre, das dir diese Fassung über die Regenbogenfeder zuführt. Nur hier laufen dir Growlithe, Mankey, Spinarak und Gligar über den Weg — in der Silver Version stehen an ihrer Stelle Vulpix, Meowth, Ledyba und Skarmory.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20010406T000000</releasedate>
 		<developer>Game Freak</developer>
@@ -262,7 +207,6 @@ Armageddon verwendet eine verbesserte Version der Worms 2-Engine, die zwar eine 
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>576</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005744" />
 	</game>
 	<game id="82606">
 		<name>Pokémon : Crystal Version</name>
@@ -270,9 +214,6 @@ Armageddon verwendet eine verbesserte Version der Worms 2-Engine, die zwar eine 
 
 In dieser Version von Pokémon Kristall-Edition können Spieler in einer Szene nach Abschluss des Spiels dem mystischen Pokémon Celebi begegnen. In der Originalversion von Pokémon Kristall-Edition konnte Celebi nur nach Einsatz eines speziellen Zubehörs gefunden werden.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Pokemon - Crystal Version (USA, Europe) (Rev 1)-image.png</image>
-		<marquee>./images/Pokemon - Crystal Version (USA, Europe) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon - Crystal Version (USA, Europe) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20011102T000000</releasedate>
 		<developer>Game Freak</developer>
@@ -282,15 +223,11 @@ In dieser Version von Pokémon Kristall-Edition können Spieler in einer Szene n
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>810</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005753" />
 	</game>
 	<game id="36940">
 		<name>Kirby : Tilt 'n' Tumble</name>
 		<desc>König Dedede ist wieder dabei, diesmal nimmt er alle Sterne vom Himmel. Zum Glück für Dreamland ist Kirby zurückgekehrt, um den bösen König noch einmal zu stoppen. Aber dieses Mal wird er deine Hilfe mehr denn je brauchen. Kirby wurde in einen Ball verwandelt, und es liegt an Ihnen, den Spieltisch zu kippen und zu drehen, damit Kirby Feinden ausweichen und das Endziel erreichen kann. Um dies zu tun, müssen Sie die Game Boy Color/Advance-Konsole dank des eingebauten Bewegungssensors in der Patrone tatsächlich neigen. Jede Bewegung, die Sie machen, bestimmt, wohin der kleine rosa Ball geht.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Kirby - Tilt 'n' Tumble (USA)-image.png</image>
-		<marquee>./images/Kirby - Tilt 'n' Tumble (USA)-marquee.png</marquee>
-		<thumbnail>./images/Kirby - Tilt 'n' Tumble (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20010411T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -300,7 +237,6 @@ In dieser Version von Pokémon Kristall-Edition können Spieler in einer Szene n
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>709</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005755" />
 	</game>
 	<game id="37229">
 		<name>Wario Land 3</name>
@@ -308,9 +244,6 @@ In dieser Version von Pokémon Kristall-Edition können Spieler in einer Szene n
 Wario Land 3 ist ein riesiges Jump'n'Run-Abenteuer, in dem dich Tag- und Nachtversionen von jedem Level erwarten. Über 100 Schätze gilt es zu ergattern, und dazu Unmengen an Geheimnissen. Gekrönt vom typischen durchgeknallten Wario-Humor!
 Wario kann wieder neue Zustände annehmen und sich so beispielsweise in Elektro-Wario, Unsichtbarer Wario oder Vampir-Wario verwandeln. Entdecke außerdem den Zeitangriff-Modus und das Golf-Minispiel!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wario Land 3 (World) (En,Ja)-image.png</image>
-		<marquee>./images/Wario Land 3 (World) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Wario Land 3 (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000321T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -320,15 +253,11 @@ Wario kann wieder neue Zustände annehmen und sich so beispielsweise in Elektro-
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosId>741</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005759" />
 	</game>
 	<game id="37003">
 		<name>Survival Kids</name>
 		<desc>Während einer Vergnügungskreuzfahrt zu seinem zehnten Geburtstag wird ein junger Mann von einem heftigen Sturm auf eine abgelegene Insel geschwemmt, der das gesamte Schiff zerstört. Ohne Familie oder Freunde muss er auf dieser seltsamen, scheinbar unbewohnten Insel für sich selbst sorgen und einen Weg finden, nach Hause zurückzukehren. Survival Kids wird im Action-RPG-Stil präsentiert. Die Spieler müssen versuchen, jeden Tag zu überleben, indem sie sich ausreichend ausruhen, essen und regelmäßig Wasser trinken. Dies kann gefährlich sein, da bestimmte Lebensmittel, beispielsweise Pilze, verschiedene Auswirkungen wie Lähmungen und Vergiftungen haben können. Es liegt an Ihnen, wann immer Sie essen/trinken/schlafen, um fit zu bleiben.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Survival Kids (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Survival Kids (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Survival Kids (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19991001T000000</releasedate>
 		<developer>Konami</developer>
@@ -338,7 +267,6 @@ Wario kann wieder neue Zustände annehmen und sich so beispielsweise in Elektro-
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4923</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005802" />
 	</game>
 	<game id="36972">
 		<name>Perfect Dark</name>
@@ -346,9 +274,6 @@ Wario kann wieder neue Zustände annehmen und sich so beispielsweise in Elektro-
 
 Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players assume the role of Joanna Dark, just before her induction into the Carrington Institute.  The game plays from a top-down perspective, and you battle enemies with a variety of high-tech weaponry, from handguns to rocket launchers. A weapon can be assigned to the A Button and the B Button, which represent your left hand and your right hand.  It's also possible to search dead enemies for items and ammo by pressing Select near their corpse.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)-image.png</image>
-		<marquee>./images/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)-marquee.png</marquee>
-		<thumbnail>./images/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20000801T000000</releasedate>
 		<developer>Rareware</developer>
@@ -358,15 +283,11 @@ Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players ass
 		<lang>it,es,de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>14039</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005805" />
 	</game>
 	<game id="82447">
 		<name>Revelations : The Demon Slayer</name>
 		<desc>The Last Bible series is set in a fantasy world patterned after the ancient Middle East. In this world, humans have learned to call upon the energy of the world, called Gaia. The hero, El, has studied Gaia, but on the day of his graduation, strange creatures begin to appear. Together with his companions, he sets out to defeat the Gaia Masters that are bringing monsters to their world.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Revelations - The Demon Slayer (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19990827T000000</releasedate>
 		<developer>Atlus</developer>
@@ -376,15 +297,11 @@ Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players ass
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4972</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005810" />
 	</game>
 	<game id="82256">
 		<name>Harvest Moon 2 GBC</name>
 		<desc>Harvest Moon 2 GBC ist ein Rollenspiel auf Gameboy Color, das in einer ländlichen Welt spielt, in der es darum geht, sich in aller Ruhe um seinen kleinen Gartenplatz zu kümmern und Handel zu treiben. Ihr Leben als Bauer gibt Ihnen die Möglichkeit, das Land anzubauen, sich um das Vieh zu kümmern und sogar Ihre Glücksträume mit Ihrer Partnerin zu teilen. Und je mehr Ernte-Ernten du findest, desto mehr wirst du bei deinen verschiedenen täglichen Aufgaben unterstützt.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Harvest Moon 2 GBC (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20001107T000000</releasedate>
 		<developer>Natsume</developer>
@@ -394,15 +311,11 @@ Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players ass
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5155</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005812" />
 	</game>
 	<game id="36952">
 		<name>Magi Nation</name>
 		<desc>What would you do if you found yourself in a strange land, face-to-face with a mysterious presence and catapulted into an adventure to save an entire civilization? Well, find out! Explore a world of color and imagination that will challenge your every notion of reality. Experience the rush of dueling a Shadow Magi, with everything on the line. Find yourself going toe-to-toe with the awesome Timber Hyren, or the gargantuan Ormagon. Be the savior of an entire civilization. And find uses for jellybeans that you never thought possible.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Magi Nation (USA)-image.png</image>
-		<marquee>./images/Magi Nation (USA)-marquee.png</marquee>
-		<thumbnail>./images/Magi Nation (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20010315T000000</releasedate>
 		<developer>Interactive Imagination</developer>
@@ -411,7 +324,6 @@ Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players ass
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4731</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005815" />
 	</game>
 	<game id="36861">
 		<name>Azure Dreams</name>
@@ -419,9 +331,6 @@ Perfect Dark is a prequel to the Nintendo 64 game of the same name.  Players ass
 
 You control Koh and his party of "familiars" in this unusual "monster-taming" RPG. You must capture the eggs from the tower, bring them home, grow monsters and tame them. During battles, you assign different commands to them. Different species have different abilities and need different approach. The battles system is a mixture of real time and turn based combat. Unlike most other console RPGs, there are no special battle screens.</desc>
 		<genre>Rollenspiele / Kerker-RPG</genre>
-		<image>./images/Azure Dreams (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Azure Dreams (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Azure Dreams (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20000213T000000</releasedate>
 		<developer>Konami</developer>
@@ -430,15 +339,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4100</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005819" />
 	</game>
 	<game id="82600">
 		<name>Pokémon Puzzle Challenge</name>
 		<desc>Beweise dich als wahrer Meister! Auf nach Johto zur Puzzle Challenge! Eine Herausforderung der besonderen Art erwartet dich in diesem Puzzle-Vergnügen der Extra-Klasse. Endivie, Pikachu, Karnimani und andere Pokémon werden dich auf deinem Weg zur Meisterschaft begleiten! Trainiere bei Prof. Eich! Sechs Spielmodi bieten stundenlanges Puzzlevergnügen! Erlebe doppelten Spielspaß via Universal Game LinkTM-Kabel (separat erhältlich)!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Pokemon Puzzle Challenge (USA, Australia)-image.png</image>
-		<marquee>./images/Pokemon Puzzle Challenge (USA, Australia)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Puzzle Challenge (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000901T000000</releasedate>
 		<developer>Intelligent Systems</developer>
@@ -448,15 +353,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>726</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005821" />
 	</game>
 	<game id="37118">
 		<name>Lufia: The Legend Returns</name>
 		<desc>Erlebe ein Abenteuer voller Mythen und Sagen, phantastischer Kreaturen und sagenumwobener Helden! Der dritte Teil der erfolgreichen Rollenspiel-Saga. Die Insel der Sinistrals, Doom Island, versank nach dem zweiten Doom-Island-Krieg in den Tiefen des Ozeans. Man glaubte, dass sie in einen ewigen Schlaf versunken sei, aber insgeheim begann sie neu aufzuleben und bereitete sich darauf vor, zum dritten Mal am Himmel zu erscheinen. Die bösartigen Sinistrals sind wieder auferstanden und verbreiten unvorstellbaren Terror im Land. Eine Kraft erwacht in Dir, eine spirituelle Kraft, die Dich in einen Kampf führt, welcher die Welt retten wird!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Lufia - The Legend Returns (USA)-image.png</image>
-		<marquee>./images/Lufia - The Legend Returns (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lufia - The Legend Returns (USA)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>20010920T000000</releasedate>
 		<developer>Neverland</developer>
@@ -466,15 +367,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2502</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005823" />
 	</game>
 	<game id="37208">
 		<name>Tetris DX</name>
 		<desc>Tetris und Game Boy gehören zusammen wie Mario und Luigi. Durch die prächtigen Farben des Game Boy Color wird Tetris DX zu einem wahrhaft himmlischen Vergnügen. Aus Achtung vor der schieren Perfektion der 1989er Game Boy-Vorlage entschlossen sich die Entwickler, diese konsequent beizubehalten und einen neuen Klassiker abzuliefern. Der größte Unterschied zwischen diesem Spiel und seinem tragbaren Vorgänger sind die herrlichen Farbgrafiken. Die Hintergründe verändern ihre Farben, während du Zeilen baust, und die prächtig gefürbten Steine sind kontrastreich dargestellt. Tetris DX bietet drei verschiedene Spielmodi: den traditionellen Marathon Mode, den Ultra Mode, sowie den 40 Line Mode. Im Ultra Mode geht es um das Aufstellen eines Rekords (wird im Modul gespeichert) innerhalb von drei Minuten. Hier ist es also besonders wichtig, viele Zeilen auf einmal abzuräumen - und das so oft wie möglich. Der 40 Line Mode zwingt dich zu einem Rennen gegen die Zeit. Baue und räume 40 Zeilen in möglichst kurzer Zeit ab. Das Spiel zeichnet deine Rekordzeiten auf. Daher lohnt es sich, um jede Sekunde zu kämpfen. Auch kannst du gegen die CPU spielen oder per Game Link gegen einen Freund antreten.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Tetris DX (World) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Tetris DX (World) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Tetris DX (World) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990701T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -484,15 +381,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>4939</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005827" />
 	</game>
 	<game id="82196">
 		<name>Game &amp; Watch Gallery 3</name>
 		<desc>Game Boy Gallery 3 ist ein Spiel, das von Nintendo auf Gameboy Color entwickelt wurde. Dieser Titel ist eigentlich eine Gruppierung von 6 Minispielen von einst "Games &amp; Watch" mit Mario und seiner fröhlichen Bande! Man findet unter anderem "Parachute", der Mario auf einem Boot inszeniert, das Toad und Donkey Kong einholen muss, die mit dem Fallschirm fliegen. Weitere Minispiele sind Helmet, Chef, Vermin, Donkey Kong und Ball.</desc>
 		<genre>Sammlung</genre>
-		<image>./images/Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Game &amp; Watch Gallery 3 (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20000201T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -502,15 +395,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>6533</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005829" />
 	</game>
 	<game id="37132">
 		<name>Micro Machines V3</name>
 		<desc>Micro Machines V3 takes the immensely popular miniature-scale racing series to a new level by adding weapons and power-ups to the fray. Now you can grab turbo charges for bursts of speed or blast away opponents with grenades and force-fields. For the first time on a portable system you can still drive all of your favorite Micro Machines vehicles on all the classic tracks such as the pool tale and sand-box, but now you can do it with an attitude! Features 48 courses - breakfast table, school desk, science lab, beach, restaurant, garden, pool table, etc. Power-ups to blitz the opposition include: hammer, mines, force-field, etc. Collect, test and gamble special prize cars for up to 32 vehicles -- including monster trucks, transmutable cars, futuristic cars which are all faster than before.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines V3 (USA, Europe)-image.png</image>
-		<marquee>./images/Micro Machines V3 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines V3 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>20001124T000000</releasedate>
 		<developer>Novalicious</developer>
@@ -519,15 +408,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T005831" />
 	</game>
 	<game id="82379">
 		<name>The Legend of Zelda : Oracle of Seasons</name>
 		<desc>Der niederträchtige General Onox entführt das „Orakel der Jahreszeiten“, die Tänzerin Din, und verbannt den Tempel der Jahreszeiten und den dort aufbewahrten Stab der vier Jahreszeiten in eine andere Welt. Ohne Din und den Stab gerät das Wetter im Land Holodrum völlig durcheinander, und Link macht sich zur Rettung auf. Dazu muss er die acht „Essenzen der Natur“ finden, um dem mächtigen Maku-Baum zu alter Stärke zu verhelfen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Oracle of Seasons (USA, Australia)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Oracle of Seasons (USA, Australia)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Oracle of Seasons (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20010514T000000</releasedate>
 		<developer>Capcom</developer>
@@ -537,15 +422,11 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>676</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005836" />
 	</game>
 	<game id="82598">
 		<name>Pokémon Pinball</name>
 		<desc>Ein neuer Weg um sich Pokemon zu schnappen: mit dem Flipper. Eine geniale Kombination des Spiel-Konzept. Durch geschicktes Flippern kann der Spieler alle 150 Pokemon fangen. Die Flipper-Simulation wird durch das in der Cartridge integrierte Rumble-Features noch realistischer gestaltet. Wie im echten Flipper fühlt der Spieler das Aufprallen der Spielkugel - hier natürlich des Pokeballs. Ein Volltreffer für den Handel.</desc>
 		<genre>Flipper</genre>
-		<image>./images/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19990628T000000</releasedate>
 		<developer>Jupiter</developer>
@@ -555,16 +436,12 @@ You control Koh and his party of "familiars" in this unusual "monster-taming" RP
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>725</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005838" />
 	</game>
 	<game id="36871">
 		<name>Bionic Commando : Elite Forces</name>
 		<desc>Das Avar-Reich ist eine bedeutende Annehmlichkeit für unser Heimatland Karinia. Als Mitglied des Eliteteams der Bionic Corps Forces besteht Ihre Mission darin, die Avar-Anlagen zu infiltrieren, ihre Invasionsflugzeuge zu unterbrechen und unseren Entdecker, Kollegen des Bionic-Kommandos, Commander Joe, zu retten. Spielen Sie wie ein bionischer Soldat mit einem mechanischen Arm, der sich ausdehnt und zusammenzieht, damit Sie mit Objekten interagieren können, die sich normalerweise außerhalb Ihres Besitzes befinden.
 Das Spiel basiert auf dem Arcade-Spiel Bionic Commando und ist ein typisches Plattformspiel, bei dem der Schwerpunkt auf den Fähigkeiten liegt, die Ihnen Ihre bionischen Arme verleihen. Sie können damit die Plattform auf der Plattform ausbalancieren, höhere Plattformen treffen und damit Feinde angreifen. Es stehen auch einige andere Waffen und eine Vielzahl von Lastwagen zur Verfügung. Zu Beginn des Spiels können Sie auch wählen, ob Sie einen männlichen oder weiblichen Befehl übernehmen möchten.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Bionic Commando - Elite Forces (USA, Australia)-image.png</image>
-		<marquee>./images/Bionic Commando - Elite Forces (USA, Australia)-marquee.png</marquee>
-		<thumbnail>./images/Bionic Commando - Elite Forces (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20000126T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -574,15 +451,11 @@ Das Spiel basiert auf dem Arcade-Spiel Bionic Commando und ist ein typisches Pla
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>6524</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005840" />
 	</game>
 	<game id="82603">
 		<name>Pokémon Trading Card Game</name>
 		<desc>Die besten Pokémon Sammelkartenspieler aller Zeiten - die Großmeister - suchen eine würdigen Erben für die 4 seltenen legendären Pokémon-Karten! Sammle alle Karten, besiege die 8 Clubmeister und fordere die Großmeister heraus! Tritt via Universal Game Link-Kabel (separat erhältlich) gegen einen Freund an. Werde der beste Kartenmeister! Das Spiel enthält über 200 Pokémon Sammelkarten und exklusive neue Karten für den Game Boy!</desc>
 		<genre>Kartenspiele</genre>
-		<image>./images/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000410T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -592,15 +465,11 @@ Das Spiel basiert auf dem Arcade-Spiel Bionic Commando und ist ein typisches Pla
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>727</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005842" />
 	</game>
 	<game id="36905">
 		<name>Donkey Kong Country</name>
 		<desc>In Donkey Kong Country schlüpfen Sie in die Rolle des berühmten Gorillas von Nintendo. Der King K. Rool hat Donkeys Bananen gestohlen, woraufhin er beschließt, sich auf die Suche nach ihm zu machen, um sie zurückzuholen. Es gibt zwei spielbare Charaktere, Donkey ist größer und stärker, während Diddy schneller ist. Tiere helfen dir, bestimmte Levels zu bewältigen und die Kremlings zu besiegen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20001104T000000</releasedate>
 		<developer>Rareware</developer>
@@ -610,7 +479,6 @@ Das Spiel basiert auf dem Arcade-Spiel Bionic Commando und ist ein typisches Pla
 		<lang>it,es,de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>5021</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005846" />
 	</game>
 	<game id="37129">
 		<name>Mega Man Xtreme 2</name>
@@ -618,9 +486,6 @@ Das Spiel basiert auf dem Arcade-Spiel Bionic Commando und ist ein typisches Pla
 Reploids verwandeln sich in leblose Hüllen, als hätte ihnen jemand die Seelen ausgelöscht. Nun liegt es an X und Zero, die Schuldigen zu finden. Du kannst zwischen X und Zero wechseln, während du Feinde bekämpfst und mächtige Bossgegner besiegst.
 Du kannst Power-Ups sammeln, um deine Fähigkeiten zu verbessern, X und Zero mit einzigartigen Spezialwaffen ausrüsten und musst das Rätsel lösen, um die verlorenen Reploids-Seelen zu retten.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man Xtreme 2 (USA, Europe)-image.png</image>
-		<marquee>./images/Mega Man Xtreme 2 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man Xtreme 2 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20011031T000000</releasedate>
 		<developer>Capcom</developer>
@@ -630,15 +495,11 @@ Du kannst Power-Ups sammeln, um deine Fähigkeiten zu verbessern, X und Zero mit
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>4912</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005848" />
 	</game>
 	<game id="82377">
 		<name>The Legend of Zelda : Oracle of Ages</name>
 		<desc>Die böse Zauberin Veran nimmt das „Orakel der Zeit“, die Sängerin Nayru, gefangen. Mit ihrer Hilfe will sie die Vergangenheit ändern, um auf ewig die Macht über das Land Labrynna zu erlangen. Link – Protagonist des Spiels – muss die acht „Essenzen der Zeit“ finden, um mit Hilfe des Maku-Baumes Nayru und Labrynna zu retten.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - Oracle of Ages (USA, Australia)-image.png</image>
-		<marquee>./images/Legend of Zelda, The - Oracle of Ages (USA, Australia)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - Oracle of Ages (USA, Australia)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20010514T000000</releasedate>
 		<developer>Capcom</developer>
@@ -648,7 +509,6 @@ Du kannst Power-Ups sammeln, um deine Fähigkeiten zu verbessern, X und Zero mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>710</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005850" />
 	</game>
 	<game id="37230">
 		<name>Wario Land II</name>
@@ -656,9 +516,6 @@ Du kannst Power-Ups sammeln, um deine Fähigkeiten zu verbessern, X und Zero mit
 Hilf Wario in diesem lustigen Jump'n'Run-Klassiker, seine Reichtümer zurückzuerobern! Nichts und niemand kann Wario etwas antun, aber bestimmte gegnerische Angriffe haben merkwürdige Auswirkungen auf seinen Körper. So verwandelt er sich mitunter in neue Gestalten wie den flammenden Heißen Wario und Zombie-Wario, die jeweils ganz eigene Fähigkeiten mit sich bringen.
 Stürze dich auf Puzzles und Minispiele und halte nach verborgenen Ausgängen Ausschau, die dich zu weiteren Schätzen und sogar zu alternativen Spiel-Enden führen!</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Wario Land II (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990225T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -668,15 +525,11 @@ Stürze dich auf Puzzles und Minispiele und halte nach verborgenen Ausgängen Au
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>14221</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005855" />
 	</game>
 	<game id="82138">
 		<name>Dragon Warrior Monsters</name>
 		<desc>Dragon Quest Monsters entführt Sie in ein mystisches Universum voller Könige, Monster und Magie. Gewinnen Sie die Monster dieser Welt als Alliierte, um Ihnen auf der Suche nach Ihrer entführten Schwester zu helfen. Diese große Aufgabe können Sie nur bestehen, wenn Sie mit Geduld und Geschick zum mächtigsten Monster-Master des Landes werden. Jedes Monster besitzt einzigartige Fähigkeiten. Trainieren Sie Ihre Monster und behandeln Sie sie gut, nur so werden Sie den Sieg erringen. In der Monsterzucht gibt es über 40.000 verschiedene Kombinationen - können Sie das seltenste, stärkste Monster züchten? Sammeln, zähmen und trainieren Sie über 200 verschiedene Monster, Kreuzen Sie Ihre stärkste Monster, denn jedes Monster-Baby erbt die Fähigkeiten der Eltern, Kämpfen Sie im Link-Modus gegen Ihre Freunde oder züchten Sie gemeinsam Monster Babys, Spielen Sie diesen genialen Ableger von Japans erfolgreichster Rollenspiel-Serie "Dragon Quest", Komplett in Deutsch</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Enix</developer>
@@ -686,7 +539,6 @@ Stürze dich auf Puzzles und Minispiele und halte nach verborgenen Ausgängen Au
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>3608</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005900" />
 	</game>
 	<game id="37123">
 		<name>Mario Golf</name>
@@ -694,9 +546,6 @@ Stürze dich auf Puzzles und Minispiele und halte nach verborgenen Ausgängen Au
 
 Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit der Zeit ausbauen, indem du Meisterschaften absolvierst oder Kopf an Kopf mit einem anderen Golfer spielst. Je öfter du spielst, desto stärker und präziser wird er oder sie. Mit Hilfe des Nintendo 64 Transfer Paks kannst du deinen Golfer zudem direkt in die Nintendo 64-Version von Mario Golf exportieren. Wenn du mit deinem Game Boy Color-Golfer auf dem Nintendo 64 spielst, kannst du ihn noch weiter aufbauen und ihn anschließend zurück auf den Game Boy Color verfrachten.</desc>
 		<genre>Sport / Golf</genre>
-		<image>./images/Mario Golf (USA)-image.png</image>
-		<marquee>./images/Mario Golf (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mario Golf (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19990630T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -706,15 +555,11 @@ Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1403</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005902" />
 	</game>
 	<game id="82137">
 		<name>Dragon Warrior III</name>
 		<desc>Dein Vater, der tapfere Ortega, ist tot. Er machte sich auf den Weg, um den Dämonenlord Baramos zu vernichten, fiel jedoch in einer glorreichen Schlacht. Wenn Baramos nicht gestoppt wird, wird er eine Flut des Bösen entfesseln, die die Welt zerstören wird. Sie müssen Baramos aufhalten und die Legende von Dragon Warrior entdecken! Ihre Reise beginnt auf Aliahan. Nur Sie entscheiden, wo es endet...</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Warrior III (USA)-image.png</image>
-		<marquee>./images/Dragon Warrior III (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Warrior III (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20010718T000000</releasedate>
 		<developer>Enix</developer>
@@ -724,15 +569,11 @@ Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>697</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005904" />
 	</game>
 	<game id="37042">
 		<name>Bomberman Max : Red Challenger</name>
 		<desc>Red Challenger, die zweite Hälfte der Bomberman Max-Reihe, ist in Bezug auf die Aufgaben, die die Hauptfigur zu erfüllen hat, weitgehend mit Blue Champion identisch. Allerdings schlüpfen Sie nicht in die Rolle von Bomberman, sondern in die Rolle von Max, der Bomberman bis auf sein Aussehen immer noch sehr ähnlich sieht. Auch die Grafik unterscheidet sich in jedem Level leicht von der von Blue. Die Aufgabe bleibt unverändert: Installieren Sie Bomben, um Blöcke und Feinde zu zerstören, die Ihnen im Weg stehen, und sammeln Sie Charabombs, Kreaturen, die sich fast wie Pokémon verhalten, wobei Sie Charabombs züchten und gegen andere Spieler kämpfen. Einige Charabombs und Level sind nur in Blau verfügbar. Sie müssen daher eine Verbindung mit einem anderen Game Boy und der Blue Champion Edition herstellen, um alle Charabombs zu sammeln und das Abenteuer abzuschließen.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Bomberman Max - Red Challenger (USA)-image.png</image>
-		<marquee>./images/Bomberman Max - Red Challenger (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman Max - Red Challenger (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>20000514T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -742,15 +583,11 @@ Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7102</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005906" />
 	</game>
 	<game id="36998">
 		<name>Shantae</name>
 		<desc>Das Genie-Mädchen Shantae ist der selbsternannte Hüter eines kleinen Fischerdorfs, Scuttle Town. Sie zieht den Leuchtturm der Wunderlampe als Behausung vor und ist ständig auf der Suche nach Gefahr. Wenn die ruchlose Piratendame 'Risky Boots' Wind von dem jüngst in Umlauf gebrachten Schatz bekommt, der vor Kurzem im Dorf ausgegraben wurde, startet sie einen Angriff auf Shantae. Um Scuttle Town aus der Klemme zu helfen, ist es nun an Shantae zu beweisen, dass sie zurecht das Genie-Mädchen ist und all ihre Tanzkünste zur Errettung des Dorfes auffahren wird. Also los, hol Deinen GameBoy Color und lass' die Peitsche knallen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Shantae (USA)-image.png</image>
-		<marquee>./images/Shantae (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shantae (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20020602T000000</releasedate>
 		<developer>Wayforward</developer>
@@ -760,15 +597,11 @@ Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>728</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005908" />
 	</game>
 	<game id="36958">
 		<name>Metal Gear Solid</name>
 		<desc>Metal Gear Solid ähnelt in Stil und Gameplay den frühen Metal Gear-Spielen. Es wird aus der Top-Down-Perspektive gespielt, und das Gameplay basiert hauptsächlich auf Stealth. Snake muss sich an den Wachen vorbeischleichen und dabei verschiedene Taktiken anwenden, um sie abzulenken oder sie lautlos zu töten. Von Zeit zu Zeit trifft Snake auch auf Endgegner, die er besiegen muss, um in das nächste Gebiet zu gelangen. Auch die serientypischen Codec Gespräche sind dabei. Die Geschichte spielt dabei nicht im Kanon der Metal Gear-Serie, sondern erzählt eine alternative Episode mit demselben Helden und einer neuen Bedrohung durch Metal Gear
 </desc>
-		<image>./images/Metal Gear Solid (USA)-image.png</image>
-		<marquee>./images/Metal Gear Solid (USA)-marquee.png</marquee>
-		<thumbnail>./images/Metal Gear Solid (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000424T000000</releasedate>
 		<developer>Konami</developer>
@@ -778,16 +611,12 @@ Bei Mario Golf kannst du deinen eigenen Golfer kreieren und sein/ihr Können mit
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>520</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005912" />
 	</game>
 	<game id="37172">
 		<name>Resident Evil: Gaiden</name>
 		<desc>Es wird vermutet, dass Umbrella, die Schöpfer des tödlichen Virus, der Raccoon City ausgelöscht hat, eine neue bioorganische Waffe auf einem Kreuzfahrtschiff namens Starlight entwickelt hat, das auf dem Weg nach Europa ist. Ein S.T.A.R.S.-Mitglied, Leon S. Kennedy (aus Resident Evil 2), wurde ausgesandt, um die Waffe zu zerstören, aber das Team konnte ihn seit seiner Ankunft auf dem Schiff nicht mehr erreichen.
 
 In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter ist es Ihre Aufgabe, an Bord des im Atlantik treibenden Schiffes zu gelangen, die Waffe zu zerstören und Leon zu finden. Auf dem Weg dorthin treffen Sie auf zahlreiche tödliche untote Feinde, die denen aus der Original-Resident-Evil-Serie ähneln, während Sie eine Reihe von Waffen und Gegenständen benutzen, die Sie auf dem Schiff finden.</desc>
-		<image>./images/Resident Evil Gaiden (USA)-image.png</image>
-		<marquee>./images/Resident Evil Gaiden (USA)-marquee.png</marquee>
-		<thumbnail>./images/Resident Evil Gaiden (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20020603T000000</releasedate>
 		<developer>M4</developer>
@@ -797,15 +626,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5133</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005916" />
 	</game>
 	<game id="37009">
 		<name>Toki Tori</name>
 		<desc>Bei Toki Tori handelt es sich mehr um ein Puzzel Spiel als um ein Jump´n run. Als Küken Toki Tori geht es darum in jedem Level alle Eier einzusammeln. Dazu ist es wichtig sich in der richtigen Reihenfolge durch das Level zu Bewegen um zu vermeiden höhere Plattformen später nicht mehr erreichen zu können. Auch gibt es eine Vielzahl an Werkzeugen oder Spezialfähigkeiten die clever eingesetzt werden um im Level voranzukommen. Allerdings ist ihre Verwendung stets begrenzt. Auch gibt es Gegner denen man entweder ausweicht oder sie mit einem Werkzeug unschädlich macht.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)-image.png</image>
-		<marquee>./images/Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)-marquee.png</marquee>
-		<thumbnail>./images/Toki Tori (USA, Europe) (En,Ja,Fr,De,Es)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>20010912T000000</releasedate>
 		<developer>Two Tribes B.V.</developer>
@@ -815,15 +640,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<lang>es,fr,de,jp,en</lang>
 		<region>eu</region>
 		<cheevosId>6548</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005919" />
 	</game>
 	<game id="37068">
 		<name>Dragon Warrior I &amp; II</name>
 		<desc>Dragon Quest I &amp; II comprend les versions Gameboy des deux premiers jeux Dragon Quest. Il s'agit de la troisième version de chaque jeu, après la première version sur NES et le remake sur SNES.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Warrior I &amp; II (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000927T000000</releasedate>
 		<developer>Enix</developer>
@@ -833,15 +654,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3818</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005924" />
 	</game>
 	<game id="37022">
 		<name>Warlocked</name>
 		<desc>Spielen Sie als Mensch oder Biest, indem Sie Kampfstrategien planen. Ernten Sie Ressourcen und errichten Sie Gebäude, stellen Sie dann eine Armee auf und befehlen Sie Ihren Truppen den Kampf. Suchen Sie nach geheimen Karten und trainieren Sie die Drachen, in Ihrem Namen zu kämpfen. Mit einer mächtigen Armee zu Ihrer Verfügung sind Sie bereit, Burgen zu belagern, feindliche Horden zu besiegen und Ihre Feinde aus dem Land zu vertreiben.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Warlocked (USA)-image.png</image>
-		<marquee>./images/Warlocked (USA)-marquee.png</marquee>
-		<thumbnail>./images/Warlocked (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20000724T000000</releasedate>
 		<developer>Bits Studios</developer>
@@ -850,15 +667,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4922</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T005925" />
 	</game>
 	<game id="36960">
 		<name>Micro Machines 1 and 2 : Twin Turbo</name>
 		<desc>Tiny cars race through the house in MICRO MACHINES 1 AND 2: Twin Turbo. Take 15 vehicles including jeeps, helicopters, tanks, speedboats, and sports cars onto 60 different tracks like the breakfast table, the garden, and the pool table. Each track has its own obstacles and hazards, so keep your eyes peeled. For example, watch out for the rubber ducks, soapsuds, and whirlpool drain in the bathtub. The biggest hazard is falling off of the track, which costs time and puts you way behind. As an added bonus, there is a Two-Player mode that can be played on one Game Boy: one player uses direction pad and the other uses the buttons to steer his vehicle left or right, the goal being to push the opposition off of the track. With all of the track and vehicle choices, there is plenty to keep you playing MICRO MACHINES 1 AND 2: Twin Turbo.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines 1 and 2 - Twin Turbo (USA, Europe)-image.png</image>
-		<marquee>./images/Micro Machines 1 and 2 - Twin Turbo (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines 1 and 2 - Twin Turbo (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20000101T000000</releasedate>
 		<developer>Codemasters</developer>
@@ -867,15 +680,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102107" />
 	</game>
 	<game id="82782">
 		<name>Spy vs. Spy</name>
 		<desc>The Black Spy and the White Spy have feuded on the pages of MAD magazine for decades. Now they bring their feud to the Game Boy Color. You can play as either the Black Spy or the White Spy, with the goal being to outsmart your opponent and collect five objects hidden throughout the level. As luck would have it, you have an infinite number of booby traps to place throughout the level to get rid of your nemesis. Buckets of water can be set up over doors and items can be rigged with bombs. If your opponent has set a booby trap, you can defuse it with the proper item. Should you get caught in a trap, you have infinite lives, and all you lose is time. If you want a friend to join the mayhem, use a link cable and go at it. Who will be able to survive from one stage to the next in SPY VS SPY?</desc>
 		<genre>Strategie</genre>
-		<image>./images/Spy vs Spy (USA)-image.png</image>
-		<marquee>./images/Spy vs Spy (USA)-marquee.png</marquee>
-		<thumbnail>./images/Spy vs Spy (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19990101T000000</releasedate>
 		<developer>Kemco</developer>
@@ -883,15 +692,11 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102111" />
 	</game>
 	<game id="82616">
 		<name>Pokémon : Silver Version</name>
 		<desc>Du beginnst als unerfahrener Trainer und erforschst die Insel Johto. Dein Ziel ist es, so viele Pokémon wie möglich zu fangen. Auf deinem Weg wirst du Dutzende Pokémon treffen wie das Legendäre Pokémon-Trio Raikou, Entei und Suicune. Auch neue Pokémon-Typen kamen damals zum Spiel hinzu! Achte auf Pokémon vom Typ Stahl und vom Typ Unlicht. Lugia ziert die Packung und ist das Legendäre, das dir diese Fassung über die Silberfeder zuführt. Nur hier laufen dir Vulpix, Meowth, Ledyba und Skarmory über den Weg — in der Gold Version stehen an ihrer Stelle Growlithe, Mankey, Spinarak und Gligar.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20010406T000000</releasedate>
 		<developer>Game Freak</developer>
@@ -901,7 +706,6 @@ In einer Kombination aus Top-Down-Sidescrolling-Action und 1st-Person-Shooter is
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>722</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102119" />
 	</game>
 	<game id="37202">
 		<name>Street Fighter Alpha: Warriors' Dreams</name>
@@ -911,9 +715,6 @@ Die neuen Moves, die jedem Kämpfer zur Verfügung stehen, die sogenannten Super
 
 Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Alpha-Zähler. Diese können verwendet werden, um einen kommenden Angriff nach dem Blocken zu kontern.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Street Fighter Alpha - Warriors' Dreams (USA)-image.png</image>
-		<marquee>./images/Street Fighter Alpha - Warriors' Dreams (USA)-marquee.png</marquee>
-		<thumbnail>./images/Street Fighter Alpha - Warriors' Dreams (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20000324T000000</releasedate>
 		<developer>Capcom</developer>
@@ -923,15 +724,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3607</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102121" />
 	</game>
 	<game id="82676">
 		<name>Rayman 2 : The Great Escape</name>
 		<desc>Ein neues Abenteuer beginnt. Kaum ist Rayman wieder da, wird er schon von merkwürdigen Kreaturen verschleppt, die ihn in einen intergalaktischen Zoo stecken wollen. Rayman kann zwar entkommen, muß aber seine Freunde zurücklassen. Wird es ihm gelingen, sie aus der Gefangenschaft zu befreien? Und wird er in den neuen wunderschön gestalteten Landschaften und 10 verschiedenen Welten alle Aufgaben bewältigen, die sich ihm stellen? Wie schon im ersten Teil, so tobt auch der neue Rayman wieder durch ein total verrücktes Universum mit jeder Menge Spielspaß, Humor, wahnwitziger Action und kniffligen Rätseln. Dabei gibt es fast nichts, was der neue Rayman in seinen Abenteuern nicht kann: Er geht, er rennt, er klettert, er schwimmt, er taucht, er schwingt sich über Hindernisse, er gleitet auf Eis, auch diesmal verwandeln sich seine Haare zu Rotoren, mit denen er sich in die Lüfte heben kann.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Rayman 2 (USA) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Rayman 2 (USA) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Rayman 2 (USA) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20020101T000000</releasedate>
 		<developer>Ubi Soft Entertainment</developer>
@@ -941,15 +738,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>it,es,de,fr,en</lang>
 		<region>us</region>
 		<cheevosId>4647</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102125" />
 	</game>
 	<game id="37156">
 		<name>Pocket Bomberman</name>
 		<desc>Begib dich an der Seite von Bomberman, dem kleinen Bombenexperten, auf ein Abenteuer voller Spaß und explosiver Action. Schlüpfe in die Rolle von Bomberman und begib dich auf eine Schatzsuche durch 48 Level. Bahne dir deinen Weg durch die verschiedenen Abschnitte, indem du deine Bomben einsetzt, um dir den Weg freizusprengen oder Gegner zu beseitigen.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19981118T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -959,15 +752,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>6494</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102126" />
 	</game>
 	<game id="36888">
 		<name>Conker's Pocket Tales</name>
 		<desc>Conker feiert eine Party mit seiner Freundin. Die böse Eichel bricht die Party auf. Die Acorn nimmt Conkers Freundin mit. Jetzt muss Conker seine Freundin retten. Das Spiel funktionierte auch für Game Boy und Super Game Boy. Conker reist durch viele Level und versucht, Geschenke zu finden, die die böse Eichel gestohlen hat. Conker ist mit einer Schleuder ausgestattet, um Feinde wie mutierte Pflanzen, Schlangen und andere zu bekämpfen. Die Spieler stoßen auf ihrem Abenteuer auf einige Minispiele, darunter auch olympische Spiele. Wenn ein Spieler mit dem Game Boy begann, musste er das Spiel durchspielen, bevor er mit dem Game Boy Color spielen konnte. Das funktionierte auch umgekehrt.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Conker's Pocket Tales (USA, Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19990608T000000</releasedate>
 		<developer>Rareware</developer>
@@ -977,15 +766,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>4893</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102128" />
 	</game>
 	<game id="36874">
 		<name>Bomberman Max : Blue Champion</name>
 		<desc>Bomberman kehrt zum Game Boy Color zurück. Das Abenteuer ist im Großen und Ganzen das gleiche wie zuvor: Sie legen Bomben, um Blöcke und Feinde, die sich auf Ihrem Fluchtweg befinden, in die Luft zu jagen. Genau wie das Pokémon davor ist Max: Blau Teil des Abenteuers (das andere ist Max: Red Challenger Edition). Während beider Spieldurchläufe kannst du „Charabombs“ einsammeln, Kreaturen, die du als deine eigenen erziehen kannst, und gegen andere Charabomb-Spieler kämpfen. Es handelt sich um ein einfaches Bonusspiel Stein/Papier/Schere, aber die einzige Möglichkeit, das gesamte Abenteuer abzuschließen, besteht darin, die beiden Spiele über ein Verbindungskabel miteinander zu verbinden und Levels von einem Spiel zum anderen zu überspringen, da jedes Spiel einzigartige Levels hat um Charabombs komplett einzusammeln. In Max: Blue spielen Sie als Bomberman selbst, mit allen klassischen Grafiken und Sounds, die von Anfang an Teil der Serie waren.</desc>
 		<genre>Action</genre>
-		<image>./images/Bomberman Max - Blue Champion (USA)-image.png</image>
-		<marquee>./images/Bomberman Max - Blue Champion (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman Max - Blue Champion (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20000514T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -995,15 +780,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7107</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102130" />
 	</game>
 	<game id="36951">
 		<name>Magical Tetris Challenge</name>
 		<desc>Magical Tetris Challenge kombiniert das bekannte Tetris mit den Charakteren und Welten von Disney. Das klassische Tetris steht im gewohnten Ausdauermodus zur Verfügung oder im neuen Story-Modus, in dem du einen der vielen bekannten Disney-Charaktere (Mickey, Minnie, Donald und Goofy) auswählst und gegen die Bösewichte in einem Tetris-Wettbewerb antrittst, um den Tag zu retten. Ein 2-Spieler-Modus ist ebenfalls enthalten.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Magical Tetris Challenge (USA)-image.png</image>
-		<marquee>./images/Magical Tetris Challenge (USA)-marquee.png</marquee>
-		<thumbnail>./images/Magical Tetris Challenge (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>20000217T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1013,15 +794,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7304</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102131" />
 	</game>
 	<game id="37071">
 		<name>Dragon Warrior Monsters 2 : Tara's Adventure</name>
 		<desc>Wie das Original Dragon Warrior Monsters für den Game Boy Color kombiniert Dragon Warrior Monsters 2: Tara's Adventure Themen und Charaktere aus der langjährigen Dragon Warrior-Serie von Enix mit Gameplay-Aspekten, die in den äußerst beliebten Pokémon-Handheld-Spielen etabliert sind. Die Spieler übernehmen die Rolle von Tara, während sie sich auf ein neues Abenteuer des Sammelns, Trainierens und Kämpfens von Monstern begibt. Ein gleichzeitig veröffentlichtes Begleitspiel, Dragon Warrior Monsters 2: Cobi's Journey, folgt den ähnlichen Abenteuern von Taras Bruder.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>20010915T000000</releasedate>
 		<developer>Enix</developer>
@@ -1031,15 +808,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5105</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102135" />
 	</game>
 	<game id="36966">
 		<name>Motocross Maniacs 2</name>
 		<desc>Motocross Maniacs 2 ist die Fortsetzung des Game Boy-Titels Motocross Maniacs. Wie bei der vorherigen Version des Spiels besteht das Ziel darin, mit einem Dirtbike durch seitwärts scrollende Strecken voller Schleifen, Sprünge, Rampen und Hügel zu fahren. Es gibt viele Bonusgegenstände, die dem Spieler auf seinem Weg helfen, wie zum Beispiel Nitro-Boosts und Super-Federung. Der Spieler hat die Möglichkeit, gegen einen Computerspieler oder einen Freund (über Link-Kabel) sowie Zeitfahren oder Meisterschaft zu spielen. Es gibt außerdem einen Level-Editor und Platz für drei gespeicherte, vom Player erstellte, benutzerdefinierte Tracks.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Motocross Maniacs 2 (USA)-image.png</image>
-		<marquee>./images/Motocross Maniacs 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Motocross Maniacs 2 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19990914T000000</releasedate>
 		<developer>Konami</developer>
@@ -1048,15 +821,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>6136</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102137" />
 	</game>
 	<game id="37031">
 		<name>Alone in the Dark: The New Nightmare</name>
 		<desc>Edward Carnaby, Privatdetektiv des Paranormalen, ist zurück. Carnabys bester Freund, Charles Fiske, wurde tot in der Nähe von Shadow Island aufgefunden – einer mysteriösen Insel in der Nähe von Maine. Es ist Ihre Pflicht, die Ermittlungen aufzunehmen und die Geheimnisse von Shadow Island herauszufinden. Das Spiel findet auf dem umliegenden Gelände eines düsteren Herrenhauses statt. Das Spiel ist düster ... sehr düster, und im wahren Survival-Horror-Stil lauern viele Dinge, die nur darauf warten, sich zu stürzen. Neun Jahre nach der Veröffentlichung des Originals kehrt das Spiel, mit dem alles begann, für ein neues Kapitel der Alone in the Dark-Reihe zurück. Kannst du sehen... über deine Angst hinaus?</desc>
 		<genre>Abenteuer / Survival-Horror</genre>
-		<image>./images/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)-image.png</image>
-		<marquee>./images/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)-marquee.png</marquee>
-		<thumbnail>./images/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>20010627T000000</releasedate>
 		<developer>Pocket Studios</developer>
@@ -1066,15 +835,11 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>es,fr,en</lang>
 		<region>us</region>
 		<cheevosId>2582</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102138" />
 	</game>
 	<game id="37043">
 		<name>Bomberman Quest</name>
 		<desc>Vor langer, langer Zeit, in einer weit entfernten Galaxis... Bomberman war auf dem Weg zurück nach Hause, das Bombershuttle voll mit Monstern, die er unterwegs gefangen hat. Plötzlich wird das Shuttle von einem Energiestrahl getroffen und alle Triebwerke werden geklaut! Bei der Notlandung auf einem nahen Planeten konnten die Monster entkommen und Bomberman macht sich auf die Suche nach ihnen und seinen Triebwerken... Bomberman Quest hat zwei verschiedene Spielmodi: - "Normalen Modus" ist ein Aktionrollenspiel und im - "Kampfmodus" kannst Du mit einem zweiten Gameboy und dem Link- Kabel gegen einen Freund antreten. Kannst Du Bomberman bei seinem Kampf gegen die vier geheimnisvollen Commander helfen?</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)-image.png</image>
-		<marquee>./images/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman Quest (USA) (SGB Enhanced) (GB Compatible)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19991101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1084,6 +849,5 @@ Die andere große Veränderung gegenüber der Street Fighter 2-Serie sind die Al
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5108</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102142" />
 	</game>
 </gameList>

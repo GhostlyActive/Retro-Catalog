@@ -4,9 +4,6 @@
 		<name>Super Columns</name>
 		<desc>Super Columns geht völlig neue Wege in Sachen Puzzlespiele. Magische Steine vertauschen urplötzlich die Spielfelder, während Explosionssteine 5 Blöcke auf einmal verschwinden lassen. Schnapp Dir einen Freund and mit dem separat erhältlichen Gear-to-Gear-Kabel könnt Ihr dann auch zu zweit Eure Geschicklichkeit testen.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Super Columns (USA, Europe)-image.png</image>
-		<marquee>./images/Super Columns (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Super Columns (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -16,15 +13,11 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>14296</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013019" />
 	</game>
 	<game id="12871">
 		<name>Shining Force II : The Sword of Hajya</name>
 		<desc>In Shining Force II: Sword Of Hajya schlossen sich die Königreiche Cypress und Gardiana zusammen, um das böse Iom-Reich zu bekämpfen. Der Held Nick sah, wie seine Hand während seines letzten Kampfes zu Stein wurde, und kann sein legendäres Schwert von Hajya nicht richtig führen. In diesem Rollenspiel auf Game Gear müssen Sie ihm helfen, sein Königreich mit Hilfe eines Teams mutiger Kämpfer zurückzuerobern.</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
-		<image>./images/Shining Force - The Sword of Hajya (USA)-image.png</image>
-		<marquee>./images/Shining Force - The Sword of Hajya (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shining Force - The Sword of Hajya (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940624T000000</releasedate>
 		<developer>Sonic! Software Planning</developer>
@@ -33,15 +26,11 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T013024" />
 	</game>
 	<game id="46297">
 		<name>Magical Puzzle Popils</name>
 		<desc>Magical Puzzle Popils ist ein Puzzlespiel, bei dem Sie Ihrer vom Waldzauberer „Popil“ eingesperrten Prinzessin beitreten (oder beitreten müssen). Dazu können Sie Steinblöcke zerstören, Leitern erklimmen und durch Portale gehen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Magical Puzzle Popils (World) (En,Ja)-image.png</image>
-		<marquee>./images/Magical Puzzle Popils (World) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Magical Puzzle Popils (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910712T000000</releasedate>
 		<developer>Tengen</developer>
@@ -50,15 +39,11 @@
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosId>17330</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013028" />
 	</game>
 	<game id="13061">
 		<name>Cosmic Spacehead</name>
 		<desc>Tauche mit allen Sinnen in diese riesige außerirdische Odyssee kosmisher Entdeckungen im dtil der 50er Jahre ein! Wahnsinnsabenteuer, Arcade-Action und Super-Zwishenspiele machen Cosmic Spaceheads Versuch, die Existenz der Erde zu beweisen, zu einem irren Spaß!"</desc>
 		<genre>Plattform</genre>
-		<image>./images/Cosmic Spacehead (USA, Europe)-image.png</image>
-		<marquee>./images/Cosmic Spacehead (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Cosmic Spacehead (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Supersonic Software</developer>
@@ -66,15 +51,11 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T013031" />
 	</game>
 	<game id="12891">
 		<name>Tails Adventures</name>
 		<desc>Tails bricht zu seiner ersten eigenen Reise auf. Auf dem Weg durch den Wald findet er ein kleines Stück aus einer großen Maschine. Was kann das nur sein? Das Abenteuer beginnt. Helfen Sie Tails, alle Teile zu finden, die lauernden Gegner am Wegesrand zu besiegen and des Rätsels Lösung zu entdecken...</desc>
 		<genre>Plattform</genre>
-		<image>./images/Tails Adventure (World) (En,Ja)-image.png</image>
-		<marquee>./images/Tails Adventure (World) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Tails Adventure (World) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950922T000000</releasedate>
 		<developer>Aspect</developer>
@@ -84,15 +65,11 @@
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosId>11743</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013036" />
 	</game>
 	<game id="12913">
 		<name>GG Aleste</name>
 		<desc>Die Erde wird von Pflanzenmutationen und menschlichen Gefolgsleuten bedroht, die eine Gehirnwäsche hinter sich haben. Eine Kraft kann diese üblen flanzen daran hindern, Wurzeln zu schlagen: Power Strike, das vielseitigste Kampfflugzeug der Welt. Zerstören Sie den Feind in der Luft und auf dem Boden und retten Sie den Planeten von der kriechenden grünen Bedrohung.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/GG Aleste (Japan) (En)-image.png</image>
-		<marquee>./images/GG Aleste (Japan) (En)-marquee.png</marquee>
-		<thumbnail>./images/GG Aleste (Japan) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19911229T000000</releasedate>
 		<developer>Compile</developer>
@@ -102,15 +79,11 @@
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>14300</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013039" />
 	</game>
 	<game id="12867">
 		<name>Power Strike II</name>
 		<desc>Power Strike II ist eine Referenz an das damalige Shoot'em Up. Nachdem Sie im Laufe des Spiels die gewünschte Waffe ausgewählt haben, haben Sie die Möglichkeit, deren Stärke zu erhöhen, indem Sie die Boni sammeln, die Ihre Gegner Ihnen hinterlassen, wenn sie zerstört werden. Am Ende jedes Levels müssen Sie den Fehler der vielen Bosse im Spiel finden.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Power Strike II (Japan, Europe) (En)-image.png</image>
-		<marquee>./images/Power Strike II (Japan, Europe) (En)-marquee.png</marquee>
-		<thumbnail>./images/Power Strike II (Japan, Europe) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Compile</developer>
@@ -120,15 +93,11 @@
 		<lang>en,jp</lang>
 		<region>eu</region>
 		<cheevosId>13239</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013043" />
 	</game>
 	<game id="12983">
 		<name>Aerial Assault</name>
 		<desc>Dein Feind ist die tödliche Terroristenorganisation NAC! Fliege durch ihre Verteidigung, zerstöre ihre Fahrzeuge und stelle Dich der ultimativen Waffe!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Aerial Assault (World) (Rev 1)-image.png</image>
-		<marquee>./images/Aerial Assault (World) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Aerial Assault (World) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Sanritsu Denki</developer>
@@ -136,16 +105,12 @@
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T013047" />
 	</game>
 	<game id="12911">
 		<name>Panzer Dragoon Mini</name>
 		<desc>Panzer Dragoon Mini ist die nur in Japan erhältliche 8-Bit-Version von Segas beliebtem 32-Bit-Rail-Shooter, aber aufgrund (massiver) Hardwareeinschränkungen hat das Spiel mehr Gemeinsamkeiten mit einem anderen klassischen Sega-Spiel, Space Harrier. In weiterer Abkehr von den Originalspielen gibt es keinen Fahrer und dem Spiel fehlt jeglicher Handlungsstrang.
 Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus auf ankommende Feinde schießen (obwohl es in den meisten Fällen einfacher ist, dem einfallenden Feuer auszuweichen, um im Spiel voranzukommen). Am Ende des Levels (mit jeweils zwei Bossen) erscheint ein Passwort und ermöglicht die spätere Fortsetzung des Spiels.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Panzer Dragoon Mini (Japan)-image.png</image>
-		<marquee>./images/Panzer Dragoon Mini (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Panzer Dragoon Mini (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19961122T000000</releasedate>
 		<developer>SEGA</developer>
@@ -155,15 +120,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>13105</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013049" />
 	</game>
 	<game id="12972">
 		<name>Baku Baku</name>
 		<desc>Das Spielsystem ähnelt Tetris. Blöcke, die Tiere (Hund, Panda, Affe, Kaninchen, Maus) oder ihre jeweiligen Nahrungsmittel (Knochen, Bambus, Banane, Karotte, Käse) darstellen, werden paarweise vorgeführt. Ziel des Spiels ist es, den Bildschirm des Gegners (mit einer Kapazität von 60 Blöcken) mit diesen Blöcken zu überhäufen, indem man sie so schnell wie möglich kombiniert, um Ketten zu bilden. Dieses Spiel mit unerschöpflichen Ressourcen basiert auf der Vorfreude der Spieler. Dieser muss nämlich die Blöcke kombinieren, um Kettenreaktionen auszulösen. Je wichtiger sie sind, desto mehr Blöcke fallen dem Gegner zu.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Baku Baku (USA)-image.png</image>
-		<marquee>./images/Baku Baku (USA)-marquee.png</marquee>
-		<thumbnail>./images/Baku Baku (USA)-thumb.png</thumbnail>
 		<rating>0.4</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Minato Giken</developer>
@@ -172,15 +133,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>12867</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013054" />
 	</game>
 	<game id="13045">
 		<name>Halley Wars</name>
 		<desc>Lord Halleys Truppen starten ihren sechsten Angriff auf die Erde. Du und Dein Angriffs-Raumjäger seid ihr einziges Hindernis!</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Halley Wars (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Halley Wars (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Halley Wars (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>ITL</developer>
@@ -189,15 +146,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>13107</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013058" />
 	</game>
 	<game id="13008">
 		<name>Dynamite Headdy</name>
 		<desc>Dynamite Headdy auf Game Gear ist ein Spielzeug, das mit seinem abnehmbaren Kopf die Besonderheit hat, zu kämpfen. Werfen Sie es auf Ihre Gegner, um sie in diesem Cartoon-Plattformspiel loszuwerden, und besiegen Sie den bösen Dunklen Dämon, der versucht, die Spielzeuge der Stadt in seine Schergen zu verwandeln. Bekämpfe auch deinen Erzfeind, den Bären Trouble Bruin, und befreie die Stadt vom dämonischen Joch.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Dynamite Headdy (USA, Europe)-image.png</image>
-		<marquee>./images/Dynamite Headdy (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Dynamite Headdy (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Minato Giken</developer>
@@ -205,15 +158,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T013100" />
 	</game>
 	<game id="12934">
 		<name>Shinobi II : The Silent Fury</name>
 		<desc>Der Schwarze Ninja hat die Kontrolle über Neo-City und die Elemental Ninjas gefangengenommen. Ihre einzige Hoffnung ist Joe Musashi!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Shinobi II - The Silent Fury (World)-image.png</image>
-		<marquee>./images/Shinobi II - The Silent Fury (World)-marquee.png</marquee>
-		<thumbnail>./images/Shinobi II - The Silent Fury (World)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19921201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -223,15 +172,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>11712</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013104" />
 	</game>
 	<game id="418941">
 		<name>GG Aleste 3</name>
 		<desc>GG Aleste 3 ist eine Fortsetzung der Aleste-Reihe und ein direkter Nachfolger von GG Aleste II, das im Dezember 2020 als Sonderbonus der Aleste Collection für Sony PlayStation 4 und Nintendo Switch sowie als Teil der limitierten Edition Game Gear Micro veröffentlicht wurde in der Premium-Edition der Sammlung enthalten. Das Spiel wurde als echtes Game Gear-Spiel entwickelt und ist keine einfache Nachbildung der technischen Aspekte des Systems.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/GG Aleste 3 (Japan) (En) (Aleste Collection)-image.png</image>
-		<marquee>./images/GG Aleste 3 (Japan) (En) (Aleste Collection)-marquee.png</marquee>
-		<thumbnail>./images/GG Aleste 3 (Japan) (En) (Aleste Collection)-thumb.png</thumbnail>
 		<releasedate>20201224T000000</releasedate>
 		<developer>M2</developer>
 		<publisher>M2</publisher>
@@ -239,15 +184,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<players>1</players>
 		<lang>en,jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T013107" />
 	</game>
 	<game id="12968">
 		<name>Crystal Warriors</name>
 		<desc>„Crystal Warriors“ ist ein rundenbasiertes Strategiespiel ähnlich „Fire Emblem“, in dem der Spieler eine Gruppe von bis zu neun Helden durch Kämpfe auf einer quadratisch aufgeteilten Karte führt. Die Kämpfe basieren auf einem Schere-Stein-Papier-Prinzip mit vier Elementen, die Stärken und Schwächen gegenüber anderen aufweisen. Gegner sind oft durch einen „Nebel des Krieges“ verborgen, der ihre Fähigkeiten verschleiert. Neutrale Tiere können besiegt, gezähmt und im Kampf eingesetzt werden. Stirbt ein Held, ist sein Tod permanent. Die Geschichte wird zwischen den Kämpfen durch Stadtgespräche erzählt, ohne tiefere Interaktion mit der Umgebung.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Crystal Warriors (USA, Europe)-image.png</image>
-		<marquee>./images/Crystal Warriors (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Crystal Warriors (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -256,15 +197,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>11711</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013112" />
 	</game>
 	<game id="12967">
 		<name>Chase H.Q.</name>
 		<desc>New York ? Unter dem Decknamen CHASE H.Q. hat die Polizei von Manhattan ein Sonderhauptquartier zur Verbrechensbekämpfung eingerichtet, mit dem Ziel der Verhaftung krimineller Elemente, die vom Schauplatz ihres Verbrechens mit dem Auto flüchten.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Chase H.Q. (USA)-image.png</image>
-		<marquee>./images/Chase H.Q. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chase H.Q. (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19911231T000000</releasedate>
 		<developer>Taito</developer>
@@ -273,15 +210,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T013113" />
 	</game>
 	<game id="12899">
 		<name>Sonic Drift 2</name>
 		<desc>Lassen Sie Ihren Motor an und machen Sie sich zum rennen Ihres Lebens bereit! Sie haben die Auswahl aus 7 Ihrer Lieblingsfiguren, darunter Sonic, Knuckles und Robotnik, von denen jede einzelne über ganz besondere Kräfte verfügt. Stöpseln Sie Ihren "Gear to Gear connector"* ein und nehmen Sie einen Freund mit auf die Fahrt - es geht dabei über 17 Rennbahmen im größten Chaos Grand Prix!</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Sonic Drift 2 (World)-image.png</image>
-		<marquee>./images/Sonic Drift 2 (World)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Drift 2 (World)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19951101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -291,15 +224,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12649</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013117" />
 	</game>
 	<game id="12864">
 		<name>Shinobi</name>
 		<desc>In dieser Aktionsgechichte, mußt Du. Joe Musashi Dein besonderes Können in der Kunst des Ninjutsu einsetzen, um Deine Kameraden und die Stadt der Angst zu befreien!</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Shinobi (World) (Rev A)-image.png</image>
-		<marquee>./images/Shinobi (World) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Shinobi (World) (Rev A)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -309,15 +238,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12385</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013122" />
 	</game>
 	<game id="12894">
 		<name>Ax Battler : A Legend of Golden Axe</name>
 		<desc>Die Goldene Axt ist im Besitz von dem bösen Death Adder. Bringe slu zurück oder Firewood ist verloren!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -327,15 +252,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12419</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013124" />
 	</game>
 	<game id="12878">
 		<name>Sonic the Hedgehog : Triple Trouble</name>
 		<desc>Sonic und Tails sind zurück - mit dreifachem Spielspaß und dreifachen Problemen! Dr. Robotnik will die ultimative superwaffe bauen, doch Sie können ihn stoppen, wenn Sie die Chaos-Edelsteine zuerst aufstöbern! Surfen Sie mit Sonics neuem "Jet Skate-Board" über Wasser, Schnee und Eis, oder flitzen Sie mit Tails' "Sea Fox" durch tiefe Gewässer - aber Vorsicht vor Nack, dem Wiesel, denn der ist auch hinter den Edelsteinen her!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -345,15 +266,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12646</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013126" />
 	</game>
 	<game id="12937">
 		<name>Devilish</name>
 		<desc>Devilish auf Game Gear ist ein verbesserter Steinbrecher. Tatsächlich richten Sie zwei Stangen horizontal und vertikal aus, auf denen Ihr steinbrechender Ball abprallt. Überwinde Hindernisse, eliminiere deine Feinde mit Murmeln und besiege Bosse am Ende des Levels, um den Fluch aufzuheben, der den Prinzen und die Prinzessin getroffen hat.</desc>
 		<genre>Action / Breakout Spiele</genre>
-		<image>./images/Devilish (USA)-image.png</image>
-		<marquee>./images/Devilish (USA)-marquee.png</marquee>
-		<thumbnail>./images/Devilish (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>Opera House</developer>
@@ -362,15 +279,11 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>13283</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013127" />
 	</game>
 	<game id="12989">
 		<name>Micro Machines 2 : Turbo Tournament</name>
 		<desc>Das zweite Spiel der Micro Machines-Reihe. Wie schon beim Vorgänger sitzen Sie am Steuer eines extrem kleinen Autos. Sie rasen an interessanten Orten herum, wie einem Tisch, einem Baumhaus und vielem mehr. Die Kontrolle über die Autos ist manchmal ziemlich schwierig, besonders wenn man die Strecken nicht kennt (die Draufsicht ist nicht sehr klar). Die CD-ROM-Version bietet zusätzlich CD-Audio-Musik und einen Titeleditor.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines 2 - Turbo Tournament (Europe)-image.png</image>
-		<marquee>./images/Micro Machines 2 - Turbo Tournament (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines 2 - Turbo Tournament (Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950501T000000</releasedate>
 		<developer>Supersonic Software</developer>
@@ -378,16 +291,12 @@ Der Spieler wählt zunächst einen von drei Drachen aus und muss von dort aus au
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T013131" />
 	</game>
 	<game id="46288">
 		<name>Coca-Cola Kid</name>
 		<desc>Coca Cola Kid ist ein Plattformspiel mit dem gleichnamigen Maskottchen der Coca-Cola-Firma aus den 90er Jahren. Auf seinem Weg durch die Level kann das Kind ein Skateboard benutzen, muss aber zu Fuß weitergehen, wenn es abstürzt. Feinde können durch Tritte und Flugtritte besiegt werden, die Energie wird – wenig überraschend – durch das Sammeln von Dosen eines bestimmten Erfrischungsgetränks wiederhergestellt.
 Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Coca-Cola Kid (Japan)-image.png</image>
-		<marquee>./images/Coca-Cola Kid (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Coca-Cola Kid (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19940805T000000</releasedate>
 		<developer>Aspect</developer>
@@ -396,15 +305,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>11802</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013134" />
 	</game>
 	<game id="65843">
 		<name>Puyo Puyo</name>
 		<desc>Dies ist ein Puzzle mit fallenden Teilen. Puyo Puyo entstand auf dem MSX-System und wurde später in eine Arcade-Hall-Version umgewandelt. Lass vier gleichfarbige Puyos einander berühren, damit sie verschwinden. Wenn mehr Puyos derselben Farbe verbunden werden, verschwinden auch diese. Dieses Spiel kann von zwei Spielern gleichzeitig gespielt werden, um ein kompetitives Gameplay zu ermöglichen. Behindern Sie Ihren Gegner, indem Sie mehrere Puyo-Kombinationen bilden.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Puyo Puyo (Japan) (En,Ja)-image.png</image>
-		<marquee>./images/Puyo Puyo (Japan) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Puyo Puyo (Japan) (En,Ja)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930319T000000</releasedate>
 		<developer>Compile</developer>
@@ -414,15 +319,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>14292</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013137" />
 	</game>
 	<game id="12956">
 		<name>Gunstar Heroes</name>
 		<desc>Gunstar Heroes auf Game Gear ist eine subtile Mischung aus Shooter und Plattformspiel. Sie spielen alleine oder zu zweit die Gunstar Heroes, die dafür verantwortlich sind, den beeindruckenden Colonel Red daran zu hindern, eine abscheuliche Kreatur freizulassen. Sie wählen aus vier Waffen, die mit anderen kombiniert werden können. Sie haben auch die Möglichkeit, Ihre Fäuste zu benutzen und Ihre Feinde zu werfen. Um das Spiel zu beenden, müssen kolossale Bosse besiegt werden.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Gunstar Heroes (Japan)-image.png</image>
-		<marquee>./images/Gunstar Heroes (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Gunstar Heroes (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950324T000000</releasedate>
 		<developer>M2</developer>
@@ -432,15 +333,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>12624</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013141" />
 	</game>
 	<game id="12928">
 		<name>Defenders of Oasis</name>
 		<desc>Basierend auf alten iranischen Mythen ist Defenders of the Oasis auf Game Gear ein Rollenspiel, in dem Sie den Prinzen von Shanadar steuern und gegen die Nachkommen des Drachen Zahhark kämpfen. Begleitet werden Sie von einer Prinzessin mit hübschem Gesicht, dem Geist der Lampe sowie weiteren Ministranten.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Defenders of Oasis (USA, Europe)-image.png</image>
-		<marquee>./images/Defenders of Oasis (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Defenders of Oasis (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -449,16 +346,12 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>11713</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013143" />
 	</game>
 	<game id="12984">
 		<name>Fantastic Dizzy</name>
 		<desc>Dizzys erstaunliche Cartoon-Abenteuer in Zakeria. Erforsche geheimnisvolle Diamantenminen, sagenumwobene unterirdische Gänge, die Höhle des Drachens und das Wolkenschloß. Du triffst dabei auf seltsame Magier, Zauberer, Trolle, Piraten, Kobolde und viele andere eigenartige und wunderbare Gestalten.
 "Extrem fesselnd! Ungewöhnlicher Spielspaß! Dieses 'Spiel des Jahres' für das Game Gear solltest du dir auf gar keinen Fall entgehen lassen!" Proscore 92% Sega Pro magazine</desc>
 		<genre>Plattform</genre>
-		<image>./images/Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)-image.png</image>
-		<marquee>./images/Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)-marquee.png</marquee>
-		<thumbnail>./images/Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19931001T000000</releasedate>
 		<developer>Chameleon</developer>
@@ -467,15 +360,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<players>1</players>
 		<lang>it,es,de,fr,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T013146" />
 	</game>
 	<game id="12916">
 		<name>Ristar</name>
 		<desc>Der gefährliche König Despair hält das blühende Reich Valjee unter einer Schreckensherrschaft voller Terror, Not und tiefster Finsternis. Aber aus der Tiefe des Weltalls erscheint Ristar, ein strahlender Held der seinesgleichen sucht und seinem großen Schicksal furchtlos ins Auge blickt. Nur die speziellen Fähigkeiten seiner elastischen Arme können in sechs aufregenden Leveln Frieden und Freiheit wiederherstellen. Ü''brigens: Ristar stammt von den original Sonic-Programmierern.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ristar (World)-image.png</image>
-		<marquee>./images/Ristar (World)-marquee.png</marquee>
-		<thumbnail>./images/Ristar (World)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950216T000000</releasedate>
 		<developer>SEGA</developer>
@@ -484,15 +373,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>13242</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013151" />
 	</game>
 	<game id="46291">
 		<name>Gear Works</name>
 		<desc>Gear Works ist das ultimative Puzzlespiel, das leicht zu erlernen, aber unmöglich zu meistern ist. Machen Sie sich auf den Weg, viele Zahnräder herzustellen, während Sie Uhren an 12 Wahrzeichen der Welt erschaffen, indem Sie diese Zahnräder in den richtigen Mustern miteinander verbinden. Achten Sie auf Rost und oxidierende Feinde, die versuchen, Ihre mechanischen Kreationen zu zerstören, und Sie könnten zum außergewöhnlichen Kunstmeister werden.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Gear Works (USA)-image.png</image>
-		<marquee>./images/Gear Works (USA)-marquee.png</marquee>
-		<thumbnail>./images/Gear Works (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Teque</developer>
@@ -500,15 +385,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T013154" />
 	</game>
 	<game id="12857">
 		<name>Castle of Illusion starring Mickey Mouse</name>
 		<desc>Die Suchaktion hat begonnen! Mickey ist der hinterhältigen Hexe Mizrabel auf der Spur, die Minnie gekidnappt hat. Mickey muß in den Kammern von Mizrabels sagenumwobenen Schloß der Illusion sieben Edelsteine finden, um Minni zu retten. Wird es Mickey gelingen die Juwelen zu finden und Minnie zu befreien? Nun, das hängt ganz von Ihnen ab!</desc>
 		<genre>Plattform / Jump 'n' Run Scrolling</genre>
-		<image>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -518,15 +399,11 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>11714</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102522" />
 	</game>
 	<game id="12920">
 		<name>Dragon Crystal</name>
 		<desc>Kämpfen Sie sich durch unzählige Schlachten mit furchterregenden Monstern während Sie fieberhaft nach einem Ausweg aus der bizzaren Welt der irrgärten suchen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dragon Crystal (USA, Europe)-image.png</image>
-		<marquee>./images/Dragon Crystal (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Crystal (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -535,16 +412,12 @@ Das Spiel wurde nur in Japan veröffentlicht.</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>12768</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102529" />
 	</game>
 	<game id="12940">
 		<name>The Lucky Dime Caper Starring Donald Duck</name>
 		<desc>The Lucky Dime Caper ist ein 2D-Plattformspiel mit Donald Duck auf der Suche nach Onkel Dagoberts Glücksgroschen, der von Magica De Spell gestohlen wurde.
 Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröffentlicht), in dem auch Donald Duck vorkommt, aber die Geschichte und das Gameplay sind völlig anders.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19911201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -554,15 +427,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12627</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102534" />
 	</game>
 	<game id="12870">
 		<name>Wonder Boy : The Dragon's Trap</name>
 		<desc>Wonder Boy ist verflucht worden! Wonder Boy hat das häßliche Biest tödlich verwundet, aber der letzte Atem des MEKA-Drachens hat Wonder Boy in einen Eidechsenmann verwandelt! Der junge Recks muß nun das Salamanderkreuz suchen, da dies die einzige Möglichkeit bietet, wieder zu einem normalen Menschen zu werden. Zuerst muß er es aber finden...</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy - The Dragon's Trap (Europe)-image.png</image>
-		<marquee>./images/Wonder Boy - The Dragon's Trap (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy - The Dragon's Trap (Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Westone</developer>
@@ -572,15 +441,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>12565</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102535" />
 	</game>
 	<game id="12861">
 		<name>Streets of Rage 2</name>
 		<desc>Helfen Sie Axel Stone, Blaze Fielding und Skate Hunter bei der erbarmungslosen Abrechnung mit den Syndikatsgangstern, und bringen Sie den Frieden in die Stadt zurück!</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage 2 (World)-image.png</image>
-		<marquee>./images/Streets of Rage 2 (World)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage 2 (World)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19930801T000000</releasedate>
 		<developer>Japan System House</developer>
@@ -590,15 +455,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>13237</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102536" />
 	</game>
 	<game id="12883">
 		<name>Dr. Robotnik's Mean Bean Machine</name>
 		<desc>Ein Puzzle-Spiel, das Sie süchtig machen kann! Fordern Sie einen Mitspieler heraus, oder kämpfen Sie gegen Dr. Robotniks heimtückische Robot-Lakaien - in jedem Fall müssen Sie stets Ihre Nerven und die Übersicht behalten!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Dr. Robotnik's Mean Bean Machine (USA, Europe)-image.png</image>
-		<marquee>./images/Dr. Robotnik's Mean Bean Machine (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Dr. Robotnik's Mean Bean Machine (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19940102T000000</releasedate>
 		<developer>Compile</developer>
@@ -607,15 +468,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>19575</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102538" />
 	</game>
 	<game id="12873">
 		<name>Sonic Chaos</name>
 		<desc>Fliegen Sie mit "Tails", dem Fuchs, durch phantastische, unbekannte Zonen, oder unterstützen Sie Sonic the Hedgehog bei seiner hektischen Suche nach den gestohlenen Chaos Edelsteinen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic Chaos (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic Chaos (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Chaos (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19931101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -625,15 +482,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12645</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102543" />
 	</game>
 	<game id="12917">
 		<name>Sonic Spinball</name>
 		<desc>Dr. Robotniks neuste Festung ist ein gigantischer Flipperautomat mit schleimigen Abwasserkanälen und einem monströsen Maschinenraum! Wird er einer Sonic-"Spin"-vasion bei Sonic Spinball für Mega Drive standhalten? Lasse Dich von riesigen Flippern und zischenden Dampfdüsen abstoßen. Jage durch schwindelerregende Loopings und über gefährlich steile Rampen!</desc>
 		<genre>Flipper</genre>
-		<image>./images/Sonic Spinball (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Sonic Spinball (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Spinball (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940801T000000</releasedate>
 		<developer>SEGA</developer>
@@ -643,15 +496,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12650</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102547" />
 	</game>
 	<game id="12856">
 		<name>Sonic the Hedgehog</name>
 		<desc>Sonic the Hedgehog macht sich in seinem ersten Abenteuer auf die Reise, um den verrückten Wissenschaftler Dr. Ivo "Eggman" Robotnik aufzuhalten, der auf South Island alle Tiere einfängt und sie in gefährliche Roboter (Badniks) verwandelt, um mit ihrer Hilfe die Chaos Emeralds zu finden und die Welt zu beherrschen, da diese sehr mächtig sind. Nun versucht der schnelle Igel seine Tierfreunde aus den Robotern und Kapseln zu holen. Doch Eggman hat was dagegen und so versucht er ihn in aufzuhalten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog (Japan, USA) (En)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog (Japan, USA) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog (Japan, USA) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911228T000000</releasedate>
 		<developer>Ancient</developer>
@@ -661,15 +510,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>12651</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102552" />
 	</game>
 	<game id="12859">
 		<name>Streets of Rage</name>
 		<desc>Streets of Rage, Segas Antwort auf Final Fight, erzählt die Geschichte dreier junger Polizisten (Adam Hunter, Axel Stone und Blaze Fielding) in einer Stadt, die von einem Verbrechersyndikat unter der Führung von "Mr. X" kontrolliert wird und wo das Verbrechen überhand nimmt. Dies veranlasst die drei Helden dazu, einen Pakt zu schließen, um die Polizei zu verlassen und das Syndikat auf eigene Faust zu stürzen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage (World)-image.png</image>
-		<marquee>./images/Streets of Rage (World)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage (World)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19921231T000000</releasedate>
 		<developer>Ancient</developer>
@@ -679,15 +524,11 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12761</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102553" />
 	</game>
 	<game id="12893">
 		<name>Ninja Gaiden</name>
 		<desc>Ninja Gaiden (Shadow Warriors in anderen Regionen) ist ein Beat'em All, das auf Game Gear veröffentlicht wurde. Du bist Ryu, ein moderner Ninja, und du musst nach Amerika reisen, um herauszufinden, wer deinen Vater getötet hat. Ihre Forschung wird Sie in ein übernatürliches Szenario führen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Ninja Gaiden (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ninja Gaiden (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ninja Gaiden (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Japan System House</developer>
@@ -697,7 +538,6 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12623</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102555" />
 	</game>
 	<game id="12953">
 		<name>Space Harrier</name>
@@ -705,9 +545,6 @@ Das Spiel ist das 8-Bit-Gegenstück zu Quack Shot (nur für Sega Genesis veröff
 Der einsame Titelheld bekämpft Aliens mit einer Feuerball-Kanone mit jener er sich auch in eine Rakete transformieren kann. Der Protagonist ist ständig in Bewegung, aber die Geschwindigkeit seiner Bewegung kann vom Spieler jederzeit reguliert werden.
 Bist du bereit gegen die Aliens anzutreten?</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Space Harrier (World)-image.png</image>
-		<marquee>./images/Space Harrier (World)-marquee.png</marquee>
-		<thumbnail>./images/Space Harrier (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -716,15 +553,11 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T102556" />
 	</game>
 	<game id="12902">
 		<name>Land of Illusion Starring Mickey Mouse</name>
 		<desc>Reisen Sie mit Micky Maus durch unheimliche Burgruinen, dunkle Höhlen, einen verzauberten Wald und einen total verrückten Spielzeugladen! Setzen Sie Ihren Verstand und Mickys Zauberkraft ein, um Fallen zu vermeiden, geheime Passagen zu erkunden und Frieden und Glück im Reich der Illusion wieder herzustellen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -734,15 +567,11 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>12625</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102601" />
 	</game>
 	<game id="12995">
 		<name>Tails no Skypatrol</name>
 		<desc>Tails' Skypatrol auf Game Gear ist ein Spin-off-Plattformspiel aus der Sonic-Serie, in dem Sie als Tails, der Kamerad des blauen Igels, spielen. Letzterer entdeckt eine verlassene Insel, doch eine gewisse Wendy Witchcart erklärt, dass sie ihr gehört und dass sie jeden, der ihr nicht gehorcht, in Kristall verwandeln wird. Unser junger Held ist entschlossen, die Bewohner der Insel vor dieser tyrannischen Frau zu beschützen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Tails no Skypatrol (Japan)-image.png</image>
-		<marquee>./images/Tails no Skypatrol (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Tails no Skypatrol (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950428T000000</releasedate>
 		<developer>Japan System House</developer>
@@ -752,15 +581,11 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>12763</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102604" />
 	</game>
 	<game id="12880">
 		<name>Sonic Drift</name>
 		<desc>In Sonic Drift auf Game Gear nehmen Sonic, Tails, Amy und Robotnik an Autorennen teil. Sie haben die Wahl zwischen sechs Parcours, übernommen aus den Umgebungen des Plattformspiels, mit jeweils drei Schwierigkeitsgraden.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Sonic Drift (Japan) (En)-image.png</image>
-		<marquee>./images/Sonic Drift (Japan) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Drift (Japan) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940318T000000</releasedate>
 		<developer>SEGA</developer>
@@ -770,7 +595,6 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>12648</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102607" />
 	</game>
 	<game id="12858">
 		<name>Mortal Kombat II</name>
@@ -781,9 +605,6 @@ IST DAS ALLES, WAS DU KANNST?
 MACH IHN VERTIG!
 GIB'S IHM!</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Mortal Kombat II (World)-image.png</image>
-		<marquee>./images/Mortal Kombat II (World)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat II (World)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -793,16 +614,12 @@ GIB'S IHM!</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12737</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102611" />
 	</game>
 	<game id="12977">
 		<name>Vampire : Master of Darkness</name>
 		<desc>Master of Darkness ist ein Platformer, der Castlevania sehr ähnlich ist.
 Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen Sie sich durch mehrere gruselige Orte wie Friedhöfe, Labore, Schlösser oder ein Wachspuppenhaus kämpfen. Um Ihre Feinde zu besiegen, können Sie mehrere Primär- und Sekundärwaffen einsetzen. Primärwaffen sind Nahkampfwaffen, die von Messern über Degen bis hin zu Äxten reichen und sich in Reichweite und Effizienz unterscheiden. Sekundärwaffen sind Waffen mit großer Reichweite (Pistolen, Bomben etc.) mit begrenzter Munition. Das Spiel besteht aus 5 Runden, die in 3 Phasen unterteilt sind. Am Ende jeder Stufe muss ein Boss besiegt werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Vampire - Master of Darkness (USA)-image.png</image>
-		<marquee>./images/Vampire - Master of Darkness (USA)-marquee.png</marquee>
-		<thumbnail>./images/Vampire - Master of Darkness (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19931104T000000</releasedate>
 		<developer>Sims</developer>
@@ -811,15 +628,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>12657</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102616" />
 	</game>
 	<game id="12872">
 		<name>Ecco the Dolphin</name>
 		<desc>Ecco the Dolphin auf Game Gear ist ein Actionspiel, bei dem der Spieler die Kontrolle über einen Delfin übernimmt. Die Geschichte beginnt, als Ecco hilflos Zeuge des Verschwindens des gesamten Ökosystems wird, das von einem mysteriösen Sturm mitgerissen wird. Erkunden Sie in 25 Leveln die Abgründe und lösen Sie zahlreiche Rätsel, um die Ruhe in der Bucht wiederherzustellen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Ecco The Dolphin (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Ecco The Dolphin (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ecco The Dolphin (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19931001T000000</releasedate>
 		<developer>Novotrade</developer>
@@ -828,15 +641,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<players>1</players>
 		<lang>br,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102617" />
 	</game>
 	<game id="12909">
 		<name>Fantasy Zone</name>
 		<desc>Die Bösen von Menon haben Opa-Opas Vater als Geisel genommen. Hilf Opa- Opa, ihn zu retten!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Fantasy Zone (USA, Brazil) (En)-image.png</image>
-		<marquee>./images/Fantasy Zone (USA, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Fantasy Zone (USA, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Sanritsu Denki</developer>
@@ -846,15 +655,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>br,en</lang>
 		<region>us</region>
 		<cheevosId>12660</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102622" />
 	</game>
 	<game id="12860">
 		<name>Disney's Aladdin</name>
 		<desc>Schlüpfen Sie in die Rolle von Aladdin. Tricksen Sie die Palastwachen aus. Widerstehen Sie den Versuchungen in der Höhle der Wunder und meistern Sie die Gefahren im Palast des Sultans. Wagen Sie einen atemberaubenden Ritt auf dem fliegenden Teppich und fordern Sie den bösen Jafar zu einem Duell mit Schwertern und Magie!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Aladdin (USA, Europe, Brazil) (En)-image.png</image>
-		<marquee>./images/Aladdin (USA, Europe, Brazil) (En)-marquee.png</marquee>
-		<thumbnail>./images/Aladdin (USA, Europe, Brazil) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940619T000000</releasedate>
 		<developer>Sims</developer>
@@ -864,15 +669,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>br,en</lang>
 		<region>eu</region>
 		<cheevosId>13397</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102626" />
 	</game>
 	<game id="12853">
 		<name>Sonic the Hedgehog 2</name>
 		<desc>Sonic the Hedgehog 2 auf Game Gear übernimmt das Rezept, das den Erfolg des vorherigen Teils ausmachte, und fügt in bestimmten Phasen des Spiels die Möglichkeit hinzu, einen Drachenflieger zu verwenden. Sammeln Sie die Ringe, um zusätzliche Leben zu gewinnen und die zur Robotisierung verurteilten Tiere zu befreien.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog 2 (World)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog 2 (World)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog 2 (World)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19921101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -882,15 +683,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12652</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102628" />
 	</game>
 	<game id="12895">
 		<name>Sonic Blast</name>
 		<desc>Sonic Blast wurde für Game Gear in Verbindung mit Sonic 3D Blast (auch bekannt als Sonic 3D: Flickies' Island) für Genesis/MD und Saturn veröffentlicht. Es verfügte über ähnlich gerenderte Charakter-Sprites und farbenfrohe Hintergründe. Das Spiel war eine weitere Ergänzung der Serie, und Sega hatte gehofft, dass es der damaligen Titelauswahl des aussterbenden Game Gear Auftrieb verleihen würde. Das in Brasilien ansässige Unternehmen TecToy veröffentlichte das Spiel 1997, ein Jahr nach der Erstveröffentlichung, erneut für das Sega Master System (auch wenn viele denken mögen, dass es sich um einen Raubkopientitel handelt, ist TecToy tatsächlich lizenziert, Spiele unter dem Namen Sega zu produzieren und zu veröffentlichen).</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic Blast (World)-image.png</image>
-		<marquee>./images/Sonic Blast (World)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Blast (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19961101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -900,15 +697,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12644</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102629" />
 	</game>
 	<game id="12877">
 		<name>Deep Duck Trouble Starring Donald Duck</name>
 		<desc>Begleiten Sie Donald Duck durch gefahrvolle Dschungel, mysteriöse Piratenwracks und glitzernde Eishöhlen, die von geheimnisvollen Schneemenschen bewohnt werden. Donald muß nämlich Onkel Dagobert aus einer üblen Situation befreien ? und Sie sollen ihm dabei helfen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Deep Duck Trouble Starring Donald Duck (USA, Europe)-image.png</image>
-		<marquee>./images/Deep Duck Trouble Starring Donald Duck (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Deep Duck Trouble Starring Donald Duck (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Aspect</developer>
@@ -918,15 +711,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>12628</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102631" />
 	</game>
 	<game id="12908">
 		<name>Sonic Labyrinth</name>
 		<desc>Dr. Robotnik hat eine Welt aus 3D-Labyrinthen geschaffen und den armen Sonic hineingeworfen. Jetzt bekommen seine Reisen eine ganz neue Dimension! Ab sofort kann unser blauer Wirbelwind schneller als je zuvor in alle Richtungen sausen und Schlüssel zu Bonusräumen und verstecken Abschnitten finden. Helfen Sie Sonic, den Weg durch die verwirrenden Gänge zu finden und seinen Stachelskalp vor den brandneuen, megafiesen Endgegnern rund um Robotnik zu rerten!</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Sonic Labyrinth (World)-image.png</image>
-		<marquee>./images/Sonic Labyrinth (World)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Labyrinth (World)-thumb.png</thumbnail>
 		<rating>0.4</rating>
 		<releasedate>19951101T000000</releasedate>
 		<developer>Minato Giken</developer>
@@ -936,15 +725,11 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>12647</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102632" />
 	</game>
 	<game id="12944">
 		<name>Legend of Illusion Starring Mickey Mouse</name>
 		<desc>Legend of Illusion mit Mickey Mouse in der Hauptrolle auf Game Gear zeigt die berühmte Maus, die ein Königreich verteidigen muss, das Opfer eines mysteriösen Schattens ist. König Pete beauftragt Sie, es zu betreten, um es zu erkunden und zu entfernen. Hier ist die Hintergrundgeschichte dieses Plattformspiels, bei dem Sie mit einem Gewehr bewaffnet sind, um sich in verschiedenen Levels zu verteidigen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Legend of Illusion Starring Mickey Mouse (USA, Europe)-image.png</image>
-		<marquee>./images/Legend of Illusion Starring Mickey Mouse (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Illusion Starring Mickey Mouse (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950201T000000</releasedate>
 		<developer>Aspect</developer>
@@ -954,7 +739,6 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>12626</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102637" />
 	</game>
 	<game id="12863">
 		<name>The Lion King</name>
@@ -962,9 +746,6 @@ Sie spielen einen Psychologen, der versucht, Dracula zu besiegen. Dazu müssen S
 Beglaiten sie Simba durch 10 atemberaubende level bis zum ultimativen kampf um die königswürde mit seinem bösen onkel Scar. Besiegen sie heimtückische hyänen auf dem Elefantenfriedhof, weichen sie den hufen der wilden büffel in der stampede-szene aus dem film aus, und spielen sie die bonuslevel als einer von simbas freunden, das warzenschwein oder die meerkatze!
 Die partnerschaft von Disney Software und Virgin Interactive Entertainment hat zusammen mit Sega ein spiel hervorgebracht, das neue standards in animation und interaktiver unterhaltung setzt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lion King, The (USA)-image.png</image>
-		<marquee>./images/Lion King, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lion King, The (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Syrox Developments</developer>
@@ -974,6 +755,5 @@ Die partnerschaft von Disney Software und Virgin Interactive Entertainment hat z
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>17699</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102638" />
 	</game>
 </gameList>

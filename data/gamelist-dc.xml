@@ -4,9 +4,6 @@
 		<name>Skies of Arcadia</name>
 		<desc>Die Helden des Spiels sind Vyse, Sohn des Captains der Luftpiraten und Aika, eine treue Piratin, die stets an Vyses Seite ist. In der Welt von Skies of Arcadia leben die Menschen auf schwebenden Kontinenten und Inseln. Furchtlose Luftpiraten erkunden hier mit ihren Luftschiffen die unbekannten Gebiete dieser Welt. Stets auf der Suche nach Schätzen und ungeahnten Territorien, durchstreifen die Luftpiraten den Himmel, bis sie eines Tages auf ein Schlachtschiff des Valuan Empire stoßen und ihre Chance nutzen. Nach einem Gefecht gelingt den Luftpiraten schließlich die Übernahme des Schiffes und sie begeben sich mit unzählbaren Schätzen und einer bewusstlosen Gefangenen des Valuan Empires auf den Heimweg zur Pirate Isle. Dort angekommen, vertieft sich die Geschichte um die rätselhafte Gefangene namens Fina. Als dann plötzlich auch noch eine Flotte des Valuan Empires anrückt und die Piraten samt Fina gefangen nimmt, schwören Vyse und Aika Rache und machen sich auf den Weg, ihre Freunde zu befreien. Als das erledigt ist, begeben sie sich auf die Suche nach den Moon Crystals, sechs mystische Objekte die von der alten Moon Zivilisation stammen und mit deren Hilfe man die Gigas kontrollieren kann; Große Roboter, mit denen dem Volk Valua nichts mehr im Wege steht.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Skies of Arcadia (USA)-image.jpg</image>
-		<marquee>./images/Skies of Arcadia (USA)-marquee.png</marquee>
-		<thumbnail>./images/Skies of Arcadia (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20001114T000000</releasedate>
 		<developer>Overworks</developer>
@@ -14,32 +11,11 @@
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260824T235918" />
-	</game>
-	<game id="13489">
-		<name>Sonic Adventure</name>
-		<desc>Sonic ist wieder da! Und diesmal geht es um nichts geringeres, als die Welt vor dem verrückten Wissenschaftler Dr. Robotnik zu retten. In seinem größten und spannendsten Abenteuer muss Sonic mit alten und neuen Freunden, Dr. Robotnik davon abhalten 7 Steine zu finden und mit Hilfe dieser Chaos auf die Welten loszulassen. Sonic reist dabei in atemberaubenden 3D Welt voller lebendiger Details. High Speed Verfolgungsjagden und rätselhafte Stätten zum Erforschen sind dabei nur ein Bruchteil der zu bestehenden Abenteuer. Sonics Abenteuer haben erst begonnen!</desc>
-		<genre>Plattform</genre>
-		<image>./images/Sonic Adventure (USA)-image.png</image>
-		<marquee>./images/Sonic Adventure (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Adventure (USA)-thumb.png</thumbnail>
-		<rating>0.85</rating>
-		<releasedate>19990909T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>SEGA</publisher>
-		<family>Sonic</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<scrap name="ScreenScraper" date="20260824T235920" />
 	</game>
 	<game id="13574">
 		<name>Crazy Taxi 2</name>
 		<desc>Das verrückte gelbe Taxi ist wieder da und macht diesmal die Straßen von New York unsicher. Mit 4 neuen Fahrern, einem "Crazy Jump"-Feature und vielen Pick-Ups. Für ein dickes Trinkgeld braucht man sich eigentlich nur eine Frage zu stellen: Bin ich verrückt?</desc>
 		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
-		<image>./images/Crazy Taxi 2 (USA)-image.png</image>
-		<marquee>./images/Crazy Taxi 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crazy Taxi 2 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20010529T000000</releasedate>
 		<developer>Hitmaker</developer>
@@ -49,34 +25,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3400</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235922" />
-	</game>
-	<game id="13529">
-		<name>Ecco the Dolphin : Defender of the Future</name>
-		<desc>Als schlauer Delphin Ecco muss man die Erde retten. Außerirdische Mächte haben die Zeitlinien verändert. Nun hat man es selbst in der Hand, die Vergangenheit zu richten, um die Zukunft zu retten. Das ideale Game gegen den Alltagsstress.
-Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunden Sie geheimnisvolle Orte und bewegen sich zwischen vier Zeitlinien. Suchen Sie die majestätische Stadt Atlantis, erbaut von Menschen und Delfinen. Begegnen Sie in Ecco The Dolphin für die Dreamcast den Kreaturen des Ozeans, treten Sie fremden Mächten gegenüber und retten Sie die Erde und den Lauf der Geschichte!</desc>
-		<genre>Abenteuer</genre>
-		<image>./images/Ecco the Dolphin - Defender of the Future (USA)-image.png</image>
-		<marquee>./images/Ecco the Dolphin - Defender of the Future (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ecco the Dolphin - Defender of the Future (USA)-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20000815T000000</releasedate>
-		<developer>Appaloosa Interactive</developer>
-		<publisher>SEGA</publisher>
-		<family>Ecco the Dolphin</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>3872</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235926" />
 	</game>
 	<game id="13486">
 		<name>Shenmue II</name>
 		<desc>Beim zweiten Teil des hoch gelobten Adventures verschlägt es Ryo Hazuki nach Hongkong, wo die Suche nach dem Mörder seines Vaters ihre (lineare) Fortsetzung findet. Sein Überleben finanziert der Spieler durch Straßenkämpfe, Hafenarbeiten, Glücksspiele oder den Verkauf gesammelter Gegenstände. Ein flottes Durchspielen erschweren Gangster und Triadenmitglieder, die überwiegend in den bekannten Quick-Time-Events zu erledigen sind. Dabei kommen nun nicht mehr nur vier, sondern alle Controllertasten zum Einsatz.</desc>
 		<genre>Abenteuer / 3D-Echtzeit</genre>
-		<image>./images/Shenmue II (Europe) (En,Fr,De,Es)-image.jpg</image>
-		<marquee>./images/Shenmue II (Europe) (En,Fr,De,Es)-marquee.png</marquee>
-		<thumbnail>./images/Shenmue II (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20011123T000000</releasedate>
 		<developer>SEGA AM2</developer>
@@ -86,15 +39,11 @@ Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunde
 		<lang>es,de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>3489</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235929" />
 	</game>
 	<game id="13498">
 		<name>Jet Set Radio</name>
 		<desc>Die Regierung versucht, die Kids von Tokyo ruhig zu halten, die jedoch mit motorisierten Inline-Skates bewaffnet und deshalb schwer zu fangen sind. DJ Professor K. gibt die volle Dröhnung von seinem Piratensender "Jet Set Radio" aus. Seine Musik verleiht die Kids im Kampf um ihr Recht sich auszudrücken, wozu sie auch Grafiti-Kunst zählen. Du kannst dein eigenes Tag entwerfen und sogar online neue Tags hoch- und runterladen. Fang an dich auszudrücken, greif zur Sprühdose und hinterlasse deine Tags überall in der Stadt. Verbünde dich mit gleichgesinnten Straßenkünstlern, die dir helfen dein Revier so zu halten, wie du es dir vorstellst. Du musst schon schnell sein auf deinen Skates, um rivalisierenden Banden und Gesetzeshütern immer einen Schritt voraus zu sein.</desc>
 		<genre>Sport</genre>
-		<image>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-image.png</image>
-		<marquee>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-marquee.png</marquee>
-		<thumbnail>./images/Jet Set Radio (Europe) (En,Fr,De,Es)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20001124T000000</releasedate>
 		<developer>Smilebit</developer>
@@ -104,15 +53,11 @@ Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunde
 		<lang>es,de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>3403</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235931" />
 	</game>
 	<game id="13503">
 		<name>Grandia II</name>
 		<desc>Geboren in verschiedenen Welten und durch die Fügung zusammengebracht, müssen sie der Vorsehung folgen, um ihr Schicksal zu erfüllen. Ryudo wurde angeheuert eine junge Priesterin zu beschützen, die an einer Zeremonie teilnehmen muss, um die Wiedergeburt von Valmar, dem Gott der Dunkelheit, zu verhindern. Verwickelt im Spiel der Kräfte des Guten und des Bösen, muss Ryudo seinem Schicksal folgen und die Menschen retten, die er so sehr verachtet.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Grandia II (USA)-image.jpg</image>
-		<marquee>./images/Grandia II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Grandia II (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20001206T000000</releasedate>
 		<developer>Game Arts</developer>
@@ -122,15 +67,11 @@ Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunde
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3488</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235932" />
 	</game>
 	<game id="13488">
 		<name>Sonic Adventure 2</name>
 		<desc>Die Welt kann ganz schön kompliziert und gefährlich sein, besonders wenn man zu zweit ist! Sonic bekommt es mit dem neuen, bösen Igel Shadow zu tun, aber Sie entscheiden über den Verlauf der Geschichte - Sie können ein Held sein oder sich für die dunkle Seite entscheiden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic Adventure 2 (USA)-image.png</image>
-		<marquee>./images/Sonic Adventure 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Adventure 2 (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20010619T000000</releasedate>
 		<developer>Sonic Team</developer>
@@ -140,33 +81,11 @@ Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunde
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3417</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235937" />
-	</game>
-	<game id="13514">
-		<name>Crazy Taxi</name>
-		<desc>Das verrückteste Taxi der Welt! Dieses Taxi sollten sie besser nicht rufen. Denn der gerade Weg ist hier immer der kürzeste, wenn auch nicht immer der angenehmste. Über Treppen, Parks und selbst durch U-Bahn-Tunnel darf abgekürzt werden. Stunts und guten Fahrstil kommentiert der Fahrgast mit einem Bonus, Chrashs dagegen mit üblen Flüchen. Fußgänger springen rechtzeitig mit einem Schrei zur Seite und wird das Fahrziel nicht rechtzeitig erreicht, steigt der Gast mit einem bösen Kommentar aus. Die Städte sind derart groß, dass auch nach langer Spielzeit noch immer etwas Neues zu entdecken ist. Die Straßen sind bevölkert von Autos, Lastwagen, Bussen, Bahn und einer Menge Fußgängern. Häuser und Umgebung wiederholen sich nicht, was den Eindruck vermittelt, in einer echten Stadt unterwegs zu sein.</desc>
-		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
-		<image>./images/Crazy Taxi (USA)-image.png</image>
-		<marquee>./images/Crazy Taxi (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crazy Taxi (USA)-thumb.png</thumbnail>
-		<rating>0.8</rating>
-		<releasedate>20000201T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<family>Crazy Taxi</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosId>3399</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235942" />
 	</game>
 	<game id="13562">
 		<name>MDK 2</name>
 		<desc>MDK 2 auf Dreamcast ist ein Actionspiel, in dem Sie ein Team aus drei verrückten Kumpels anführen. Das Spiel weist einen großen Reichtum an Bewegungs- und Aktionsmöglichkeiten auf. Da die Software ein gewisses Maß an Geschick erfordert, gilt sie als sehr schwierig.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/MDK2 (USA)-image.png</image>
-		<marquee>./images/MDK2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/MDK2 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20000331T000000</releasedate>
 		<developer>BioWare</developer>
@@ -175,16 +94,12 @@ Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunde
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260824T235944" />
 	</game>
 	<game id="13485">
 		<name>Shenmue</name>
 		<desc>Begleiten Sie den jungen Japaner Ryo auf seiner gefährlichen Reise, um den rätselhaften Tod seines Vaters aufzuklären und tauchen Sie ein in eine fremde Welt voll Liebe, Habgier und Neid. Vorbei an spielenden Kindern und aufwändigen Straßenzügen, genießen Sie vollkommene Handlungsfreiheit und interagieren Sie mit sämtlichen Personen sowie Gegenständen, um wertvolle Hinweise zu erhalten.
 Niemals zuvor wurde das Leben einer ganzen Stadt sowie deren Bewohner so realistisch in Szene gesetzt und mit einem neuartigen Zeitsystem versehen, welches direkten Einfluss auf den Verlauf der Geschichte nimmt. So gehen Geschäftsleute ihrem geregelten Tagesablauf nach, sind Büros nur zu bestimmten Zeiten geöffnet oder man findet sich selbst an einer Haltestelle wartend auf den Fünf-Uhr-Bus wieder.</desc>
 		<genre>Abenteuer / 3D-Echtzeit</genre>
-		<image>./images/Shenmue (USA)-image.jpg</image>
-		<marquee>./images/Shenmue (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shenmue (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>20001107T000000</releasedate>
 		<developer>SEGA AM2</developer>
@@ -193,15 +108,11 @@ Niemals zuvor wurde das Leben einer ganzen Stadt sowie deren Bewohner so realist
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260824T235946" />
 	</game>
 	<game id="13556">
 		<name>Virtua Tennis</name>
 		<desc>Virtua Tennis auf Dreamcast ist ein Sportspiel mit Arcade- und Exhibition-Modi im Einzel oder Doppel. Machen Sie sich daran, die Weltmeisterschaft zu erobern, indem Sie einen der acht großen offiziellen Spieler des Herrenturniers verkörpern. Ein Trainingsmodus bereitet Sie darauf vor, in jedem Gelände konkurrenzfähig zu sein, und im Shop finden Sie alles, was Sie zur Ausrüstung benötigen. Zu deinen Schneeschuhen!</desc>
 		<genre>Sport / Tennis</genre>
-		<image>./images/Virtua Tennis (USA)-image.png</image>
-		<marquee>./images/Virtua Tennis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Virtua Tennis (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>20000711T000000</releasedate>
 		<developer>Hitmaker</developer>
@@ -211,15 +122,11 @@ Niemals zuvor wurde das Leben einer ganzen Stadt sowie deren Bewohner so realist
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>9778</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235951" />
 	</game>
 	<game id="13540">
 		<name>Street Fighter III : 3rd Strike</name>
 		<desc>Mit Street Fighter - Third Strike schreibt die Trilogie ein neues Kapitel. Lebe die Legende: Wähle deinen Liebling aus 19 Street Fighter Charakteren - erstmals auch mit fünf brandneuen Figuren. Ein Spiel ohne Limits: Die Spielmodi Arcade, VS, Training und Replay bieten dir eine unnachahmliche Spieltiefe und fordern dich immer wieder aufs Neue heraus. Dein Schicksal wartet auf dich.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Street Fighter III - 3rd Strike (USA)-image.jpg</image>
-		<marquee>./images/Street Fighter III - 3rd Strike (USA)-marquee.png</marquee>
-		<thumbnail>./images/Street Fighter III - 3rd Strike (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>20001004T000000</releasedate>
 		<developer>Capcom</developer>
@@ -229,6 +136,486 @@ Niemals zuvor wurde das Leben einer ganzen Stadt sowie deren Bewohner so realist
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>345</cheevosId>
-		<scrap name="ScreenScraper" date="20260824T235952" />
+	</game>
+	<game id="13489">
+		<name>Sonic Adventure</name>
+		<desc>Sonic ist wieder da! Und diesmal geht es um nichts geringeres, als die Welt vor dem verrückten Wissenschaftler Dr. Robotnik zu retten. In seinem größten und spannendsten Abenteuer muss Sonic mit alten und neuen Freunden, Dr. Robotnik davon abhalten 7 Steine zu finden und mit Hilfe dieser Chaos auf die Welten loszulassen. Sonic reist dabei in atemberaubenden 3D Welt voller lebendiger Details. High Speed Verfolgungsjagden und rätselhafte Stätten zum Erforschen sind dabei nur ein Bruchteil der zu bestehenden Abenteuer. Sonics Abenteuer haben erst begonnen!</desc>
+		<genre>Plattform</genre>
+		<rating>0.85</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>Sonic</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13529">
+		<name>Ecco the Dolphin : Defender of the Future</name>
+		<desc>Als schlauer Delphin Ecco muss man die Erde retten. Außerirdische Mächte haben die Zeitlinien verändert. Nun hat man es selbst in der Hand, die Vergangenheit zu richten, um die Zukunft zu retten. Das ideale Game gegen den Alltagsstress.
+Tauchen Sie ein in die tropischen Gewässer der Insel der Ruhe. Als Ecco erkunden Sie geheimnisvolle Orte und bewegen sich zwischen vier Zeitlinien. Suchen Sie die majestätische Stadt Atlantis, erbaut von Menschen und Delfinen. Begegnen Sie in Ecco The Dolphin für die Dreamcast den Kreaturen des Ozeans, treten Sie fremden Mächten gegenüber und retten Sie die Erde und den Lauf der Geschichte!</desc>
+		<genre>Abenteuer</genre>
+		<rating>0.8</rating>
+		<releasedate>20000815T000000</releasedate>
+		<developer>Appaloosa Interactive</developer>
+		<publisher>SEGA</publisher>
+		<family>Ecco the Dolphin</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3872</cheevosId>
+	</game>
+	<game id="13514">
+		<name>Crazy Taxi</name>
+		<desc>Das verrückteste Taxi der Welt! Dieses Taxi sollten sie besser nicht rufen. Denn der gerade Weg ist hier immer der kürzeste, wenn auch nicht immer der angenehmste. Über Treppen, Parks und selbst durch U-Bahn-Tunnel darf abgekürzt werden. Stunts und guten Fahrstil kommentiert der Fahrgast mit einem Bonus, Chrashs dagegen mit üblen Flüchen. Fußgänger springen rechtzeitig mit einem Schrei zur Seite und wird das Fahrziel nicht rechtzeitig erreicht, steigt der Gast mit einem bösen Kommentar aus. Die Städte sind derart groß, dass auch nach langer Spielzeit noch immer etwas Neues zu entdecken ist. Die Straßen sind bevölkert von Autos, Lastwagen, Bussen, Bahn und einer Menge Fußgängern. Häuser und Umgebung wiederholen sich nicht, was den Eindruck vermittelt, in einer echten Stadt unterwegs zu sein.</desc>
+		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
+		<rating>0.8</rating>
+		<releasedate>20000201T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<family>Crazy Taxi</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3399</cheevosId>
+	</game>
+	<game id="13594">
+		<name>Space Channel 5</name>
+		<desc>Oben, unten, rechts, links und Tchu sind die fünf Schlüsselwörter von Space Channel 5 auf Dreamcast. Sie müssen den Choreografien folgen, die Ihnen die schöne Fernsehmoderatorin Ulalla zeigt. Geben Sie Ihr Bestes, um die bösen Außerirdischen vom Tanzen abzuhalten und sie so dorthin zurückzuschicken, wo sie hergekommen sind.</desc>
+		<genre>Musik und Tanz</genre>
+		<rating>0.9</rating>
+		<releasedate>20000606T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13723">
+		<name>Zero Gunner 2</name>
+		<desc>In naher Zukunft haben Wissenschaftler des mächtigen asiatischen Mischkonzerns Igem eine neue Energiequelle entdeckt.
+Igem weigerte sich, seine Technik mit dem Rest der Welt zu teilen und entwickelte schließlich eine Wetterkontrollmaschine namens ONI, mit der sie die Welt beherrschen wollen.
+Eine Staffel von Hubschrauberpiloten namens Zero Gunner wird zusammengestellt, um ONI zu zerstören, aber Igem wird es nicht zulassen.</desc>
+		<genre>Shoot'em Up</genre>
+		<rating>0.85</rating>
+		<releasedate>20010906T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<family>Zero Gunner</family>
+		<players>1-2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="13516">
+		<name>Project Justice</name>
+		<desc>Eine verworrene Gemeinschaft alter Freunde auf der Jagd nach Ehre und Perfektion. Sie überwinden ihre Rivalität und schließen sich zusammen, um das Geheimnis einer Serie seltsamer Begebenheiten zu enträtseln. Wählen sie aus über 20 spielbaren Charakteren mit individuellen Fähigkeiten und Kampftechniken. Es stehen 5 Spielvarianten zur Auswahl: Arcade, Gegeneinander, Training, Liga- und Tourniermodus. Spielen sie mit bis zu 3 Kämpfern im Team gegeneinander in einer wunderschön gestalteten 3D-Welt. Stellen sie ihr team auf und führen sie einzigartige Kampftechniken aus für ihr gemeinsames Ziel: PROJECT JUSTICE - Gerechtigkeit!</desc>
+		<genre>Kampf</genre>
+		<rating>0.9</rating>
+		<releasedate>20010516T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin Interactive</publisher>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>8302</cheevosId>
+	</game>
+	<game id="13625">
+		<name>Tokyo Xtreme Racer 2</name>
+		<desc>Tokyo Highway Challenge 2 auf Dreamcast ist ein urbanes Rennspiel mit drei Spielmodi: Einzelrennen, Zeitfahren und Quest. Bei Letzterem geht es darum, zahlreiche Herausforderungen zu meistern, um die etwa hundert verfügbaren Autos sowie die vielen versteckten Strecken freizuschalten. Dank des bei den Rennen gesammelten Geldes ist es auch möglich, Tuning durchzuführen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.75</rating>
+		<releasedate>20000927T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Ubisoft</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10842</cheevosId>
+	</game>
+	<game id="78509">
+		<name>Sword of the Berserk : Guts' Rage</name>
+		<desc>Europa befindet sich in der Zeit des geheimnisvollen un mystischen Mittelalters. Der einsame Ritter Guts und seine Geliebte Casca sind die beiden einzigen Überlebenden einer heimtücksichen, tödlichen Seuche, die das Land befallen hat. Die parasitären Mandragoran, die um die Vorherrschaft in der Welt kämpfen, infizieren auch Casca, ergreifen Besitz von ihrer Seele und drohen, sie in eine widernatürliche, finstere Kreatur zu verwanderln. Guts macht sich mit dem mächtigen Breitschwert, dem Dragon Slayer, auf die Suche nach einem Heilmittel. Dabei setzt er sein eigenes Leben aufs Spiel, um die Kreaturen der Finsternis endgültig zu vernichten.</desc>
+		<genre>Beat'em Up</genre>
+		<rating>0.8</rating>
+		<releasedate>20000315T000000</releasedate>
+		<developer>ASCII</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Berzerk</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>17366</cheevosId>
+	</game>
+	<game id="13555">
+		<name>The House of the Dead 2</name>
+		<desc>The House of The Dead 2 auf Dreamcast ist ein Survival-Horror-Spiel, das auf dem gleichnamigen Arcade-Titel basiert. Das Ziel ist einfach: Töte alle Zombies, die dir in den Weg kommen. Dazu müssen Sie sich mit Segas Pistole und einer guten Portion Gelassenheit ausrüsten, um keine Zivilisten abzuschießen, die den Bildschirm überqueren.</desc>
+		<genre>Lightgun Shooter</genre>
+		<rating>0.85</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>CRI</developer>
+		<publisher>SEGA</publisher>
+		<family>House of the Dead</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13735">
+		<name>Seaman</name>
+		<desc>Wenn Ihnen Ihr Tamagotchi schon lange langweilig ist, sollten Sie Seaman auf Dreamcast ausprobieren. Als seltsames Wesen, Mensch, Fisch und Schlange zugleich, musst du dich seit ihrer Kindheit um sie kümmern und ihr den richtigen Weg zeigen.</desc>
+		<genre>Verschiedene</genre>
+		<rating>0.7</rating>
+		<releasedate>20000808T000000</releasedate>
+		<developer>Vivarium</developer>
+		<publisher>Vivarium</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13600">
+		<name>Cannon Spike</name>
+		<desc>Irgendwann im 21. Jahrhundert n.Chr. ...
+Die Wirtschaft steckt tief in der Krise und richtet Chaos in der Welt an ...
+Terrorismus ist an der Tagenordnung. Kriege erreichen mittlerweile jede Stadt, und die Menschen leben in ständiger Angst ...Um gegen die Roboter-Soldaten der Terroristen zu kämpfen, stellt die Welt-Union für den Frieden eine Spezialtruppe auf die Beine, die dank ihrer speziellen Motor-Stiefel über fast unbegrenzte Mobilität verfügt. Es liegt jetzt allein bei dieser Anti-Roboter-Spezialeinheit, den Kampf aufzunehmen und die Welt von der Bedrohung durch die Roboter zu befreien.
+Die Zukunft liegt in Ihren Händen!</desc>
+		<genre>Shooter</genre>
+		<rating>0.85</rating>
+		<releasedate>20001115T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Bigben Interactive</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>17836</cheevosId>
+	</game>
+	<game id="13653">
+		<name>Samba de Amigo</name>
+		<desc>Samba De Amigo auf Dreamcast ist ein sehr sonniges Rhythmusspiel, das Sie dazu bringt, mit der Konsole verbundene Maracas zu schütteln. Ziel ist es, den auf dem Bildschirm angezeigten Positionen zu folgen und dabei Schritt zu halten, um so viele Punkte wie möglich zu sammeln.</desc>
+		<genre>Musik und Tanz / Rythmus</genre>
+		<rating>0.95</rating>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>Samba de Amigo</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3454</cheevosId>
+	</game>
+	<game id="13631">
+		<name>Daytona USA</name>
+		<desc>Bringt die Motoren auf Touren, hier ist Daytona USA 2001 auf Dreamcast. Ein reines Arcade-Rennspiel, bei dem alle Schüsse erlaubt sind. Sie haben die Wahl zwischen 4 Autos und Dutzenden Strecken.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.9</rating>
+		<releasedate>20010313T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Infogrames</publisher>
+		<family>Daytona USA</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13554">
+		<name>Virtua Fighter 3tb</name>
+		<desc>Virtua Fighter 3tb ist ein Kampfspiel mit 12 Charakteren zur Auswahl, jeder mit sehr unterschiedlichen Kampfstilen. Dieser Virtua Fighter ist aus drei Blickwinkeln spielbar (klassisch, aus der Luft und aus subjektiver Sicht) und unterscheidet sich von seinen Vorgängern vor allem durch die Geschwindigkeit bei der Ausführung von Schlägen und Sequenzen.</desc>
+		<genre>Kampf / 3D</genre>
+		<rating>0.75</rating>
+		<releasedate>19991019T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>SEGA</publisher>
+		<family>Virtua Fighter</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>4539</cheevosId>
+	</game>
+	<game id="13509">
+		<name>Quake III Arena</name>
+		<desc>Quake III Arena auf Dreamcast ist einer der ersten Spieler, die sich an den Mehrspielermodus orientieren. Ein vielfältiges und vollständiges Arsenal ist unsere Entscheidung, eine Felice Macelleria als Einzelperson oder in der Mannschaft zu organisieren. Die klassische Modalität des Genres ci sono tutte (Capture The Flag, Possession, Deathmatch...). Der Hauptvorteil dieser Episode auf der Konsole ist die Möglichkeit, online zu spielen.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<rating>0.9</rating>
+		<releasedate>20001023T000000</releasedate>
+		<developer>No Cliché</developer>
+		<publisher>SEGA</publisher>
+		<family>Quake</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13744">
+		<name>The Typing of the Dead</name>
+		<desc>The Typing of the Dead auf Dreamcast ist ein Spiel, das aus der Saga „The House of The Dead“ abgeleitet ist. Der Spieler steht einer Horde blutrünstiger Zombies gegenüber, aber anstatt auf alles zu schießen, was sich bewegt, muss er Wörter eingeben, die jedem Monster entsprechen, das auf dem Bildschirm erscheint. Sobald das Wort vollständig eingegeben ist, wird der Ball abgefeuert.</desc>
+		<genre>Shooter / 1. Pers.</genre>
+		<rating>0.85</rating>
+		<releasedate>20010123T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<family>House of the Dead</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3441</cheevosId>
+	</game>
+	<game id="13565">
+		<name>Capcom vs. SNK</name>
+		<desc>Crossover zwischen zwei Giganten des Kampfuniversums, Capcom vs. SNK on Dreamcast lässt die Charaktere der beiden Herausgeber in dem Genre, das sie berühmt gemacht hat, gegeneinander antreten: 2D-Kampf. Sie werden herausfinden können, welche von Mai oder Chun-Li am sexysten ist, aber vor allem, welche am härtesten trifft!</desc>
+		<genre>Kampf</genre>
+		<rating>0.9</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Virgin</publisher>
+		<family>SNK Vs. Capcom</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>10845</cheevosId>
+	</game>
+	<game id="13491">
+		<name>Resident Evil Code : Veronica</name>
+		<desc>Nachdem Clair Redfield ihr letztes Horror-Abenteuer in Raccoon City nur äußerst knapp überlebt hat, begibt sie sich nun auf die Suche nach ihrem vermissten Bruder Chris. Zu ihrem Entsetzen muss Claire feststellen, dass Umbrellas Aktivitäten sich nicht bloß auf die verlassene Stadt im Mittleren Westen beschränkt. Im Gegenteil: Es scheint etwas viel Größeres vorzugehen. Furchtbare Kreaturen und grauenhafte Zombies werden immer mehr zu einer globalen Bedrohung! Doch wie weit erstreckt sich diese entsetzliche Verschwörung? Was hat die Umbrella Corporation wirklich vor? Und wer steckt hinter diesem biologischen Albtraum?</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<rating>0.9</rating>
+		<releasedate>20000329T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Resident Evil</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13500">
+		<name>SoulCalibur</name>
+		<desc>Namco's erster Dreamcast Titel Soul Calibur hat die fantastische Spielbarkeit und unglaubliche Grafik des Spielhallen-Originals und noch mehr. Steuern Sie einen von bis zu 19 Charakteren, genießen Sie die realistischen Animationen und meistern Sie die verschiedenen Kampfstile und Waffen. Nehmen Sie die Herausforderung an, das beste Kampfspiel aller Zeiten zu meistern und begegnen Sie Ihrem Schicksal.</desc>
+		<genre>Kampf / 3D</genre>
+		<rating>1</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<family>SoulCalibur</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13596">
+		<name>Fur Fighters</name>
+		<desc>In Fur Fighters spielen Sie als einzigartig gestaltete Tierkämpfer. Dieses Dreamcast-Spiel mischt Plattformen, Kämpfe und Rätsel. Wählen Sie zwischen dem Känguru, dem Pinguin, der Katze oder dem Hund und finden Sie diejenigen, die alle Babys des Tierreichs entführt haben.</desc>
+		<genre>Shooter / 3. Pers.</genre>
+		<rating>0.85</rating>
+		<releasedate>20000713T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1-4</players>
+		<lang>es,de,fr,en</lang>
+		<region>us</region>
+	</game>
+	<game id="13683">
+		<name>GigaWing</name>
+		<desc>Gigawing auf Dreamcast ist ein Shoot'em Up, das in 5 Level unterteilt ist und am Ende des Spiels einen Boss hinzufügt. Zerstöre alles, was dir im Weg steht, und schütze dich gleichzeitig vor Angriffen dank der magnetischen kugelsicheren Barriere „Reflect Score“. Der Spieler hat die Wahl zwischen 4 Schiffen, jedes mit eigener Bewaffnung und einem anderen Piloten.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<rating>0.6</rating>
+		<releasedate>20000719T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Virgin Interactive</publisher>
+		<family>Giga Wing</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13627">
+		<name>Border Down</name>
+		<desc>In der fernen Zukunft ist das Universum nicht mehr das gelobte Land. Die Menschen haben den Mars kolonisiert und müssen sich einer feindlichen außerirdischen Macht namens F.A. (für First Approach) stellen. Zu diesem Zweck hat die Solar System Defense Force das R.A.I.N. (Remote Artificial Intelligence Network) entwickelt, ein ferngesteuertes Navigationssystem, das die ANTARES-XX, ein unbemanntes Kampfschiff, steuern kann.</desc>
+		<genre>Shoot'em Up</genre>
+		<rating>0.9</rating>
+		<releasedate>20030925T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>G.Rev</publisher>
+		<players>1-2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="13525">
+		<name>Power Stone 2</name>
+		<desc>Power Stone 2 bietet dir alles, was du von einer guten Fortsetzung erwarten kannst: mehr Kämpfer, verbessertes Gameplay, ein größeres Waffenarsenal, noch bessere Grafik und einen rasanten 4-Spieler-Modus. Interagiere mit der Umgebung: Stangen, Wände, Fässer, Geschütztürme und sogar Panzer bieten dir unendliche Möglichkeiten im Kampf um die PowerStones.</desc>
+		<genre>Kampf</genre>
+		<rating>0.85</rating>
+		<releasedate>20000823T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Power Stone</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13512">
+		<name>Dead or Alive 2</name>
+		<desc>Kannst du dich aus einer Umklammerung von hinten befreien? Kannst du einen Tritt gegen den Kopf abwehren? Lass dich nicht überrumpeln. Schlag zurück bei der Dead or Alive 2 Meisterschaft. Wirf deinen Rivalen aus dem Fenster und spring die zehn Stockwerke hinterher, um ihn fertigzumachen. Deine Umgebung spielt mit: Lass Sprengladungen hochgehen und Glas zersplittern, wate durch Wasser, zertrümmere Wände und vieles mehr. Mit seinen 10 verschiedenen Kampfmodi haut dich Dead or Alive 2 immer wieder um!</desc>
+		<genre>Kampf</genre>
+		<rating>0.95</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<family>Dead or Alive</family>
+		<players>1-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3456</cheevosId>
+	</game>
+	<game id="13538">
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 ist die Fortsetzung von Segas erfolgreichem Arcade-Spiel Sega Rally. Dieses Spiel basiert wie sein Vorgänger auf dem Rallye-Rennsport. Das Besondere an Rallye-Rennen besteht darin, dass die Rennen sowohl auf Rennstrecken als auch auf Geländestrecken stattfinden. Die Strecken in diesem Spiel spiegeln dies sehr schön wider. Einige finden in der Wüste oder im Wald statt, andere in Städten.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.9</rating>
+		<releasedate>19991124T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<family>Sega Rally</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>8443</cheevosId>
+	</game>
+	<game id="13535">
+		<name>Sega GT</name>
+		<desc>Sega GT auf Dreamcast ist eine Autosimulation. Bestehen Sie die verschiedenen Lizenzen, suchen Sie sich einen guten Gebrauchtwagen und begeben Sie sich in den Karrieremodus, in dem Sie zahlreiche Siege erringen müssen und Ihren alten Schrott auf dem Schrottplatz zugunsten eines übermächtigen Sportwagens zurücklassen müssen.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.85</rating>
+		<releasedate>20000829T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>SEGA</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>8392</cheevosId>
+	</game>
+	<game id="13520">
+		<name>Power Stone</name>
+		<desc>Wir schreiben das 19. Jahrhundert - eine romantische Ära, in der Legenden und Aberglaube lebendig und mächtig sind. Dem Traum nach unermeßlichem Reichtum nachjaged, sucht eine Reihe mutiger Abenteurer nach den legendären POWER STONES, magischen Steinen, die ihrem Besitzer jeden möglichen Wunsch erfüllen sollen. Power Stone ist das erste wahre, vollständige 3D-Beat_em up überhaupt. Unglaubliche Interaktivität mit der Umgebung - hangeln sie an der Decke, klettern sie auf Dächer, verwenden sie Bänke, Stühle, Fässer, Pfosten und andere Objekte als Waffe. Atemberaubende Grafik kombinert mit rasantem Gameplay. Enthält acht unterschiedliche Charaktere mit einzigartigen Fähigkeiten und Kampfeigenschaften. Sammeln sie Power Stones, um ihren Konkurrenten zu besiegen - drei Steine geben ihnen unglaubliche Fähigkeiten und Wupermoves. Nutzen sie ein riesiges Arsenal von Waffen-Power-Ups: Bazookas, Flammenwerfer, Schwerter, Zeitbomben und mehr. Viele versteckte Bonusoptionen und Secrets begleiten sie durch das Spiel.</desc>
+		<genre>Kampf</genre>
+		<rating>0.85</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Eidos Interactive</publisher>
+		<family>Power Stone</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>3396</cheevosId>
+	</game>
+	<game id="13585">
+		<name>ChuChu Rocket!</name>
+		<desc>Chu Chu Rocket, das exklusive Dreamcast-Spiel, ermöglicht eine völlig neue Online-Erfahrung in Form eines adrenalinfördernden 4-Spieler Puzzles. Vorsicht - dieses Spiel hat hohes Suchtpotenzial. Sie können es mit Freunden im trauten Heim genießen - oder aber via Internet gegen völlig Fremde antreten. Bringen Sie einfach die Mäuse zu einer Rakete und beschützen Sie sie auf dem Weg vor den fiesen Katzen. Chu Chu Rocket - eine simple Idee, aber eine Herausforderung ohne Ende...</desc>
+		<genre>Puzzle</genre>
+		<rating>0.9</rating>
+		<releasedate>20000307T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>ChuChu Rocket!</family>
+		<players>1-4</players>
+		<lang>es,fr,de,jp,en</lang>
+		<region>us</region>
+		<cheevosId>3442</cheevosId>
+	</game>
+	<game id="13530">
+		<name>Toy Commander</name>
+		<desc>Entdecken sie in dieser Actiongeladenen Spielzeugschlacht die Welt des Spaßes und Spieles wieder aus der Sicht eines Kindes. Werden Sie zum "Toy Commander" in dem sie über 30 verschiedene Fahrzeuge in mehr als 50 unterschiedlichen Missionen einsetzen. Für 1-4 Spieler, egal ob mit- oder gegeneinander. Kümmern sie sich um ihr Spielzeug, sonst kümmert es sich um sie!</desc>
+		<genre>Action / Abenteuer</genre>
+		<rating>0.9</rating>
+		<releasedate>19991104T000000</releasedate>
+		<developer>No Cliché</developer>
+		<publisher>SEGA</publisher>
+		<players>1-4</players>
+		<lang>es,de,fr,en</lang>
+		<region>us</region>
+		<cheevosId>15391</cheevosId>
+	</game>
+	<game id="13507">
+		<name>Phantasy Star Online Ver. 2</name>
+		<desc>Phantasy Star Online Ver.2 auf Dreamcast ist die Überarbeitung des vorherigen Teils, der auf derselben Konsole veröffentlicht wurde. Sie erstellen und passen einen Charakter aus den drei angebotenen Rassen (Jäger, Waldläufer und Magier) an. Neben den zusätzlichen Kampf- und Fußballmodi, die jetzt online spielbar sind, handelt es sich bei den neuen Funktionen hauptsächlich um Grafiken. Beachten Sie die Möglichkeit, Ihren in PSO erstellten Charakter zu importieren und Level 200 zu erreichen.</desc>
+		<genre>Rollenspiele / MMORPG</genre>
+		<rating>0.85</rating>
+		<releasedate>20010925T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>SEGA</publisher>
+		<family>Phantasy Star</family>
+		<players>1</players>
+		<lang>es,fr,de,jp,en</lang>
+		<region>us</region>
+		<cheevosId>10828</cheevosId>
+	</game>
+	<game id="13694">
+		<name>Gunbird 2</name>
+		<desc>Gunbird 2 auf Dreamcast ist ein Arcade-Shooter. Übernimm die Kontrolle über einen von sieben Charakteren und bekämpfe die Piraten auf der Suche nach dem größten Schatz der Welt.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<rating>0.8</rating>
+		<releasedate>20001110T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Virgin Interactive</publisher>
+		<family>Gunbird</family>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13533">
+		<name>Metropolis Street Racer</name>
+		<desc>Metropolis Street Racer auf Dreamcast ist eine Autorennsimulation. Das Spiel basiert auf einem System von „Kudos“, einer Währung, die Sie durch gewonnene Rennen, aber auch dank Ihres Fahrstils erhalten. Es gibt viele prestigeträchtige Fahrzeuge zum Freischalten und die Herausforderung liegt in MSR.</desc>
+		<genre>Rennen, Fahren</genre>
+		<rating>0.9</rating>
+		<releasedate>20010116T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>SEGA</publisher>
+		<players>1-8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>343</cheevosId>
+	</game>
+	<game id="13592">
+		<name>Illbleed</name>
+		<desc>Illbleed auf Dreamcast ist ein Survival-Horror. Sie spielen einen jugendlichen Horrorfilmfan, der eine Einladung erhalten hat, einen Horror-Vergnügungspark zu erleben. Leider hast du deine drei Freunde, die dich begleitet haben, aus den Augen verloren und bist nun allein...</desc>
+		<genre>Abenteuer / Survival-Horror</genre>
+		<rating>0.7</rating>
+		<releasedate>20010416T000000</releasedate>
+		<developer>Crazy Games</developer>
+		<publisher>SEGA</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosId>7118</cheevosId>
+	</game>
+	<game id="13760">
+		<name>Mars Matrix</name>
+		<desc>Mars Matrix: Hyper Solid Shooting auf Dreamcast ist ein sehr beliebtes Shoot'em-Up-Genre auf der SEGA-Konsole. Das Spiel basiert auf einem System, bei dem die Schüsse des Gegners absorbiert werden, wenn Sie den Feuerknopf gedrückt halten. Anschließend können Sie die gewonnene Energie in Form stärkerer Schüsse zurückgeben.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<rating>0.75</rating>
+		<releasedate>20010425T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Capcom</publisher>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13685">
+		<name>Under Defeat</name>
+		<desc>Under Defeat auf Dreamcast ist ein vertikal scrollendes Shoot'em-up, bei dem Sie die Kontrolle über einen Hubschrauber übernehmen, der die Level überqueren muss, während er gegen die Horden von Feinden kämpft, die auf ihn herabstürzen. Das Spielsystem findet seine Originalität darin, dass Sie Ihr Gerät um 360 Grad drehen oder einen kleinen Satelliten auslösen können, der Sie unterstützt.</desc>
+		<genre>Shoot'em Up / Vertikal</genre>
+		<rating>0.65</rating>
+		<releasedate>20060323T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>G.Rev</publisher>
+		<players>1-2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosId>10831</cheevosId>
+	</game>
+	<game id="13521">
+		<name>Record of Lodoss War</name>
+		<desc>Record of Lodoss War ist die Dreamcast-Adaption der Anime-Serie aus dem Jahr 1990, die in Frankreich als The Chronicles of the Lodoss War bekannt ist und auf dem japanischen Roman von Ryô Mizuno basiert. Das Abenteuer ist in vier Szenarien unterteilt und bietet die Führung von vier verschiedenen Gruppen, die nacheinander von Karla, Beld, Fawn und Parn angeführt werden. Die Kämpfe werden auf Schachbrettern ausgetragen, man muss den Anführer der gegnerischen Truppen eliminieren, um zu gewinnen.</desc>
+		<genre>Strategie</genre>
+		<rating>0.9</rating>
+		<releasedate>20010226T000000</releasedate>
+		<developer>Neverland</developer>
+		<publisher>Swing! Entertainment</publisher>
+		<family>Record of Lodoss War</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

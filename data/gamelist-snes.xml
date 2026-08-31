@@ -4,9 +4,6 @@
 		<name>SimCity</name>
 		<desc>Inhalt des Spiels ist die Simulation einer Stadt und deren Entwicklung unter Einbeziehung verschiedener Faktoren wie Kriminalität, Umwelt, Verkehrsfluss und Bildung. Auf einer anfänglich unbebauten Landschaft kann vom Spieler Infrastruktur wie etwa Strom- und Wasserversorgung, Straßen und Schienen gebaut werden. Außerdem kann er Wohn-, Industrie- und Gewerbegebiete zur Bebauung ausweisen. Spezialgebäude wie Häfen, Parks, Schulen, Polizei- und Feuerwachen beeinflussen verschiedene Parameter in ihrer Umgebung (ein Polizeirevier führt zu geringerer Kriminalität, was die Attraktivität und den Landwert der Grundstücke in der Umgebung erhöht), die sich auf die ausgewiesenen Baugebiete und deren Bebauung auswirken.</desc>
 		<genre>Simulation / Konstruktion &amp; Management</genre>
-		<image>./images/SimCity (USA)-image.png</image>
-		<marquee>./images/SimCity (USA)-marquee.png</marquee>
-		<thumbnail>./images/SimCity (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910813T000000</releasedate>
 		<developer>Maxis Software</developer>
@@ -16,16 +13,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1156</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231311" />
-		<scrap name="TheGamesDB" date="20260813T214902" />
 	</game>
 	<game id="2284">
 		<name>Final Fight 3</name>
 		<desc>Die Mad Gear Gang wurde zwar besiegt, aber eine neue Bande namens Skull Cross hat ihren Platz eingenommen und ruft eine erneute Welle des Verbrechens in Metro City hervor. Bürgermeister Mike Haggar und Guy bereiten sich darauf vor, den Schurken gemeinsam mit Codys alter Freundin Lucia entgegenzutreten. Mit dabei ist außerdem der rätselhafte Dean, der auf Skull Cross nicht gut zu sprechen ist. Zusammen geloben sie, der Bande das Handwerk zu legen. Du kannst aus vier Charakteren mit individuellen Kampfstilen und Superangriffen wählen, allein oder mit einem Freund spielen oder dich für den automatischen Zweispieler-Modus entscheiden, um den Computer an deiner Seite kämpfen zu lassen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Final Fight 3 (USA)-image.jpg</image>
-		<marquee>./images/Final Fight 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fight 3 (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19951221T000000</releasedate>
 		<developer>Capcom</developer>
@@ -35,16 +27,11 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>323</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231317" />
-		<scrap name="TheGamesDB" date="20260813T214904" />
 	</game>
 	<game id="2145">
 		<name>Super Tennis</name>
 		<desc>Die heißesten Turniere erwarten Dich. Spiele Dich mit schnellen Volleys, geschickten Lobs oder raffiniert geschnittenen Bällen an die Spitze der internationalen Tenniswelt.  Schlüpfe bei Super Tennis für SNES in die Haut eines der 20 Weltklasse- Profis und kämpfe Dich durch die bedeutendsten Turniere, die das Tennis zu bieten hat. Jeder Spieler hat seine individuellen Stärken und Schwächen. Gib Dein Bestes bis zum Schluss und Du bist der Champion! Ob im Einzel oder im Doppel mit dem Computer oder Deinen Freunden - die einzigartige Grafik versetzt Dich direkt auf den Court und Du bist mittendrin im Geschehen! Jetzt liegt es an Dir, den Sieg in Super Tennis für SNES davon zu tragen. Willst Du kurz eine Pause zum Verschnaufen - mit der Passwortfunktion kein Problem! Du kannst dort weiterspielen, wo Du unterbrechen musstest.</desc>
 		<genre>Sport / Tennis</genre>
-		<image>./images/Super Tennis (USA)-image.png</image>
-		<marquee>./images/Super Tennis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Tennis (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>Tokyo Shoseki</developer>
@@ -53,8 +40,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1240</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231318" />
-		<scrap name="TheGamesDB" date="20260813T214906" />
 	</game>
 	<game id="2142">
 		<name>Secret of Evermore</name>
@@ -62,9 +47,6 @@
 
 Das Action-RPG-Gameplay ähnelt stark Secret of Mana, mit einigen wichtigen Änderungen. Multiplayer gibt es nicht. Statt drei Charakteren gibt es nur die beiden. Das Äquivalent zu Magie ist Alchemie, bei der jeder Effekt mehrere Grundzutaten erfordert, die du unterwegs sammelst.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Secret of Evermore (USA)-image.jpg</image>
-		<marquee>./images/Secret of Evermore (USA)-marquee.png</marquee>
-		<thumbnail>./images/Secret of Evermore (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950918T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -73,16 +55,11 @@ Das Action-RPG-Gameplay ähnelt stark Secret of Mana, mit einigen wichtigen Änd
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>821</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231319" />
-		<scrap name="TheGamesDB" date="20260813T214909" />
 	</game>
 	<game id="2530">
 		<name>Bust-A-Move</name>
 		<desc>In Bust-A-Move, müssen Bub und Bob farbige Blasen aus einer Kanone an den oberen Bildschirmrand schießen. Das Duo muss Gruppen von drei gleichfarbigen Kugeln bilden, die bei Berührung zerplatzen. Nach einer bestimmten Menge von abgefeuerten Kugeln, senkt sich die Obergrenze des Bildschirms langsam ab. Wenn der Spieler nach einer bestimmten Zeit keine Blase abgefeuert hat, wird diese automatisch geschossen. In der SNES-Version von Bust-A-Move, wurden einige Neuerungen eingeführt, wie die Elementkugeln, welche beim Zerplatzen auch andere Blasen, abhängig von ihrem Typ, zum verschwinden bringen können. Außerdem gibt es einen vs.-Modus und einen Endboss.</desc>
 		<genre>Puzzle / Werfen</genre>
-		<image>./images/Bust-A-Move (USA)-image.jpg</image>
-		<marquee>./images/Bust-A-Move (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bust-A-Move (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19950301T000000</releasedate>
 		<developer>Taito</developer>
@@ -92,16 +69,11 @@ Das Action-RPG-Gameplay ähnelt stark Secret of Mana, mit einigen wichtigen Änd
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>460</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231320" />
-		<scrap name="TheGamesDB" date="20260813T214913" />
 	</game>
 	<game id="2259">
 		<name>Lufia II : Rise of the Sinistrals</name>
 		<desc>Lufia erzählt die Vorgeschichte eines großen Konflikts, in dem du als Dämonenjäger Maxim gegen die vier Höllenfürsten antrittst. Gemeinsam mit Gefährten und geleitet von der geheimnisvollen Iris reist du durch Städte, Dungeons und gefährliche Landschaften, um das legendäre Lufiaschwert zu finden und das drohende Unheil aufzuhalten. Sichtbare Gegner verändern das Erkunden der Verliese, Rätsel verlangen Aufmerksamkeit und das Kampfsystem belohnt kluges Timing, wenn sich der Zorn deiner Gruppe auflädt und mächtige Fähigkeiten freisetzt. Begleiter wie Kapselmonster erweitern deine Möglichkeiten, während sich hinter der klassischen Abenteuerreise eine tragische Geschichte über Opfer, Schicksal und Hoffnung entfaltet, deren Finale direkt auf die Ereignisse der folgenden Geschichte verweist.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Lufia II - Rise of the Sinistrals (USA)-image.png</image>
-		<marquee>./images/Lufia II - Rise of the Sinistrals (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lufia II - Rise of the Sinistrals (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960831T000000</releasedate>
 		<developer>Neverland</developer>
@@ -111,16 +83,11 @@ Das Action-RPG-Gameplay ähnelt stark Secret of Mana, mit einigen wichtigen Änd
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1005</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231326" />
-		<scrap name="TheGamesDB" date="20260813T214914" />
 	</game>
 	<game id="2234">
 		<name>The Lost Vikings</name>
 		<desc>Der Spieler steuert abwechselnd einen der drei Hauptcharaktere mit ihren unterschiedlichen, exklusiven Fähigkeiten, um mit allen gemeinsam das Ende der genretypisch zweidimensionalen Levels zu erreichen. Dabei verfügt Baleog über Schwert und Bogen, Olaf über einen Schild und Erik kann springen und durch Rammen brüchige Wände zum Einsturz bringen. Die Wikinger müssen stets zusammenarbeiten, um die Aufgaben und Rätsel lösen zu können. Stirbt einer von ihnen, ist der Level nicht mehr zu schaffen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lost Vikings, The (USA)-image.png</image>
-		<marquee>./images/Lost Vikings, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lost Vikings, The (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930402T000000</releasedate>
 		<developer>Silicon &amp; Synapse</developer>
@@ -130,8 +97,6 @@ Das Action-RPG-Gameplay ähnelt stark Secret of Mana, mit einigen wichtigen Änd
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1003</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231328" />
-		<scrap name="TheGamesDB" date="20260813T214914" />
 	</game>
 	<game id="2183">
 		<name>Teenage Mutant Ninja Turtles IV : Turtles in Time</name>
@@ -141,9 +106,6 @@ Die Turtles machen sich sofort auf und verfolgen Shredder und die Foot Gang bis 
 
 Somit startet das Spiel in den Straßen von New York City und zieht sich unter anderem über die prähistorische Geschichte, den Wilden Westen bis hin zu Shredders Stützpunkt im Jahre 2100 in der Zukunft.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)-image.jpg</image>
-		<marquee>./images/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)-marquee.png</marquee>
-		<thumbnail>./images/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19920801T000000</releasedate>
 		<developer>Konami</developer>
@@ -153,8 +115,6 @@ Somit startet das Spiel in den Straßen von New York City und zieht sich unter a
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>350</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231334" />
-		<scrap name="TheGamesDB" date="20260813T214919" />
 	</game>
 	<game id="19017">
 		<name>Contra III : The Alien Wars</name>
@@ -162,9 +122,6 @@ Somit startet das Spiel in den Straßen von New York City und zieht sich unter a
 
 Dieser Angriff startete einen Krieg zwischen der Erde und den Aliens. Den Alien Krieg! Die letzte Hoffnung für das Überleben der Menschheit liegt nun in den Händen von Bill und Lance, denn nur sie sind in der Lage die Red Falcon und ihre tödliche Armee aufzuhalten. Vielleicht können die Beiden es schaffen die Red Falcon zu töten, die Armee zu stoppen und die Menschheit zu retten.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Contra III - The Alien Wars (USA)-image.jpg</image>
-		<marquee>./images/Contra III - The Alien Wars (USA)-marquee.png</marquee>
-		<thumbnail>./images/Contra III - The Alien Wars (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920406T000000</releasedate>
 		<developer>Konami</developer>
@@ -174,16 +131,11 @@ Dieser Angriff startete einen Krieg zwischen der Erde und den Aliens. Den Alien 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>344</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231339" />
-		<scrap name="TheGamesDB" date="20260813T214924" />
 	</game>
 	<game id="64980">
 		<name>Shin Kidou Senki Gundam W : Endless Duel</name>
 		<desc>Es ist das Jahr nach Kolonie 195, und der Krieg zwischen den Weltraumkolonien und der Erde hat begonnen. Um den Kolonien einen Vorteil zu verschaffen, schicken sie 5 junge, perfekt ausgebildete Soldaten in den mächtigsten Mobile Suits - Gundams - zur Erde. Mit ihrer Ankunft ändert sich das Blatt des Krieges, denn sie kämpfen gegen die Streitkräfte der Erde und die Kolonien ihrer Herkunft.</desc>
 		<genre>Kampf / 2D</genre>
-		<image>./images/Shin Kidou Senki Gundam W - Endless Duel (Japan)-image.jpg</image>
-		<marquee>./images/Shin Kidou Senki Gundam W - Endless Duel (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Shin Kidou Senki Gundam W - Endless Duel (Japan)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960329T000000</releasedate>
 		<developer>Natsume</developer>
@@ -193,8 +145,6 @@ Dieser Angriff startete einen Krieg zwischen der Erde und den Aliens. Den Alien 
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>555</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231340" />
-		<scrap name="TheGamesDB" date="20260813T214925" />
 	</game>
 	<game id="2200">
 		<name>Mortal Kombat II</name>
@@ -202,9 +152,6 @@ Dieser Angriff startete einen Krieg zwischen der Erde und den Aliens. Den Alien 
 
 Das Spiel beinhaltet zwölf spielbare Charaktere sowie zwei Endgegner, gegen die der Spieler nacheinander im Zweikampf antreten muss.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Mortal Kombat II (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Mortal Kombat II (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat II (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940909T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -214,16 +161,11 @@ Das Spiel beinhaltet zwölf spielbare Charaktere sowie zwei Endgegner, gegen die
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>647</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231345" />
-		<scrap name="TheGamesDB" date="20260813T214928" />
 	</game>
 	<game id="2138">
 		<name>The Legend of Zelda : A Link to the Past</name>
 		<desc>Der böse Ganon, in Gestalt des Zauberers Agahnim, versucht das Siegel zu brechen, welches ihn in der Schattenwelt, dem ehemaligen Goldenen Land, gefangen hält. Dazu schließt er die Nachfahren der Weisen, die einst das Siegel schufen, darunter auch Prinzessin Zelda, in Kristalle ein und hält sie in der Schattenwelt gefangen. Link muss einige Artefakte beschaffen, um schließlich alle sieben Mädchen aus der Schattenwelt befreien zu können. Zusammen mit den Weisen macht er sich auf, Ganon zu besiegen und das heilige Triforce zurückzugewinnen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Legend of Zelda, The - A Link to the Past (USA)-image.jpg</image>
-		<marquee>./images/Legend of Zelda, The - A Link to the Past (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Zelda, The - A Link to the Past (USA)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19920413T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -233,16 +175,11 @@ Das Spiel beinhaltet zwölf spielbare Charaktere sowie zwei Endgegner, gegen die
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>355</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231401" />
-		<scrap name="TheGamesDB" date="20260813T214934" />
 	</game>
 	<game id="2286">
 		<name>NBA Jam Tournament Edition</name>
 		<desc>„NBA Jam: Tournament Edition“ ist ein rasantes Zwei-gegen-Zwei-Arcade-Basketballspiel mit Spielern aller NBA-Teams. Es gibt kaum Regeln, keine Fouls und spektakuläre Dunks. Spieler werden in acht Kategorien bewertet, darunter Steals, Blocks und Dreier. Bis zu vier Spieler können teilnehmen, wobei jeder einen einzelnen Spieler steuert. Die Tournament Edition erweitert jedes Team auf drei Spieler und erlaubt Wechsel zwischen den Vierteln. Stöße verursachen nun Verletzungen, die die Werte senken, was strategische Auswechslungen nötig macht. Neue Features wie „Hot Spots“ für Bonuspunkte, Power-ups für Arcade-Vorteile, „Juice Mode“ für schnellere Spiele und „Tournament Mode“ für herausfordernde Matches mit freischaltbaren Spielern sorgen für zusätzlichen Spielspaß.</desc>
 		<genre>Sport / Basketball</genre>
-		<image>./images/NBA Jam - Tournament Edition (USA)-image.jpg</image>
-		<marquee>./images/NBA Jam - Tournament Edition (USA)-marquee.png</marquee>
-		<thumbnail>./images/NBA Jam - Tournament Edition (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950223T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -252,8 +189,6 @@ Das Spiel beinhaltet zwölf spielbare Charaktere sowie zwei Endgegner, gegen die
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1049</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231402" />
-		<scrap name="TheGamesDB" date="20260813T214938" />
 	</game>
 	<game id="2355">
 		<name>Kirby's Dream Course</name>
@@ -261,9 +196,6 @@ Das Spiel beinhaltet zwölf spielbare Charaktere sowie zwei Endgegner, gegen die
 
 You'll find eight courses and a total of sixty-four holes in the game, not including the final showdown with King Dedede, as well as an action-packed two-player mode.</desc>
 		<genre>Sport / Golf</genre>
-		<image>./images/Kirby's Dream Course (USA)-image.jpg</image>
-		<marquee>./images/Kirby's Dream Course (USA)-marquee.png</marquee>
-		<thumbnail>./images/Kirby's Dream Course (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19950201T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -273,16 +205,11 @@ You'll find eight courses and a total of sixty-four holes in the game, not inclu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>986</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231408" />
-		<scrap name="TheGamesDB" date="20260813T214945" />
 	</game>
 	<game id="2268">
 		<name>Kirby's Dream Land 3</name>
 		<desc>Eine böse Macht hat von König Dedede Besitz ergriffen und stürzt nun das Dream Land ins Chaos. Die einzige Rettung heißt Kirby! Kirby kann natürlich seine Feinde verschlucken und deren Spezial-Power wie Feuer, Eis oder Stein für sich nutzen. Wenn nötig, bittet er seine tierischen Freunde, Rick den Hamster und Nago die Katze, um Hilfe. Kirby kann aber auch Gooey, seinen Freund mit der dehnbaren Zunge, herbeirufen, der entweder automatisch oder von einem Freund gesteuert werden kann. Ausgestattet mit bunter 2D-Grafik, klassischem Gameplay und unendlichem Charme atmet Kirby's Dream Land 3 den Geist der alten Schule!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Kirby's Dream Land 3 (USA)-image.jpg</image>
-		<marquee>./images/Kirby's Dream Land 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Kirby's Dream Land 3 (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19971127T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -292,8 +219,6 @@ You'll find eight courses and a total of sixty-four holes in the game, not inclu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>813</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231409" />
-		<scrap name="TheGamesDB" date="20260813T214947" />
 	</game>
 	<game id="2188">
 		<name>Breath of Fire II</name>
@@ -304,9 +229,6 @@ Verwandele dich in Drachen, sprich Zaubersprüche aus, sammle Fähigkeiten und E
 Tausche mächtige Gegenstände mit deinen Freunden mit Hilfe des Game Boy Advance Game Link-Kabels.
 Neues "Township"-Feature: baue und entwickle deine eigene Stadt und locke Einwohner aus entfernten Gegenden in deinen eigenen Ort.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Breath of Fire II (USA)-image.jpg</image>
-		<marquee>./images/Breath of Fire II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Breath of Fire II (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19951201T000000</releasedate>
 		<developer>Capcom</developer>
@@ -316,16 +238,11 @@ Neues "Township"-Feature: baue und entwickle deine eigene Stadt und locke Einwoh
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>450</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231410" />
-		<scrap name="TheGamesDB" date="20260813T214950" />
 	</game>
 	<game id="2163">
 		<name>Super Mario World 2 : Yoshi's Island</name>
 		<desc>Die Handlung des Spiels findet zu der Zeit statt, als Super Mario und andere Hauptcharaktere, wie sein Bruder Luigi oder Bowser, noch Babys waren. Ein Storch soll die beiden Babys Mario und Luigi in einer Nacht zu ihren Eltern bringen. Plötzlich zischt Kamek, ein Magikoopa auf einem Hexenbesen, an ihn heran und schnappt sich Luigi. Mario fällt in die Tiefe auf den Rücken eines grünen Yoshis, der mit seinen Freunden beschließt, dem Kind zu helfen. Als Kamek zurück im Schloss seines Meisters Bowser ist, bemerkt er, dass eines der Babys fehlt. Er schickt seine Helfer, um auch Mario zu fangen. Mithilfe einer Karte, die neben Baby-Mario liegt, veranstalten die Yoshis einen Staffellauf durch sechs verschiedene Gegenden der Yoshi-Insel und kommen dann schließlich zu Bowsers Reich, um Baby-Luigi aus den Fängen Kameks zu befreien. In jedem 4. und 8. Level muss der Spieler gegen einen Endgegner antreten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Mario World 2 - Yoshi's Island (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Super Mario World 2 - Yoshi's Island (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario World 2 - Yoshi's Island (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19951004T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -335,8 +252,6 @@ Neues "Township"-Feature: baue und entwickle deine eigene Stadt und locke Einwoh
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>558</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231411" />
-		<scrap name="TheGamesDB" date="20260813T214954" />
 	</game>
 	<game id="2260">
 		<name>SimCity 2000 : The Ultimate City Simulator</name>
@@ -344,9 +259,6 @@ Neues "Township"-Feature: baue und entwickle deine eigene Stadt und locke Einwoh
 
 Dieser Titel fügt dem Original zahlreiche Funktionen hinzu, wie z. B. die Möglichkeit, "Lichtzonen", U-Bahnen, Krankenhäuser, Colleges, Zoos und Arcos zu bauen, die eigentlich Städte in Städten sind. Sie können Orten jetzt Namen geben, und Ihre Stadt ist von Nachbarstädten umgeben, mit denen Sie Handel treiben können. Schließlich haben Sie statt der Umfrage im ersten Spiel jetzt die Möglichkeit, mehrere Zeitungen zu lesen, um sich ein Bild von Ihrem Fortschritt zu machen.</desc>
 		<genre>Simulation / Konstruktion &amp; Management</genre>
-		<image>./images/SimCity 2000 - The Ultimate City Simulator (USA)-image.png</image>
-		<marquee>./images/SimCity 2000 - The Ultimate City Simulator (USA)-marquee.png</marquee>
-		<thumbnail>./images/SimCity 2000 - The Ultimate City Simulator (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19961101T000000</releasedate>
 		<developer>Maxis Software</developer>
@@ -356,8 +268,6 @@ Dieser Titel fügt dem Original zahlreiche Funktionen hinzu, wie z. B. die Mögl
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1155</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231413" />
-		<scrap name="TheGamesDB" date="20260813T214955" />
 	</game>
 	<game id="2170">
 		<name>Disney's Aladdin</name>
@@ -365,9 +275,6 @@ Dieser Titel fügt dem Original zahlreiche Funktionen hinzu, wie z. B. die Mögl
 
 Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des Sultans zu entkommen. Erlebe mit, wie Dschafar den jungen Helden überredet, ihm die Lampe zu besorgen. Doch Aladdin und Abu lassen sich nicht so leicht austricksen. Mit Hilfe des Dschinnis, der in der Lampe wohnt, gelingt es ihnen, Dschafars Pläne zu durchkreuzen und am Ende gewinnt Aladdin sogar die Hand der liebreizenden Prinzessin Jasmin. In diesem Abenteuer hilft aber nicht nur die Magie, ans Ziel zu kommen, sondern auch viel Geschicklichkeit!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Aladdin (USA)-image.png</image>
-		<marquee>./images/Aladdin (USA)-marquee.png</marquee>
-		<thumbnail>./images/Aladdin (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19931102T000000</releasedate>
 		<developer>Disney Interactive Studios</developer>
@@ -377,16 +284,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>379</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231414" />
-		<scrap name="TheGamesDB" date="20260813T214955" />
 	</game>
 	<game id="2241">
 		<name>Space Megaforce</name>
 		<desc>Super Aleste ist ein vertikal scrollendes Shoot 'em Up und lässt auf den ersten Blick nicht ganz die Raffinesse dieses Titels erkennen. Die wahre Qualität entfaltet sich erst beim Spielen. Denn Super Aleste ist umfangreicher als so manch anderer Shooter und fordert Einiges an strategischem Denken. Außerdem ist die Grafik lupenrein und auch bei zahlreichen Sprites auf dem Bildschirm ist nicht das kleinste Ruckeln erkennbar. Zahllose Gegner, sowie teils zerstörbare Umgebungen stellen sich dem Spieler in den Weg und jedes Level lässt sich dabei etwas Neues einfallen. Man kann jederzeit mit dem passenden Power-Ups zwischen 8 Waffen wechseln, sie um 5 verschiedene Stufen upgraden und als ob das nicht schon genug wäre, hat jede der 8 Waffen auch noch 2-5 Funktionsarten, die man mit den Schulterknöpfen justiert.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Space Megaforce (USA)-image.jpg</image>
-		<marquee>./images/Space Megaforce (USA)-marquee.png</marquee>
-		<thumbnail>./images/Space Megaforce (USA)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19921030T000000</releasedate>
 		<developer>Compile</developer>
@@ -396,16 +298,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>9851</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231415" />
-		<scrap name="TheGamesDB" date="20260813T214958" />
 	</game>
 	<game id="2274">
 		<name>International Superstar Soccer Deluxe</name>
 		<desc>Das spielerische Fundament des Vorgängers wurde nicht auf den Kopf gestellt. In gewohnter Perspektive rauschen die detaillierten Kicker-Sprites über den Rasen. Mehr Animationsphasen und verschiedene Stadien-Ausmaße mit wechselnder Begrasung gehören zu den Verbesserungen im Detail. Die Steuerung nutzt wieder alle Knöpfe des Joypads weidlich aus. Mit Flachpässen, hohen Hereingaben, Schüssen, Grätschen und Turbo-Sprints läßt sich ein ordentlicher Ballzauber veranstalten.</desc>
 		<genre>Sport / Fußball</genre>
-		<image>./images/International Superstar Soccer Deluxe (USA)-image.jpg</image>
-		<marquee>./images/International Superstar Soccer Deluxe (USA)-marquee.png</marquee>
-		<thumbnail>./images/International Superstar Soccer Deluxe (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19951001T000000</releasedate>
 		<developer>Konami</developer>
@@ -415,16 +312,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>286</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231416" />
-		<scrap name="TheGamesDB" date="20260813T215003" />
 	</game>
 	<game id="2182">
 		<name>Castlevania : Dracula X</name>
 		<desc>Es ist das Jahr 1792 und der finstere Graf Dracula wurde wiederbelebt. Er entführte Richters Freundin Annette und ihre kleine Schwester Maria. Erzürnt darüber macht sich Richter auf, um die beiden zu retten und Dracula aufzuhalten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Castlevania - Dracula X (USA)-image.jpg</image>
-		<marquee>./images/Castlevania - Dracula X (USA)-marquee.png</marquee>
-		<thumbnail>./images/Castlevania - Dracula X (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950901T000000</releasedate>
 		<developer>Konami</developer>
@@ -434,16 +326,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>300</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231422" />
-		<scrap name="TheGamesDB" date="20260813T215007" />
 	</game>
 	<game id="2377">
 		<name>Ninjawarriors</name>
 		<desc>In „Ninja Warriors“ kämpfst du als einer von drei kybernetischen Ninja-Kriegern – Ninja, Kunoichi oder Kamaitachi – gegen den Tyrannen Benglar, der das Land mit seinen gehirngewaschenen Streitkräften unter Kontrolle hat. Jeder Charakter besitzt einzigartige Fähigkeiten, aber alle können angreifen, springen, Feinde greifen, Angriffe blockieren und einen speziellen, bildschirmweiten Angriff ausführen, der sich im Kampf auflädt. Deine Mission ist es, dich durch Side-Scrolling-Level zu kämpfen, Hindernisse zu überwinden und Benglar zu eliminieren, um das Land zu befreien.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Ninjawarriors (USA)-image.jpg</image>
-		<marquee>./images/Ninjawarriors (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ninjawarriors (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940202T000000</releasedate>
 		<developer>Natsume</developer>
@@ -452,16 +339,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>518</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231423" />
-		<scrap name="TheGamesDB" date="20260813T215010" />
 	</game>
 	<game id="2144">
 		<name>Super Mario World</name>
 		<desc>Super Mario World führt Mario und Luigi ins Dinosaurierland, wo sie gemeinsam mit Yoshi gegen Bowser und die Koopalinge antreten, um Prinzessin Peach zu retten. Mit neuen Fähigkeiten, Reittieren und Power-Ups erkundest du eine große, miteinander verbundene Welt voller Geheimnisse, Abzweigungen und Herausforderungen. Jede Region endet in einer Festung, die von einem Koopa-Kind bewacht wird, bevor der Weg schließlich zu Bowsers Schloss führt und Geschick, Neugier und Timing gleichermaßen gefordert sind.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Super Mario World (USA)-image.png</image>
-		<marquee>./images/Super Mario World (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario World (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19910813T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -471,16 +353,11 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>228</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231505" />
-		<scrap name="TheGamesDB" date="20260813T215013" />
 	</game>
 	<game id="2462">
 		<name>Micro Machines</name>
 		<desc>Rase mit Micro Machines für SNES durch das ganze Haus! Wähle aus 8 verschiedenen Micro-Maschinen und entdecke einzigartige Strecken. Wenn Du auch schon immer mal ein Rennen in der Badewanne, im Sandkasten oder auf einem Billiardtisch starten wolltest, kannst Du das jetzt mit Micro Machines für SNES tun! Im Vier-Spieler-Turnier-Modus musst Du allen Hindernissen ausweichen und Dir so den Sieg holen! Dabei kann jeder Krümel zum Verhängnis werden! Gib ordentlich Gas und hole Dir den Sieg von Micro Machines für SNES.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines (USA)-image.jpg</image>
-		<marquee>./images/Micro Machines (USA)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19941201T000000</releasedate>
 		<developer>Merit Software</developer>
@@ -490,8 +367,6 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1027</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231508" />
-		<scrap name="TheGamesDB" date="20260813T215016" />
 	</game>
 	<game id="2208">
 		<name>F-Zero</name>
@@ -499,9 +374,6 @@ Er und sein zahmer Affe Abu sind viel zu sehr damit beschäftigt, den Wachen des
 Insgesamt gibt es vier Charaktere mit ihren eigenen Fahrzeugen, die alle unterschiedliche Eigenschaften haben. Ein Rennen besteht darin, fünf Runden auf einer Strecke zu fahren, wobei man jede Runde als einer der Ersten beenden muss, um nicht disqualifiziert zu werden. Wenn eine Runde abgeschlossen ist, wird der Spieler mit einer Fähigkeit namens "Super Jet" belohnt, die etwa sechs Sekunden lang anhält.
 Das Ziel des Spiels ist es, die anderen Charaktere zu besiegen, indem man die Ziellinie am Ende eines Rennens überquert und dabei bestimmte Schadensbereiche auf den Strecken vermeidet. Jedes Fahrzeug verfügt über eine eigene Energieanzeige, mit der die Haltbarkeit der Maschinen gemessen werden kann.</desc>
 		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
-		<image>./images/F-Zero (USA)-image.jpg</image>
-		<marquee>./images/F-Zero (USA)-marquee.png</marquee>
-		<thumbnail>./images/F-Zero (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910823T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -511,8 +383,6 @@ Das Ziel des Spiels ist es, die anderen Charaktere zu besiegen, indem man die Zi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>252</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231516" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2303">
 		<name>Super Bomberman 3</name>
@@ -522,9 +392,6 @@ Danach überfielen die hinterhältigen Bomber einige entfernte Planeten und besc
 
 Nun liegt es an Bomberman und seinem Partner Black Bomber, die Planeten zu retten und Bagulars Invasionspläne zu vereiteln. Unterstützung erhalten die beiden von den Louies, die auf den verschiedenen Planeten leben.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Super Bomberman 3 (Europe)-image.jpg</image>
-		<marquee>./images/Super Bomberman 3 (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Super Bomberman 3 (Europe)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19951015T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -534,8 +401,6 @@ Nun liegt es an Bomberman und seinem Partner Black Bomber, die Planeten zu rette
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>3594</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231520" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2480">
 		<name>Top Gear 2</name>
@@ -547,9 +412,6 @@ Diese Vier-Rennen-Blöcke stellen jeweils ihre eigene Mini-Meisterschaft dar, in
 
 Sie erhalten eine festgelegte Menge an Nitro-Boost, den Sie während jedes Rennens verwenden können, obwohl auf vielen Strecken Bonus-Nitros, Geld und Token für sofortige Beschleunigung erscheinen. Gefahren wie Pfützen, Barrieren und Rampen sind ebenfalls häufig.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Top Gear 2 (USA)-image.jpg</image>
-		<marquee>./images/Top Gear 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Top Gear 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930901T000000</releasedate>
 		<developer>Gremlin Graphics Software</developer>
@@ -559,8 +421,6 @@ Sie erhalten eine festgelegte Menge an Nitro-Boost, den Sie während jedes Renne
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1277</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231524" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2213">
 		<name>Batman Returns</name>
@@ -570,9 +430,6 @@ Es gibt zwei Arten von Beat-'em-up-Levels. Die erste spielt sich wie Final Fight
 
 Zu den verfügbaren Spezialausrüstungsgegenständen gehören der ikonische Batarang, mit dem sich Gegner aus der Distanz ausschalten lassen, sowie mit chemischen Sprengstoffen gefüllte Reagenzgläser, die allen Gegnern auf dem Bildschirm Schaden zufügen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Batman Returns (USA)-image.png</image>
-		<marquee>./images/Batman Returns (USA)-marquee.png</marquee>
-		<thumbnail>./images/Batman Returns (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19930402T000000</releasedate>
 		<developer>Konami</developer>
@@ -582,8 +439,6 @@ Zu den verfügbaren Spezialausrüstungsgegenständen gehören der ikonische Bata
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>269</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231531" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2232">
 		<name>Lemmings</name>
@@ -591,9 +446,6 @@ Zu den verfügbaren Spezialausrüstungsgegenständen gehören der ikonische Bata
 
 Sie steuern nicht einen einzelnen Lemming, sondern ein Fadenkreuz, das über jeden der Lemminge bewegt werden kann. Entlang der Unterseite befindet sich eine Auswahl an Funktionen, die einem Lemming zugewiesen werden können, darunter Klettern, Schwimmen und Schlagen. Sie müssen klicken, um die entsprechende Funktion auszuwählen, und dann auf den Lemming klicken, um sie zu aktivieren. Jedes Level hat ein anderes Angebot an Fähigkeiten, eine andere Anzahl von Lemmingen und ein anderes prozentuales Ziel, um voranzukommen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Lemmings (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Lemmings (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Lemmings (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920302T000000</releasedate>
 		<developer>Sunsoft</developer>
@@ -603,16 +455,11 @@ Sie steuern nicht einen einzelnen Lemming, sondern ein Fadenkreuz, das über jed
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>993</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231532" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="19136">
 		<name>Rockman &amp; Forte</name>
 		<desc>Gibt Dr. Wily denn niemals auf? Seine neueste Schöpfung, King hat 100 CDs mit geheimen Roboter Bauplänen gestohlen, um einen übermächtigen Anführer für die Wily Roboter Armee zu schaffen. Nun müssen Rockman und Forte Seite an Seite kämpfen, um die CDs zurück zu holen und Dr. Wily zu stoppen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Rockman &amp; Forte (Japan)-image.jpg</image>
-		<marquee>./images/Rockman &amp; Forte (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Rockman &amp; Forte (Japan)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19980424T000000</releasedate>
 		<developer>Capcom</developer>
@@ -622,8 +469,6 @@ Sie steuern nicht einen einzelnen Lemming, sondern ein Fadenkreuz, das über jed
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>3438</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231537" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2416">
 		<name>R-Type III</name>
@@ -631,9 +476,6 @@ Sie steuern nicht einen einzelnen Lemming, sondern ein Fadenkreuz, das über jed
 
 Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-Gegnern. Mit einer abnehmbaren Lasereinheit kannst du vor oder hinter deinem Schiff schießen. R-Type III bietet jetzt drei verschiedene Arten der Laser-Einheit, wählbar zu Beginn eines Spiels. Jeder bietet je nach eingesammelten Power-Ups unterschiedliche Lasertypen an.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/R-Type III (USA)-image.jpg</image>
-		<marquee>./images/R-Type III (USA)-marquee.png</marquee>
-		<thumbnail>./images/R-Type III (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Jaleco</developer>
@@ -643,16 +485,11 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1143</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231542" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2202">
 		<name>Super Punch-Out!!</name>
 		<desc>„Super Punch-Out!!“ ist ein Boxspiel aus der Rückenperspektive, bei dem der Spieler Gegner durch K.O. oder TKO besiegen muss. Ein TKO wird erzielt, wenn die Trefferpunkte des Gegners dreimal auf null sinken. Der Spieler kann hohe und tiefe Schläge mit beiden Händen ausführen sowie Spezialangriffe wie den Rapidpunch für schnelle Schläge oder den Knockoutpunch für starke Treffer einsetzen. Die Spezialleiste füllt sich mit erfolgreichen Treffern, verliert jedoch bei Gegentreffern an Fortschritt. Gegner haben individuelle Techniken, können aber durch präzise Treffer verwirrt werden. Nach einem Niederschlag kann der Spieler Trefferpunkte regenerieren und wieder aufstehen. Mit 16 Gegnern und verschiedenen Kampfklassen bietet das Spiel stetige Herausforderungen.</desc>
 		<genre>Sport / Boxen</genre>
-		<image>./images/Super Punch-Out!! (USA)-image.jpg</image>
-		<marquee>./images/Super Punch-Out!! (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Punch-Out!! (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -662,16 +499,11 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>539</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231546" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2159">
 		<name>Mega Man X</name>
 		<desc>Dr. Cain erweckt den von Dr. Light erschaffenen Mega Man X und schickt ihn in den Kampf gegen die Mavericks des plötzlich und unerwartet aufgetauchten Reploiden Sigma, damit er wieder für Frieden sorgen kann. X beginnt seine Mission auf einem Highway und trifft bald auf Vile, gegen den er jedoch verliert und gelähmt wird. Zero erscheint und vertreibt Vile, indem er den Arm seines Kampfpanzers abschießt. er ermutigt X und meint, dass er nur noch nicht seine vollen Fähigkeiten entfaltet habe. Zero geht voraus und erspäht Sigmas Festung, während X einen Maverick nach dem anderen findet und ausschaltet.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man X (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Mega Man X (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man X (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940118T000000</releasedate>
 		<developer>Capcom</developer>
@@ -681,16 +513,11 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>637</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231548" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2248">
 		<name>Shadowrun</name>
 		<desc>Die SNES-Version von Shadowrun erschien früher als die Genesis-Version und ist ein völlig anderes Spiel, mit einer anderen Geschichte und einem anderen Gameplay, obwohl es auch auf einem Pen-and-Paper-RPG mit dem gleichen Namen basiert. Ihr Held, Jake, wird von Attentätern angegriffen und scheint tot zu sein. Doch ein mysteriöser Hund nähert sich seinem leblosen Körper, verwandelt sich in eine Frau und belegt ihn mit einem Zauberspruch... Danach wacht Jake im Leichenschauhaus auf. Er weiß nicht, was mit ihm passiert ist, er erinnert sich nicht einmal an seinen eigenen Namen. Während Sie durch die futuristische Stadt wandern, in der Einschienenbahnen, Computer und mit automatischen Waffen bewaffnete Straßenbanden neben Orks, Zwergen und Vampiren existieren, beginnen Sie, das Geheimnis zu lüften und die Gefahren kennenzulernen, die Sie hinter jeder Ecke erwarten.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Shadowrun (USA)-image.png</image>
-		<marquee>./images/Shadowrun (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shadowrun (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931101T000000</releasedate>
 		<developer>Data East</developer>
@@ -700,16 +527,11 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>566</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231553" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2137">
 		<name>Illusion of Gaia</name>
 		<desc>In Illusion of Time begleitest du Will, der sich nach dem Verschwinden seines Vaters auf eine abenteuerliche Reise durch die Ruinen vergangener Zivilisationen begibt. Eine uralte Bedrohung kehrt zurück, als sich ein mysteriöser Komet der Erde nähert und Chaos entfacht. Will entwickelt die Fähigkeit, sich in mächtige Krieger zu verwandeln, um gegen wiedererwachte Bestien zu kämpfen und die Rätsel der Vergangenheit zu lösen. Gemeinsam mit seinen Freunden stellt er sich dunklen Mächten, um das Schicksal seines Vaters und das Geheimnis des Kometen zu enthüllen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Illusion of Gaia (USA)-image.png</image>
-		<marquee>./images/Illusion of Gaia (USA)-marquee.png</marquee>
-		<thumbnail>./images/Illusion of Gaia (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940901T000000</releasedate>
 		<developer>Quintet</developer>
@@ -718,8 +540,6 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>945</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231554" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2169">
 		<name>Donkey Kong Country 2 : Diddy's Kong Quest</name>
@@ -729,9 +549,6 @@ Das Gameplay ist immer noch das klassische R-Type mit riesigen Levels und Boss-G
 
 Diddy und Dixie müssen sich auf ihrem Weg gegen unzählige Kremlings behaupten und am Ende Kaptain K. Rool selbst besiegen, um Donkey Kong zu retten. Dabei werden sie von Cranky Kong, Funky Kong und Wrinkly Kong unterstützt.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-image.jpg</image>
-		<marquee>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19951205T000000</releasedate>
 		<developer>Rareware</developer>
@@ -741,16 +558,11 @@ Diddy und Dixie müssen sich auf ihrem Weg gegen unzählige Kremlings behaupten 
 		<lang>fr,en</lang>
 		<region>us</region>
 		<cheevosId>466</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231601" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2270">
 		<name>Rock n' Roll Racing</name>
 		<desc>Rock 'n Roll Racing ist ein Arcade-Rennspiel, in dem der Zweikampf eine große Rolle spielt. Jedes Fahrzeug verfügt über eine Waffe, wie z.B. Laser, Raketen oder Minen. Habt ihr ein Rennen erfolgreich beendet, könnt ihr euer Auto aufrüsten. Der Soundtrack bietet zudem bekannte Titel wie "Born to Be Wild", "Bad to the Bone", "The Peter Gunn Theme" oder "Paranoid".</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Rock N' Roll Racing (USA)-image.jpg</image>
-		<marquee>./images/Rock N' Roll Racing (USA)-marquee.png</marquee>
-		<thumbnail>./images/Rock N' Roll Racing (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19931101T000000</releasedate>
 		<developer>Silicon &amp; Synapse</developer>
@@ -759,16 +571,11 @@ Diddy und Dixie müssen sich auf ihrem Weg gegen unzählige Kremlings behaupten 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>237</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231602" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2415">
 		<name>King of Dragons</name>
 		<desc>In King of Dragons liegt das Königreich Malus seit Jahrhunderten im Schatten des roten Drachen Gildiss, der das Land verwüstet und nur Ruinen zurückgelassen hat. Die Armeen des Königs scheiterten bereits bei dem Versuch, das Ungeheuer zu besiegen, und kein Krieger kehrte zurück. Schließlich gelang es dem Zauberer Guindon, Gildiss mit einem mächtigen Zauber für ein Jahr in einen tiefen Schlaf zu versetzen. Doch während dieser Zeit verschwanden auch zahlreiche ausgesandte Ritter spurlos, die den schlafenden Drachen töten sollten. Nun neigt sich das Jahr dem Ende zu und die Dunkelheit breitet sich erneut über Malus aus. Eine letzte Gruppe mutiger Abenteurer bricht auf, um Gildiss zu finden und zu besiegen, bevor er erwacht und noch stärker als zuvor über das Land hereinbricht.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/King of Dragons (USA)-image.jpg</image>
-		<marquee>./images/King of Dragons (USA)-marquee.png</marquee>
-		<thumbnail>./images/King of Dragons (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940401T000000</releasedate>
 		<developer>Prism Kikaku</developer>
@@ -777,8 +584,6 @@ Diddy und Dixie müssen sich auf ihrem Weg gegen unzählige Kremlings behaupten 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>982</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231607" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2196">
 		<name>Ultimate Mortal Kombat 3</name>
@@ -790,9 +595,6 @@ Die Spieler können gegen den Computer 1 zu 1 antreten, 2 zu 2, oder Sie nehmen 
 
 Die DS-Version verfügt über einen drahtlosen 1 zu 1 Multiplayer-Modus und beinhaltet das Puzzle Kombat Mini-Spiel von Mortal Kombat Deception.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Ultimate Mortal Kombat 3 (USA)-image.jpg</image>
-		<marquee>./images/Ultimate Mortal Kombat 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ultimate Mortal Kombat 3 (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19961001T000000</releasedate>
 		<developer>Midway</developer>
@@ -802,16 +604,11 @@ Die DS-Version verfügt über einen drahtlosen 1 zu 1 Multiplayer-Modus und bein
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>582</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231608" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2191">
 		<name>Mega Man X3</name>
 		<desc>Im Jahr 21XX wurden die Mavericks dank der Bemühungen von Dr. Doppler und seinem Neuro-Computer neutralisiert. Viele Reploiden haben mit Doppler die Stadt DoppleTown gegründet, eine perfekte Utopie für Menschen und Reploiden. Aber ein paar Monate später machte Dr.Doppler mit den Mavericks einen Angriff auf die Meverick-Hunterbasis. X und Zero machten sich auf den Weg nach DoppleTown, um ihn zu stoppen.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man X3 (USA)-image.jpg</image>
-		<marquee>./images/Mega Man X3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man X3 (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960214T000000</releasedate>
 		<developer>Capcom</developer>
@@ -821,16 +618,11 @@ Die DS-Version verfügt über einen drahtlosen 1 zu 1 Multiplayer-Modus und bein
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>624</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231609" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2173">
 		<name>Super Castlevania IV</name>
 		<desc>Ein Jahrhundert des Friedens in Transsylvanien ist vorüber. Graf Dracula ist zurück! Und diesmal hat er einen Grabstein dabei, auf dem dein Name geschrieben steht, Simon Belmont! Super Castlevania IV ist ein Highlight der beliebten Castlevania-Reihe von Konami und liefert beste Jump'n'Run-Erkundung und -Action für Super NES. Du erkundest die Burg und ihre grausigen Räume. Dabei kannst du deine Peitsche als Enterhaken verwenden, um dich an Fallen vorbeizuschwingen. Bewaffnet mit Äxten, Weihwasser und vielem mehr musst du versuchen, Draculas Lakaien zurück ins Grab zu schicken!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Castlevania IV (USA)-image.jpg</image>
-		<marquee>./images/Super Castlevania IV (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Castlevania IV (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19911204T000000</releasedate>
 		<developer>Konami</developer>
@@ -840,8 +632,6 @@ Die DS-Version verfügt über einen drahtlosen 1 zu 1 Multiplayer-Modus und bein
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>562</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231615" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2312">
 		<name>The Legend of the Mystical Ninja</name>
@@ -853,9 +643,6 @@ Bei ihrer Ankunft sehen sie während eines Festivals Hyotoko-Tänzer in der Stad
 
 Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen Gruppe aus Pantomimen und Clowns, auch bekannt als die Otafu-Armee, gekidnappt wurde.</desc>
 		<genre>Plattform / Jump 'n' Run Scrolling</genre>
-		<image>./images/Legend of the Mystical Ninja, The (USA)-image.png</image>
-		<marquee>./images/Legend of the Mystical Ninja, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legend of the Mystical Ninja, The (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920202T000000</releasedate>
 		<developer>Konami</developer>
@@ -865,16 +652,11 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>990</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231621" />
-		<scrap name="TheGamesDB" date="20260813T215111" />
 	</game>
 	<game id="2160">
 		<name>Terranigma</name>
 		<desc>Terranigma erzählt die Geschichte von Ark, einem Jungen, der in einem abgelegenen Dorf aufwächst, das durch Lava von der Außenwelt getrennt ist. Als er verbotenerweise eine geheimnisvolle Tür öffnet und eine Schatulle mit einer seltsamen Kreatur freisetzt, bringt er das Gleichgewicht zwischen zwei Welten durcheinander – und alle Dorfbewohner werden zu Stein. Um sie zu retten, muss Ark die fünf Türme aufsuchen, die Geheimnisse der beiden Welten ergründen und sich finsteren Mächten stellen. Das Abenteuer bietet nicht nur actionreiche Kämpfe mit verschiedenen Waffen und Techniken wie Stoß- oder Sprungangriffe, sondern auch Rollenspielelemente, bei denen Ark mit jedem Erfolg stärker wird. Mit seinem hohen Detailgrad, der Mischung aus Action und RPG und der Möglichkeit, den Verlauf der Geschichte durch das eigene Handeln zu beeinflussen, gilt Terranigma als außergewöhnliches Spielerlebnis.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Terranigma (Europe)-image.png</image>
-		<marquee>./images/Terranigma (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Terranigma (Europe)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19961219T000000</releasedate>
 		<developer>Quintet</developer>
@@ -883,16 +665,11 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>242</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231623" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2256">
 		<name>U.N. Squadron</name>
 		<desc>U.N. Squadron ist ein seitlich scrollendes Shoot-em-Up im Stil von Gradius, R-Type und Scramble. Ziel ist es, feindliche Schiffe rund um die Militärbasis Area 88 auszuschalten. Wählt aus den drei Piloten Shin Kazama, Micky Schymon und Greg Gates. Setzt euch hinters Steuer zahlreicher Schiffe, jedes mit individuellen Waffen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/U.N. Squadron (USA)-image.jpg</image>
-		<marquee>./images/U.N. Squadron (USA)-marquee.png</marquee>
-		<thumbnail>./images/U.N. Squadron (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910901T000000</releasedate>
 		<developer>Capcom</developer>
@@ -902,16 +679,11 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>274</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231624" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2622">
 		<name>The Firemen</name>
 		<desc>In einer hochtechnologisierten chemischen Fabrik, in der eine extrem explosive Chemikalie mit der Bezeichnung MDL entwickelt wird, ist ein Feuer ausgebrochen. In The Firemen ist es Deine Aufgabe und die Deiner Feuerwehr-Kollegen, die Leute zu retten, die im Gebäude eingeschlossen sind und zu verhindern, dass das Feuer die MDL erreicht. Denn wenn das geschehen sollte, wird das ganze Gebäude zerfetzt...</desc>
 		<genre>Action / Abenteuer</genre>
-		<image>./images/Firemen, The (Europe) (En,Fr,De)-image.png</image>
-		<marquee>./images/Firemen, The (Europe) (En,Fr,De)-marquee.png</marquee>
-		<thumbnail>./images/Firemen, The (Europe) (En,Fr,De)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950301T000000</releasedate>
 		<developer>Human Entertainment</developer>
@@ -920,16 +692,11 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>4737</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231628" />
-		<scrap name="TheGamesDB" date="20260813T215116" />
 	</game>
 	<game id="65184">
 		<name>Sutte Hakkun</name>
 		<desc>Sutte Hakkun ist ein Action-Puzzle-Spiel in Form eines Jump'n'Runs. Der Charakter, den du spielst, ist ein pinguinähnlicher Vogel mit einem kräftigen Schnabel, genannt Hakkun, der laufen und springen, aber nicht fliegen kann. Der Regenbogen des Glücks leuchtete am Himmel über den Friedensinseln: Eines Tages zerbrach er und nun muss Hakkun alle Regenbogenkristalle aufspüren, sammeln und einsammeln, um ihn wiederzubeleben. Das Spiel basiert auf zwei Elementen: Blöcke und Tränke, letztere in verschiedenen Farben. Hakkun bahnt sich seinen Weg durch die Levels, indem er die Position der Blöcke verändert, "indem er sie verschluckt, um sie später an anderer Stelle wieder freizusetzen", und "Tränke saugt", die mit dem Schnabel in die Blöcke gespritzt werden müssen, wodurch sie durch die Farbe der Flüssigkeit "aus den Fläschchen" neue Eigenschaften erhalten. Ein Level ist geschafft, wenn die Regenbogenfragmente eingesammelt sind. Es gibt kein Zeitlimit und keine gegnerischen Figuren, die sich Hakkun in den Weg stellen. Ebenso unverwechselbar ist das Punktesystem: Zu Beginn eines jeden Levels wird eine feste Punktzahl vergeben, die mit jedem Zug abnimmt, so dass der Spieler belohnt wird, wenn er die Level mit möglichst wenigen Zügen abschließt.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Sutte Hakkun (Japan)-image.png</image>
-		<marquee>./images/Sutte Hakkun (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Sutte Hakkun (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19980801T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -938,16 +705,11 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>3870</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231630" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2313">
 		<name>Lost Vikings 2</name>
 		<desc>Ihr Verlust ist Ihr Spiel. Die verlorenen Jungen sind zurück: Erik der Flinke, Baelog der Wilde und Olaf der Starke. Diese Action-Strategie ist nichts für Schwachköpfe. In ihrem letzten Abenteuer versuchte das Trio, dem bösen außerirdischen Entführer Tomator zu entkommen. Jetzt, bewaffnet mit brandneuen Hightech-Waffen, die die Jungen Tomator gestohlen haben, machen sie sich auf die Suche nach der Zeitmaschine, die sie nach Hause bringen wird. Die Wikinger entkommen entweder gemeinsam oder gar nicht. Es ist also deine Herausforderung, alle Level mit allen drei Charakteren lebend und munter zu absolvieren! Steck den Stecker rein, starte den Computer und kämpfe! Norse by Norsewest.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lost Vikings 2 (USA)-image.jpg</image>
-		<marquee>./images/Lost Vikings 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lost Vikings 2 (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19970501T000000</releasedate>
 		<developer>Blizzard Entertainment</developer>
@@ -957,8 +719,6 @@ Er informiert sie das Prinzessin Yuki, Tochter des Kaisers von einer seltsamen G
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1002</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231631" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2152">
 		<name>Axelay</name>
@@ -968,9 +728,6 @@ Eine unbekannte außerirdische Rasse kam auf diesen Planeten und verwüstete ihn
 
 Also geh da raus und begib dich in die Heimatwelt des Außerirdischen. Mit etwas Glück kannst du sie direkt an der Quelle beseitigen...</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Axelay (USA)-image.jpg</image>
-		<marquee>./images/Axelay (USA)-marquee.png</marquee>
-		<thumbnail>./images/Axelay (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920901T000000</releasedate>
 		<developer>Konami</developer>
@@ -979,16 +736,11 @@ Also geh da raus und begib dich in die Heimatwelt des Außerirdischen. Mit etwas
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>395</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231632" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2252">
 		<name>Wild Guns</name>
 		<desc>Wild Guns für Super Nintendo ist ein Shooter-Spiel, das ein Western Universum mit Science Fiction verbindet. Der Spieler kann zwischen Clint und Annie wählen. Die Geschichte beginnt in Carson City und wird sich auf sechs Levels verteilen (die jeweils in drei Unterebenen unterteilt sind). Es ist möglich, während des gesamten Spiels Boni zu sammeln, um die Waffen zu verbessern. Das Ziel kann nur dann erreicht werden, wenn der Spieler Geschicklichkeit zeigt und gleichzeitig das feindliche Feuer vermeidet.</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Wild Guns (USA)-image.jpg</image>
-		<marquee>./images/Wild Guns (USA)-marquee.png</marquee>
-		<thumbnail>./images/Wild Guns (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950801T000000</releasedate>
 		<developer>Natsume</developer>
@@ -998,17 +750,12 @@ Also geh da raus und begib dich in die Heimatwelt des Außerirdischen. Mit etwas
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>340</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231633" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2306">
 		<name>Super Turrican 2</name>
 		<desc>Super Turrican ist zurück, und wieder einmal müssen die USS Freedom Forces verhindern, dass die böse Maschine unschuldigen Zivilisationen Schaden zufügt.
 Dazu muss der Spieler springen und sich seinen Weg durch große Level mit vielen Feinden bahnen. Um alle Feinde loszuwerden, können mehrere verschiedene Waffen eingesetzt werden, von denen die meisten den Spielern bereits aus früheren Teilen der Serie bekannt sind: ein Laser, ein Spread-shot und ein (verbesserter) Rebound. Es gibt auch die Optionnnfür eine begrenzte Zeit in den "Rad-Modus", um unbesiegbar zu werden, Minen zu legen und Raketen abzufeuern. Der Flammenwerfer ist neu in der Serie, ebenso wie das Seil, mit dem man an Wänden klettern, sich an Plattformen festhalten oder außer Reichweite befindliche Gegenstände aufheben kann. Ähnlich wie bei den Side-Scrolling-Schützen können Sie jetzt auch Zielsuchraketen als Sekundärwaffen aufnehmen.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Super Turrican 2 (USA)-image.jpg</image>
-		<marquee>./images/Super Turrican 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Turrican 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19951102T000000</releasedate>
 		<developer>Ocean</developer>
@@ -1018,8 +765,6 @@ Dazu muss der Spieler springen und sich seinen Weg durch große Level mit vielen
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1242</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231637" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2153">
 		<name>Super Mario Kart</name>
@@ -1027,9 +772,6 @@ Dazu muss der Spieler springen und sich seinen Weg durch große Level mit vielen
 
 Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special Cup, jeweils mit einer Auswahl an verschiedensten Rennstrecken die an Super Mario World angelehnt sind. Außerdem gibt es einen 2-Spieler-Kampf-Modus, wobei derjenige gewinnt, der seinem Gegenspieler alle drei Ballons zum platzen bringt.</desc>
 		<genre>Rennen, Fahren / Rennen 3. Pers.</genre>
-		<image>./images/Super Mario Kart (USA)-image.png</image>
-		<marquee>./images/Super Mario Kart (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario Kart (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920901T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -1039,16 +781,11 @@ Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special Cup
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>232</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231639" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2150">
 		<name>EarthBound</name>
 		<desc>EarthBound beginnt im verschlafenen Städtchen Onett, als ein Meteorit einschlägt und das Leben des jungen Ness auf den Kopf stellt. Ein seltsames Wesen namens Buzz Buzz offenbart ihm, dass ein grausamer Alien namens Giygas die Welt in der Zukunft zerstören wird – nur vier Kinder können ihn aufhalten. Ness macht sich auf, Paula, Jeff und Poo zu finden, um mit ihnen gemeinsam gegen Monster, Roboter und abgedrehte Gegner zu kämpfen. In diesem rundenbasierten Rollenspiel reist du durch schräge Orte, sammelst Erfahrung, nutzt PSI-Kräfte und kannst sogar mit cleveren Manövern schlimme Treffer überleben. Gegner fliehen, wenn du zu stark bist, und dein Vater speichert deinen Fortschritt übers Telefon. Ein skurriles Abenteuer mit Herz, Humor und Tiefgang.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/EarthBound (USA)-image.jpg</image>
-		<marquee>./images/EarthBound (USA)-marquee.png</marquee>
-		<thumbnail>./images/EarthBound (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950601T000000</releasedate>
 		<developer>Ape Studios</developer>
@@ -1058,16 +795,11 @@ Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special Cup
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>264</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231640" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2216">
 		<name>Kirby Super Star</name>
 		<desc>Das Besondere an diesem Kirby-Spiel ist, dass es insgesamt sieben Spiele in einem sind. Außerdem gibt es in diesem Spiel eine große Vielzahl an Fähigkeiten, die teils aus vorherigen Spielen bekannt sind, aber nun eine Vielfalt an Möglichkeiten aufweisen. Hatte eine Fähigkeit bisher nur eine Attacke, so hat sie jetzt vier oder mehr. Weiterhin besonders ist die Funktion Kirbys, einen Helfer zu rufen, der ihn im Spiel unterstützt und dessen Steuerung von einem zweiten Mitspieler übernommen werden kann.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Kirby Super Star (USA)-image.png</image>
-		<marquee>./images/Kirby Super Star (USA)-marquee.png</marquee>
-		<thumbnail>./images/Kirby Super Star (USA)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19960920T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -1077,16 +809,11 @@ Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special Cup
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>814</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231645" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2181">
 		<name>Donkey Kong Country 3 : Dixie Kong's Double Trouble!</name>
 		<desc>Auch etliche Monate nach ihrem Sieg über König K. Rool in DKC2 kosten die Kongs ihren Triumph noch immer aus. Eines Morgens trifft Dixie Kong ihren Freund Diddy Kong nicht in seinem Zimmer auf, dafür einen Brief mit dem Inhalt ?Liebe Dixie, schaue mich mit DK auf den Inseln um. Bis morgen! Diddy?. Zunächst denkt sich Dixie nichts dabei, als Donkey und Diddy auch nach Tagen noch nicht zurück sind, bricht sie aber auf, um diese zu suchen. Sie trifft auf Wrinkly und Funky, der ihr rät Kiddy Kong mit auf ihre Reise zu nehmen. Danach brechen Dixie und Kiddy auf, um Ausschau nach ihren Freunden zu halten.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-image.jpg</image>
-		<marquee>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19961122T000000</releasedate>
 		<developer>Rareware</developer>
@@ -1096,17 +823,12 @@ Es gibt insgesamt 4 Cups, Champion Cup, Flower Cup, Star Cup und den Special Cup
 		<lang>fr,en</lang>
 		<region>us</region>
 		<cheevosId>473</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231646" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2179">
 		<name>Out of This World</name>
 		<desc>Another World (bekannt als Out of This World in den U.S.A. und Outer World in Japan) ist ein Action-Adventure-Spiel, das von Eric Chahi entworfen und entwickelt wurde und den Spieler in die Rolle eines rothaarigen Physikers versetzt, der auf einem fremden Planeten gefangen ist.
 Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experimente durchführt. Die Explosion projiziert den jungen Wissenschaftler in eine besonders feindliche Parallelwelt. Lester wird schnell von einer humanoiden Spezies eingesperrt und trifft auf einen notdürftigen Begleiter.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Out of This World (USA)-image.png</image>
-		<marquee>./images/Out of This World (USA)-marquee.png</marquee>
-		<thumbnail>./images/Out of This World (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921101T000000</releasedate>
 		<developer>Delphine Software International</developer>
@@ -1116,16 +838,11 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1081</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231650" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="38622">
 		<name>Harvest Moon</name>
 		<desc>Harvest Moon versetzt euch in die Lage eines Jungbauern, der von seinen Eltern einen heruntergekommenen Bauernhof übertragen bekommt. Für die nächsten 2 ½ Jahre ist es nun eure Aufgabe, den verkümmerten Landstrich in eine florierende Landwirtschaft zu verwandeln.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Harvest Moon (USA)-image.png</image>
-		<marquee>./images/Harvest Moon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Harvest Moon (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19970601T000000</releasedate>
 		<developer>Amccus</developer>
@@ -1135,16 +852,11 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>934</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231656" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2449">
 		<name>Captain Commando</name>
 		<desc>In 2026 ist die Welt geradezu von Verbrechen überrannt. Captain Commando und seine 3 Commando Mitstreiter ziehen los, um das Verbrechen endgültig von der Erde und der gesamten Galaxie zu tilgen. Aber sie haben es nicht nur mit gewöhnlichen Kriminellen zu tun. Unter ihren Gegnern befinden sich auch viele Superschurken, deren Kräfte und Fähigkeiten die gewöhnlicher Menschen bei weitem übersteigen. Und natürlich müssen sie letztendlich auch noch den Anführer dieser kriminellen Macht besiegen, Scumocide.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Captain Commando (USA)-image.png</image>
-		<marquee>./images/Captain Commando (USA)-marquee.png</marquee>
-		<thumbnail>./images/Captain Commando (USA)-thumb.jpg</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19950801T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1153,8 +865,6 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>645</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231701" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2149">
 		<name>Donkey Kong Country</name>
@@ -1162,9 +872,6 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 
 Auf der Suche nach seinen Bananen stellen sich Donkey Kong die Kremlings, König K. Rools Gefolgsleute, in den Weg. Zum Glück begleitet Donkey Kongs bester Freund, Diddy Kong ihn auf seiner Reise um die ganze Donkey Kong Insel, denn die Bananen werden von bösen Bossen bewacht!</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Donkey Kong Country (USA) (Rev 2)-image.jpg</image>
-		<marquee>./images/Donkey Kong Country (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Donkey Kong Country (USA) (Rev 2)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941125T000000</releasedate>
 		<developer>Rareware</developer>
@@ -1174,16 +881,11 @@ Auf der Suche nach seinen Bananen stellen sich Donkey Kong die Kremlings, König
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>337</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231702" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2187">
 		<name>Earthworm Jim</name>
 		<desc>Jim ist ein ganz gewöhnlicher Regenwurm, bis ein besonderer "Super Anzug" vom Himmel fällt und ihm erlaubt, wie ein Mensch zu agieren, wobei sein "Wurm-Teil" als Kopf und der Anzug als Arme, Körper und Beine fungiert. Jim hat eine doppelte Aufgabe vor sich: Er muss den vielen Gegnern des Spiels entkommen weil sie den Anzug zurück wollen und auch Prinzessin What's-Her-Name retten.</desc>
 		<genre>Plattform / Jump 'n' Run</genre>
-		<image>./images/Earthworm Jim (USA)-image.jpg</image>
-		<marquee>./images/Earthworm Jim (USA)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941002T000000</releasedate>
 		<developer>Shiny Entertainment</developer>
@@ -1193,8 +895,6 @@ Auf der Suche nach seinen Bananen stellen sich Donkey Kong die Kremlings, König
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>889</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231708" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2380">
 		<name>Metal Warriors</name>
@@ -1202,9 +902,6 @@ Auf der Suche nach seinen Bananen stellen sich Donkey Kong die Kremlings, König
 
 Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-Modus gegeneinander anzutreten. Die Vielfalt an Robotern und Levels sorgt dafür, dass die Matchups immer wieder überraschend und interessant sind.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Metal Warriors (USA)-image.png</image>
-		<marquee>./images/Metal Warriors (USA)-marquee.png</marquee>
-		<thumbnail>./images/Metal Warriors (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19950402T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -1213,16 +910,11 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1025</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231709" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2171">
 		<name>Super Mario RPG : Legend of the Seven Stars</name>
 		<desc>„Super Mario RPG: Legend of the Seven Stars“ erzählt die Geschichte von Mario und seinen Gefährten, die gegen Smithy antreten und die sieben Sternenteile der Sternenstraße zurückholen müssen. Das Spiel kombiniert klassische Mario-Elemente mit Rollenspielelementen und diente als Inspiration für spätere Mario-Rollenspiele.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Super Mario RPG - Legend of the Seven Stars (USA)-image.jpg</image>
-		<marquee>./images/Super Mario RPG - Legend of the Seven Stars (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Mario RPG - Legend of the Seven Stars (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19960513T000000</releasedate>
 		<developer>Square</developer>
@@ -1232,16 +924,11 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>471</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231710" />
-		<scrap name="TheGamesDB" date="20260813T215144" />
 	</game>
 	<game id="2215">
 		<name>Street Fighter Alpha 2</name>
 		<desc>Street Fighter Alpha 2 stürmt mit blitzschnellem Gameplay und bahnbrechenden Innovationen auf Ihren Bildschirm. Die Alpha Counters und das unglaubliche Custom Combo System setzen einen neuen Standard für alle Kampfspiele. Testen Sie Ihr Talent und entdecken Sie neue Moves und Konter für jeden Kämpfer. Neutralisieren Sie die Attacken Ihrer Gegner mit hohen und niedrigen Alpha Counters und setzen Sie Custom Combos ein, um Ihre Gegner mit atemberaubenden Attacken außer Gefecht zu setzen. All Ihre Lieblingskämpfer sind wieder da! Zu den bisher versteckten Charakteren Dan, Akuma und Bison kommen fünf neue Kämpfer hinzu: Rolento, Gen, Sakura und die beliebten Klassiker Dhalsim und Zangief. Englischer Bildschirmtext.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Street Fighter Alpha 2 (USA)-image.jpg</image>
-		<marquee>./images/Street Fighter Alpha 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Street Fighter Alpha 2 (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19961101T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1251,16 +938,11 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>605</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231712" />
-		<scrap name="TheGamesDB" date="20260813T215153" />
 	</game>
 	<game id="65145">
 		<name>Super Puyo Puyo Tsuu Remix</name>
 		<desc>Der größte Unterschied zwischen dieser "Remix"-Version und dem regulären Super Puyo Puyo 2 besteht darin, dass Sie jetzt im 4-Spieler-Multiplayer-Modus mit Bots spielen können. Ein Expertenkurs wird dem Spiel und andere kleine Änderungen in den Minuten hinzugefügt.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Super Puyo Puyo Tsuu Remix (Japan)-image.jpg</image>
-		<marquee>./images/Super Puyo Puyo Tsuu Remix (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Super Puyo Puyo Tsuu Remix (Japan)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19960308T000000</releasedate>
 		<developer>Compile</developer>
@@ -1270,16 +952,11 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>3834</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231715" />
-		<scrap name="TheGamesDB" date="20260813T215153" />
 	</game>
 	<game id="2348">
 		<name>Cybernator</name>
 		<desc>Übernehmen Sie die Kontrolle über eine mächtige Roboterrüstung in Cybernator. In einer Welt, in der die natürlichen Ressourcen schwinden, bist du für die Zerstörung der ultimativen feindlichen Waffe zuständig. Geh durch sieben Levels und zerstöre alles, was sich dir in den Weg stellt. Jede deiner Waffen kann dreimal verbessert werden. Du kannst auch eine bestimmte Waffe oder alle Waffen gleichzeitig aufwerten, indem du Kraftboni sammelst.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Cybernator (USA)-image.jpg</image>
-		<marquee>./images/Cybernator (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cybernator (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19930401T000000</releasedate>
 		<developer>Nippon Computer Systems (NCS)</developer>
@@ -1288,16 +965,11 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>867</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231720" />
-		<scrap name="TheGamesDB" date="20260813T215155" />
 	</game>
 	<game id="2559">
 		<name>Tetris Attack</name>
 		<desc>Tetris Attack bringt Chaos auf Yoshis Insel – König Bowser hat mit einem finsteren Zauber fast alle Bewohner in willenlose Diener verwandelt. Nur Yoshi ist verschont geblieben, und so zieht er los, um seine Freunde zu retten und Bowser zu besiegen. Das Spiel verbindet rasante Puzzles mit Action, bei denen du farbige Blöcke vertauschst, um Reihen zu bilden und Kettenreaktionen auszulösen. Mit jedem geschickten Zug schickst du deinen Gegnern gewaltige Blocklawinen entgegen. Neben dem Story-Modus mit Kämpfen gegen Bowsers Schergen gibt es Duelle zu zweit, einen Endlosmodus, Zeit- und Rätselherausforderungen. Hinter dem westlichen Titel steckt das japanische Original Panel de Pon – nur hier mit Yoshi und seinem bunten Inselteam.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Tetris Attack (USA) (En,Ja)-image.png</image>
-		<marquee>./images/Tetris Attack (USA) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Tetris Attack (USA) (En,Ja)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960801T000000</releasedate>
 		<developer>Intelligent Systems</developer>
@@ -1307,8 +979,6 @@ Das Beste an Metal Warriors ist, wenn du dir einen Freund schnappst, um im PvP-M
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosId>815</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231724" />
-		<scrap name="TheGamesDB" date="20260813T215158" />
 	</game>
 	<game id="2322">
 		<name>Super Bomberman 2</name>
@@ -1318,9 +988,6 @@ Dazu reisen sie mit ihrem Raumschiff zur Erde und entführen einen Bomberman, be
 
 Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekämpfen. Jetzt muss er sich in den nächsten vier Gebieten Golem Bomber, Pretty Bomber, Brain Bomber, und dem Anführer Plasma Bomber stellen, damit er sich selbst und den Planeten vor diesen außerirdischen Eindringlingen retten kann.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Super Bomberman 2 (USA)-image.jpg</image>
-		<marquee>./images/Super Bomberman 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Bomberman 2 (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940907T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1330,16 +997,11 @@ Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>500</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231725" />
-		<scrap name="TheGamesDB" date="20260813T215202" />
 	</game>
 	<game id="2141">
 		<name>Secret of Mana</name>
 		<desc>In Secret of Mana entfesselt ein Junge durch das Herausziehen eines legendären Schwertes ungewollt uralte finstere Mächte und wird daraufhin aus seinem Dorf verstoßen. Die einzige Hoffnung liegt im erneuten Schmieden des Mana-Schwertes und dem Wiederherstellen des Gleichgewichts, indem die Mana-Samen in acht Palästen beschützt werden. Mit Hilfe treuer Gefährten stellt er sich der wachsenden Bedrohung und muss das Siegel des Friedens erneut stärken, bevor das Böse alles verschlingt.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Secret of Mana (USA)-image.jpg</image>
-		<marquee>./images/Secret of Mana (USA)-marquee.png</marquee>
-		<thumbnail>./images/Secret of Mana (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19931003T000000</releasedate>
 		<developer>Square</developer>
@@ -1349,16 +1011,11 @@ Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>400</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231739" />
-		<scrap name="TheGamesDB" date="20260813T215205" />
 	</game>
 	<game id="2267">
 		<name>Pocky &amp; Rocky</name>
 		<desc>Pocky &amp; Rocky auf Super Nintendo ist die Fortsetzung des 1987 unter dem Namen Kiki Kaikai veröffentlichten Actionspiels. Die junge Pocky und ihr Waschbär Rocky müssen die Tempel und Schreine vor einer Monsterinvasion schützen. Pocky greift mit seinem Stock und seinen Karten an und hat einen speziellen Angriff, der es ihm ermöglicht, sich wie ein Kreisel zu drehen, um seine Gegner zu besiegen, während Rocky sich mit seinem Schwanz und seinen Blättern verteidigt und sich in eine unbesiegbare Statue verwandeln kann.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Pocky &amp; Rocky (USA)-image.png</image>
-		<marquee>./images/Pocky &amp; Rocky (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pocky &amp; Rocky (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19930601T000000</releasedate>
 		<developer>Natsume</developer>
@@ -1368,16 +1025,11 @@ Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1103</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231743" />
-		<scrap name="TheGamesDB" date="20260813T215207" />
 	</game>
 	<game id="2338">
 		<name>Ogre Battle : The March of the Black Queen</name>
 		<desc>Führe in diesem Echtzeit-Strategiespiel die Rebellion an und befehlige deine Armee, um dein Land vom bösen zenobischen Reich zurückzuerobern. Befreie Städte und sammle Gegenstände und Tarotkarten, um deine Stärke zu erhöhen, und rekrutiere Verbündete, die sich dir auf deinem Kreuzzug anschließen. Aber wenn du schließlich den Sieg davonträgst, wirst du dann ein wohlwollender Anführer sein oder selbst zu einem bösen Despoten werden? Du musst dich entscheiden.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Ogre Battle - The March of the Black Queen (USA)-image.png</image>
-		<marquee>./images/Ogre Battle - The March of the Black Queen (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ogre Battle - The March of the Black Queen (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950501T000000</releasedate>
 		<developer>Quest</developer>
@@ -1387,16 +1039,11 @@ Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1412</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231745" />
-		<scrap name="TheGamesDB" date="20260813T215208" />
 	</game>
 	<game id="2180">
 		<name>Super Ghouls'n Ghosts</name>
 		<desc>Super Ghouls'n Ghosts ist das dritte Spiel in der legendären Ghosts'n Goblins-Reihe und folgt dem tapferen Sir Arthur auf seinem Weg durch dämonenverseuchte Lande, um die entführte Prinzessin zu retten. Kämpfe dich durch gefährliche Level und besiege die jeweiligen Endgegner, um weiterzukommen. Aber sei vorsichtig: Wenn Arthur getroffen wird, zerbricht seine Rüstung und ihm bleiben nur noch seine Boxershorts! Dieses herausfordernde Jump'n'Run, ursprünglich ein Exklusivtitel für Super NES, wurde von Kritikern hochgelobt und zu einem sofortigen Verkaufsschlager.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Super Ghouls 'N Ghosts (USA)-image.jpg</image>
-		<marquee>./images/Super Ghouls 'N Ghosts (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Ghouls 'N Ghosts (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1406,8 +1053,6 @@ Nach seinem Ausbruch macht sich Bomberman auf den Weg, um Magnet Bomber zu bekä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1216</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231746" />
-		<scrap name="TheGamesDB" date="20260813T215212" />
 	</game>
 	<game id="2418">
 		<name>Sparkster</name>
@@ -1417,9 +1062,6 @@ Sein Erzfreind, Rocket Knight Axel Gear, unterstützt die einfallenden Truppen, 
 
 Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu kämpfen, Axel Gear zu vernichten und das gegnerische Kampfschiff zu infiltrieren, wo der Anführer der Wölfe, Generalissimus Lioness, plant einen Sprengkopf zu zünden um den kompletten Planeten Eginasem zu vernichten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sparkster (USA)-image.png</image>
-		<marquee>./images/Sparkster (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sparkster (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Konami</developer>
@@ -1428,16 +1070,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1174</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231747" />
-		<scrap name="TheGamesDB" date="20260813T215215" />
 	</game>
 	<game id="2212">
 		<name>ActRaiser</name>
 		<desc>ActRaiser, 1990 für das Super Nintendo Entertainment System veröffentlicht, kombiniert Action-Jump-'n'-Run mit Aufbausimulation. Die Welt wird vom Master aufrechterhalten, während Tanzra diese zerstören will. Sechs Wächter greifen den Master an, er zieht sich verwundet zurück und versiegelt seinen Palast. Tanzra teilt die Welt auf und herrscht mit seinen Wächtern. Der Master erwacht nach Jahrhunderten und versucht, die Welt von dem Bösen zu befreien.</desc>
 		<genre>Plattform</genre>
-		<image>./images/ActRaiser (USA)-image.jpg</image>
-		<marquee>./images/ActRaiser (USA)-marquee.png</marquee>
-		<thumbnail>./images/ActRaiser (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19911102T000000</releasedate>
 		<developer>Quintet</developer>
@@ -1447,16 +1084,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>270</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231752" />
-		<scrap name="TheGamesDB" date="20260813T215219" />
 	</game>
 	<game id="2222">
 		<name>Mega Man 7</name>
 		<desc>Mega Man 7 setzt direkt nach dem letzten Abenteuer an und wirft dich mitten in ein Chaos, das Dr. Wily längst vorbereitet hat. Sechs Monate nach seiner Gefangennahme aktivieren sich vier geheime Notfallroboter und legen die Stadt in Schutt und Asche, um ihren Meister zu befreien. Du erreichst den Ort des Angriffs viel zu spät – Wily ist bereits wieder auf freiem Fuß. Auf deiner Jagd nach ihm triffst du Bass und seinen Wolf Treble, die vorgeben, ebenfalls gegen Wily zu kämpfen. Ihr kurzer Auftritt hinterlässt mehr Fragen als Antworten, aber du spürst, dass diese Begegnung noch eine große Rolle spielen wird, während du dich erneut in den Kampf gegen Wilys Maschinen stürzt.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man 7 (USA)-image.jpg</image>
-		<marquee>./images/Mega Man 7 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man 7 (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950902T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1466,16 +1098,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>469</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231753" />
-		<scrap name="TheGamesDB" date="20260813T215223" />
 	</game>
 	<game id="2205">
 		<name>Soul Blazer</name>
 		<desc>„Soul Blazer“ ist ein Fantasy-Abenteuer, in dem ein himmlischer Held eine von Deathtoll entvölkerte Welt befreit. Er rettet die Seelen von Menschen, Tieren und Pflanzen, die daraufhin in die Welt zurückkehren und neue Wege sowie Gegenstände freischalten. Die Welt wird in einer Top-Down-Perspektive dargestellt, und Kämpfe finden in Echtzeit statt. Befreite Seelen verleihen dem Helden spezielle Kräfte.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Soul Blazer (USA)-image.jpg</image>
-		<marquee>./images/Soul Blazer (USA)-marquee.png</marquee>
-		<thumbnail>./images/Soul Blazer (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920801T000000</releasedate>
 		<developer>Quintet</developer>
@@ -1484,16 +1111,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1168</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231755" />
-		<scrap name="TheGamesDB" date="20260813T215225" />
 	</game>
 	<game id="2283">
 		<name>Hagane : The Final Conflict</name>
 		<desc>Hagane: The Final Conflict zieht dich in einen verborgenen Krieg zwischen zwei uralten Ninja-Clans, deren Macht weit über das Menschliche hinausgeht. Der Fuma-Clan bewacht seit Jahrhunderten den heiligen Gral – ein Relikt, das die gesamte Welt auslöschen könnte. Als der feindliche Koma-Clan diesen Schatz raubt und eine ganze Fuma-Fraktion auslöscht, überlebt nur ein einziger Krieger: Hagane. Sein Körper ist zerstört, doch ein geheimnisvoller Meister rettet sein Gehirn und baut ihn als nahezu übermenschlichen Cyborg wieder auf. Mit neuer Kraft, unbändiger Geschwindigkeit und dem Schwur auf Rache jagst du den Koma-Clan, um den Gral zurückzuholen und die drohende Vernichtung der Welt aufzuhalten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Hagane - The Final Conflict (USA)-image.jpg</image>
-		<marquee>./images/Hagane - The Final Conflict (USA)-marquee.png</marquee>
-		<thumbnail>./images/Hagane - The Final Conflict (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950601T000000</releasedate>
 		<developer>CAProduction</developer>
@@ -1502,16 +1124,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>409</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231759" />
-		<scrap name="TheGamesDB" date="20260813T215227" />
 	</game>
 	<game id="2147">
 		<name>Super Metroid</name>
 		<desc>„Super Metroid“ setzt die Geschichte nach den Ereignissen von „Metroid II: Return of Samus“ fort. Die Weltraumpiraten haben ihren Stützpunkt auf dem Planeten Zebes wieder aufgebaut, während Samus die letzte Metroid-Larve zur Forschungsstation Ceres bringt. Dort entdecken Wissenschaftler, dass Metroids als alternative Energiequelle genutzt werden können. Doch plötzlich wird die Station angegriffen. Samus kehrt zurück und findet die Forscher tot vor – Ridley, einer der Anführer der Weltraumpiraten, hat die Metroid-Larve gestohlen. Nach einem kurzen Kampf flieht er nach Zebes, während sich der Selbstzerstörungsmechanismus der Station aktiviert und Samus zur Flucht zwingt. Sie folgt Ridley auf den Planeten, wo zunächst alles ruhig erscheint, doch schon bald setzt sie ungewollt einen Alarm in Gang. Die Piraten greifen an, und Samus kämpft sich immer tiefer durch die feindliche Umgebung, entschlossen, das Baby-Metroid zu finden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Metroid (Japan, USA) (En,Ja)-image.jpg</image>
-		<marquee>./images/Super Metroid (Japan, USA) (En,Ja)-marquee.png</marquee>
-		<thumbnail>./images/Super Metroid (Japan, USA) (En,Ja)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940319T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -1521,16 +1138,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>236</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231801" />
-		<scrap name="TheGamesDB" date="20260813T215233" />
 	</game>
 	<game id="2209">
 		<name>Mega Man X2</name>
 		<desc>Sechs Monate nach Sigmas Revolte und seiner Vernichtung durch X gibt es einige Nacheiferer, die seine Vision fortführen und neue Mavericks einsetzen. Deshalb bildete sich um X eine Gilde von Maverick-Jägern, die gegen diese Bedrohung kämpfen. X stürmt mit ihnen eine Reploid-Fabrik und wird dabei via Kameras von den drei sogenannten X-Huntern Serges, Violen und Agile beoachtet. Sie sind in den Besitz von Zeros Einzelteile gelangt, mit denen sie X erpressen, doch Dr. Cain besitzt noch immer den Kontrollchip, ohne den ihre Drohung leer ist. Nur wenn X alle Teile von Zero von den X-Huntern zurückerobern kann, können sie Zero wiederbeleben.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Man X2 (USA)-image.jpg</image>
-		<marquee>./images/Mega Man X2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mega Man X2 (USA)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19950303T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1540,16 +1152,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>629</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231802" />
-		<scrap name="TheGamesDB" date="20260813T215237" />
 	</game>
 	<game id="2361">
 		<name>Gradius III</name>
 		<desc>Gradius III ist das dritte Spiel in Konamis langjähriger Weltraum-Shooter-Serie, zu der auch Life Force und Nemesis gehören. Wie bei den meisten Gradius-Titeln steuern Sie den hochentwickelten Raumjäger Vic Viper gegen Horden von Feinden. Waffen können aus vordefinierten Ausrüstungen ausgewählt werden oder Sie können Ihre eigene benutzerdefinierte Ausrüstung erstellen. Das Spiel kann von einem einzelnen Spieler oder von zwei Spielern abwechselnd gespielt werden. Das Spiel bietet drei Schwierigkeitsstufen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Gradius III (USA)-image.jpg</image>
-		<marquee>./images/Gradius III (USA)-marquee.png</marquee>
-		<thumbnail>./images/Gradius III (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910813T000000</releasedate>
 		<developer>Konami</developer>
@@ -1559,16 +1166,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>342</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231803" />
-		<scrap name="TheGamesDB" date="20260813T215241" />
 	</game>
 	<game id="2143">
 		<name>Chrono Trigger</name>
 		<desc>Chrono Trigger ist ein Vertreter der Konsolen-Rollenspiele. Der Spieler steuert die Protagonisten in einer zweidimensional dargestellten fiktiven Welt, welche aus Wäldern, Städten und Dungeons besteht. Das Spiel wird grundsätzlich (mit einigen Ausnahmen) aus der Vogelperspektive einerseits mit einer größeren Weltkarte dargestellt, welche dann bei bestimmten Arealen andererseits in eine detailliertere Dungeonansicht wechselt, in der der Spieler Kämpfe austragen, Rätsel lösen und Objekte finden muss, um im Spiel weiter voranzukommen. Chrono Trigger hat sichtbare Gegner, so kann man im Gegensatz zu anderen Rollenspielen wie z. B. Final Fantasy an vielen Stellen selbst entscheiden, ob man kämpfen oder den Kampf umgehen möchte, jedoch werden dem Spieler an vielen Stellen die Kämpfe ?aufgezwungen?.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Chrono Trigger (USA)-image.jpg</image>
-		<marquee>./images/Chrono Trigger (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chrono Trigger (USA)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19950811T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -1578,16 +1180,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>319</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231805" />
-		<scrap name="TheGamesDB" date="20260813T215244" />
 	</game>
 	<game id="19248">
 		<name>Zombies Ate My Neighbors</name>
 		<desc>In Zombies (im Rest der Welt "Zombies Ate My Neighbours") geht Ihr aus der Vogelperspektive auf die Jagd nach Zombies und anderen Monstern. Dabei fängt Zombies wunderbar die Atmosphäre trashiger B-Movies ein. Euer Waffenarsenal besteht aus Wasserpistolen, Rasenmähern, Feuerlöschern und weiteren improvisierten Haushaltsgegenständen.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Zombies Ate My Neighbors (USA)-image.jpg</image>
-		<marquee>./images/Zombies Ate My Neighbors (USA)-marquee.png</marquee>
-		<thumbnail>./images/Zombies Ate My Neighbors (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19930901T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -1596,16 +1193,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>405</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231813" />
-		<scrap name="TheGamesDB" date="20260813T215249" />
 	</game>
 	<game id="2262">
 		<name>Rendering Ranger R2</name>
 		<desc>Multidirektional scrollender Action-Shooter. Die Hauptfigur rennt durch Science-Fiction-Szenarien und ballert alles weg, was sich bewegt. Ausgehend von einem einzigen Schuss, können 5 verschiedene aufrüstbare Waffensysteme als Extras gesammelt werden. Nach dem Tod verliert das zuletzt aktivierte System eine Stufe seines aktuellen Upgrade-Status, kann aber durch weitere gesammelte Extras wieder aufgerüstet werden. Jede Waffe verfügt außerdem über eine massive "intelligente" Bombenfunktion, die fast alles auf dem Bildschirm auf einmal auslöscht, wenn sie aktiviert wird. Es gibt auch einige Weltraum-Shooter-Levels im Stil von R-Type, die für ein gutes Maß sorgen. Sehr arcadig mit viel Action. Mehrere Bossmonster pro Level. Der Levelfortschritt wird über eine Passwortfunktion gespeichert.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Rendering Ranger R2 (Japan) (En)-image.png</image>
-		<marquee>./images/Rendering Ranger R2 (Japan) (En)-marquee.png</marquee>
-		<thumbnail>./images/Rendering Ranger R2 (Japan) (En)-thumb.jpg</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19951117T000000</releasedate>
 		<developer>Rainbow Arts</developer>
@@ -1614,16 +1206,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>3418</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231816" />
-		<scrap name="TheGamesDB" date="20260813T215250" />
 	</game>
 	<game id="2254">
 		<name>Equinox</name>
 		<desc>Equinox ist die Fortsetzung des klassischen NES-Spiels Solstice. Es wird in einer isometrischen 3D-Ansicht mit sehr farbenfroher Grafik präsentiert. Das Spiel basiert auf dem Lösen von Rätseln, um zum nächsten Dungeon zu gelangen. Im Spiel spielt man den Sohn des Helden aus dem ersten Spiel; Shadax. Shadax wurde von einer bösen Hexe entführt und es liegt an Ihnen, ihn zu retten. Es gibt eine große Auswahl an Waffen und mächtigen Zaubersprüchen, die Sie während Ihrer gesamten Suche verwenden können, von denen einige zur Lösung von Rätseln benötigt werden. Zur Tagundnachtgleiche können Sie sowohl auf der überirdischen Karte als auch in der Unterwelt reisen, obwohl die ganze Action bis auf einige Kämpfe immer noch unterirdisch stattfindet. Wenn Sie schon einmal eines der Zelda-Spiele gespielt haben, wird Ihnen ein Großteil des Spiels vertraut sein: Sie müssen, auf dem Weg zum Endboss, nach Schlüsseln suchen, Monster vernichten, ihnen ausweichen oder Rätsel lösen um weiterzukommen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Equinox (USA)-image.jpg</image>
-		<marquee>./images/Equinox (USA)-marquee.png</marquee>
-		<thumbnail>./images/Equinox (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931112T000000</releasedate>
 		<developer>Software Creations</developer>
@@ -1632,16 +1219,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>465</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231820" />
-		<scrap name="TheGamesDB" date="20260813T215252" />
 	</game>
 	<game id="2155">
 		<name>Killer Instinct</name>
 		<desc>In the distant future, a monopolistic and technological corporation called Ultratech organizes a fighting tournament known as "Killer Instinct". Many fighters answer the challenge to participate, including several of Ultratech's experimental warriors.  To increase the tournament's challenge, Ultratech utilizes a technology that can create bridges between alternate dimensions, releasing a creature known as Eyedol.  Eyedol is a two-headed ancient warrior that was imprisoned along with his bitter rival, Gargos. Some warriors enter the tournament to seek glory or escape.  Other fighters are attempting to bring an end to Ultratech's corruption. </desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Killer Instinct (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Killer Instinct (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Killer Instinct (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950801T000000</releasedate>
 		<developer>Rareware</developer>
@@ -1651,16 +1233,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>279</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231821" />
-		<scrap name="TheGamesDB" date="20260813T215256" />
 	</game>
 	<game id="136591">
 		<name>StarWing 2</name>
 		<desc>Nach seiner Niederlage im ursprünglichen Star Fox kehrt der Gegenspieler Andross in das Lylat-System zurück und startet einen Großangriff auf Corneria; dabei setzt er eine neue Flotte von Schlachtschiffen sowie riesige, von versteckten Stützpunkten aus abgefeuerte Raketen ein, um den Planeten zu vernichten. General Pepper ruft erneut das Star-Fox-Team zu Hilfe. Ausgerüstet mit neuen, speziell angepassten Arwings und einem Mutterschiff sowie verstärkt durch zwei neue Rekruten – Miyu (ein Luchs) und Fay (ein Hund) – macht sich das Team daran, Corneria zu verteidigen. Es gilt, Andross' Streitkräfte zu vernichten, bevor diese dem Planeten kritischen Schaden zufügen können. Auf seinem Weg muss sich Star Fox zudem riesigen Endgegnern, Stützpunkten auf verschiedenen Planeten des Lylat-Systems, Mitgliedern des Star-Wolf-Teams und schließlich Andross selbst stellen.</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)-image.png</image>
-		<marquee>./images/Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)-marquee.png</marquee>
-		<thumbnail>./images/Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>20170929T000000</releasedate>
 		<developer>Nintendo EAD</developer>
@@ -1670,16 +1247,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>5209</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231823" />
-		<scrap name="TheGamesDB" date="20260813T215259" />
 	</game>
 	<game id="19064">
 		<name>Gokujou Parodius</name>
 		<desc>Hier ist die Arcade-Version auf dem Super Nintendo von Gokujo Parodius, diese neue Version von Parodius ist toll!!!!. Der Unterschied zwischen dem alten Parodius und diesem ist die Anzahl der Schiffe, die Sie zu Beginn des Spiels auswählen können. In der Tat, vier, diese Zahl erhöht sich abrupt auf acht. Dadurch verdoppelt sich das Spielvergnügen. Dann wird auch der Schwierigkeitsgrad des Spiels erhöht. So sehr, dass Leute, die es schaffen, das Spiel auf dem Arcade-Terminal zu beenden, immer noch Probleme haben würden, es schnell zu beenden (ich spreche für mich). Das heißt, der Schwierigkeitsgrad ist größtenteils erschwinglich und wir werden die Anwesenheit neuer Charaktere in diesem Port bemerken, wie die Anwesenheit von Goemon und Dracula (aus Castlevania!) Die Grafiken und Soundtracks sollten einige Verbesserungen erfahren haben, aber hey, dies ist ein Super Nintendo</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Gokujou Parodius (Japan)-image.png</image>
-		<marquee>./images/Gokujou Parodius (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Gokujou Parodius (Japan)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941125T000000</releasedate>
 		<developer>Konami</developer>
@@ -1689,16 +1261,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2390</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231829" />
-		<scrap name="TheGamesDB" date="20260813T215301" />
 	</game>
 	<game id="2443">
 		<name>Aero Fighters</name>
 		<desc>Aero Fighters ist ein vertikaler Scrolling-Shooter und ein Port des gleichnamigen Arcade-Spiels. Es gibt vier Piloten aus vier Ländern (Japan, Schweden, Großbritannien und USA), die an einem Krieg beteiligt sind. Jedes Land hat ein eigenes Flugzeug: F18, FSX, AJ-37 oder AV-8. Jedes Flugzeug hat eine andere aufrüstbare Primär- und Spezialwaffe. Das Spiel umfasst insgesamt sieben Level und einige davon werden in zufälliger Reihenfolge dargestellt.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Aero Fighters (USA)-image.jpg</image>
-		<marquee>./images/Aero Fighters (USA)-marquee.png</marquee>
-		<thumbnail>./images/Aero Fighters (USA)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Video System</developer>
@@ -1708,16 +1275,11 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>373</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231834" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2146">
 		<name>Final Fantasy III</name>
 		<desc>Final Fantasy VI erzählt von einer Welt, in der die Magie längst verloren schien, bis mit Terra eine junge Frau auftaucht, die selbst über diese Kraft verfügt und damit sofort ins Visier eines machthungrigen Imperiums gerät. Aus ihrer Flucht entwickelt sich ein großes Abenteuer, in dem sich nach und nach eine ganze Gruppe sehr unterschiedlicher Gefährten zusammenschließt, um sich gegen Unterdrückung, Missbrauch von Macht und den drohenden Untergang der Welt zu stellen. Besonders stark ist dabei, wie sich die Geschichte von einer klassischen Rebellion zu einem deutlich düstereren Kampf ums Überleben wandelt, nachdem Kefka die Ordnung der Welt zerbricht und aus allem ein Reich aus Ruinen, Verzweiflung und Wahnsinn macht. Gerade dieser Wandel verleiht dem Spiel eine enorme Wucht und sorgt dafür, dass die Suche nach Hoffnung, Zusammenhalt und Widerstand bis zum Schluss fesselt.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Final Fantasy III (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Final Fantasy III (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy III (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19941011T000000</releasedate>
 		<developer>Squaresoft</developer>
@@ -1727,8 +1289,6 @@ Das Ziel des Spielers ist es, sich durch alle bösen Krieger und Roboter zu käm
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>341</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231848" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2292">
 		<name>Sunset Riders</name>
@@ -1738,9 +1298,6 @@ Die Menschen brauchen Hilfe, sie sind verzweifelt. Und als die Dinge am finsters
 
 Steve, Bob, Billy und Cormano sind die Sunset Riders und sie sind dabei die wildeste Schießerei zu führen, die der Wilde Westen je gesehen hat.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Sunset Riders (USA)-image.png</image>
-		<marquee>./images/Sunset Riders (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sunset Riders (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931001T000000</releasedate>
 		<developer>Konami</developer>
@@ -1749,8 +1306,6 @@ Steve, Bob, Billy und Cormano sind die Sunset Riders und sie sind dabei die wild
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>333</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231852" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2264">
 		<name>Super Smash T.V.</name>
@@ -1758,9 +1313,6 @@ Steve, Bob, Billy und Cormano sind die Sunset Riders und sie sind dabei die wild
 
 Smash T.V. ist ein verrücktes Shoot-em-up aus der Feder von Eugene Jarvis, dem Schöpfer von Robotron: 2084. Es behält den rasanten Spielstil und die Zwei-Joystick-Steuerung des Spiels bei, fügt aber jede Menge blutige Szenen, Gewalt, einen Hauch von Satire und den wichtigen Zwei-Spieler-Modus hinzu.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Super Smash T.V. (USA)-image.png</image>
-		<marquee>./images/Super Smash T.V. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Smash T.V. (USA)-thumb.jpg</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19920201T000000</releasedate>
 		<developer>Williams</developer>
@@ -1769,8 +1321,6 @@ Smash T.V. ist ein verrücktes Shoot-em-up aus der Feder von Eugene Jarvis, dem 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1233</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231856" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2219">
 		<name>Demon's Crest</name>
@@ -1780,9 +1330,6 @@ Firebrand muss die sechs Steine des mächtigen Dämonenwappens in seinen Besitz 
 
 Firebrand kann nicht nur fliegen und Feuer spucken, sondern er kann außerdem sechs einzigartige Gestalten annehmen, deren besondere Fähigkeiten bei seiner Suche unschätzbar wertvoll sein werden. Drei unterschiedliche Endsequenzen harren ihrer Entdeckung. Kannst du die Königreiche vor der totalen Anarchie bewahren?</desc>
 		<genre>Plattform</genre>
-		<image>./images/Demon's Crest (USA)-image.png</image>
-		<marquee>./images/Demon's Crest (USA)-marquee.png</marquee>
-		<thumbnail>./images/Demon's Crest (USA)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941021T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1792,8 +1339,6 @@ Firebrand kann nicht nur fliegen und Feuer spucken, sondern er kann außerdem se
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>628</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231902" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2329">
 		<name>Blackthorne</name>
@@ -1801,9 +1346,6 @@ Firebrand kann nicht nur fliegen und Feuer spucken, sondern er kann außerdem se
 
 Dieses Spiel wird aus einer Seitenansicht mit nicht scrollenden Hintergründen gespielt. Es hat starke Ähnlichkeiten mit dem Prinzen von Persien, außer, dass man seine Feinde mit Waffen und Bomben anstelle eines Schwertes bekämpft.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Blackthorne (USA)-image.jpg</image>
-		<marquee>./images/Blackthorne (USA)-marquee.png</marquee>
-		<thumbnail>./images/Blackthorne (USA)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940923T000000</releasedate>
 		<developer>Blizzard Entertainment</developer>
@@ -1813,16 +1355,11 @@ Dieses Spiel wird aus einer Seitenansicht mit nicht scrollenden Hintergründen g
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>436</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231912" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="192449">
 		<name>Final Fantasy II</name>
 		<desc>Der Dunkle Ritter Cecil hat von seinem König den Befehl erhalten, dessen fiese Pläne umzusetzen. Cecil jedoch legt seine Loyalität ab, um dem wahnsinnigen Treiben des Monarchen ein Ende zu setzen. Auf der Suche nach heiligen Elementkristallen schlüpfst du in die Rolle von Cecil und führst ihn und bis zu 11 weitere Charaktere über die Weltkarte. Du reist über Land, zu Wasser und in der Luft, erkundest Städte und Befestigungsanlagen, löst Rätsel und kämpfst gegen Legionen teuflischer Ungeheuer.</desc>
 		<genre>Rollenspiele / Team-Rollenspiele</genre>
-		<image>./images/Final Fantasy II (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Final Fantasy II (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Final Fantasy II (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19911102T000000</releasedate>
 		<developer>Square</developer>
@@ -1832,8 +1369,6 @@ Dieses Spiel wird aus einer Seitenansicht mit nicht scrollenden Hintergründen g
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>259</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231919" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2346">
 		<name>Knights of the Round</name>
@@ -1841,9 +1376,6 @@ Dieses Spiel wird aus einer Seitenansicht mit nicht scrollenden Hintergründen g
 
 Die Geschichte erzählt von einem Mann, der das mächtige Schwert Excalibur aus einem Felsen zog, was sonst niemandem gelang. Dieses Kunststück bedeutete, dass er König der Briten sein und sie zum Frieden führen sollte. Das Problem ist, dass im Land ein Massenchaos herrscht, und die einzige Möglichkeit für Arthur, es zu stoppen, besteht darin, den heiligen Gral zu finden, der seit über tausend Jahren versteckt ist. Auf seiner Suche nach dem Gral wird Arthur von Percival und Lancelot unterstützt.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Knights of the Round (USA)-image.jpg</image>
-		<marquee>./images/Knights of the Round (USA)-marquee.png</marquee>
-		<thumbnail>./images/Knights of the Round (USA)-thumb.jpg</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940401T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1852,16 +1384,11 @@ Die Geschichte erzählt von einem Mann, der das mächtige Schwert Excalibur aus 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>292</cheevosId>
-		<scrap name="ScreenScraper" date="20260813T231920" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2265">
 		<name>Super Star Wars : The Empire Strikes Back</name>
 		<desc>Super Star Wars: The Empire Strikes Back nimmt dich mit auf eine actionreiche Reise durch die bekanntesten Schauplätze der Geschichte – von den eisigen Schlachten auf Hoth über die geheimnisvolle Ausbildung bei Yoda bis hin zum dramatischen Duell mit Darth Vader. Viele Szenen werden erweitert oder neu interpretiert, wodurch zusätzliche Orte und Gegner auftauchen und der Ablauf überraschende Wendungen bekommt. Du wechselst zwischen Luke, Han und Chewbacca, die sich deutlich unterschiedlich spielen und jeweils eigene Spezialfähigkeiten einsetzen – vom zerstörerischen Wirbelangriff bis zu Lukes Lichtschwert-Block und seinen erlernbaren Machtkräften. Neben klassischen Lauf- und Sprungpassagen sorgen Fahrzeugsequenzen im Snowspeeder, im Millennium Falcon und im X-Wing für spektakuläre Abwechslung, während versteckte Sammelobjekte, Upgrades und freischaltbare Kräfte dich ständig motivieren, jeden Abschnitt gründlich zu erkunden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Star Wars - The Empire Strikes Back (USA) (Rev 1)-image.jpg</image>
-		<marquee>./images/Super Star Wars - The Empire Strikes Back (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Star Wars - The Empire Strikes Back (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931001T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -1870,8 +1397,6 @@ Die Geschichte erzählt von einem Mann, der das mächtige Schwert Excalibur aus 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260813T231403" />
-		<scrap name="TheGamesDB" date="20260813T214941" />
 	</game>
 	<game id="2673">
 		<name>Magical Drop 2</name>
@@ -1885,9 +1410,6 @@ Je nach Herkunftsland gibt es verschiedene Spielmodi:
 
 3. VS-Modus: Kämpfen Sie gegen die CPU oder einen Mitspieler in einem direkten Split-Screen-Duell. Jeder Charakter hat während des Spiels bestimmte Item-Ballons.</desc>
 		<genre>Puzzle / Werfen</genre>
-		<image>./images/Magical Drop II (USA, Europe) (Switch Online)-image.png</image>
-		<marquee>./images/Magical Drop II (USA, Europe) (Switch Online)-marquee.png</marquee>
-		<thumbnail>./images/Magical Drop II (USA, Europe) (Switch Online)-thumb.jpg</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19960920T000000</releasedate>
 		<developer>Data East</developer>
@@ -1896,8 +1418,6 @@ Je nach Herkunftsland gibt es verschiedene Spielmodi:
 		<players>1-5</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260813T231627" />
-		<scrap name="TheGamesDB" date="20260813T215143" />
 	</game>
 	<game id="2237">
 		<name>The Magical Quest Starring Mickey Mouse</name>
@@ -1907,9 +1427,6 @@ Nach einer Weile entschließt sich Mickey nach seinen Freunden zu suchen, fällt
 
 Mickey macht sich auf den Weg um seine Freunde zu finden und Pete's Tyrannei zu beenden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921201T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1918,16 +1435,11 @@ Mickey macht sich auf den Weg um seine Freunde zu finden und Pete's Tyrannei zu 
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260813T231703" />
-		<scrap name="TheGamesDB" date="20260813T215139" />
 	</game>
 	<game id="19196">
 		<name>Star Fox</name>
 		<desc>„Starwing“ ist der erste Teil der „Star Fox“-Serie und führte erstmals den Super-FX-Chip ein, der dem SNES eine zu dieser Zeit beeindruckende 3D-Grafik ermöglichte. Der Spieler steuert Fox McClouds Arwing durch eine automatisch scrollende Umgebung, weicht Hindernissen aus und bekämpft Gegner mit Laser- oder Bombenangriffen. Zu Beginn kann eine von drei Routen gewählt werden, die alle auf Corneria starten. Am Ende jedes Levels wartet ein Endboss, bevor die Reise über verschiedene Planeten und Weltraumareale nach Venom führt, wo Andross bereits auf den Spieler wartet. Die Wingmen Falco Lombardi, Peppy Hare und Slippy Toad begleiten Fox, leisten Unterstützung und fordern gelegentlich selbst Hilfe, wenn sie von Gegnern verfolgt werden.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Star Fox (USA) (Rev 2)-image.png</image>
-		<marquee>./images/Star Fox (USA) (Rev 2)-marquee.png</marquee>
-		<thumbnail>./images/Star Fox (USA) (Rev 2)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930301T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -1936,17 +1448,12 @@ Mickey macht sich auf den Weg um seine Freunde zu finden und Pete's Tyrannei zu 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260813T231712" />
-		<scrap name="TheGamesDB" date="20260813T215146" />
 	</game>
 	<game id="2201">
 		<name>Super Street Fighter II</name>
 		<desc>"Super Street Fighter II: The New Challengers" ist eine aktualisierte Version von Street Fighter II, die 1993 für Arcade-Automaten und später für verschiedene Heimkonsolen wie das Super Nintendo und Sega Mega Drive veröffentlicht wurde. Das Spiel führte vier neue Kämpfer ein: Cammy, Dee Jay, Fei Long und T. Hawk, die das Kämpferfeld auf insgesamt 16 Charaktere erweiterten. 
 Zusätzlich zu den neuen Charakteren brachte "The New Challengers" auch Verbesserungen in der Grafik und im Sounddesign mit sich, sowie neue Stages und Musik. Einige der bestehenden Charaktere erhielten neue Spezialattacken und Animationen, um das Gameplay weiter zu verfeinern.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Super Street Fighter II (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Super Street Fighter II (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Street Fighter II (USA) (Rev 1)-thumb.jpg</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940601T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1955,8 +1462,6 @@ Zusätzlich zu den neuen Charakteren brachte "The New Challengers" auch Verbesse
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260813T231828" />
-		<scrap name="TheGamesDB" date="20260813T215300" />
 	</game>
 	<game id="2164">
 		<name>Seiken Densetsu 3</name>
@@ -1964,9 +1469,6 @@ Zusätzlich zu den neuen Charakteren brachte "The New Challengers" auch Verbesse
 Die Geschichte wird durch deine Wahl von drei Helden aus einer Gruppe von sechs einzigartigen Charakteren bestimmt: Duran, der Schwertkämpfer, Angela, die Magierin, Kevin, der Tiermensch, Charlotte, die Klerikerin, Hawkeye, der Dieb, und Riesz, die Amazone. Der Held, den du zuerst auswählst, bestimmt, welche der drei Hauptgeschichten sich entfaltet.
 Als actionorientiertes Rollenspiel bietet Seiken Densetsu 3 ein Echtzeit-„Motion Battle“-System. Die Charaktere entwickeln sich durch ein umfangreiches Klassenwechsel-System weiter, bei dem die Spieler einen Pfad des Lichts oder der Dunkelheit wählen, um fortgeschrittene Klassen mit völlig neuen Fähigkeiten, Stärken und Zaubersprüchen freizuschalten.</desc>
 		<genre>Rollenspiele / Action-RPG</genre>
-		<image>./images/Trials of Mana (World) (Rev 1) (Collection of Mana)-image.jpg</image>
-		<marquee>./images/Trials of Mana (World) (Rev 1) (Collection of Mana)-marquee.png</marquee>
-		<thumbnail>./images/Trials of Mana (World) (Rev 1) (Collection of Mana)-thumb.jpg</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950930T000000</releasedate>
 		<developer>Square</developer>
@@ -1975,8 +1477,6 @@ Als actionorientiertes Rollenspiel bietet Seiken Densetsu 3 ein Echtzeit-„Moti
 		<players>1-3</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260813T231907" />
-		<scrap name="TheGamesDB" date="20260813T220125" />
 	</game>
 	<game id="2226">
 		<name>Super Star Wars : Return of the Jedi</name>
@@ -1986,9 +1486,6 @@ Das Spiel beinhaltet bekannte Schauplätze und Geschehnisse aus dem Film, wie be
 
 Wie in den Vorgängern, ist es dem Spieler möglich zwischen den Charakteren zu wechseln: Luke Skywalker, Han Solo und Chewbacca sind bereits aus den vorherigen Spielen bekannt, neu hinzu kommen jetzt: Prinzessin Leia Organa und Wicket der Ewok.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Star Wars - Return of the Jedi (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Super Star Wars - Return of the Jedi (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Star Wars - Return of the Jedi (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -1997,15 +1494,11 @@ Wie in den Vorgängern, ist es dem Spieler möglich zwischen den Charakteren zu 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T101839" />
 	</game>
 	<game id="2151">
 		<name>Mickey Mania : The Timeless Adventures of Mickey Mouse</name>
 		<desc>Mickey Mouse hat die Chance, in die Vergangenheit zurückzukehren und all die zeitlosen Abenteuer zu erleben, die er erlebt hat. Mickey Mania ist ein Jump'n'Run, bei dem alle Levels auf Mickeys berühmtesten Cartoons basieren. Die Levels umfassen etwa 75 Jahre, angefangen bei "Steamboat Willie" bis hin zu "The Prince and the Pauper". Das Gameplay besteht hauptsächlich aus Springen und dem Werfen von Murmeln auf Feinde sowie gelegentlichen Rätselelementen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.png</image>
-		<marquee>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Traveller's Tales</developer>
@@ -2015,15 +1508,11 @@ Wie in den Vorgängern, ist es dem Spieler möglich zwischen den Charakteren zu 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>306</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101840" />
 	</game>
 	<game id="2281">
 		<name>Lufia &amp; the Fortress of Doom</name>
 		<desc>Der Held Maxim und seine Gruppe besiegen die Sinistral am Schicksal Berg. Wie in Lufia II dargestellt, und alles ist friedlich. Mit solch einem großen Frieden werden die Verteidigungskräfte der Welt reduziert. Einhundert Jahre später beginnen Angriffe, angeblich von den Sinistral. Es liegt an dem Nachkommen des Helden und seiner Kindheitsfreundin Lufia, eine neue Heldengruppe zu bilden, um die Welt zu retten. Das Gameplay ist Standard für RPGs, mit Runden-basierten Kämpfen über ein Menü von Icons und zufällige Schlachten. Es gibt auch eine beachtliche Anzahl von Rätzeln in den Dungeons.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Lufia &amp; the Fortress of Doom (USA)-image.png</image>
-		<marquee>./images/Lufia &amp; the Fortress of Doom (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lufia &amp; the Fortress of Doom (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19931204T000000</releasedate>
 		<developer>Neverland</developer>
@@ -2033,7 +1522,6 @@ Wie in den Vorgängern, ist es dem Spieler möglich zwischen den Charakteren zu 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1004</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101846" />
 	</game>
 	<game id="2140">
 		<name>Battletoads in Battlemaniacs</name>
@@ -2043,9 +1531,6 @@ Battletoads in Battlemaniacs ist ein weiteres Spiel aus der Battletoads-Serie vo
 
 Freunde können sich zusammenschließen und die Gegner gemeinsam in den beiden verfügbaren Koop-Modi besiegen. Im Modus A können sich die Spieler gegenseitig schlagen, beim Modus B nicht.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Battletoads in Battlemaniacs (USA)-image.png</image>
-		<marquee>./images/Battletoads in Battlemaniacs (USA)-marquee.png</marquee>
-		<thumbnail>./images/Battletoads in Battlemaniacs (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930602T000000</releasedate>
 		<developer>Rareware</developer>
@@ -2055,7 +1540,6 @@ Freunde können sich zusammenschließen und die Gegner gemeinsam in den beiden v
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>424</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101851" />
 	</game>
 	<game id="2422">
 		<name>Uniracers</name>
@@ -2063,9 +1547,6 @@ Freunde können sich zusammenschließen und die Gegner gemeinsam in den beiden v
 
 Die Grundidee in den meisten Levels des Spiels ist einfach. Bringe dein Einrad so schnell wie möglich von A nach B und beende es vor deinem Gegner. Es ist wie bei Sonic, nur ohne die lästigen Feinde, sinnlosen Power-Ups und frustrierenden Hindernissen. Eigentlich klingt es gar nicht nach einem richtigen Spiel... Aber hier ist der Schlüssel. Tricks, die während des Rennens ausgeführt und gelandet werden, erhöhen deine Geschwindigkeit. Je besser der Trick, desto größer ist der Geschwindigkeitszuwachs. Außerdem sind einige Levels in Bereichen angesiedelt, die ausschließlich für Stunts gedacht sind. In solchen Levels müssen so viele Style-Punkte wie möglich gesammelt werden, indem Tricks ausführt werden. In diesen Levels geht es nicht gegen einen Gegner, sondern gegen die Uhr und eine bestimmte Punktzahl.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Uniracers (USA)-image.png</image>
-		<marquee>./images/Uniracers (USA)-marquee.png</marquee>
-		<thumbnail>./images/Uniracers (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941202T000000</releasedate>
 		<developer>DMA Design</developer>
@@ -2074,15 +1555,11 @@ Die Grundidee in den meisten Levels des Spiels ist einfach. Bringe dein Einrad s
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1295</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101853" />
 	</game>
 	<game id="2257">
 		<name>Final Fight</name>
 		<desc>Die Final-Fight-Spiele gehören neben Double Dragon zu den bekanntesten Beat-'em-up-Spielen der 1980er und 1990er-Jahre. Jessica, die Tochter des ehemaligen Wrestlers Mike Haggar, der heute Bürgermeister von Metro City ist, wurde entführt. Haggar tut sich mit Jessicas Freund Cody Travers, einem der härtesten Typen der Stadt, zusammen, um sie zu befreien! Du begibst dich in der Super NES-Version des gefeierten Spielhallen-Klassikers auf die Straßen und kämpfst dich als Haggar oder Cody in das Territorium der Mad Gear Gang vor, um Jessica zurückzuholen.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Final Fight (USA)-image.png</image>
-		<marquee>./images/Final Fight (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Fight (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910901T000000</releasedate>
 		<developer>Capcom</developer>
@@ -2092,7 +1569,6 @@ Die Grundidee in den meisten Levels des Spiels ist einfach. Bringe dein Einrad s
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>464</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101858" />
 	</game>
 	<game id="2278">
 		<name>Super Bomber Man 5</name>
@@ -2100,9 +1576,6 @@ Die Grundidee in den meisten Levels des Spiels ist einfach. Bringe dein Einrad s
 
 Zum Dank für ihre neu gewonnene Freiheit unterstützen sie Terrorin bei der Eroberung des Universums. Als Bomberman davon erfährt, macht er sich zusammen mit Black Bomber und einigen Louies als Partner auf die Reise, um die Fiendish Bombers wieder einzufangen und Terrorins Pläne zu durchkreuzen.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Super Bomberman 5 (Japan)-image.png</image>
-		<marquee>./images/Super Bomberman 5 (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Super Bomberman 5 (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19970228T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -2111,7 +1584,6 @@ Zum Dank für ihre neu gewonnene Freiheit unterstützen sie Terrorin bei der Ero
 		<players>1-5</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101902" />
 	</game>
 	<game id="2287">
 		<name>Super Double Dragon</name>
@@ -2119,9 +1591,6 @@ Zum Dank für ihre neu gewonnene Freiheit unterstützen sie Terrorin bei der Ero
 
 Wieder einmal liegt es an dir (und einem Freund), dich durch eine Auswahl von seitlich scrollenden Beat-Ebenen zu kämpfen, um die Schattenkrieger und ihren Anführer Herzog zu besiegen und Marian zu retten.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Super Double Dragon (USA)-image.png</image>
-		<marquee>./images/Super Double Dragon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Double Dragon (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921001T000000</releasedate>
 		<developer>Tecmo</developer>
@@ -2131,15 +1600,11 @@ Wieder einmal liegt es an dir (und einem Freund), dich durch eine Auswahl von se
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>399</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101903" />
 	</game>
 	<game id="2342">
 		<name>Pocky &amp; Rocky 2</name>
 		<desc>Pocky &amp; Rocky 2 ist eine Fortsetzung der Abenteuer der kleinen Priesterin und ihres Waschbären auf Super Nintendo. Prinzessin Luna wird von einer seltsamen Figur namens Impy entführt. Pocky und Rocky gehen ihnen nach, um sie zu retten. Diesmal werden sie von zwei weiteren Charakteren begleitet: einem kleinen Ninja und einem Bombenexperten. Wenn Sie einen Solopart auswählen, wird der andere Charakter vom Computer gesteuert, um Ihnen zu helfen.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Pocky &amp; Rocky 2 (USA)-image.png</image>
-		<marquee>./images/Pocky &amp; Rocky 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pocky &amp; Rocky 2 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Natsume</developer>
@@ -2149,15 +1614,11 @@ Wieder einmal liegt es an dir (und einem Freund), dich durch eine Auswahl von se
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1102</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101909" />
 	</game>
 	<game id="2176">
 		<name>Street Fighter II Turbo</name>
 		<desc>In den 1990ern hat Street Figher II einen Standard für Videospiele gesetzt und so das Genre der Kampfspiele revolutioniert. Street Fighter? II Turbo: Hyper Fighting gilt als eines der besten Spiele aller Zeiten und ist der dritte und letzte Ableger der originalen Street Fighter II-Reihe. Mit den acht ursprünglichen Kämpfern wie z. B. Ryu, Chun-Li und Guile und den spielbaren Endgegnern Balrog, Vega, Sagat und M. Bison bietet Street Fighter? II Turbo: Hyper Fighting erweitertes Gameplay und eine verbesserte Ausgewogenheit der Charaktere.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Street Fighter II Turbo (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Street Fighter II Turbo (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Street Fighter II Turbo (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19930801T000000</releasedate>
 		<developer>Capcom</developer>
@@ -2167,7 +1628,6 @@ Wieder einmal liegt es an dir (und einem Freund), dich durch eine Auswahl von se
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>648</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101910" />
 	</game>
 	<game id="2185">
 		<name>Super Star Wars</name>
@@ -2175,9 +1635,6 @@ Wieder einmal liegt es an dir (und einem Freund), dich durch eine Auswahl von se
 
 Das Spiel folgt zum Großteil der Filmgeschichte, sodass der Spieler einige der wichtigsten Sequenzen nachspielen kann, wie beispielsweise die Suche nach Obi-Wan Kenobi, die Rettung von Prinzessin Leia, oder den letzten Kampf gegen den Todesstern und seine Tie-Jäger, angeführt von dem mysteriösen Darth Vader.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Super Star Wars (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Super Star Wars (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Super Star Wars (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19921101T000000</releasedate>
 		<developer>Sculptured Software</developer>
@@ -2187,15 +1644,11 @@ Das Spiel folgt zum Großteil der Filmgeschichte, sodass der Spieler einige der 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>401</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101911" />
 	</game>
 	<game id="2217">
 		<name>Breath of Fire</name>
 		<desc>Das Spiel beginnt mit einer Konfrontation der Light Dragons mit den Dark Dragons. Die Truppen des Imperators Zog - ein Dark Dragon - überfallen das Dorf der Light Dragons, dabei wird Ryus Schwester gefangen genommen. Ryu beginnt seine Reise zunächst nur um Zog davon abzuhalten die Welt komplett zu erobern. Während seiner Reise schließen sich ihm sieben weitere Krieger an. Dabei erfahren sie, dass Zog die göttlichen Schlüssel sammelt. Mit diesen sieben Schlüsseln haben einst die Light Dragons die Göttin der Zerstörung, Tyr, eingesperrt und mit ihnen kann sie auch wieder befreit werden. Tyr ist so mächtig, dass sie die ganze Welt zerstören könnte. Es beginnt ein Kampf um die göttlichen Schlüssel und zur Rettung der Welt.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Breath of Fire (USA)-image.png</image>
-		<marquee>./images/Breath of Fire (USA)-marquee.png</marquee>
-		<thumbnail>./images/Breath of Fire (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940801T000000</releasedate>
 		<developer>Capcom</developer>
@@ -2205,7 +1658,6 @@ Das Spiel folgt zum Großteil der Filmgeschichte, sodass der Spieler einige der 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>449</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101913" />
 	</game>
 	<game id="2280">
 		<name>Pilotwings</name>
@@ -2213,9 +1665,6 @@ Das Spiel folgt zum Großteil der Filmgeschichte, sodass der Spieler einige der 
 
 Die besten Absolventen werden damit beauftragt, einen Helikopter in einer gewagten Rettungsaktion zu fliegen. In Pilotwings sind nach oben keine Grenzen gesetzt!</desc>
 		<genre>Simulation</genre>
-		<image>./images/Pilotwings (USA)-image.png</image>
-		<marquee>./images/Pilotwings (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pilotwings (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910813T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2225,7 +1674,6 @@ Die besten Absolventen werden damit beauftragt, einen Helikopter in einer gewagt
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>267</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101918" />
 	</game>
 	<game id="2428">
 		<name>Fatal Fury Special</name>
@@ -2233,9 +1681,6 @@ Die besten Absolventen werden damit beauftragt, einen Helikopter in einer gewagt
 
 Die acht regulären Kämpfer von Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Higashi, Kim Kaphwan, Jubei Yamada, Cheng Sinzan, Mai Shiranui und Big Bear. Die vier Bosse von Fatal Fury 2: Billy Kane, Axel Hawk, Lawrence Blood und Wolfgang Krauser (diesmal sind sie alle sofort spielbar). Drei Charaktere kehren aus dem ersten Fatal Fury zurück: Duck King, Tung Fu Rue und Geese Howard (der Endgegner von Fatal Fury).</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Fatal Fury Special (USA)-image.png</image>
-		<marquee>./images/Fatal Fury Special (USA)-marquee.png</marquee>
-		<thumbnail>./images/Fatal Fury Special (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19950401T000000</releasedate>
 		<developer>Monolith</developer>
@@ -2245,7 +1690,6 @@ Die acht regulären Kämpfer von Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Hi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>905</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101920" />
 	</game>
 	<game id="19127">
 		<name>Magic Sword</name>
@@ -2253,9 +1697,6 @@ Die acht regulären Kämpfer von Fatal Fury 2: Terry Bogard, Andy Bogard, Joe Hi
 
 Während deiner Reise kannst du Truhen aufschlagen, um Schätze und Artefakte zu finden. Einige dieser Artefakte können geborgen werden, die das Gameplay verändern, wie z. B. mehr Schaden oder erhöhte magische Kraft. Außerdem kannst du während deiner Reise Schlüssel sammeln, die verwendet werden, um gefangene Verbündete zu befreien, die dir nicht nur helfen, Monster zu besiegen, sondern dir auch einen Gegenstand hinterlassen, der dir bei deiner Suche hilft. Es kann immer nur eine Person beitreten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Magic Sword (USA)-image.png</image>
-		<marquee>./images/Magic Sword (USA)-marquee.png</marquee>
-		<thumbnail>./images/Magic Sword (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920801T000000</releasedate>
 		<developer>Capcom</developer>
@@ -2264,15 +1705,11 @@ Während deiner Reise kannst du Truhen aufschlagen, um Schätze und Artefakte zu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1012</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101921" />
 	</game>
 	<game id="2849">
 		<name>Iron Commando - Koutetsu no Senshi</name>
 		<desc>Iron Commando ist ein Brawler-Beat-em-up wie Final Fight oder Streets of Rage mit vielen Waffen und großen Endbossen. Die B-Movie-Story ist kitschig und tut nicht mehr, als der Action gerecht zu werden. Aus der Einführungssequenz: "Die Gefahr kam aus dem Weltall. Ein Meteorit trat in die Erdatmosphäre ein und verursachte Chaos. Nach der Beobachtung stellten die Wissenschaftler fest, dass der Meteorit radioaktiv war und vernichtet werden musste. Leider wollen die Terroristen von g.h.o.s.t. den Meteoriten ebenfalls. Die Aufgabe des Eisernen Kommandos ist es, den tödlichen Körper zu bergen und eine genetische Mutation zu verhindern."</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Iron Commando (World) (QUByte Classics)-image.png</image>
-		<marquee>./images/Iron Commando (World) (QUByte Classics)-marquee.png</marquee>
-		<thumbnail>./images/Iron Commando (World) (QUByte Classics)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950210T000000</releasedate>
 		<developer>Arcade Zone</developer>
@@ -2280,7 +1717,6 @@ Während deiner Reise kannst du Truhen aufschlagen, um Schätze und Artefakte zu
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T101923" />
 	</game>
 	<game id="2945">
 		<name>Whirlo</name>
@@ -2288,9 +1724,6 @@ Während deiner Reise kannst du Truhen aufschlagen, um Schätze und Artefakte zu
 
 Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielcharakters, die es ihm ermöglichen, herumzuspringen und die vielen Hindernisse im Spiel zu überwinden. Zusätzlich ist er mit einer Mistgabel bewaffnet, die er verwenden kann, um Feinde aufzuspießen und an einigen Oberflächen haften zu bleiben. Durch das Sammeln von Münzen kann er zusätzliche Leben kaufen, aber es gibt keine zusätzlichen Waffen oder Zauber wie in den Valkyrie-Spielen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Whirlo (Europe)-image.png</image>
-		<marquee>./images/Whirlo (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Whirlo (Europe)-thumb.png</thumbnail>
 		<rating>0.4</rating>
 		<releasedate>19920723T000000</releasedate>
 		<developer>Namco</developer>
@@ -2299,15 +1732,11 @@ Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielch
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>2237</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101925" />
 	</game>
 	<game id="64772">
 		<name>Wrecking Crew '98</name>
 		<desc>Mario entdeckt auf dem Heimweg von seiner Reise, dass Bowser eine Baukampagne zum Bau von Hochhäusern im Pilzreich durchgeführt hat. Diese berauben der lokalen Pflanzenwelt das Sonnenlicht. Er weigert sich, dies zu tolerieren und holt einen mächtigen blauen Hammer aus einer Truhe in seinem Haus und begibt sich auf eine Mission, um die störenden Bauwerke zu zerstören. Marios alter Erzfeind, Foreman Spike, ist zusammen mit einem Gotcha-Schlüssel, dem Eggplant Man und weiteren neuen und alten Feinden wieder einmal darauf aus, ihn auf seiner Suche zu stoppen.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Wrecking Crew '98 (Japan)-image.png</image>
-		<marquee>./images/Wrecking Crew '98 (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Wrecking Crew '98 (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19980523T000000</releasedate>
 		<developer>Pax Softnica</developer>
@@ -2316,15 +1745,11 @@ Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielch
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>3986</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101926" />
 	</game>
 	<game id="2790">
 		<name>Tetris Battle Gaiden</name>
 		<desc>Tetris Battle Gaiden ist ein kompetitives Puzzle-Kampfspiel, ähnlich wie Spiele wie Puzzle Fighter oder Puyo Puyo. Man kann im Story-Modus gegen einen Freund oder den Computer spielen. Außerdem ist ein Rensa-Modus enthalten, der aufgrund der erhöhten Schwerkraft für ein hyperaktiveres Spiel sorgt. Der Spieler kann im Story-Modus aus einer Liste von Charakteren wählen, darunter einen Drachen oder einen Kürbis namens Halloween.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Tetris Battle Gaiden (Japan)-image.png</image>
-		<marquee>./images/Tetris Battle Gaiden (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Tetris Battle Gaiden (Japan)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19931224T000000</releasedate>
 		<developer>Bullet Proof Software</developer>
@@ -2334,15 +1759,11 @@ Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielch
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2234</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101930" />
 	</game>
 	<game id="2236">
 		<name>ActRaiser 2</name>
 		<desc>Tanzra wurde in die Unterwelt verbannt, nachdem er in ActRaiser von Master besiegt wurde. Nun haben seine 13 dämonischen Anführer, nach tausenden von Jahren, ihren Meister wiedererweckt und sind nun bereit, wieder einmal die Welt ins Chaos zu stürzen. Master muss sich nun, ausgerüstet mit neuen Fähigkeiten, den dämonischen Horden aufs Neue stellen und den Krieg zwischen Gut und Böse besiegeln.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/ActRaiser 2 (USA)-image.png</image>
-		<marquee>./images/ActRaiser 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/ActRaiser 2 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19931101T000000</releasedate>
 		<developer>Quintet</developer>
@@ -2352,7 +1773,6 @@ Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielch
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3408</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101931" />
 	</game>
 	<game id="2363">
 		<name>Super Bomber Man 4</name>
@@ -2360,9 +1780,6 @@ Xandra verfügt über alle Fähigkeiten eines standardmäßigen Plattformspielch
 
 Diese haben ihr Raumschiff anschließend in ein schwarzes Loch gelenkt, dass sich später als Zeitportal herausstellt. Nun muss Bomberman durch verschiedene Zeit-Epochen reisen und seine Freunde befreien. Gemeinsam versuchen sie Bagular, oder das was von ihm übrig ist, entgültig zu stoppen.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Super Bomberman 4 (Japan)-image.png</image>
-		<marquee>./images/Super Bomberman 4 (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Super Bomberman 4 (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19960426T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -2372,15 +1789,11 @@ Diese haben ihr Raumschiff anschließend in ein schwarzes Loch gelenkt, dass sic
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>1374</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101935" />
 	</game>
 	<game id="2421">
 		<name>Samurai Shodown</name>
 		<desc>Im frühen Japan predigt ein Mann namens Shiro Tokisada Amakusa eine häretische Religion. Niemand weiß, dass Amakusa in Wirklichkeit ein Diener der bösen Ambrosia ist, die den Körper von Amakusa übernommen hat. Ambrosia will die Welt in Dunkelheit hüllen. Wähle nun zwischen 12 Kriegern (und 3 Bonus-Charakteren), um für die Ehre zu kämpfen und Amakusa zu zerstören.</desc>
 		<genre>Kampf / 2D</genre>
-		<image>./images/Samurai Shodown (USA)-image.png</image>
-		<marquee>./images/Samurai Shodown (USA)-marquee.png</marquee>
-		<thumbnail>./images/Samurai Shodown (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>SNK</developer>
@@ -2390,16 +1803,12 @@ Diese haben ihr Raumschiff anschließend in ein schwarzes Loch gelenkt, dass sic
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>653</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101940" />
 	</game>
 	<game id="2210">
 		<name>Goof Troop</name>
 		<desc>Es ist ein toller Tag zum Fischen und Goofy zieht auch schon gleich einen Haufen von Schwierigkeiten an Land. Eine Bande von Piraten hat sich seine beiden Freunde, Pete und PJ unter den Plankennagel gerissen und nun nehmen Max und Goofy die Verfolgung auf. Da bleibt kein Auge trocken, besonders nicht auf hoher See, denn die Spur der Piraten führt zu Spoonerville Island, wo der berüchtigte Keelhaul Pete Goofy's Freunde gefangen hält.
 Geh' an Bord mit Goofy und Max, wenn die beiden durch verschlungene Dschungelpfade stolpern und Horden wilder Rauhbeine bekämpfen! Durchsuche dunkle Kerker und vermeide explodierende Kanonenkugeln. Grabe nach versteckten Schätzen und löse knackige Rätsel. Finde die Schlüssel zu der Piratenfestung, schleiche dich hinein und mache Bekanntschaft mit dem Terror der Tropen: Keelhaul Pete!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Goof Troop (USA)-image.png</image>
-		<marquee>./images/Goof Troop (USA)-marquee.png</marquee>
-		<thumbnail>./images/Goof Troop (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930701T000000</releasedate>
 		<developer>Capcom</developer>
@@ -2409,15 +1818,11 @@ Geh' an Bord mit Goofy und Max, wenn die beiden durch verschlungene Dschungelpfa
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>238</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101947" />
 	</game>
 	<game id="2326">
 		<name>Super Turrican</name>
 		<desc>Super Turrican brachte frischen Wind auf das Super Nintendo und setzte neue Maßstäbe in Sachen Action. Dich erwarten 13 abwechslungsreiche Levels, in denen du Container mit Lebensenergie, Schutzschilden und mächtigen Extrawaffen findest. Mit dem Fächerschuss räumst du ganze Gegnermassen ab, der Bouncer eignet sich perfekt für enge Gänge, und der Laser durchschlägt alles, wobei er sich zusätzlich aufladen lässt. Dazu kommen die legendären Smartlines, die den Bildschirm mit einer Laserwand säubern, sowie der Lähmstrahl, mit dem du Gegner kurz einfrieren kannst. Außerdem kann sich deine Turrican-Einheit in eine Kugel verwandeln, um schwer zugängliche Bereiche zu erreichen und mit Bomben Feinde in Schach zu halten. Das Zusammenspiel aus Waffenvielfalt, Transformation und cleverem Leveldesign macht dieses Abenteuer zu einem unvergesslichen Highlight.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Super Turrican (USA)-image.png</image>
-		<marquee>./images/Super Turrican (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Turrican (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Factor 5</developer>
@@ -2427,7 +1832,6 @@ Geh' an Bord mit Goofy und Max, wenn die beiden durch verschlungene Dschungelpfa
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>9727</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101948" />
 	</game>
 	<game id="2501">
 		<name>Stunt Race FX</name>
@@ -2435,9 +1839,6 @@ Geh' an Bord mit Goofy und Max, wenn die beiden durch verschlungene Dschungelpfa
 
 Das Spiel bietet vier Spielmodi. "Speed Trax" ist im Grunde ein Arcade-Modus, in dem sich der Spieler für jedes bevorstehende Rennen qualifizieren muss, indem er Checkpoints erreicht und Gegenstände sammelt, um seinen Schadens- und Boostbalken wiederherzustellen. Er ist in eine Anfänger-, eine Experten- und eine Meisterklasse unterteilt, wobei jede Klasse über vier einzigartige Strecken verfügt. In "Stunt Trax" muss der Spieler mit Hindernissen gespickte Strecken innerhalb eines bestimmten Zeitlimits absolvieren und dabei versuchen so viele Sterne wie möglich zu sammeln. "Battle Trax" ist ein Zwei-Spieler-Modus, der auf speziellen Strecken ohne CPU-gesteuerte Gegner stattfindet. In "Test Run" schließlich kann der Spieler alle freigeschalteten Strecken ausprobieren.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Stunt Race FX (USA) (Rev 1)-image.png</image>
-		<marquee>./images/Stunt Race FX (USA) (Rev 1)-marquee.png</marquee>
-		<thumbnail>./images/Stunt Race FX (USA) (Rev 1)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940601T000000</releasedate>
 		<developer>Argonaut Software</developer>
@@ -2446,7 +1847,6 @@ Das Spiel bietet vier Spielmodi. "Speed Trax" ist im Grunde ein Arcade-Modus, in
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1196</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101950" />
 	</game>
 	<game id="2297">
 		<name>Super Bomberman</name>
@@ -2460,9 +1860,6 @@ Auf der Flucht traf er den weißen Bomber und erzählte ihm von Carat Diamonds P
 
 Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihrer Roboter-Armee zu retten.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Super Bomberman (USA)-image.png</image>
-		<marquee>./images/Super Bomberman (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Bomberman (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930901T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -2472,15 +1869,11 @@ Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>470</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101955" />
 	</game>
 	<game id="2269">
 		<name>Earthworm Jim 2</name>
 		<desc>Das Sequel zu Earthworm Jim liefert mehr von allem was den Vorgänger gut gemacht hat: Jump n Run Baller Action, noch durchgeknalltere Gegner und Figuren als im Vorgänger, diverse Mini Games und natürlich wieder extrem abgedrehte Musik. Am Ende des Levels bekommt man Glückwünsche von Kühen. Wer den ersten Teil mochte, fühlt sich hier sofort zu Hause.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Earthworm Jim 2 (USA)-image.png</image>
-		<marquee>./images/Earthworm Jim 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim 2 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Shiny Entertainment</developer>
@@ -2490,15 +1883,11 @@ Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>888</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101956" />
 	</game>
 	<game id="18982">
 		<name>Umihara Kawase</name>
 		<desc>Umihara Kawase ist ein ungewöhnlicher Plattformer mit einem Mädchen, das in einer bizarren Traumwelt voller laufender Fische gefangen ist. Ausgestattet mit einer Angelschnur kann sie sich von Plattform zu Plattform schwingen und abseilen, indem sie diese als Enterhaken benutzt. Die Besonderheit des Spiels ist das detaillierte Physiksystem, das es Kawase ermöglicht, verschiedene Tricks mit dem elastischen und in der Länge variablen Seil auszuführen, um sich durch die Level zu bewegen. Es gibt fast 50 Felder (Levels), aber die meisten haben mehrere Ausgänge, so dass man das Spiel auf verschiedenen Wegen durchspielen kann, ohne jedes einzelne Feld der Reihe nach zu spielen. Sie können ein gutes Spiel auch aufzeichnen und speichern, um es zu einem späteren Zeitpunkt wieder anzusehen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Umihara Kawase (Japan)-image.png</image>
-		<marquee>./images/Umihara Kawase (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Umihara Kawase (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941223T000000</releasedate>
 		<developer>TNN</developer>
@@ -2508,15 +1897,11 @@ Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihr
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2156</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101958" />
 	</game>
 	<game id="2393">
 		<name>Mario no Super Picross</name>
 		<desc>Picross ist ein Logik-Puzzle-Spiel, bei dem der Spieler mit einem Meißel und einem Steinhammer Bilder aufdeckt. Um das Bild zu enthüllen, werden Zahlenhinweise gegeben, die zeigen, wie viele Felder in jeder Zeile oder Spalte vorkommen. Eine "5" bedeutet beispielsweise horizontal, dass es 5 aufeinanderfolgende markierte Felder irgendwo in der jeweiligen Zeile gibt. Wenn es mehr als eine Zahl gibt, erscheinen sie alle in dieser Zeile in ihrer jeweiligen Reihenfolge, aber es muss mindestens ein leeres Feld zwischen ihnen sein. Der Spieler kann auch Felder mit einem "X" markieren, wenn er der Meinung ist, dass das Feld nicht markiert werden sollte. Die Kennzeichnung der Felder mit einem "X" ist bei der Lösung eines Rätsels zwecklos und dient nur der Unterstützung des Spielers. Neu in Marios Super Picross ist die Möglichkeit, die Hinweiszahlen entlang der Seiten des Gitters nach Belieben zu markieren, vorzugsweise wenn jede nachfolgende Gruppe von Feldern auf dieser Linie innerhalb des Gitters gelöst wird.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Mario no Super Picross (Japan)-image.png</image>
-		<marquee>./images/Mario no Super Picross (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Mario no Super Picross (Japan)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950914T000000</releasedate>
 		<developer>Jupiter</developer>
@@ -2526,15 +1911,11 @@ Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihr
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>3227</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102001" />
 	</game>
 	<game id="2189">
 		<name>The Lion King</name>
 		<desc>„Der König der Löwen“ ist ein Jump'n'Run-Abenteuer, das die Geschichte des berühmten Disney-Films nacherzählt. Du spielst Simba, zunächst als neugieriges Löwenjunges, später als erwachsener Löwe, und begleitest ihn auf seiner Reise vom sorglosen Prinzen bis zum rechtmäßigen König. Zu Beginn kannst du Gegner wie Eidechsen durch Sprünge besiegen oder mit einem bedrohlichen Brüllen einschüchtern, das jedoch erst aufgeladen werden muss. Als erwachsener Simba nutzt du zusätzlich deine Krallen, um Feinde zu bekämpfen, oder wirfst sie geschickt aus dem Bild. Ohne Speicherfunktion fordert das Spiel Präzision und Durchhaltevermögen, während du durch Level spielst, die die ikonischen Momente des Films einfangen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lion King, The (USA)-image.png</image>
-		<marquee>./images/Lion King, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lion King, The (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Westwood  Studios</developer>
@@ -2544,6 +1925,5 @@ Nun liegt es an den beiden Helden, Diamond City vor dem schurkischen Duo und ihr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>878</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102003" />
 	</game>
 </gameList>

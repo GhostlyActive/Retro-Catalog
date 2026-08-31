@@ -6,9 +6,6 @@
 
 </desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
-		<image>./images/Shining Force (USA)-image.png</image>
-		<marquee>./images/Shining Force (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shining Force (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Climax</developer>
@@ -18,16 +15,12 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>65</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010428" />
 	</game>
 	<game id="1185">
 		<name>Sonic &amp; Knuckles + Sonic The Hedgehog 3</name>
 		<desc>Dr. Eggmans (AKA Dr. Robotniks) Death Egg wurde abermals von Sonic hinweggefegt und landete auf dem Gipfel eines Vulkans auf den Schwimmenden Inseln.
 Dr. Eggman ist noch immer größenwahnsinnig und Sonic kann nicht zulassen, den Master Emerald zu stehlen und das Death Egg zu reparieren. Sonic muss sich ebenso Knuckles vom Leib halten, doch Knuckles hat auch selbst Probleme. Als Beschützer der Schwimmenden Inseln und aller Emeralds muss Knuckles das Seinige beitragen, um die Inseln zu sichern. Wer wird Dr. Eggman stoppen, während die beiden ihren Schlagabtausch abhalten? </desc>
 		<genre>Plattform / Jump 'n' Run Scrolling</genre>
-		<image>./images/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination)-image.png</image>
-		<marquee>./images/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination)-marquee.png</marquee>
-		<thumbnail>./images/Sonic &amp; Knuckles + Sonic The Hedgehog 3 (USA) (Lock-on Combination)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941018T000000</releasedate>
 		<developer>Sonic Team</developer>
@@ -37,16 +30,12 @@ Dr. Eggman ist noch immer größenwahnsinnig und Sonic kann nicht zulassen, den 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4874</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010430" />
 	</game>
 	<game id="188">
 		<name>Steel Empire</name>
 		<desc>Der Himmel ist überfüllt mit Zeppelinen, großen Kampfflugzeugen und fliegenden Festungen. In Empire of Steel für Mega Drive hat das Motorhead Imperium fast den gesamten Planeten unterworfen. Die letzte freie Nation ist die Silverhead Republik, die versucht das Imperium mit einer völlig neuen Waffe zu besiegen - der Lighting Bomb.
 Du steigst in Empire of Steel für Mega Drive in ein Zeppeling, oder Kampfflugzeug und nimmst an actiongeladenen Gefechten teil. Sammle unterwegs Power-Ups ein um deine Angriffe zu verstärken. Stelle Dich zahlreichen Gegner und weiche ihnen aus, oder schieße sie ab. Nutze in Empire of Steel für Mega Drive Erfahrungspunkte um dein Gefährt aufzuwerten, damit Du das Imperium schlagen kannst!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Steel Empire (USA)-image.png</image>
-		<marquee>./images/Steel Empire (USA)-marquee.png</marquee>
-		<thumbnail>./images/Steel Empire (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19920601T000000</releasedate>
 		<developer>Flying Edge</developer>
@@ -55,15 +44,11 @@ Du steigst in Empire of Steel für Mega Drive in ein Zeppeling, oder Kampfflugze
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1404</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010431" />
 	</game>
 	<game id="39">
 		<name>The Revenge of Shinobi</name>
 		<desc>The Revenge of Shinobi auf Megadrive ist ein Actionspiel, in dem der Spieler einen Ninja verkörpert. Ziel ist es, sich an Kriminellen zu rächen, die Ihnen Unrecht getan haben. Sie müssen den Bereich jeder Ebene löschen, bevor Sie zur nächsten Ebene wechseln können. Hierfür stehen Ihnen Shuriken sowie Wurfmesser zur Verfügung.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Revenge of Shinobi, The (USA, Europe) (Rev B)-image.png</image>
-		<marquee>./images/Revenge of Shinobi, The (USA, Europe) (Rev B)-marquee.png</marquee>
-		<thumbnail>./images/Revenge of Shinobi, The (USA, Europe) (Rev B)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19901001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -72,7 +57,6 @@ Du steigst in Empire of Steel für Mega Drive in ein Zeppeling, oder Kampfflugze
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T010433" />
 	</game>
 	<game id="66">
 		<name>Lemmings</name>
@@ -80,9 +64,6 @@ Du steigst in Empire of Steel für Mega Drive in ein Zeppeling, oder Kampfflugze
 
 Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein Fadenkreuz, das über einen der Lemminge bewegt werden kann. Unten finden Sie eine Auswahl von Funktionen, die einem Lemming zugewiesen werden können, einschließlich Klettern, Schwimmen und Schlagen. Sie müssen klicken, um die entsprechende Funktion auszuwählen, und dann auf den Lemming klicken, um ihn zu aktivieren. Jedes Level bietet unterschiedliche Fähigkeiten, eine unterschiedliche Anzahl an Lemmingen und ein anderes prozentuales Ziel, um Fortschritte zu erzielen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Lemmings (USA)-image.png</image>
-		<marquee>./images/Lemmings (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lemmings (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19921101T000000</releasedate>
 		<developer>DMA Design</developer>
@@ -91,15 +72,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T010434" />
 	</game>
 	<game id="38">
 		<name>Kid Chameleon</name>
 		<desc>Kid Chameleon ist ein Plattformspiel auf Megadrive. Die Hauptfigur hat eine virtuelle Welt betreten, um gefangene Kinder zu befreien. Er hat die Macht, sich auf verschiedene Arten zu verwandeln, was ihm hilft, die hundert Level des Spiels zu überwinden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Kid Chameleon (USA, Europe)-image.png</image>
-		<marquee>./images/Kid Chameleon (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Kid Chameleon (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920501T000000</releasedate>
 		<developer>SEGA</developer>
@@ -108,15 +85,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>68</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010441" />
 	</game>
 	<game id="271">
 		<name>ToeJam &amp; Earl in Panic on Funkotron</name>
 		<desc>Erdlinge haben den friedlichen Planeten Funkotron überfallen. Sie versetzen die Eingeborenen in Schrecken  und richten ein furchtbares Durcheinander an! In diesem super-coolen und volkommen irren Abenteuer liegt es nun an Toejam &amp; Earl™, diese Schädlinge aufzuspüren, sie zur Erde zurückzuschicken und die Dinge wieder in Ordnung zu bringen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/ToeJam &amp; Earl in Panic on Funkotron (USA)-image.png</image>
-		<marquee>./images/ToeJam &amp; Earl in Panic on Funkotron (USA)-marquee.png</marquee>
-		<thumbnail>./images/ToeJam &amp; Earl in Panic on Funkotron (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -126,15 +99,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>806</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010446" />
 	</game>
 	<game id="95">
 		<name>Ecco : The Tides of Time</name>
 		<desc>Der böse Vortex ist zurück und Ecco muß erneut ein gefährliches Abenteuer bestehen. Führen Sie Ecco mit Hilfe der schönen Trellia durch über 25 Level voller Unterwasser-Action und neuartige 3D-Level. Während Sie in gigantische, neue Welten vordringen, verwandelt sich Ecco in einen Hai, eine Qualle und sogar in eine Seemöve.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Ecco - The Tides of Time (USA)-image.png</image>
-		<marquee>./images/Ecco - The Tides of Time (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ecco - The Tides of Time (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Novotrade</developer>
@@ -143,15 +112,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T010453" />
 	</game>
 	<game id="54">
 		<name>Phantasy Star II</name>
 		<desc>Phantasy Star II für Mega Drive: Ein Jahrtausend ist vergangen, seit Alis das ultimative Böse im ersten Phantasy Star besiegt hat. Der Planet Motavia des Sonnensystems Algol ist nicht mehr die von Ameisen geplagte Wüste: Der Mensch hat einen fühlenden Computer namens "Mother Brain" konstruiert, der das Klima des Planeten regulieren und in eine blühende Utopie verwandeln könnte. Eines Nachts erwacht ein junger Motavianischer Regierungsagent namens Rolf in seinem Bett, nachdem er einen Alptraum hatte. Er sieht ein junges Mädchen gegen einen Dämon kämpfen, aber er kann ihr nicht helfen. Kurz darauf erfährt er, dass sich gefährliche Bio-Monster aus den Labors befreit haben und wird dorthin geschickt, um einen Rekorder zu holen, der wertvolle Informationen über den schrecklichen Vorfall enthalten könnte...</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Phantasy Star II (USA, Europe) (Rev A)-image.png</image>
-		<marquee>./images/Phantasy Star II (USA, Europe) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Phantasy Star II (USA, Europe) (Rev A)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19901201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -161,15 +126,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>1436</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010503" />
 	</game>
 	<game id="238">
 		<name>Gain Ground</name>
 		<desc>Gain Ground ist ein arcardegeladenes Actionspiel mit ein wenig Strategie. Das Ziel ist es, alle Soldaten auf die gegenüberliegende Seite des Bildschirms zu bringen oder alle Feinde zu töten. Jeder Soldat in der Armee hat eine einzigartige Spezialisierung aus 20 verschiedenen Typen. Jeder Soldat kann auf zwei verschiedene Arten angreifen, entweder mit einer normalen Waffe oder mit einer Spezialwaffe. Die Strategie ergibt sich aus der Entscheidung, welcher Soldat in welcher Situation am besten geeignet ist. Einige Waffen sind besser im Umgang mit bestimmten Feinden und Hindernissen geeignet als andere Waffen. Die Spieler beginnen mit nur drei Soldaten, können aber auf andere Soldaten treffen, die gerettet werden können, indem man sie berührt. Wenn der neue Soldat lange genug überlebt, um den Ausgang zu erreichen, kann er in das Soldateninventar aufgenommen werden. Die Anzahl der möglichen Soldaten in der Armee eines Spielers beträgt über 30 Soldaten. Es gibt insgesamt 50 Etappen, aufgeteilt in 10 Runden. Am Ende jeder Runde treffen die Spieler auf einen feindlichen Boss.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Gain Ground (USA)-image.png</image>
-		<marquee>./images/Gain Ground (USA)-marquee.png</marquee>
-		<thumbnail>./images/Gain Ground (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910102T000000</releasedate>
 		<developer>SEGA</developer>
@@ -178,15 +139,11 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>311</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010505" />
 	</game>
 	<game id="46">
 		<name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
 		<desc>Mickey Mouse und Donald Duck werden in eine magische Welt entführt und müssen wieder nach Hause. Um das zu tun, können sie magische Tricks spielen und in einem kooperativen Zwei-Spieler-Modus miteinander interagieren. Sowohl Mickey als auch Donald können mit ihren Umhängen rennen, springen oder angreifen. Zaubersprüche werden nach Bosskämpfen gelernt und später als Transportmittel eingesetzt, z.B. auf einem Zauberteppich fliegen, eine Brücke aus Karten bauen, etc. Während Mickey sich durch bestimmte Lücken quetschen kann, muss Donald im Einzelspieler-Modus alternative Routen finden. Wenn zwei Spieler sie kontrollieren, kann Mickey Donald durch eine Lücke ziehen. Die beiden können sich auch auf den Schultern und unteren Seilen stehen, um bestimmte Bereiche zu erreichen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)-image.png</image>
-		<marquee>./images/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -196,7 +153,6 @@ Sie haben nicht die Kontrolle über einen einzelnen Lemming, sondern über ein F
 		<lang>kr,en</lang>
 		<region>us</region>
 		<cheevosId>40</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010512" />
 	</game>
 	<game id="139">
 		<name>Monster World 4</name>
@@ -206,9 +162,6 @@ Asha wird bei ihrer Suche von zachlreichen Verbündeten unterstützt, darunter e
 
 Kannst du Monster World trotzen, den leidenden Geistern helfen und den Tag retten? Finde es in Monster World IV heraus und beginne ein Abenteuer wie nie zuvor!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Monster World IV (USA) (Genesis Mini)-image.png</image>
-		<marquee>./images/Monster World IV (USA) (Genesis Mini)-marquee.png</marquee>
-		<thumbnail>./images/Monster World IV (USA) (Genesis Mini)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940401T000000</releasedate>
 		<developer>Westone</developer>
@@ -217,7 +170,6 @@ Kannst du Monster World trotzen, den leidenden Geistern helfen und den Tag rette
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T010519" />
 	</game>
 	<game id="194">
 		<name>Splatterhouse 3</name>
@@ -225,9 +177,6 @@ Kannst du Monster World trotzen, den leidenden Geistern helfen und den Tag rette
 
 Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spiel besteht aus sechs aufeinanderfolgenden Levels in einem riesigen Herrenhaus. In einem Wettlauf gegen die Zeit müssen Sie die Dämonen aus jedem Raum auslöschen und den schnellsten Weg zum Bossbereich finden. Nachdem Sie einen Raum gesäubert haben, können Sie eine Karte im Spiel verwenden, um den schnellsten Weg zu finden. Zu den Verbesserungen gegenüber dem zweiten Titel gehören das Bewegen zwischen den Räumen in mehrere Richtungen, mehrere Endungen basierend auf Ihrer Leistung, spezielle Bewegungen für Rick und schärfere Grafiken.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Splatterhouse 3 (USA)-image.png</image>
-		<marquee>./images/Splatterhouse 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Splatterhouse 3 (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Now Production</developer>
@@ -237,15 +186,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>67</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010525" />
 	</game>
 	<game id="97">
 		<name>Virtua Racing</name>
 		<desc>Direkt aus der Spielhalle: SEGAs revolutionärer SVP-Chip bringt Ihnen eine neue Dimension des Autorennsports mit Virtua Racing für Mega Drive! Unglaublich schnelle 3D-Polygongrafik, vier live umschaltbare Spielperspektiven, Zwei-Spieler-Modus und Hochgeschwindigkeits-Action machen Virtua Racing für Mega Drive zum ultimativen Rennerlebnis!</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Virtua Racing (USA)-image.png</image>
-		<marquee>./images/Virtua Racing (USA)-marquee.png</marquee>
-		<thumbnail>./images/Virtua Racing (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940314T000000</releasedate>
 		<developer>SEGA</developer>
@@ -255,15 +200,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>602</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010532" />
 	</game>
 	<game id="32">
 		<name>Flashback : The Quest for Identity</name>
 		<desc>Im Jahre 2142... Sie sind auf einem bizarren Planeten gestrandet und stellen fest, daß Sie ihr Gedächtnis fast vollständig verloren haben. Auf Ihrem Weg zurück zur Erde kehrt die Erinnerung an die Bedrohung durch die gefährlichen Mutant-Wesen wieder zurück... FLASHBACK.... der ultimative Überlebens-Test. "Story und Ambiente wie im Kino!" - GAMERS</desc>
 		<genre>Plattform</genre>
-		<image>./images/Flashback - The Quest for Identity (USA) (En,Fr)-image.png</image>
-		<marquee>./images/Flashback - The Quest for Identity (USA) (En,Fr)-marquee.png</marquee>
-		<thumbnail>./images/Flashback - The Quest for Identity (USA) (En,Fr)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19930220T000000</releasedate>
 		<developer>Delphine Software International</developer>
@@ -273,15 +214,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>fr,en</lang>
 		<region>us</region>
 		<cheevosId>165</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010538" />
 	</game>
 	<game id="102">
 		<name>Road Rash II</name>
 		<desc>Road Rash 2 für Mega Drive ist ein actiongeladene Motorradrenn-Spiel ohne Regeln! Alles ist erlaubt in diesem irriwitzigen Rennen. Du entscheidest, ob Du durch reine Fahrkunst gewinnst, oder miese Tricks anwendest. Du kannst in Road Rash 2 für Mega Drive stoßen, schlagen, oder deine Gegner treten, wenn Du an ihnen vorbei ziehst. Vermeide Hindernisse, wie Kühe, Straßensperren, Ölpfützen und Polizisten auf deindem Weg ins Ziel! Ziehe an deinen 14 Gegnern vorbei und werde zum Sieger von Road Rash 2.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Road Rash II (USA, Europe) (RR206)-image.png</image>
-		<marquee>./images/Road Rash II (USA, Europe) (RR206)-marquee.png</marquee>
-		<thumbnail>./images/Road Rash II (USA, Europe) (RR206)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Electronic Arts</developer>
@@ -291,15 +228,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>119</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010543" />
 	</game>
 	<game id="53">
 		<name>Alisia Dragoon</name>
 		<desc>Baldour, der Inbegriff des Bösen, wird in Kürze aus seinem Winterschlaf erwachen. Alisia muss Baldour vernichten, bevor er erwacht und das Dorf, wie schon einemal vor 13 Jahren, brutal verwüstet. Sein letzter Wutausbruch kostete Alisias Vater das Leben. Hilf ihr, den Tod ihres Vaters zu rächen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Alisia Dragoon (USA)-image.png</image>
-		<marquee>./images/Alisia Dragoon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Alisia Dragoon (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920201T000000</releasedate>
 		<developer>Game Arts</developer>
@@ -308,15 +241,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>39</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010545" />
 	</game>
 	<game id="325">
 		<name>Vectorman 2</name>
 		<desc>Dies ist eine Fortsetzung von Vectorman. Dieses Mal wurde der superstarke kleine Roboter angegriffen, als er mit seinem Raumschiff zur Erde zurückkehrte. Er stürzt auf die Erde, nur um dunkle Orte voller feindlicher Kreaturen zu entdecken und an einem Platformer voller schneller und wilder Action teilzunehmen. Kämpfen Sie gegen Ihre Feinde, sammeln Sie Photonen, springen Sie über Hindernisse, finden Sie Waffen, verwandeln Sie sich in andere Kreaturen und klettern Sie als der grüne "Orobot" Vectorman über Wände.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Vectorman 2 (USA)-image.png</image>
-		<marquee>./images/Vectorman 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Vectorman 2 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19961115T000000</releasedate>
 		<developer>BlueSky Software</developer>
@@ -325,15 +254,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1443</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010551" />
 	</game>
 	<game id="68">
 		<name>Tetris</name>
 		<desc>Tetris ist sehr einfach und doch unglaublich genial! Schnelligkeit und Cleverness sind bei Tetris gefragt. Einzeln vom oberen Rand des rechteckigen Spielfelds herunterfallende, stets aus vier Quadraten zusammengesetzte Formen müssen vom Spieler in 90-Grad Schritten gedreht und so platziert werden, dass sie am unteren Rand horizontale, möglichst lückenlose Reihen bilden. Tetris ist das (Kunst)Werk des russischen Programmierers Alexei Paschitnow und hat schon Millionen von Menschen in den Bann gezogen.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Tetris (USA) (Genesis Mini)-image.png</image>
-		<marquee>./images/Tetris (USA) (Genesis Mini)-marquee.png</marquee>
-		<thumbnail>./images/Tetris (USA) (Genesis Mini)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -343,15 +268,11 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>30901</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010555" />
 	</game>
 	<game id="37">
 		<name>Mickey Mania : The Timeless Adventures of Mickey Mouse</name>
 		<desc>Mickey Mania (alias Mickey Mania: Die zeitlosen Abenteuer von Mickey Mouse) auf Megadrive ist ein Plattformspiel. Der Spieler verkörpert Mickey Mouse in sieben Levels, inspiriert von den berühmtesten Cartoons seiner Geschichte.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.png</image>
-		<marquee>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941101T000000</releasedate>
 		<developer>Traveller's Tales</developer>
@@ -361,16 +282,12 @@ Der dritte Titel der Serie baut auf dem Gameplay seiner Vorgänger auf. Das Spie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2545</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010557" />
 	</game>
 	<game id="88">
 		<name>Golden Axe II</name>
 		<desc>Wieder einmal ist das Unheil aus dem Erdreich gekrochen. Diesmal in Gestalt von Dark Guld, welcher schon vor ewigen Zeiten verbannt wurde.
 Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyris Flare die Amazone und Gilius Thunderhead der Zwerg in den Weg, um dem grausamen Treiben ein Ende zu bereiten.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Golden Axe II (World)-image.png</image>
-		<marquee>./images/Golden Axe II (World)-marquee.png</marquee>
-		<thumbnail>./images/Golden Axe II (World)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -380,15 +297,11 @@ Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyr
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>87</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010603" />
 	</game>
 	<game id="8">
 		<name>Aladdin</name>
 		<desc>SEGA präsentiert eine brilliante, Disney/Virgin Games Koproduktion von Disney's Aladdin. Haltet euch am Teppich fest, jetzt kommen Spaß, Abenteuer, Fantasie und Action! Aladdin schwingt seinen glänzenden Krummsäbel, um sich den Weg durch Agrabah zu erkämpfen, aus dem Verlies des Sultans zu entkommen, die flammende Höhle der Wunder zu überleben, sich die Wunderlampe zu schnappen und Prinzessin Yasmin vom bösen Jafar zu retten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Aladdin (USA)-image.png</image>
-		<marquee>./images/Aladdin (USA)-marquee.png</marquee>
-		<thumbnail>./images/Aladdin (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19931111T000000</releasedate>
 		<developer>Virgin</developer>
@@ -398,15 +311,11 @@ Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010604" />
 	</game>
 	<game id="192">
 		<name>Road Rash 3</name>
 		<desc>Nach den letzten beiden Road Rash-Spielen hat der Spieler die illegale Motorradmeisterschaft der USA erobert. Aber warum sollte man sich damit zufrieden geben, wenn man die Welt übernehmen kann? Rennen in den friedlichen Straßen Großbritanniens, Ausweichen vor den Tieren in Kenia, Flammen durch die Nacht in Japan oder Springen auf den hügeligen Rennstrecken in Italien?</desc>
 		<genre>Rennen, Fahren / Motorradrennen, 3. Pers.</genre>
-		<image>./images/Road Rash 3 (USA, Europe)-image.png</image>
-		<marquee>./images/Road Rash 3 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Road Rash 3 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950401T000000</releasedate>
 		<developer>Electronic Arts</developer>
@@ -416,15 +325,11 @@ Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyr
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>166</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010606" />
 	</game>
 	<game id="113">
 		<name>ToeJam &amp; Earl</name>
 		<desc>ToeJam und Earl, die beiden schlimmsten “Rapper” im ganzen Universum, hatten einen Unfall, während sie in der Galaxie herumbrausten, und machten eine Bruchlandung auf der Erde. Helfe in ToeJam &amp; Earl für Mega Drive diesen beiden Weltalltypen, ihr Raumschiff wieder zusammenzuflicken!</desc>
 		<genre>Plattform</genre>
-		<image>./images/ToeJam &amp; Earl (USA, Europe, Korea) (En)-image.png</image>
-		<marquee>./images/ToeJam &amp; Earl (USA, Europe, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/ToeJam &amp; Earl (USA, Europe, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>ToeJam &amp; Earl Productions</developer>
@@ -434,7 +339,6 @@ Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyr
 		<lang>kr,en</lang>
 		<region>eu</region>
 		<cheevosId>22</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010607" />
 	</game>
 	<game id="1194">
 		<name>Sub-Terrania</name>
@@ -442,9 +346,6 @@ Und einmal mehr stellen sich die drei Tapferen Helden Ax-Battler der Barbar, Tyr
 
 Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kaverne statt, mit interessanten Wetterbedingungen. Sie müssen sie erforschen und die Missionsziele erfüllen - in der Regel das Sammeln von Unterteilen, die Rettung von eingeschlossenen Bergleuten oder die Zerstörung von riesigen, epischen Endgegnern. Sie können auch die Levels erkunden, aber behalten Sie Ihre Tankanzeige im Auge und achten Sie auf die vielen Gefahren!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sub-Terrania (USA)-image.png</image>
-		<marquee>./images/Sub-Terrania (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sub-Terrania (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940301T000000</releasedate>
 		<developer>Zyrinx</developer>
@@ -453,15 +354,11 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2263</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010613" />
 	</game>
 	<game id="204">
 		<name>Micro Machines 2 : Turbo Tournament</name>
 		<desc>Größer, besser, schneller, gemeiner einfach mehr! Sie sind wieder da! Codemasters präsentiert euch Micro Machines 2: Turbo Tournament für Mega Drive und es hat mehr Micro Power unter der Haube als je zuvor! Fluggeräte, Hovercrafts, Motorräder, Micro Machines 2: Turbo Tournament für Mega Drive hat sich in jedem Aspekt verbessert. Power pick-ups interaktive Kurse, regen, Wind, gefährliche Sprünge und noch viel viel mehr.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)-image.png</image>
-		<marquee>./images/Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19941125T000000</releasedate>
 		<developer>Codemasters</developer>
@@ -470,15 +367,11 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 		<players>1-8</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T010615" />
 	</game>
 	<game id="11">
 		<name>Shinobi III : Return of the Ninja Master</name>
 		<desc>Shinobi III: Die Rückkehr des Ninja-Meisters auf Megadrive ist ein Actionspiel, in dem du Joe Musashi spielst, einen Samurai, dessen Aufgabe es ist, eine kriminelle Organisation zu eliminieren: Neo Zeed. Nutze die vergessene Kunst der Oboro-Vorfahren, deren letzter Erbe du bist, und deine Ninja, um den mysteriösen Schattenmeister zu besiegen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Shinobi III - Return of the Ninja Master (USA)-image.png</image>
-		<marquee>./images/Shinobi III - Return of the Ninja Master (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shinobi III - Return of the Ninja Master (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19930822T000000</releasedate>
 		<developer>Megasoft</developer>
@@ -488,15 +381,11 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>64</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010622" />
 	</game>
 	<game id="143">
 		<name>NBA Jam Tournament Edition</name>
 		<desc>NBA Jam: Tournament Edition auf dem Megadrive folgt dem Prinzip von NBA Jam, das ein paar Monate zuvor veröffentlicht wurde, indem es einen Turniermodus hinzufügt. Die Spiele werden nach wie vor im Modus zwei gegen zwei ausgetragen, wobei die Regeln zugunsten der Action abgeschwächt wurden. Der Reiz des Turniermodus liegt in den freizuschaltenden Boni, nämlich zwei neue Spieler für fast alle Teams und einen höheren Schwierigkeitsmodus.</desc>
 		<genre>Sport / Basketball</genre>
-		<image>./images/NBA Jam - Tournament Edition (World)-image.jpg</image>
-		<marquee>./images/NBA Jam - Tournament Edition (World)-marquee.png</marquee>
-		<thumbnail>./images/NBA Jam - Tournament Edition (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Iguana Entertainment</developer>
@@ -505,15 +394,11 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T010624" />
 	</game>
 	<game id="172">
 		<name>Gaiares</name>
 		<desc>Es ist das Jahr 300x. Die Erde wurde von unvorsichtigen Menschen verwüstet und hinterließ eine unbewohnbare, verschmutzte Einöde. Die Weltraumterroristen, Gulfer, planen, die Verschmutzung zu ernten, um eine Art Müllwaffe herzustellen. Die Guten, die Leezaluth, sind darüber nicht glücklich, also beschließen sie, die Erde in die Luft zu jagen, bevor Gulfer an sie rankommt. Sie stellen der Erde ein Ultimatum: Gulfer zerstören oder Leezaluth zerstört die Erde. Um ihnen zu helfen, gibt Leezaluth dem letzten Helden der Erde, Dan, eine besondere Waffe: das TOZ-System.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Gaiares (Japan, USA) (En)-image.png</image>
-		<marquee>./images/Gaiares (Japan, USA) (En)-marquee.png</marquee>
-		<thumbnail>./images/Gaiares (Japan, USA) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19901226T000000</releasedate>
 		<developer>Telenet</developer>
@@ -522,7 +407,6 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>2439</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010625" />
 	</game>
 	<game id="40">
 		<name>Castlevania : Bloodlines</name>
@@ -530,9 +414,6 @@ Das Spiel besteht aus 10 Missionen. Jede Mission findet in einer riesigen Kavern
 1917 plante eine junge Gräfin names Elizabeth Bartley den Fürsten der Dunkelheit in Versailles in Frankreich wiederzubeleben.
 John Morris, ein Nachfahre der Belmont-Morris Familie, und Eric Lecarde dessen Freundin durch Elizabeth zu einem Vampir wurde, machten es sich zur Aufgabe Elizabeth durch ganz Europa zu folgen, um das dunkle Ritual zu verhindern.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Castlevania - Bloodlines (USA)-image.png</image>
-		<marquee>./images/Castlevania - Bloodlines (USA)-marquee.png</marquee>
-		<thumbnail>./images/Castlevania - Bloodlines (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940317T000000</releasedate>
 		<developer>Konami</developer>
@@ -542,15 +423,11 @@ John Morris, ein Nachfahre der Belmont-Morris Familie, und Eric Lecarde dessen F
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>69</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010632" />
 	</game>
 	<game id="326">
 		<name>Zero Wing</name>
 		<desc>Zero Wing ist ein horizontales Shooter Game, bei dem der Spieler die Kontrolle über eine ZIG hat, eine Rettungskapsel, die freigegeben wurde, nachdem ihr Hauptschiff von den bösen Cyborg-CATS angegriffen und zerstört wurde, die die Welt erobern wollten.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Zero Wing (Europe)-image.png</image>
-		<marquee>./images/Zero Wing (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Zero Wing (Europe)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920701T000000</releasedate>
 		<developer>Toaplan</developer>
@@ -559,7 +436,6 @@ John Morris, ein Nachfahre der Belmont-Morris Familie, und Eric Lecarde dessen F
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>587</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010634" />
 	</game>
 	<game id="98">
 		<name>Eliminate Down</name>
@@ -567,9 +443,6 @@ John Morris, ein Nachfahre der Belmont-Morris Familie, und Eric Lecarde dessen F
 
 Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss als auch einen Boss enthalten, sowie drei Schwierigkeitsstufen. Es gibt auch ein Minispiel ähnlich Whack-a-Mole, in dem sich ein Gitter mit Schiffssymbolen befindet und der Spieler die rotierenden Schiffe treffen muss.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Eliminate Down (Japan)-image.png</image>
-		<marquee>./images/Eliminate Down (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Eliminate Down (Japan)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19930625T000000</releasedate>
 		<developer>Aprinet</developer>
@@ -578,15 +451,11 @@ Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>4248</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010636" />
 	</game>
 	<game id="45">
 		<name>Dai-Makaimura</name>
 		<desc>3 Jahre nach den Events des letzten Spiels, sind Monster und Dämonen zurück und stehlen mit einem Blitzschlag Prinzessin Prin-Prins Seele. Jetzt liegt es an Ritter Arthur den bösen Loki zu besiegen, und die Seelen von seiner geliebten Prinzessin Prin-Prin und dem Volk zurück zu erobern.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ghouls'n Ghosts (Japan, USA) (En)-image.png</image>
-		<marquee>./images/Ghouls'n Ghosts (Japan, USA) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ghouls'n Ghosts (Japan, USA) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19890803T000000</releasedate>
 		<developer>Capcom</developer>
@@ -596,15 +465,11 @@ Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>212</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010637" />
 	</game>
 	<game id="152">
 		<name>Bio Hazard Battle</name>
 		<desc>Bio Hazard Battle für Mega Drive - Die Oberfläche des Planeten Avaron ist durch einen Krieg mit biologischen Waffen total verwüstet worden. Die letzten menschlichen Überlebenden müssen ihre Bio-Raumschiffe nach Avarion fliegen und nach einem sicheren Ort zum Aufbau einer Kolonie suchen. Die Suche in Bio Hazard Battle für Mega Drive wird zum Kampf gegen unzählige feindliche Kreaturen. Die Bio-Raumschiffe sind in Gefahr!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Bio Hazard Battle (USA, Europe)-image.png</image>
-		<marquee>./images/Bio Hazard Battle (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Bio Hazard Battle (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -613,15 +478,11 @@ Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>4169</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010643" />
 	</game>
 	<game id="13">
 		<name>Crusader of Centy</name>
 		<desc>Der vom Spieler benannte Held feiert gerade seinen 14. Geburtstag, an dem er das Schwert seines lange Zeit verstorbenen Vaters erhält. Nachdem er sich mit dem Schwert auf den Weg macht die Geheimnisse der Welt zu erkundigen, trifft er eine Wahrsagerin, die ihm scheinbar die Fähigkeit gibt, mit Tieren zu kommunizieren. Gleichzeitig nimmt sie ihm jedoch die Fähigkeit, sich mit anderen Menschen zu verständigen. Auf der Suche nach der Wahrsagerin schließen sich ihm sein Hund Johnny sowie andere Tiere, mit denen er Freundschaft schließt, an und er lüftet dabei das Geheimnis, was damals in seinem Land vorgefallen ist und woher die ganzen Monster stammen, die die Welt in Atem halten.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Crusader of Centy (USA)-image.png</image>
-		<marquee>./images/Crusader of Centy (USA)-marquee.png</marquee>
-		<thumbnail>./images/Crusader of Centy (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19940616T000000</releasedate>
 		<developer>SEGA</developer>
@@ -630,7 +491,6 @@ Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>1438</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010645" />
 	</game>
 	<game id="197">
 		<name>Shadowrun</name>
@@ -638,9 +498,6 @@ Das Spiel umfasst acht Level, von denen die meisten am Ende sowohl einen Midboss
 
 Auf dem Weg dorthin gerätst du in Straßenschlägereien und tödliche Schießereien, läufst durch die Matrix, schlüpfst in das MegaCorps hinein und wieder heraus, erkundest die wilde Wildnis und hast es mit jedem niederen Magier und Hightech-Cyber-Samurai der Straßen von Seattle zu tun.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Shadowrun (USA)-image.png</image>
-		<marquee>./images/Shadowrun (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shadowrun (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Sky Fallen</developer>
@@ -650,7 +507,6 @@ Auf dem Weg dorthin gerätst du in Straßenschlägereien und tödliche Schießer
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4748</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010651" />
 	</game>
 	<game id="69">
 		<name>Contra : Hard Corps</name>
@@ -658,9 +514,6 @@ Auf dem Weg dorthin gerätst du in Straßenschlägereien und tödliche Schießer
 Die Menschheit erholt sich langsam von einem katastrophalen Krieg gegen eine mysteriöse Rasse von Außerirdischen. Die Kriminalität wütet und die einzige Lösung, die Abhilfe verspricht, ist ein spitzen-Team von Soldaten-Robotern, die im Kampf gestählt sind. Hilf den Probotectors, in der Stadt aufzuräumen.
 Für einen oder zwei Spieler.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Contra - Hard Corps (USA, Korea) (En)-image.png</image>
-		<marquee>./images/Contra - Hard Corps (USA, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Contra - Hard Corps (USA, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940808T000000</releasedate>
 		<developer>Konami</developer>
@@ -670,15 +523,11 @@ Für einen oder zwei Spieler.</desc>
 		<lang>kr,en</lang>
 		<region>us</region>
 		<cheevosId>120</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010700" />
 	</game>
 	<game id="44">
 		<name>Shining Force II</name>
 		<desc>Shining Force II ist ein taktisches RPG auf Mega Drive. Die Geschichte folgt den Ereignissen des Spiels Shining Force Gaiden: Final Conflict, das auf Game Gear veröffentlicht wurde. Das Abenteuer beginnt, als ein mysteriöser Dieb die heiligen Relikte des Alten Turms stiehlt und einem mächtigen Dämon den Weg öffnet. Erforschen Sie in Begleitung Ihrer Freunde die Geheimnisse des Landes der Rune in mehr als 40 Rundenschlachten und erobern Sie das Licht von Shining Force!</desc>
 		<genre>Rollenspiele / Taktisches Rollenspiel</genre>
-		<image>./images/Shining Force II (USA)-image.png</image>
-		<marquee>./images/Shining Force II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shining Force II (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941002T000000</releasedate>
 		<developer>Camelot Software Planning</developer>
@@ -688,15 +537,11 @@ Für einen oder zwei Spieler.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>75</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010702" />
 	</game>
 	<game id="3">
 		<name>Sonic The Hedgehog 2</name>
 		<desc>Sonic the Hedgehog 2 setzt Sonics rasante Abenteuer fort und bringt mit Tails einen treuen Begleiter ins Spiel. Du jagst durch abwechslungsreiche Zonen, sammelst Ringe als Schutz und Lebensspender und stellst dich am Ende jeder Zone Robotniks Maschinen. Erreichst du mit genug Ringen einen Checkpoint, öffnet sich der Zugang zur Special Stage, in der du in einer halbrunden Bahn Chaos Emeralds sammelst. Neu ist der Spin Dash – ein blitzschneller Start aus dem Stand, ideal für steile Hänge und knifflige Passagen. Du kannst das Spiel allein oder im Koop mit Tails erleben, der unendlich viele Leben hat und stets an deiner Seite bleibt. Außerdem gibt es einen Wettkampfmodus, in dem du gegen einen Freund um die schnellste Zeit in speziell angepassten Levels rennst.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog 2 (World) (Rev B)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog 2 (World) (Rev B)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog 2 (World) (Rev B)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921124T000000</releasedate>
 		<developer>SEGA</developer>
@@ -705,7 +550,6 @@ Für einen oder zwei Spieler.</desc>
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T010704" />
 	</game>
 	<game id="60">
 		<name>Teenage Mutant Ninja Turtles : The Hyperstone Heist</name>
@@ -713,9 +557,6 @@ Für einen oder zwei Spieler.</desc>
 
 Ein Standard Ninja Turtles Beat-Em-Up Action Game.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)-image.png</image>
-		<marquee>./images/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)-marquee.png</marquee>
-		<thumbnail>./images/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Konami</developer>
@@ -725,15 +566,11 @@ Ein Standard Ninja Turtles Beat-Em-Up Action Game.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>282</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010706" />
 	</game>
 	<game id="157">
 		<name>Dynamite Headdy</name>
 		<desc>Der Spielzeugheld mit dem losen Kopf kehrt mit Dynamite Headdy für Mega Drive zurück. Rette die Prinzessin und benutze die Fähigkeiten die Fähigkeiten der verschiedenen Köpfe. Eine bunte und explosive Spielwelt erwartet Dich in diesem außergewöhnlichen Abenteuer. Ein echter Knaller!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Dynamite Headdy (USA, Europe)-image.png</image>
-		<marquee>./images/Dynamite Headdy (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Dynamite Headdy (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>Treasure</developer>
@@ -742,7 +579,6 @@ Ein Standard Ninja Turtles Beat-Em-Up Action Game.</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>221</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010708" />
 	</game>
 	<game id="318">
 		<name>Rolling Thunder 2</name>
@@ -752,9 +588,6 @@ Eine terroristische Gruppe hat den weltweiten Informationsfluss ausgeschaltet, u
 
 Auch RT2 ist ein passwortgestütztes Spiel, d.h. Sie erhalten am Ende jeder Runde ein Passwort, so dass Sie, wenn Sie alle Ihre Leben verlieren, am Ende dieser Runde weitermachen können, was sehr praktisch ist.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Rolling Thunder 2 (USA)-image.png</image>
-		<marquee>./images/Rolling Thunder 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Rolling Thunder 2 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Namco</developer>
@@ -764,15 +597,11 @@ Auch RT2 ist ein passwortgestütztes Spiel, d.h. Sie erhalten am Ende jeder Rund
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>317</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010709" />
 	</game>
 	<game id="89">
 		<name>Gunstar Heroes</name>
 		<desc>In Gunstar Heroes für Mega Drive wird auf dem Planeten Gunstar 9 nach einer langen Friedensperiode der ältere Zwillingsbruder der Gunstars vom bösen Diktator Colonel Red entführt, um diesem als Sklave zu dienen. Halte in Gunstar Heroes für Mega Drive den Diktator davon ab, den „Zerstörer Golden Silver" zu entfesseln, dies hätte apokalyptische Auswirkungen! Auf deinem Weg wirst du vielen Gegnern und Bossen begegnen.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Gunstar Heroes (USA)-image.png</image>
-		<marquee>./images/Gunstar Heroes (USA)-marquee.png</marquee>
-		<thumbnail>./images/Gunstar Heroes (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930909T000000</releasedate>
 		<developer>Treasure</developer>
@@ -782,7 +611,6 @@ Auch RT2 ist ein passwortgestütztes Spiel, d.h. Sie erhalten am Ende jeder Rund
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>7</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010711" />
 	</game>
 	<game id="48">
 		<name>Ultimate Mortal Kombat 3</name>
@@ -792,9 +620,6 @@ Es gibt eine Vielzahl von neuen Levels, von denen einige interaktiv sind. Charak
 
 Die Spieler können gegen den Computer eins-zu-eins oder zwei-zu-zwei antreten oder an einem 8-Kämpfer-Turnier teilnehmen.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Ultimate Mortal Kombat 3 (USA)-image.png</image>
-		<marquee>./images/Ultimate Mortal Kombat 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ultimate Mortal Kombat 3 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19960101T000000</releasedate>
 		<developer>Midway</developer>
@@ -804,7 +629,6 @@ Die Spieler können gegen den Computer eins-zu-eins oder zwei-zu-zwei antreten o
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>70</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010713" />
 	</game>
 	<game id="52">
 		<name>The Adventures of Batman &amp; Robin</name>
@@ -812,9 +636,6 @@ Die Spieler können gegen den Computer eins-zu-eins oder zwei-zu-zwei antreten o
 
 Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links nach rechts, während er im Nahkampf gegen zahlreiche Feinde kämpft. Waffen, die während der Level gefunden werden, werden verwendet, um Feinde aus größerer Entfernung zu erschießen. Diese Waffen können auch durch Aufheben der entsprechenden Symbole aufgerüstet werden.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Adventures of Batman &amp; Robin, The (USA)-image.png</image>
-		<marquee>./images/Adventures of Batman &amp; Robin, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Adventures of Batman &amp; Robin, The (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19950101T000000</releasedate>
 		<developer>Clockworks Entertainment</developer>
@@ -824,16 +645,12 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>168</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010720" />
 	</game>
 	<game id="196">
 		<name>Hellfire</name>
 		<desc>Im Jahr 2998 hat die Menschheit endlich die Sterne erreicht und konnte eine florierende, friedliche Gesellschaft aufbauen. Eine als Schwarzer Nebel bekannte Weltraummaterie begann sich jedoch auszubreiten und droht die von Menschen kontrollierten Galaxien zu verschlingen. Es stellte sich heraus, dass ein Roboterdiktator namens Super Mech hinter diesem Ereignis steckte. Die Erde schickt Captain Lancer, einen geschickten Piloten, der das mächtige CNCS1-Flugzeug navigiert und mit der mächtigsten Waffe ausgerüstet ist: dem Höllenfeuer ...
 </desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Hellfire (USA)-image.png</image>
-		<marquee>./images/Hellfire (USA)-marquee.png</marquee>
-		<thumbnail>./images/Hellfire (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19901101T000000</releasedate>
 		<developer>Toaplan</developer>
@@ -842,15 +659,11 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>113</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010725" />
 	</game>
 	<game id="29">
 		<name>Wonder Boy in Monster World</name>
 		<desc>Monster World war ein friedlicher, glücklicher Ort, bis eines dunklen Tages eine Armee von BioMeka-Monstern einfiel. Als junger Mann namens Shion haben Sie geschworen, die feindlichen Feinde zu besiegen und das Land wieder friedlich zu machen. Sie werden die Feinde mit Schwertern und Speeren angreifen und sich mit Schilden und Rüstungen gegen eindringende Geschosse schützen. Während Sie durch die vielen verschiedenen Regionen der Monsterwelt reisen, werden Sie mit den Stadtbewohnern sprechen, Geld für den Kauf von Gegenständen sammeln und eine große Auswahl an Waffen und Magie sammeln. Je weiter Sie sich vorwagen, desto mächtiger werden Ihre Waffen und Ihre Ausrüstung, einschließlich Rüstungen und Stiefel, werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Wonder Boy in Monster World (USA, Europe)-image.png</image>
-		<marquee>./images/Wonder Boy in Monster World (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Wonder Boy in Monster World (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920401T000000</releasedate>
 		<developer>Westone</developer>
@@ -860,15 +673,11 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>140</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010733" />
 	</game>
 	<game id="22">
 		<name>Castle of Illusion Starring Mickey Mouse</name>
 		<desc>Castle of Illusion mit Mickey Mouse auf Megadrive ist ein Plattformspiel, in dem Sie Minnie vor den Klauen der Hexe Mizrabel retten müssen. Spielen Sie als Mickey in diesem Abenteuer, in dem jede Tür des Schlosses viele Überraschungen birgt.</desc>
 		<genre>Plattform / Jump 'n' Run Scrolling</genre>
-		<image>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe)-image.png</image>
-		<marquee>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Castle of Illusion Starring Mickey Mouse (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19901122T000000</releasedate>
 		<developer>SEGA</developer>
@@ -878,15 +687,11 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>9</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010738" />
 	</game>
 	<game id="20">
 		<name>Streets of Rage 2</name>
 		<desc>Nach dem großen Erfolg des ersten Spiels veröffentlichte Sega bereits 1992 den zweiten Teil der Serie, der ebenfalls für den Game Gear und das Master System umgesetzt wurde. Die grundlegenden Unterschiede zu Streets of Rage waren nur marginal. Grafik und Sound wurden jedoch entscheidend verbessert, und der Umfang des Spiels (Segas erstes 16-Megabit-Modul überhaupt) wurde wesentlich erweitert, jede Stage verfügte nun über zahlreiche Teilabschnitte. Alle vier Charaktere verfügten nun über ansprechende und vielfältige Animationsphasen, die Gegnerschar wurde dramatisch aufgestockt, und der Schwierigkeitsgrad fiel im Gegensatz zum Erstling etwas moderater aus. Hardcore-Zocker wurden jedoch mit dem neuen Mania-Schwierigkeitsgrad zufriedengestellt. Darüber hinaus gab es zwei neue Figuren zur Auswahl: den Rollschuhfahrer Skate Hunter und den Wrestler Max Thunder. Diese ersetzten Adam Hunter, der nach einem Kidnapping durch Mr X verschwand und erst in Teil 3 wieder auftauchte.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage 2 (USA)-image.png</image>
-		<marquee>./images/Streets of Rage 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage 2 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19921201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -896,7 +701,6 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>3</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010742" />
 	</game>
 	<game id="24">
 		<name>Beyond Oasis</name>
@@ -904,9 +708,6 @@ Dies ist ein Side-Scrolling-Action-Spiel. Der Spieler läuft im Grunde von links
 
 Prince Ali, ein junger und ehrgeiziger Kämpfer, hat das goldenen Amulett gefunden und hat nun die Macht, die vier Geister zu kontrollieren. Doch Ali muß nun eine gefährliche Reise antreten, um das silberne Armband zu finden und den dämonischen Ambitionen seines neuen Besitzers ein Ende zu setzen.</desc>
 		<genre>Rollenspiele / Action-RPG</genre>
-		<image>./images/Beyond Oasis (USA)-image.png</image>
-		<marquee>./images/Beyond Oasis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Beyond Oasis (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950315T000000</releasedate>
 		<developer>Ancient</developer>
@@ -915,15 +716,11 @@ Prince Ali, ein junger und ehrgeiziger Kämpfer, hat das goldenen Amulett gefund
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>143</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010743" />
 	</game>
 	<game id="93">
 		<name>Dune : The Battle for Arrakis</name>
 		<desc>Die Geschichte und Konzepte des Spiels basieren eher lose auf Frank Herberts Roman Der Wüstenplanet, optisch auf David Lynchs Verfilmung und Elementen aus der als nicht-kanonisch betrachteten Dune Encyclopedia (z. B. Haus Ordos). Der Spieler hat die Möglichkeit, im Namen dreier verschiedener sogenannter Hohen Häuser um die Herrschaft über den Wüstenplaneten Arrakis zu kämpfen. Zur Auswahl stehen die Häuser der edlen Atreides und der bösen Harkonnen, die beide auch aus dem Roman bekannt sind, sowie das Haus der hinterhältigen Händlersippe Ordos, welches nur in der Dune-Enzyklopädie von Willis E. McNelly aus dem Jahr 1984 am Rande erwähnt wird. Hat sich der Spieler für ein Haus entschieden, so besteht seine Aufgabe darin, in verschiedenen Missionen eines Feldzuges (Kampagne) mit steigenden Schwierigkeitsgraden eine Basis aufzubauen, Spice zu sammeln und eine Armee aufzustellen. Das Spiel gilt als gewonnen, sobald das eigene Haus den gesamten Planeten beherrscht.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Dune - The Battle for Arrakis (USA)-image.png</image>
-		<marquee>./images/Dune - The Battle for Arrakis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dune - The Battle for Arrakis (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Westwood Studios</developer>
@@ -933,7 +730,6 @@ Prince Ali, ein junger und ehrgeiziger Kämpfer, hat das goldenen Amulett gefund
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4239</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010745" />
 	</game>
 	<game id="9">
 		<name>The Lion King</name>
@@ -941,9 +737,6 @@ Prince Ali, ein junger und ehrgeiziger Kämpfer, hat das goldenen Amulett gefund
 Schlüpfen Sie in die Rolle von Simba, und erleben sie 10 aufregende Level, in denen sie vom Löwenbaby zum Löwenkönig heranwachsen, bis Sie schließlich dem bösen Onkel Scar gegenübertreten. Kämpfen sie gegen die Hyänen auf dem Friedhof der Elefanten. In fantastischer 3D-Grafik weichen Sie den trampelnden Hufen der Wildtiere aus. Spielen Sie den Bonuslevel als Simbas Freunde Pumbaa und Timon.
 Durch die perfekte grafische Umsetzung von original Künstlern aus den Disney Studios sowie der hervorragenden Qualität der Musik des Film Soundtracks, wird aus diesem Videospiel die erste animierte interaktive Software.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Lion King, The (World)-image.png</image>
-		<marquee>./images/Lion King, The (World)-marquee.png</marquee>
-		<thumbnail>./images/Lion King, The (World)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Westwood  Studios</developer>
@@ -953,15 +746,11 @@ Durch die perfekte grafische Umsetzung von original Künstlern aus den Disney St
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>93</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010747" />
 	</game>
 	<game id="83">
 		<name>Eternal Champions</name>
 		<desc>Neun der größten Kämpfer aller Zeiten haben unzeitgemäß und ungerecht Todesfälle erlitten. Bei Eternal Champions für Mega Drive treten sie nun gegeneinander an um sich dem Eternal Champion zu stellen und ihre Seelen zurückfordern. Der Sieger  der Eternal Champions für Mega Drive wird auf die Erde mit der Chance, ihr Schicksal zu ändern und wieder ins Gleichgewicht mit dem Universum zurückzugeben.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Eternal Champions (USA)-image.png</image>
-		<marquee>./images/Eternal Champions (USA)-marquee.png</marquee>
-		<thumbnail>./images/Eternal Champions (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>SEGA</developer>
@@ -971,15 +760,11 @@ Durch die perfekte grafische Umsetzung von original Künstlern aus den Disney St
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>188</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010749" />
 	</game>
 	<game id="90">
 		<name>Shining in the Darkness</name>
 		<desc>Shining in the Darkness für Mega Drive / Genesis ist ein story-basiertes Konsolen-Rollenspiel und ist das erste in der drei Spiele Shining series for the Genesis (gefolgt von Shining Force und Shining Force 2). Das Königreich Thornwood wurde von den Männern von Dark Sol erobert, und es ist deine Aufgabe, sie zu besiegen. Dazu braucht ihr die Waffen des Lichts. Shining in the Darkness für Mega Drive / Genesis ist ein First-Person-RPG, mit rundenbasierten Kampf- und Cartoon-Grafiken. Der Dialog wird über Dialogblasen angezeigt, die über den sprechenden Charakteren erscheinen, obwohl der Protagonist nie spricht. Es gibt keine Unteraufgaben - die Geheimnisse des Spiels sind der Ort und die Verwendung von Spezialmetall zum Schmieden esoterischer Gegenstände. In Shining in the Darkness für Mega Drive / Genesis gibt es etwa 25 bis 30 Stunden Gameplay, bevor die letzte Schlacht und die Endsequenz beginnt.</desc>
 		<genre>Rollenspiele / Kerker-RPG</genre>
-		<image>./images/Shining in the Darkness (USA, Europe)-image.png</image>
-		<marquee>./images/Shining in the Darkness (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Shining in the Darkness (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911001T000000</releasedate>
 		<developer>Climax</developer>
@@ -988,16 +773,12 @@ Durch die perfekte grafische Umsetzung von original Künstlern aus den Disney St
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>192</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010756" />
 	</game>
 	<game id="7">
 		<name>Streets of Rage</name>
 		<desc>Diese Stadt war einst ein glücklicher und friedlicher Ort... Bis eines Tages eine mächtige kriminelle Organisation die Stadt übernahm. Ein skrupelloses Syndikat hatte bald die Kontrolle über die Regierung und sogar über die Polizei. Die Stadt wurde zu einem Zentrum von Gewalt und Kriminalität, in dem niemand mehr sicher ist.
 Inmitten dieser Unruhen schwört eine Gruppe entschlossener junger Männer, die Stadt aufzuräumen. Zu ihnen gehören Adam Hunter, Axel Stone und Blaze Fielding. Sie sind bereit, alles zu riskieren ... sogar ihr Leben... in den... Streets of Rage.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage (World) (Rev A)-image.png</image>
-		<marquee>./images/Streets of Rage (World) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage (World) (Rev A)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910701T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1007,15 +788,11 @@ Inmitten dieser Unruhen schwört eine Gruppe entschlossener junger Männer, die 
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>55</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010802" />
 	</game>
 	<game id="36">
 		<name>Alien Soldier</name>
 		<desc>Im Jahre 2015 ist der Planet Sierra unter die Kontrolle von Xi-Tigers Scarlet Leuten geraten. Alle Hoffnung ruht auf den Shultern von Epsilon-Eagle, dem furchtlosen Krieger mit tödlichem Arsenal. Bewaffnet mit so viel Ausrüstung wie du tragen kannst, sprenge, schieße und brenne dich von Level zu Level, voll von unglaublicher Cyber-Action, bis du beim mächtigen Xi-Tiger angelangt bist!</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Alien Soldier (Europe)-image.png</image>
-		<marquee>./images/Alien Soldier (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Alien Soldier (Europe)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950601T000000</releasedate>
 		<developer>Treasure</developer>
@@ -1024,7 +801,6 @@ Inmitten dieser Unruhen schwört eine Gruppe entschlossener junger Männer, die 
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>480</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010809" />
 	</game>
 	<game id="120">
 		<name>Splatterhouse 2</name>
@@ -1032,9 +808,6 @@ Inmitten dieser Unruhen schwört eine Gruppe entschlossener junger Männer, die 
 
 Stark beeinflusst von Filmen wie Evil Dead 2, führt das Spiel durch 8 coole Level. Waffen wie Bleirohre, Knochen, Bomben, eine Schrotflinte und eine Kettensäge für das ultimative Blutfest. Besiege Rasiermesserfische und riesige Dämonen</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Splatterhouse 2 (USA)-image.png</image>
-		<marquee>./images/Splatterhouse 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Splatterhouse 2 (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Namco</developer>
@@ -1044,15 +817,11 @@ Stark beeinflusst von Filmen wie Evil Dead 2, führt das Spiel durch 8 coole Lev
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>66</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010816" />
 	</game>
 	<game id="143230">
 		<name>Streets of Rage 3</name>
 		<desc>Streets of Rage 3 hebt die Serie auf ein neues Level – schneller, komplexer und unbarmherziger als je zuvor. Mit längeren Levels, verzweigter Handlung und interaktiven Umgebungen samt Fallen wie Abgründen bietet das Spiel deutlich mehr Abwechslung. Neue Moves wie Ausweichen und Sprinten bringen Dynamik, Waffen zerbrechen nun nach Gebrauch und lassen sich teils in Combos einbauen. Team-Angriffe feiern ihr Comeback, Gegner nutzen sie ebenfalls und gehen cleverer mit Items um – manche klauen dir sogar Heilung! Blitz-Angriffe sind ausbaubar, gehen bei Tod verloren, lassen sich aber auf Knopfdruck reaktivieren. Spezielle Moves kosten keine Energie mehr, sondern nutzen eine separate Leiste. Und wer aufmerksam spielt, kann geheime Charaktere freischalten. Ein kompromissloser Straßenkampf mit Tiefgang.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Streets of Rage 3 (USA)-image.png</image>
-		<marquee>./images/Streets of Rage 3 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Streets of Rage 3 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940317T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1062,16 +831,12 @@ Stark beeinflusst von Filmen wie Evil Dead 2, führt das Spiel durch 8 coole Lev
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>54</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010827" />
 	</game>
 	<game id="316">
 		<name>Forgotten Worlds</name>
 		<desc>Die Erde war ein blühender Ort, mit großen Städten und unberührter Natur - bis die Aliens! Mit Feuer und Bomben verwüsteten sie die Welt und machten alles dem Erdboden gleich. 
 Es ist an Dir die Aliens zu vertreiben und den Planeten zurückzuerobern. Stelle Dich den Fäusten des Iron Warlords und weiche dem gefährlichen Feueratem des Dust Dragons aus! Kämpfe in Forgotten Worlds für Mega Drive gegen die verschiedensten Wesen und zeige ihn, wo's lang geht! Erkunde 7 verschiedenen Level und besiege den Bossgegner am Ende um dein Mission fortzusetzen. Hole Dir deinen Heimatplanten zurück und besiege die Aliens!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Forgotten Worlds (World) (Rev A)-image.png</image>
-		<marquee>./images/Forgotten Worlds (World) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Forgotten Worlds (World) (Rev A)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19900201T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1081,7 +846,6 @@ Es ist an Dir die Aliens zu vertreiben und den Planeten zurückzuerobern. Stelle
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>4269</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010829" />
 	</game>
 	<game id="540">
 		<name>Target Earth</name>
@@ -1089,9 +853,6 @@ Es ist an Dir die Aliens zu vertreiben und den Planeten zurückzuerobern. Stelle
 
 Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen laufen oder im Weltraum fliegen kann. Es gibt zwei Arten von Levels im Spiel. Oberflächen-Levels finden auf Planeten oder Monden statt und erlauben es dem Mech, zum Ende des Levels zu rennen und zu springen, während er gegen Feinde kämpft, wie in einem Side-Scrolling-Spiel. Weltraum-Levels haben keine Schwerkraft und erlauben es dem Mech, sich in jede Richtung zu bewegen. Der Mech kann mit einer großen Auswahl an Maschinengewehren, Lasern und Granaten ausgestattet werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Target Earth (USA)-image.png</image>
-		<marquee>./images/Target Earth (USA)-marquee.png</marquee>
-		<thumbnail>./images/Target Earth (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19900316T000000</releasedate>
 		<developer>Nippon Computer Systems (NCS)</developer>
@@ -1100,16 +861,12 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>811</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010834" />
 	</game>
 	<game id="72">
 		<name>Rocket Knight Adventures</name>
 		<desc>Rocket Knight Adventures für Mega Drive ist das erste seitwärts scrollende Action-Spiel mit Sparkster in der Hauptrolle. Er lebt im Königreich Zebulos und ist der tapferste aller Raketenritter. Eines Tages kommt in Rocket Knight Adventures eine Armee von Schweinen herab, um in das Königreich einzudringen und die Prinzessin zu fangen. Es liegt an Sparkster, die Dinge wieder in Ordnung zu bringen.
 </desc>
 		<genre>Plattform</genre>
-		<image>./images/Rocket Knight Adventures (USA)-image.png</image>
-		<marquee>./images/Rocket Knight Adventures (USA)-marquee.png</marquee>
-		<thumbnail>./images/Rocket Knight Adventures (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930801T000000</releasedate>
 		<developer>Konami</developer>
@@ -1119,15 +876,11 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>34</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010836" />
 	</game>
 	<game id="462">
 		<name>Fire Shark</name>
 		<desc>Fire Shark ist ein Shoot'em Up auf dem Megadrive, das während des Zweiten Weltkriegs spielt. Zehn Levels warten auf Sie, jedes voll von Luft-, Land- und Seegegnern. Zwischen den einzelnen Levels erhält Ihr Flugzeug verschiedene Boni, die von Ihrer Leistung abhängen. Weitere Boni können in den Levels aufgesammelt werden, um Ihre Feuerkraft zu erhöhen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Fire Shark (USA)-image.png</image>
-		<marquee>./images/Fire Shark (USA)-marquee.png</marquee>
-		<thumbnail>./images/Fire Shark (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19901001T000000</releasedate>
 		<developer>Toaplan</developer>
@@ -1136,15 +889,11 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2267</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010837" />
 	</game>
 	<game id="111">
 		<name>Wings of Wor</name>
 		<desc>In Gynoug für Mega Drive übernimmst Du die Rolle von Wor, einem geflügelten Kämpfer, der die Fähigkeit besitzt mit Energieblitzen zu werfen. Dein Planet wird von wuederlichen, bösartigen Monstern beherrscht. Erledige die Kreaturen und befreie in Gynoug für Mega Drive deinen Heimatplaneten! Erkunde die 6 spannenden Level und stelle Dich dem Endboss. Nutze 3 verschiedene Arten anzugreifen und sammle Federn ein, um schneller zu fliegen. Das Schicksal deiner Heimat liegt in Gynoug für Mega Drive in deiner Hand!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Wings of Wor (USA)-image.png</image>
-		<marquee>./images/Wings of Wor (USA)-marquee.png</marquee>
-		<thumbnail>./images/Wings of Wor (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Masaya Games</developer>
@@ -1153,15 +902,11 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>330</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010839" />
 	</game>
 	<game id="30">
 		<name>Phantasy Star IV</name>
 		<desc>In dem Rollenspiel Phantasy Star IV: Das Ende des Jahrtausends auf Megadrive führst du Chaz, einen jungen Söldner der Aiedo-Gilde. Während Dark Force, ein böses Wesen, dank des dunklen Zauberers Zio wieder aus der Dunkelheit auftaucht, wurdest du ausgewählt, um ein Team zusammenzustellen und dieser Bedrohung ein für alle Mal ein Ende zu setzen. Ihre Route wird mit vielen Kämpfen gespickt sein, die rundenbasiert ausgetragen werden müssen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Phantasy Star IV (USA)-image.png</image>
-		<marquee>./images/Phantasy Star IV (USA)-marquee.png</marquee>
-		<thumbnail>./images/Phantasy Star IV (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1171,15 +916,11 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>50</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010851" />
 	</game>
 	<game id="481703">
 		<name>VS Puyo Puyo Sun</name>
 		<desc>Eine vereinfachte Portierung von Puyo Puyo Sun, die als Bonusspiel für den SEGA Genesis Mini 2, außerhalb Nordamerikas als Mega Drive Mini 2 bekannt, veröffentlicht wurde. Diese im Oktober 2022 veröffentlichte Portierung enthält nur die Mehrspieler-Modi des Spiels. Diese Version des Spiels enthält die grundlegenden Sun-Regeln sowie zwei zusätzliche Varianten: Fusion Sun und Fading Sun, die das Zusammenspiel der Sun Puyo auf dem Spielfeld verändern.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/VS Puyo Puyo Sun (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2)-image.png</image>
-		<marquee>./images/VS Puyo Puyo Sun (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2)-marquee.png</marquee>
-		<thumbnail>./images/VS Puyo Puyo Sun (USA, Europe) (Mega Drive Mini 2, Genesis Mini 2)-thumb.png</thumbnail>
 		<releasedate>20221027T000000</releasedate>
 		<developer>Compile</developer>
 		<publisher>SEGA</publisher>
@@ -1187,7 +928,6 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T010854" />
 	</game>
 	<game id="10">
 		<name>Out of this World</name>
@@ -1195,9 +935,6 @@ Sie sind der Pilot eines Mech-Roboters, der entweder auf Planetenoberflächen la
 Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experimente durchführt. Die Explosion projiziert den jungen Wissenschaftler in eine besonders feindliche Parallelwelt. Lester wird schnell von einer humanoiden Spezies eingesperrt und trifft auf einen notdürftigen Begleiter.
 </desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Out of This World (USA)-image.png</image>
-		<marquee>./images/Out of This World (USA)-marquee.png</marquee>
-		<thumbnail>./images/Out of This World (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930301T000000</releasedate>
 		<developer>Delphine Software International</developer>
@@ -1207,15 +944,11 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>136</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010856" />
 	</game>
 	<game id="6">
 		<name>Landstalker</name>
 		<desc>Der Held Niels von Ahorn, ein junger Elf und Schatzsucher, macht zufällig die Bekanntschaft mit der Nymphe Flora, nachdem er einen gefährlichen Auftrag ausgeführt hat. Flora wird von einer Gauner-Bande verfolgt, bestehend aus der Anführerin Kayla und zwei stümperhaften Gestalten namens Ink und Wally. Das Trio will von Flora den genauen Aufenthaltsort der Schätze von König Nolo erfahren. Niels hilft Flora, sich vor den Verfolgern zu verstecken, woraufhin sie ihm verspricht, ihm die Schätze von König Nolo zu zeigen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Landstalker (USA)-image.png</image>
-		<marquee>./images/Landstalker (USA)-marquee.png</marquee>
-		<thumbnail>./images/Landstalker (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19931001T000000</releasedate>
 		<developer>Climax</developer>
@@ -1224,7 +957,6 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>561</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010903" />
 	</game>
 	<game id="31">
 		<name>Earthworm Jim</name>
@@ -1232,9 +964,6 @@ Das Spiel beginnt, als ein Blitz das Labor von Lester Chaykin trifft, der Experi
 
 Setzen Sie Ihre Peitsche, Ihren Plasma-Blaster und Ihren Hamster ein (der Ärmste...), um sich in 9 levels voll irrer Action an Chuck und Fifi, Evil the Cat, Major Mucus und vielen anderen Unholden vorbeizukämpfen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Earthworm Jim (USA)-image.png</image>
-		<marquee>./images/Earthworm Jim (USA)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940802T000000</releasedate>
 		<developer>Shiny Entertainment</developer>
@@ -1244,15 +973,11 @@ Setzen Sie Ihre Peitsche, Ihren Plasma-Blaster und Ihren Hamster ein (der Ärmst
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>11</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010909" />
 	</game>
 	<game id="299">
 		<name>Truxton</name>
 		<desc>Truxton ist eines der ersten 2D-Schießspiele. Ursprünglich ein Arcade-Spiel, war die Genesis-/Megadrive-Version die einzige Heimportierung des Spiels, die in den Vereinigten Staaten von Amerika und Europa veröffentlicht wurde (und ist ziemlich selten zu finden). Das Spiel wurde als "Tatsujin" auf der PC-Engine auch in Japan veröffentlicht. Das Spiel bietet die üblichen vertikal scrollenden Hintergründe, mehrere Runden/Stadien, Myriaden von gegnerischen Kämpfern, riesige Waffen und Power-Ups.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Truxton (World)-image.png</image>
-		<marquee>./images/Truxton (World)-marquee.png</marquee>
-		<thumbnail>./images/Truxton (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Toaplan</developer>
@@ -1262,15 +987,11 @@ Setzen Sie Ihre Peitsche, Ihren Plasma-Blaster und Ihren Hamster ein (der Ärmst
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>240</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010911" />
 	</game>
 	<game id="33">
 		<name>Mortal Kombat II</name>
 		<desc>Mortal Kombat II ist ein Kampfspiel auf Megadrive. Kombinationen, Todesfälle und andere Spezialattacken sind die Zutaten für den Erfolg eines Spiels, das für die Gewalt seiner Zusammenstöße bekannt ist. Der Spieler verkörpert einen von 12 Charakteren und muss alle seine direkten Konkurrenten einzeln besiegen, um das Turnier zu gewinnen und die Herrschaft des bösen Shao Kahn zu beenden.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Mortal Kombat II (World)-image.png</image>
-		<marquee>./images/Mortal Kombat II (World)-marquee.png</marquee>
-		<thumbnail>./images/Mortal Kombat II (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Probe Software</developer>
@@ -1280,7 +1001,6 @@ Setzen Sie Ihre Peitsche, Ihren Plasma-Blaster und Ihren Hamster ein (der Ärmst
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>60</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010918" />
 	</game>
 	<game id="320">
 		<name>Chiki Chiki Boys</name>
@@ -1288,9 +1008,6 @@ Setzen Sie Ihre Peitsche, Ihren Plasma-Blaster und Ihren Hamster ein (der Ärmst
 Am selben Tag brachte die Königin Zwillinge zur Welt! Heute sind die Söhne von König Chiki Chiki erwachsen und bereit, denen, die einst ihre Stadt abschlachteten, ein Ende zu setzen.
 Wählen Sie zwischen der Rolle von Chiki Boy 1, einem Meisterschwertkämpfer wie sein Vater, oder Chiki Boy 2, der, ähnlich wie seine Mutter, ein großer Kenner der Magie geworden ist. Speichern Sie die drei Welten - Erde, Luft und Wasser - in der von Ihnen gewünschten Reihenfolge. Das Wichtigste ist, dass Sie Ihr ultimatives Ziel erfüllen: Bringen Sie den Frieden zurück in Ihr Land und geben Sie das Königreich an seine wahren Erben zurück!</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Chiki Chiki Boys (USA, Europe)-image.png</image>
-		<marquee>./images/Chiki Chiki Boys (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Chiki Chiki Boys (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1299,7 +1016,6 @@ Wählen Sie zwischen der Rolle von Chiki Boy 1, einem Meisterschwertkämpfer wie
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>603</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010923" />
 	</game>
 	<game id="219">
 		<name>Sparkster</name>
@@ -1307,9 +1023,6 @@ Wählen Sie zwischen der Rolle von Chiki Boy 1, einem Meisterschwertkämpfer wie
 
 Sparkster hat schon wieder Ärger! Aus dem Chaos, das nach Zerstörung des starken Raumschiffs "Pigstar" des mächtigen Devotindos-Königreichs herrschte, hat ein anderes hinterträchtiges, die schwarze Magie beherrschendes Königreich sein häßliches Haupt erhoben. Erneut steht Sparkster allein da, die einzige Hoffnung auf Frieden gegen die Mächte des Bösen. Laß das Abenteuer beginnen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sparkster (USA)-image.png</image>
-		<marquee>./images/Sparkster (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sparkster (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Konami</developer>
@@ -1319,15 +1032,11 @@ Sparkster hat schon wieder Ärger! Aus dem Chaos, das nach Zerstörung des stark
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2399</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010925" />
 	</game>
 	<game id="27">
 		<name>QuackShot Starring Donald Duck</name>
 		<desc>QuackShot mit Donald Duck ist ein Plattformspiel auf Megadrive, das auf der Zeichentrickserie "The Scribe Band" basiert. Der Spieler leitet Donald, der mit seinen drei Neffen Riri, Fifi und Loulou nach Schätzen gesucht hat. Es wird in Ägypten, Indien, am Südpol und sogar in Siebenbürgen mehrere Level bereisen müssen, um die Feinde mit verschiedenen Waffen loszuwerden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/QuackShot Starring Donald Duck (World) (Rev A)-image.png</image>
-		<marquee>./images/QuackShot Starring Donald Duck (World) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/QuackShot Starring Donald Duck (World) (Rev A)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911219T000000</releasedate>
 		<developer>Disney Interactive</developer>
@@ -1337,15 +1046,11 @@ Sparkster hat schon wieder Ärger! Aus dem Chaos, das nach Zerstörung des stark
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>218</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010931" />
 	</game>
 	<game id="55">
 		<name>Lightening Force : Quest for the Darkstar</name>
 		<desc>11 Jahre nach den Ereignissen von Thunder Force V hat die Erde endlich begonnen, sich von der wütenden KI "Guardian" zu erholen, die den Planeten beinahe zerstört hätte, als eine furchterregende außerirdische Bedrohung namens Orn Faust auftaucht und die Erde angreift. Wehrlos gegen die schiere Macht dieses Feindes, wendet sich die einheitliche Erde in einem letzten verzweifelten Versuch der mysteriösen Vasteel-Technologie zu, die tief im Untergrund versiegelt worden war, aber mit der Annäherung des Orn Faust wieder erwacht ist. Diese verlorene Technologie in Thunder Force IV wird benutzt, um die letzte Hoffnung der Menschheit zu schaffen, ein experimentelles Kampfflugzeug namens Phoenix, das sich auf den Weg macht, um gegen Orn Faust an der Quelle zurückzuschlagen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Lightening Force - Quest for the Darkstar (USA)-image.png</image>
-		<marquee>./images/Lightening Force - Quest for the Darkstar (USA)-marquee.png</marquee>
-		<thumbnail>./images/Lightening Force - Quest for the Darkstar (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Technosoft</developer>
@@ -1355,7 +1060,6 @@ Sparkster hat schon wieder Ärger! Aus dem Chaos, das nach Zerstörung des stark
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>293</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010933" />
 	</game>
 	<game id="50">
 		<name>Light Crusader</name>
@@ -1365,9 +1069,6 @@ Sie ziehen los, um das Geheimnis zu lüften. Setzen Sie Ihre wirbelnde Klinge, a
 
 Light Crusader entführt Sie in das Abenteuer Ihres Lebens. Viele spannende Stunden voll Rätseln zum Haareraufen, Gegner, zum Fürchten und Freunden zum Feiern liegen vor Ihnen. Atemberaubende Graphik und die Speicheroption vollenden eine Reise ohnegleichen – auf dem Mega Drive!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Light Crusader (USA)-image.png</image>
-		<marquee>./images/Light Crusader (USA)-marquee.png</marquee>
-		<thumbnail>./images/Light Crusader (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19950525T000000</releasedate>
 		<developer>Treasure</developer>
@@ -1375,15 +1076,11 @@ Light Crusader entführt Sie in das Abenteuer Ihres Lebens. Viele spannende Stun
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T010935" />
 	</game>
 	<game id="210">
 		<name>Pulseman</name>
 		<desc>Pulseman ist ein elektrischer Held, der zur Bekämpfung der Cyberkriminalität geschaffen wurde. Bekämpfen Sie die Galaxie-Bande in 7 Stufen mit etwa 50 Levels. Pulseman lässt sich am besten als eine Verschmelzung des Gameplays von Sonic the Hedgehog und Mega Man in der Art des Gameplays beschreiben.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Pulseman (Japan)-image.png</image>
-		<marquee>./images/Pulseman (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Pulseman (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19940722T000000</releasedate>
 		<developer>Game Freak</developer>
@@ -1392,16 +1089,12 @@ Light Crusader entführt Sie in das Abenteuer Ihres Lebens. Viele spannende Stun
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>650</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010937" />
 	</game>
 	<game id="426">
 		<name>Elemental Master</name>
 		<desc>Elemental Master ist ein Top-Down-Shoot-Em-Up-Videospiel, das von TechnoSoft für den Sega Mega Drive entwickelt und 1990 in Japan und 1993 in Nordamerika von Renovation Products veröffentlicht wurde.
 Das Spiel rollt automatisch nach oben. Der Spieler kann wählen, ob er nach oben oder nach unten schießen möchte. Es gibt verschiedene Waffen (Arten von Magie), die auf den Elementen basieren. Wie bei anderen Spielen des Genres gibt es auch hier unzählige seltsame Feinde zu zerstören.Von den sieben Levels des Spiels kann der Spieler die Reihenfolge der ersten vier wählen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Elemental Master (USA)-image.png</image>
-		<marquee>./images/Elemental Master (USA)-marquee.png</marquee>
-		<thumbnail>./images/Elemental Master (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Technosoft</developer>
@@ -1410,7 +1103,6 @@ Das Spiel rollt automatisch nach oben. Der Spieler kann wählen, ob er nach oben
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4247</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010939" />
 	</game>
 	<game id="59">
 		<name>X-Men 2 : Clone Wars</name>
@@ -1418,9 +1110,6 @@ Das Spiel rollt automatisch nach oben. Der Spieler kann wählen, ob er nach oben
 
 Jeder X-Men hat seine ganz eigenen Fähigkeiten, die ihm im Kampf gegen zahlreiche Gegner helfen!</desc>
 		<genre>Plattform</genre>
-		<image>./images/X-Men 2 - Clone Wars (USA, Europe)-image.png</image>
-		<marquee>./images/X-Men 2 - Clone Wars (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/X-Men 2 - Clone Wars (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950301T000000</releasedate>
 		<developer>Headgames</developer>
@@ -1430,15 +1119,11 @@ Jeder X-Men hat seine ganz eigenen Fähigkeiten, die ihm im Kampf gegen zahlreic
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>80</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010946" />
 	</game>
 	<game id="367">
 		<name>Warsong</name>
 		<desc>Das Dalsis Imperium belagtert das Schloss Baltia um das legendäre Schwert Warsong zu erhalten. Als letzten Ausweg schickt König Alfadir seinen einzigen Sohn Prinz Garett fort, um ihn vor dem sicheren Tod zu bewahren. Übernimm in Warsong für Mega Drive die Rolle von Garret und sammle Verbündete im ganzen Königreich und führe sie in den Kampf gegen das Dalsis Imperium. Kommandiere Truppen und wähle deine Generale sorgfältig. Verbünde Dich in Warsong für Mega Drive mit treuen Untergebenen und sichere so die Zukunft deines Königreichs. Nimm Dich in Acht vor mordlustigen Dieben und Soldaten, stelle Dich dem ultimativen Bösen und erobere das Legendäre Schwert in Warsong für Mega Drive zurück.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Warsong (USA)-image.png</image>
-		<marquee>./images/Warsong (USA)-marquee.png</marquee>
-		<thumbnail>./images/Warsong (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920301T000000</releasedate>
 		<developer>Masaya Games</developer>
@@ -1448,16 +1133,12 @@ Jeder X-Men hat seine ganz eigenen Fähigkeiten, die ihm im Kampf gegen zahlreic
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2157</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T010951" />
 	</game>
 	<game id="160">
 		<name>Dragon's Fury</name>
 		<desc>Das zweite Spiel aus der "Crush Pinball"-Reihe!
 Eine wirklich überwältigende Folterkammer des Schreckens erwartet dich in diesem besten aller Video-Flipperspiele. Unglaubliche Grafiken und Spiele voller Action. Es gibt 6 Bonuslevel, in denen du eine Milliarde Punkte erzielen kannst - natürlich nur wenn du gut genug bist!</desc>
 		<genre>Flipper</genre>
-		<image>./images/Dragon's Fury (USA, Europe)-image.png</image>
-		<marquee>./images/Dragon's Fury (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Dragon's Fury (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19920924T000000</releasedate>
 		<developer>Naxat Soft</developer>
@@ -1466,7 +1147,6 @@ Eine wirklich überwältigende Folterkammer des Schreckens erwartet dich in dies
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T010956" />
 	</game>
 	<game id="141">
 		<name>Thunder Force III</name>
@@ -1474,9 +1154,6 @@ Eine wirklich überwältigende Folterkammer des Schreckens erwartet dich in dies
 
 Non-Stop-Action garantiert mit Thunder Force III !!!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Thunder Force III (Japan, USA) (En)-image.png</image>
-		<marquee>./images/Thunder Force III (Japan, USA) (En)-marquee.png</marquee>
-		<thumbnail>./images/Thunder Force III (Japan, USA) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19900608T000000</releasedate>
 		<developer>Technosoft</developer>
@@ -1486,7 +1163,6 @@ Non-Stop-Action garantiert mit Thunder Force III !!!</desc>
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>2166</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011002" />
 	</game>
 	<game id="395">
 		<name>Granada</name>
@@ -1496,9 +1172,6 @@ Granada ist ein frei scrollender Shooter. Sie steuern den Maneuver Cepter "Grana
 
 Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaft können Sie die Schussrichtung beibehalten und sich trotzdem frei fortbewegen. Das Spiel hat neun Stufen und drei Schwierigkeitsgrade.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Granada (Japan, USA) (En) (Rev A)-image.png</image>
-		<marquee>./images/Granada (Japan, USA) (En) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Granada (Japan, USA) (En) (Rev A)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19901116T000000</releasedate>
 		<developer>Wolf Team</developer>
@@ -1506,15 +1179,11 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<players>1</players>
 		<lang>en,jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T011007" />
 	</game>
 	<game id="87">
 		<name>Zombies Ate My Neighbors</name>
 		<desc>Man bewegt sich in diesem Spiel nach der Wahl seiner Spielfigur durch einzelne Spielabschnitte, in denen es darum geht, eine bestimmte Anzahl Personen vor verschiedenen Gegnern, die größtenteils dem Horror-Genre entlehnt sind, zu retten. Dabei schaut man leicht schräg von oben auf das Geschehen (isometrisch), und bewegt sich recht frei durch handgezeichnete, in sich geschlossene Gebiete, die verschiedene Alltagssituationen darstellen. Insgesamt gibt es 48 Spielszenarien. Zur Abwehr der Gegner hat man eine handvoll sehr skurriler Dinge zur Verfügung, die von aufblasbaren Clowns über Wasserpistolen bis hin zu Tränken reichen, die einen selbst in verschiedene Monster transformieren.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Zombies Ate My Neighbors (USA)-image.png</image>
-		<marquee>./images/Zombies Ate My Neighbors (USA)-marquee.png</marquee>
-		<thumbnail>./images/Zombies Ate My Neighbors (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19931101T000000</releasedate>
 		<developer>LucasArts</developer>
@@ -1523,15 +1192,11 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>407</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011009" />
 	</game>
 	<game id="5">
 		<name>Sonic The Hedgehog</name>
 		<desc>Durchbrechen Sie die Videospiel-Geschwindigkeitsbarriere mit Sonic The Hedgehog. Fetzen Sie mit dem Super Sonic Spin Attack (Überschall-Drehangriff) wie ein Wirbelwind herbei. Überwinden Sie die Schwerkraft mit einem Loop. Und sie können sogar in einem sich um 360 Grad drehenden Irrgarten herumwirbeln. So etwas haben Sie noch nicht erlebt!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic The Hedgehog (Japan, Europe, Korea) (En)-image.png</image>
-		<marquee>./images/Sonic The Hedgehog (Japan, Europe, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic The Hedgehog (Japan, Europe, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910623T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1541,15 +1206,11 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<lang>en,kr,jp</lang>
 		<region>eu</region>
 		<cheevosId>29895</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011011" />
 	</game>
 	<game id="42">
 		<name>Ristar</name>
 		<desc>In diesem Action-Spiel auf Megadrive steuerst du Ristar mit einzigartigem Gameplay. Eliminiere deine Feinde mit deinen elastischen Armen und klettere, wo immer du willst, um einen Tyrannen zu vernichten, der die Kontrolle über ein Planetensystem erlangt hat.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ristar (USA, Europe)-image.png</image>
-		<marquee>./images/Ristar (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Ristar (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19950217T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1558,15 +1219,11 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>83</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011013" />
 	</game>
 	<game id="28">
 		<name>Golden Axe</name>
 		<desc>„Golden Axe“ versetzt dich in die Rolle eines von drei Kriegern, die auf Rache an Death Adder sinnen, dem grausamen Tyrannen, der das einst friedliche Land Yuria unterworfen und ihren Freund Alex ermordet hat. Gilius Thunderhead, ein zwergischer Krieger aus den Minenschächten von Wolud, will seinen gefallenen Zwillingsbruder rächen. Ax Battler, ein Barbar mit einem zweihändigen Breitschwert, sucht Vergeltung für den Tod seiner Mutter. Tyris Flare, eine Amazone mit einem Langschwert, will den Mord an ihren Eltern sühnen. Um ihren Feind zu besiegen, kämpfen sich die Helden durch Death Adders Armeen, setzen ihre Kampfkunst ein und nutzen mächtige Magie, die allen Gegnern auf dem Bildschirm Schaden zufügen kann. Die Stärke der Zauber hängt von der gesammelten magischen Energie ab, die im Laufe des Spiels verstärkt werden kann.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Golden Axe (World) (Rev A)-image.png</image>
-		<marquee>./images/Golden Axe (World) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Golden Axe (World) (Rev A)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900201T000000</releasedate>
 		<developer>Team Shinobi</developer>
@@ -1576,15 +1233,11 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>18</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011015" />
 	</game>
 	<game id="397">
 		<name>Herzog Zwei</name>
 		<desc>Die Prämisse ist, dass sich zwei gegnerische Streitkräfte im Kampf miteinander befinden. Jeder Spieler steuert ein Düsenflugzeug, das über den Bildschirm zoomt und sich in einen Bodensoldaten verwandeln kann. Diese Bodensoldaten können gegnerische Einheiten verletzen, aber keine Basen beeinflussen. Um über die Karte verstreute Basen (und letztlich die gegnerische Basis) zu übernehmen, muss der Spieler neue Einheiten kaufen und sie zu bestimmten Positionen transportieren. Auf diese Weise fungiert der Spieler eher als Transport- und Verwaltungseinheit für die verschiedenen Einheitentypen, als dass er selbst eine Kampffigur wäre. Sollte das Flugzeug jemals zerstört werden, startet es an der Position der Basis des Spielers neu. Wie bereits erwähnt, ist ein Level abgeschlossen, wenn die Basis einer der beiden Seiten an die gegnerischen Streitkräfte verloren geht.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Herzog Zwei (USA, Europe)-image.png</image>
-		<marquee>./images/Herzog Zwei (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Herzog Zwei (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Technosoft</developer>
@@ -1593,16 +1246,12 @@ Besonders erwähnenswert ist die fixierte Kanonenfunktion. Mit dieser Eigenschaf
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>585</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011017" />
 	</game>
 	<game id="26">
 		<name>Ecco the Dolphin</name>
 		<desc>Ecco the Dolphin ist eine Videospielreihe, die mit dem erstmals 1992 von der Firma Sega für den Sega Mega Drive veröffentlichten gleichnamigen Spiel ins Leben gerufen wurde. Das Spiel wurde entwickelt von Appaloosa Interactive.
 Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn in eine fremde Unterwasserwelt entführen. So hilft er an manchen Stellen in Not geratenen Tieren, die sich alleine in der Unterwasserwelt nicht mehr zurechtfinden. Oder er fängt Fische, leitet einen Fischschwarm oder schwimmt einfach ein Wettrennen. Bei Berührung von Quallen oder im Kampf gegen bisswütige Haie verliert Ecco an Lebensenergie. Da Ecco auf Atemluft angewiesen ist, muss er ständig an die Oberfläche oder Luftblasen finden. Zur Verteidigung und zur Verständigung setzt Ecco sein Sonar ein. Damit kann er sich nicht nur mit Artgenossen verständigen, sondern auch die nähere Umgebung erforschen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Ecco the Dolphin (USA, Europe, Korea) (En)-image.png</image>
-		<marquee>./images/Ecco the Dolphin (USA, Europe, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Ecco the Dolphin (USA, Europe, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19921201T000000</releasedate>
 		<developer>Novotrade</developer>
@@ -1612,15 +1261,11 @@ Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn
 		<lang>kr,en</lang>
 		<region>eu</region>
 		<cheevosId>8</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011019" />
 	</game>
 	<game id="140">
 		<name>Vectorman</name>
 		<desc>Im Jahr 2043 gleicht die Erde einer riesigen, von unermüdlichen Robotern gereinigten Giftmüllhalde. Als ihr Anführer durchdreht und die trüben Reste der Welt zu sprengen droht, kann nur der unnachahmliche Vectorman ihn aufhalten. Die umwerfende 3-D-Grafik und rasante Actionjagden erwarten Dich schon! Vectorman für Mega Drive ist das Spiel, auf das alle SEGA-Actionfans gewartet haben. Dieses Game stellt sogar Earthworm Jim in den Schatten. Teils brilliante Effekte, die man dem Mega Drive nie zugetraut hätte. Unglaubliche Animationen, sehr farbenprächtig, spektakulär und abwechslugnsreiche Level.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Vectorman (USA, Europe)-image.png</image>
-		<marquee>./images/Vectorman (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Vectorman (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19951130T000000</releasedate>
 		<developer>BlueSky Software</developer>
@@ -1629,15 +1274,11 @@ Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>25</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011021" />
 	</game>
 	<game id="64">
 		<name>Earthworm Jim 2</name>
 		<desc>Ein gewöhnlicher durchschnittlicher Regenwurm namens Jim geht über sein normales tägliches Leben, kreuzend um Krähen zu vermeiden und andere allgemeine wurmartige Dinge zu tun. Bis Jim eines Tages plötzlich von einem sehr großen Ultra-High-Tech-unzerstörbaren Super-Super-Space-Cyber-Anzug getroffen wird. Durch reines Glück ruht Jim sicher im Halsring des Anzugs. Plötzlich beginnen die ultra-hochtechnologischen Raumpartikel des Anzugs mit Jims weichem, wurmigen Fleisch zu interagieren. Es findet eine radikale Evolution der Lichtgeschwindigkeit statt. Jim merkt bald, dass er jetzt die Kontrolle über den Anzug hat.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Earthworm Jim 2 (USA)-image.png</image>
-		<marquee>./images/Earthworm Jim 2 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Earthworm Jim 2 (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19951115T000000</releasedate>
 		<developer>Playmates Interactive</developer>
@@ -1647,15 +1288,11 @@ Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2182</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011022" />
 	</game>
 	<game id="81">
 		<name>Sunset Riders</name>
 		<desc>El juego, el cual está colocado en una ficticia versión del Viejo Oeste estadounidense, se desarrolla sobre cuatro cazarrecompensas quienes buscan su premio por eliminar a los forajidos más buscados del oeste. No hay una verdadera "línea de historia" más que la de recolectar progresivamente recompensas más altas. Al comienzo de cada nivel al jugador se le muestra un cartel de "Se busca", mostrando al criminal, la recompensa por detenerlo, y la línea cliché de "Se busca vivo o muerto".</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Sunset Riders (USA)-image.png</image>
-		<marquee>./images/Sunset Riders (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sunset Riders (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Konami</developer>
@@ -1664,7 +1301,6 @@ Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>110</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011031" />
 	</game>
 	<game id="256">
 		<name>Micro Machines : Turbo Tournament 96</name>
@@ -1672,9 +1308,6 @@ Der Spieler schlüpft in die Rolle des jungen Delfins Ecco, dessen Abenteuer ihn
 
 Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race und Time Trial-Race ist im J-Cart ein hervorragender Multiplayer-Modus enthalten. Stecken Sie einfach zwei zusätzliche Joypads in die Kassettensteckplätze und bis zu 8 (!) Spieler können gleichzeitig auf derselben Strecke fahren (immer zwei Spieler teilen sich ein Pad). Mit dem mitgelieferten Baukasten können Sie sogar eigene Schienen erstellen und speichern. Es können bis zu neun Titel gespeichert werden.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)-image.png</image>
-		<marquee>./images/Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)-marquee.png</marquee>
-		<thumbnail>./images/Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19950701T000000</releasedate>
 		<developer>Supersonic Software</developer>
@@ -1683,15 +1316,11 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 		<players>1-8</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T011033" />
 	</game>
 	<game id="186">
 		<name>MUSHA : Metallic Uniframe Super Hybrid Armor</name>
 		<desc>Dire51, ein Supercomputer, der zur Kontrolle einer Weltraumkolonie entwickelt wurde, ist abtrünnig geworden und sendet seine Kampfroboter, angeführt von Mech Big Asia, um die Menschheit zu zerstören. Ein Team von Kämpfern in riesigen Mechs versucht sie zu stoppen, aber alle bis auf einen, Ellinor (Terri in der US-Version), werden getötet, und Ellinor muss die Menschheit allein vor der Zerstörung retten.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/MUSHA - Metallic Uniframe Super Hybrid Armor (USA)-image.png</image>
-		<marquee>./images/MUSHA - Metallic Uniframe Super Hybrid Armor (USA)-marquee.png</marquee>
-		<thumbnail>./images/MUSHA - Metallic Uniframe Super Hybrid Armor (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Compile</developer>
@@ -1701,15 +1330,11 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>644</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011039" />
 	</game>
 	<game id="469">
 		<name>NHL 95</name>
 		<desc>NHL '95 war das dritte lizenzierte Eishockeyspiel von EA Sports und versprach die bisher schnellste Action in der Serie. Die Action wird von oben nach unten betrachtet, und kann mit oder ohne realistische Strafen gespielt werden. Es gibt einen vollständigen Saisonmodus, der es Ihnen erlaubt, ein Team durch alle 84 Spiele zu führen, mit der Möglichkeit, dass Spieler durch Verletzungen eine Reihe von Spielen ausfallen können. Sie haben die volle Kontrolle über den Handel und die Erstellung von Spielern für Ihren Kader. Zu den neuen Spielzügen im Spiel gehören Dummy-Schüsse und Liegend-Blocks.</desc>
 		<genre>Sport / Eishockey</genre>
-		<image>./images/NHL 95 (USA, Europe)-image.png</image>
-		<marquee>./images/NHL 95 (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/NHL 95 (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19941027T000000</releasedate>
 		<developer>High Score Productions</developer>
@@ -1718,15 +1343,11 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 		<players>1-4</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T011040" />
 	</game>
 	<game id="227">
 		<name>Ranger X</name>
 		<desc>Die Stämme des Heimatplaneten verteidigen sich gegen den Überraschungsangriff der Rahuna. Die Entwicklungsorganisation Tribe Tech und die Streitkräfte Tribe Ranger haben einen bewaffneten Anzug entwickelt, der uns den entscheidenden Vorteil verschaffen könnte. Doch diese Rüstung und ihre Bewaffnung sind nichts wert ohne jemanden, der sie auch richtig nutzen kann. Bist Du Ranger X?</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Ranger X (USA)-image.png</image>
-		<marquee>./images/Ranger X (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ranger X (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19930527T000000</releasedate>
 		<developer>GAU Entertainment</developer>
@@ -1735,15 +1356,11 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>556</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011042" />
 	</game>
 	<game id="35">
 		<name>Comix Zone</name>
 		<desc>Hinein in die Comix Zone... den ersten wirklich interaktiven Comic Strip!! Merkwürdige Umstände halten Comic-Zeichner Sketch in den Seiten seines apokalyptischen Comics gefangen, und der Zeichenstift ist in der Gewalt seiner wohl fiesesten Schöpfung: Mortus. Arbeite dich langsam von Bild zu Bild und von Seite zu Seite vor, während du schier übermächtigen Gegnern gegenüberstehst - auf deiner Flucht aus der COMIX ZONE.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Comix Zone (USA)-image.png</image>
-		<marquee>./images/Comix Zone (USA)-marquee.png</marquee>
-		<thumbnail>./images/Comix Zone (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19950802T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1752,7 +1369,6 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>53</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011044" />
 	</game>
 	<game id="78">
 		<name>Strider</name>
@@ -1760,9 +1376,6 @@ Neben Challenge-Race, Head-to-Head-Race, League-Race, Time Trial Challenge-Race 
 
 Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie rennen, springen, Akrobatik betreiben und Wände und Überhänge erklimmen. Du schwingst ein Plasma-Schwert, genannt Cypher, durch 5 Levels und kämpfst gegen Roboter und Wachen sowie Boss Fights in der Mitte und am Ende jedes Levels.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Strider (USA, Europe)-image.png</image>
-		<marquee>./images/Strider (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Strider (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910501T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1772,15 +1385,11 @@ Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>250</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011045" />
 	</game>
 	<game id="231">
 		<name>Mega Turrican</name>
 		<desc>Unnachgiebig destruktiv, unbarmherzig böse, wirft “die Maschine” in Mega Turrican für Mega Drive nochmals einen Schatten der Angst über die Milchstraße. Eingehüllt in eine Angriffswolke von Turrican, strotzend mit hochtechnischer militärischer Hardware, stehst Du in Mega Turrican für Mega Drive ganz alleine da. Es wird ein heftiger Angriff werden.</desc>
 		<genre>Plattform / Shooter Scrolling</genre>
-		<image>./images/Mega Turrican (USA)-image.png</image>
-		<marquee>./images/Mega Turrican (USA)-marquee.png</marquee>
-		<thumbnail>./images/Mega Turrican (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19940607T000000</releasedate>
 		<developer>Factor 5</developer>
@@ -1790,15 +1399,11 @@ Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>294</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011047" />
 	</game>
 	<game id="379">
 		<name>Super Fantasy Zone</name>
 		<desc>Die Super Fantasy Zone für Mega Drive wird belagert! Dark Menon ist wieder da und seine Armee ist stärker denn je! Führe Opa-Opa durch Horden von Feinden und stoppe die Menons für immer! In diesem Side-Scrolling Shooter kontrolliert Ihr Opa-Opa und habt die Aufgabe auf Basen mit Bomben zu schießen und zu zerstören, um am Ende jedes Level gegen ein Boss anzutreten. Besiege ein für alle Mal Dark Menon!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Super Fantasy Zone (Europe)-image.png</image>
-		<marquee>./images/Super Fantasy Zone (Europe)-marquee.png</marquee>
-		<thumbnail>./images/Super Fantasy Zone (Europe)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Sunsoft</developer>
@@ -1808,15 +1413,11 @@ Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>2348</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011049" />
 	</game>
 	<game id="591">
 		<name>Sensible Soccer : International Edition</name>
 		<desc>Veröffentlicht zur Zeit der Fußball-Weltmeisterschaft 1994, bot diese Version von Sensible Soccer zum ersten Mal auch Teams von außerhalb Europas. Selbst Nationen, welche sich nicht für das Turnier '94 qualifiziert hatten, bekommen hier eine Chance. Das Turnier lässt sich frei konfigurieren und bietet somit die Möglichkeit, dass Turnier mit seinen 24 Wunschkandidaten zu spielen. Alle Kader wurden aktualisiert und bieten Platz für ausgiebige Transfermöglichkeiten. Das typische "Sensi"-Gefühl kommt sofort auf und sollte jeden Fan der Serie sofort einfangen.</desc>
 		<genre>Sport / Fußball</genre>
-		<image>./images/International Sensible Soccer (Europe) (En,Fr,De,It)-image.png</image>
-		<marquee>./images/International Sensible Soccer (Europe) (En,Fr,De,It)-marquee.png</marquee>
-		<thumbnail>./images/International Sensible Soccer (Europe) (En,Fr,De,It)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19940715T000000</releasedate>
 		<developer>Renegade Software</developer>
@@ -1826,15 +1427,11 @@ Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie
 		<lang>it,de,fr,en</lang>
 		<region>eu</region>
 		<cheevosId>5017</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011050" />
 	</game>
 	<game id="1022">
 		<name>Battle Mania Daiginjou</name>
 		<desc>Battle Mania Daiginjo ist ein Scrolling-Shooter im Anime-Stil und die Fortsetzung von Trouble Shooter. Der Spieler steuert Mania und Maria gleichzeitig als Paar, wobei Maria dicht hinter Mania folgt und auch in der Lage ist, sich zu drehen und nach hinten zu schießen. Im Gegensatz zu den meisten Shootern hat Mania eine Gesundheitsanzeige, die per Pickup wieder aufgefüllt werden kann. Es gibt eine Vielzahl von Waffen, aus denen Sie zu Beginn jeder Stufe wählen können, und im Laufe des Spiels können die Waffen aufgerüstet werden. Es gibt auch einen Bombenangriff, der den Bildschirm löscht, der aber jedes Mal neu geladen werden muss, wenn er verwendet wird.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Battle Mania Daiginjou (Japan, Korea) (Ja)-image.png</image>
-		<marquee>./images/Battle Mania Daiginjou (Japan, Korea) (Ja)-marquee.png</marquee>
-		<thumbnail>./images/Battle Mania Daiginjou (Japan, Korea) (Ja)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19931224T000000</releasedate>
 		<developer>Vic Tokai Corporation</developer>
@@ -1844,16 +1441,12 @@ Mit Strider, das aus dem klassischen Arcade-Spiel konvertiert wurde, können Sie
 		<lang>kr,jp</lang>
 		<region>jp</region>
 		<cheevosId>3108</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T011055" />
 	</game>
 	<game id="101">
 		<name>Toki : Going Ape Spit</name>
 		<desc>Toki: Going Ape Spit für Mega Drive nimmt Dich mit auf ein affenstarkes Abenteuer! Der fiese Dr. Stark hat deine Freundin Wanda entführt und Dich in einen Affen verwandelt! Es liegt an Dir sie zu retten und deine menschliche Form wiederzuerlangen. Erlebe in Toki: Going Ape Spit für Mega Drive spannende Level quer durch den Jungel, auf dem Eis, Unterwasser und in vulkanischen Höhlen. Besiege Feinde, indem Du sie anspuckst und verbessere deine "Waffe" mit verschiedensten Power-Ups.
 Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Toki - Going Ape Spit (USA, Europe)-image.png</image>
-		<marquee>./images/Toki - Going Ape Spit (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Toki - Going Ape Spit (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920301T000000</releasedate>
 		<developer>Santos</developer>
@@ -1862,15 +1455,11 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>305</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102416" />
 	</game>
 	<game id="77">
 		<name>Phantasy Star III : Generations of Doom</name>
 		<desc>Vor langer Zeit verwüstete ein großer Krieg zwischen Orakio und Laya den Planeten. 1000 Jahre später beschließt ein junger Orakianer namens Rhys, die wunderschöne Maya zu heiraten, die sein Herz auserwählt hat. Aber während der Trauung erscheint eine seltsame Kreatur und entführt die Braut. Waren das die legendären Layans, die die Prinzessin entführt haben? Was auch immer die Antwort sein mag, Rhys muss es selbst herausfinden. Er muss seine Geliebte finden ...Dieses Spiel führt uns zurück in eine mittelalterliche Umgebung. Das Kampfsystem ähnelt dem des Vorgängers Phantasy Star II: Sie können einfache Angriffe und spezielle Techniken, für die TP (Technikpunkte) erforderlich sind, in einem rundenbasierten Kampf mit zufälligen Begegnungen mit Feinden ausführen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)-image.png</image>
-		<marquee>./images/Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19911001T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1880,15 +1469,11 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<lang>kr,en</lang>
 		<region>eu</region>
 		<cheevosId>1435</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102427" />
 	</game>
 	<game id="354">
 		<name>Starflight</name>
 		<desc>Wenn Sie sich auf diese Mission begeben, werden Sie mit Sicherheit viele Hindernisse zu überwinden haben. Das Universum ist unermesslich und unbekannt, und dort werden Sie dieses mächtige Schiff und seine Crew kommandieren. Erforschen Sie 270 Sternensysteme und 800 verschiedene Planeten, die in allen möglichen Formen bewohnt sind. Hören Sie die Geräusche des Weltraums: rasende Meteoriten, ohrenbetäubende Schläge und sogar die digitalisierte Stimme des Raumschiffcomputers! Um das eigene Überleben zu sichern, können Sie einen Reisebegleiter aus den vier vorhandenen Aliens wählen. Jeder hat eine andere Persönlichkeit und Kultur, aber alle kennen die Geheimnisse der Wissenschaft, Kommunikation, Navigation, Medizin und Technik wie kein anderer. Nur wenn wir die Geheimnisse der Vergangenheit unserer Galaxie erforschen, können wir ihre Zukunft retten!</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Starflight (USA, Europe) (Rev A)-image.png</image>
-		<marquee>./images/Starflight (USA, Europe) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Starflight (USA, Europe) (Rev A)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>BlueSky Software</developer>
@@ -1896,15 +1481,11 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102428" />
 	</game>
 	<game id="357">
 		<name>Gods</name>
 		<desc>Um Dir als Herkules Deinen Platz unter den Unsterblichen zu sichern, musst Du Deinen ganzen Verstand einsetzen. Erforsche phantastische Tempel, verlorene Städte, versteckte Unterwelten und verzwickte Labyrinthe, die von intelligenten und äußerst gerissenen Widersachern bewacht werden. Die gesamte Aufgabe wird dem Grad Deiner Geschicklichkeit angepasst, und der mitreißende Rhythmus des Bitmap Brothers-Soundtracks begleitet jeden Deiner Schritte. Probiere alles aus, denn es gibt zahllose Möglichkeiten, einen Level zu bewältigen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Gods (USA)-image.png</image>
-		<marquee>./images/Gods (USA)-marquee.png</marquee>
-		<thumbnail>./images/Gods (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Graftgold Creative Software</developer>
@@ -1912,15 +1493,11 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T102430" />
 	</game>
 	<game id="106">
 		<name>Alien Storm</name>
 		<desc>Eklige, dauernd ihre Gestalt verändernde Geschöpfe aus dem Weltall überlaufen deine Stadt. Röste die schleimigen Widerlinge und sabotiere ihren Plan zur Welteroberung! Halte mit Strahlenkanonen, Flammenwerfern, Powerpeitschen und mehr auf sie drauf! Aus zwei verschiedenen Perspektiven, einschließlich einer 3D-Sicht. Die Spannung kocht in diesem Spielhallenklassiker!</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Alien Storm (World)-image.png</image>
-		<marquee>./images/Alien Storm (World)-marquee.png</marquee>
-		<thumbnail>./images/Alien Storm (World)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1929,15 +1506,11 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>211</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102432" />
 	</game>
 	<game id="15">
 		<name>Juuouki</name>
 		<desc>Lass dich un eine Zeit zurückversetzen, als Krieger und Götter die Erde regierten. Eine Zeit in der das Gute gegen das Böse kämpfte, ein Ort der Gefahr. Von Zeus dazu beauftragt Athene zu retten, musst du in die Unterwelt eindringen, mit der Kraft dich in mythische Kreaturen mit übernatürlichen Kräften zu verwanden.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Altered Beast (Japan, USA) (En) (Rev A)-image.png</image>
-		<marquee>./images/Altered Beast (Japan, USA) (En) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Altered Beast (Japan, USA) (En) (Rev A)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19881127T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1947,7 +1520,6 @@ Werde zum Helden und rette Wanda in Toki: Going Ape Spit.</desc>
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>24</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102433" />
 	</game>
 	<game id="115">
 		<name>Sonic the Hedgehog Spinball</name>
@@ -1957,9 +1529,6 @@ A ilha é protegida pelo Pinball Defense System, um sistema de segurança no qua
 
 Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele está disposto a encontrar as Esmeraldas Caóticas e acabar com os planoss do vilão gordinho. Você precisa ajudá-lo, desta vez ele ainda terá a companhia, nada agradável, dos terríveis Roboheads, Krondors e Buzz Bombers! Prepare-se, quando Sonic está ao seu lado a diversão é garantida!</desc>
 		<genre>Flipper</genre>
-		<image>./images/Sonic Spinball (USA)-image.png</image>
-		<marquee>./images/Sonic Spinball (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sonic Spinball (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931114T000000</releasedate>
 		<developer>SEGA</developer>
@@ -1969,16 +1538,12 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>15</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102435" />
 	</game>
 	<game id="63">
 		<name>Desert Strike : Return to the Gulf</name>
 		<desc>Fliegen Sie mit Ihrem Hubschrauber AH-64 Apache einen verdeckten Angriff gegen einen gefährlichen Diktator.
 * 27 Schwierige Missionen * Zerstören sie Panzer, SCUDs und Atomreaktoren * Befreien Sie als menschliche Schutzschilde benutzte Kriegsgefangene und Geiseln.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Desert Strike - Return to the Gulf (USA, Europe)-image.png</image>
-		<marquee>./images/Desert Strike - Return to the Gulf (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Desert Strike - Return to the Gulf (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920301T000000</releasedate>
 		<developer>Visual Concepts</developer>
@@ -1988,15 +1553,11 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>6</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102436" />
 	</game>
 	<game id="147">
 		<name>Fatal Fury 2</name>
 		<desc>Es ist Zeit für Nonstop-Action mit Fatal Fury 2 für Mega Drive! Unterstütze die Brüder Andy und Terry Bogard sowie ihren Freud Joe Higashi. Fatal Fury 1 war nur zum Warmwerden! Jetzt musst Du Dich den gemeinsten und gefährlichsten Kämpfern der Welt stellen! Wähle aus 8 tödlichen Kämpfern und entdecke die neue 3D-Grafik, bei der Du erstmalig sowohl im Vorder- als auch Hintergrund kämpfen kannst.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Fatal Fury 2 (USA, Korea) (En)-image.png</image>
-		<marquee>./images/Fatal Fury 2 (USA, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Fatal Fury 2 (USA, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SNK</developer>
@@ -2006,15 +1567,11 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 		<lang>kr,en</lang>
 		<region>us</region>
 		<cheevosId>142</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102438" />
 	</game>
 	<game id="287">
 		<name>Syndicate</name>
 		<desc>In Zukunft wird die Welt von einer handvoll globaler Konzerne (Syndikate) kontrolliert. Du bist der Marketingdirektor (Killer) einer dieser Firmen. Es ist deine Aufgabe, den Wettbewerbern die Kontrolle zu nehmen. Es geht nicht um Diplomatie, sondern um rohe Gewalt und körperliche Kontrolle. Steigere deinen Weg an die Spitze des Unternehmens, indem du deine Missionen erfolgreich abschließt und das Geld, das du von deinem Territorium aus verdienst, verwaltest.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Syndicate (USA, Europe) (En,Fr,De)-image.png</image>
-		<marquee>./images/Syndicate (USA, Europe) (En,Fr,De)-marquee.png</marquee>
-		<thumbnail>./images/Syndicate (USA, Europe) (En,Fr,De)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Bullfrog</developer>
@@ -2022,15 +1579,11 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 		<players>1</players>
 		<lang>de,fr,en</lang>
 		<region>eu</region>
-		<scrap name="ScreenScraper" date="20260814T102439" />
 	</game>
 	<game id="133">
 		<name>Chakan</name>
 		<desc>Entfessle in Chakan für Mega Drive die rasiermesserscharfen Schwerter von Chakan und das uralte Wissen der Alchemisten der Dunkelheit. Chakan, die ewig wandernde Seele, muss in Chakan für Mega Drive auch den letzten Rest des übernatürlichen Bösen besiegen, bevor er Ruhe findet.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Chakan (USA, Europe)-image.png</image>
-		<marquee>./images/Chakan (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Chakan (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19921214T000000</releasedate>
 		<developer>SEGA</developer>
@@ -2039,7 +1592,6 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>23</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102441" />
 	</game>
 	<game id="275">
 		<name>Thunder Force II</name>
@@ -2047,9 +1599,6 @@ Sonic está impossível! Correndo para as alturas, e até mesmo voando, ele est�
 
 In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kann keine Hindernisse umfliegen, oder die Geschwindigkeit verlangsamen. Die Steuerung in den SideScolling Levels ist ähnlich wie in R-Type oder Gradius, aber mit mehr Waffensystemen.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Thunder Force II (USA, Europe)-image.png</image>
-		<marquee>./images/Thunder Force II (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Thunder Force II (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900901T000000</releasedate>
 		<developer>Technosoft</developer>
@@ -2059,15 +1608,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>402</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102442" />
 	</game>
 	<game id="82">
 		<name>Shadow Dancer : The Secret of Shinobi</name>
 		<desc>Die Shinobi-Explosion ist zurück in Shadow Dancer: The Secret of Shinobi für Mega Drive! Der Meister der Tarnung und der todbringenden Kunst von Shuriken kehrt zurück, um den Mord an seinem Freund Kato zu rächen. Es herrscht Krieg! Das ultimative Böse, Sauros, ist ein verrücktes Reptilienmonster mit der Macht, verheerende Katastrophen heraufzubeschwören. Seine Armee von bösartigen Ninja kontrolliert die Stadt, während er plötzliche Feuerstürme, Erdbeben und Lawinen beschwört! Die verängstigten Geiseln werden von Echsenmenschen gefangen gehalten und Du musst sie retten in Shadow Dancer: The Secret of Shinobi für Mega Drive. Gelange durch das Inferno! Schleudere Dich über bröckelnde Gebäude. Beschwöre die totale Verwüstung mit mächtiger Ninja-Magie. Shinobis furchtloser Kampfhund Yamato ist auch dabei! Er besitzt die Kraft dreier Männern, die Schärfe von Rasierklingen und die Geschwindigkeit eines Shinobi-Säbels. Du bist Shadow Dancer. Sie haben Dich entehrt. Sie werden sterben!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Shadow Dancer - The Secret of Shinobi (World)-image.png</image>
-		<marquee>./images/Shadow Dancer - The Secret of Shinobi (World)-marquee.png</marquee>
-		<thumbnail>./images/Shadow Dancer - The Secret of Shinobi (World)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>SEGA</developer>
@@ -2077,15 +1622,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosId>98</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102444" />
 	</game>
 	<game id="319">
 		<name>Puyo Puyo 2</name>
 		<desc>Ein fallendes Blockspiel, bei dem das Ziel darin besteht, vier oder mehr Blöcke derselben Farbe zu kombinieren, die dann verschwinden. Die verbleibenden Blöcke fallen herunter und können Combos erzeugen, die dazu führen können, dass spezielle Blöcke (die nur durch Eliminieren von Zusatzblöcken zerstört werden können) auf dem feindlichen Feld erscheinen.</desc>
 		<genre>Puzzle / Fallen</genre>
-		<image>./images/Puyo Puyo Tsuu (Japan) (Rev A)-image.png</image>
-		<marquee>./images/Puyo Puyo Tsuu (Japan) (Rev A)-marquee.png</marquee>
-		<thumbnail>./images/Puyo Puyo Tsuu (Japan) (Rev A)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19941202T000000</releasedate>
 		<developer>Compile</developer>
@@ -2095,15 +1636,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>1431</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102445" />
 	</game>
 	<game id="313">
 		<name>Trouble Shooter</name>
 		<desc>König Fredericks Sohn und Thronfolger, Prinz Eldon, wurde von Blackball, einem bösen militärischen Waffengenie, entführt. Gerade als eine internationale Katastrophe bevorzustehen scheint, ruft Colonel Patch den "Trouble Shooter" herbei, um sich um Blackball und seine bösen Roboter-Schergen zu kümmern. Spielen Sie als Madison und ihr treuer Handlanger Crystal in diesem seitwärts scrollenden Action-Adventure, das Sie durch 5 Levels von Blackballs Domäne bis hin zum Superhirn selbst führt. Wird Madison es schaffen, Blackball zu besiegen und Prinz Eldon rechtzeitig zu retten?</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Trouble Shooter (USA)-image.png</image>
-		<marquee>./images/Trouble Shooter (USA)-marquee.png</marquee>
-		<thumbnail>./images/Trouble Shooter (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Tokai Engineering</developer>
@@ -2113,15 +1650,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>4726</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102450" />
 	</game>
 	<game id="1142">
 		<name>Panorama Cotton</name>
 		<desc>Nach einem sehr niedlichen Intro erwartet man einen klassischen Horizontal-Scroll-Shooter, aber nein, Panorama Cotton ist ein guter großer Shmup in Rückansicht wie Space Harrier. Auf ihrem magischen Besen reitend, durchquert die Hexe Cotton mit voller Geschwindigkeit Levels voller Fallen und Feinde. Sie kann schießen, Magie einsetzen, ihre Geschwindigkeit steuern, Erfahrung sammeln...</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Panorama Cotton (Japan)-image.png</image>
-		<marquee>./images/Panorama Cotton (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Panorama Cotton (Japan)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19940812T000000</releasedate>
 		<developer>Success</developer>
@@ -2131,15 +1664,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>4382</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102451" />
 	</game>
 	<game id="71">
 		<name>Dr. Robotnik's Mean Bean Machine</name>
 		<desc>Vorsicht! Dieses Puzzle-Spiel kann zur Gewohnheit werden! Spiele gegen die Uhr. Fordere einen Mitspieler heraus - oder kämpfe gegen Dr. Robotniks listige Robot-Lakaien, um die braven Bürger von Beanville in Dr. Robotnik's Mean Bean Machine für Mega Drive vor einem schrecklichen Schicksal zu bewahren. In jedem Fall brauchst Du dazu eiskalte Nerven und eine klare Übersicht!</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Dr. Robotnik's Mean Bean Machine (USA)-image.png</image>
-		<marquee>./images/Dr. Robotnik's Mean Bean Machine (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dr. Robotnik's Mean Bean Machine (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Compile</developer>
@@ -2149,15 +1678,11 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>209</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102457" />
 	</game>
 	<game id="456">
 		<name>Art of Fighting</name>
 		<desc>Yuri Sakazaki ist entführt worden! Ihr großer Bruder Ryo Sakazaki und Robert Garcia, sein bester Freund, machen sich in den Straßen von South Town auf die Suche nach ihr. Auf ihrer Suche finden sie Hinweise darauf, wer die Entführung angeordnet hat, welche Beziehung die Familie Sakazaki zur Mafia hat und wer eine Person aus ihrer Vergangenheit ist. Dieses Kampfspiel ist eine Coin-Op-Umsetzung des gleichnamigen Neo-Geo-Hits und verfügt über alle Charaktere, Stages und Moves, die in der Arcade-Version enthalten sind. Anders als in der ursprünglichen Arcade-Version können die Spieler jetzt als Mr. Big und der schwer fassbare Mr. Karate spielen.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Art of Fighting (USA)-image.png</image>
-		<marquee>./images/Art of Fighting (USA)-marquee.png</marquee>
-		<thumbnail>./images/Art of Fighting (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19941001T000000</releasedate>
 		<developer>SNK</developer>
@@ -2167,7 +1692,6 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>184</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102458" />
 	</game>
 	<game id="372">
 		<name>Samurai Shodown</name>
@@ -2175,9 +1699,6 @@ In den TopDown Level kann man nur in vorgegebene Richtungen filegen, und man kan
 
 Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu zerstören und die Ehre die Welt zu retten. Der Titel enthält diverse Änderungen im Vergleich zu Klassikern des Genres, wie die Verwendung von Waffen, interaktive Hintergründe, sowie spezielle Power-Moves.</desc>
 		<genre>Kampf / Versus</genre>
-		<image>./images/Samurai Shodown (USA)-image.png</image>
-		<marquee>./images/Samurai Shodown (USA)-marquee.png</marquee>
-		<thumbnail>./images/Samurai Shodown (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>SNK</developer>
@@ -2187,15 +1708,11 @@ Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>73</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102504" />
 	</game>
 	<game id="105">
 		<name>Jungle Strike : The Sequel to Desert Strike</name>
 		<desc>Einige Jahre nach Ende des Wüstenkrieges schwor der Sohn des damaligen Diktators den Kriegern der gegnerischen Streitmacht Rache! In Jungle Strike: The Sequel to Desert Strike für Mega Drive übt er diese aus und macht Dich zum Helikopterpiloten, der die einzige Hoffnung ist den nuklearen Bombenkrieg des Rachsüchtigen zu verhindern! Mit realistisch-digitalisierten Animationen und Sequenzen bringt Dich die Dynamik von Jungle Strike: The Sequel to Desert Strike für Mega Drive mitten ins Geschehen!</desc>
 		<genre>Shooter / Flugzeug</genre>
-		<image>./images/Jungle Strike (USA, Europe)-image.png</image>
-		<marquee>./images/Jungle Strike (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Jungle Strike (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930716T000000</releasedate>
 		<developer>High Score Productions</developer>
@@ -2205,15 +1722,11 @@ Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu 
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>1437</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102506" />
 	</game>
 	<game id="61">
 		<name>Golden Axe III</name>
 		<desc>Golden Axe III für die Mega Drive zeigt Dir die fabelhafte Welt von Yuria, wo sowohl der König, als auch seine Tochter die Prinzessin entführt wurden. Hinter dem grausamen Verbrechen steckt Death Adder, der auch die Verwandten unserer drei Charaktere von Golden Axe III für die Mega Drive ermordete. In der Rolle des Barbaren Ax Battler, des Zwerges Gilius Thunderhead oder der Amazone Tyris Flare bist du nun unterwegs um Rache zu üben!</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Golden Axe III (Japan) (En)-image.png</image>
-		<marquee>./images/Golden Axe III (Japan) (En)-marquee.png</marquee>
-		<thumbnail>./images/Golden Axe III (Japan) (En)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930625T000000</releasedate>
 		<developer>SEGA</developer>
@@ -2223,15 +1736,11 @@ Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu 
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>88</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102508" />
 	</game>
 	<game id="200">
 		<name>Sword of Vermilion</name>
 		<desc>Sword of Vermilion, der Cousin von Segas RPG Phantasy Star II, enthält Elemente aus Action-, Abenteuer- und RPG-Spielen in einer mittelalterlichen Fantasy-Umgebung. Eine Third-Person Top-Down-Ansicht wird verwendet, um sich in Städten zu bewegen. Eine First-Person-Ansicht wird für Überlandreisen außerhalb von Städten verwendet. Für die Kampfsequenzen wird eine Third-Person-Seitenansicht (a la Double Dragon oder Final Fight) verwendet. Der Spieler spielt die Rolle eines gewöhnlichen jungen Mannes, der entdeckt, dass er wirklich ein Prinz, und der Sohn des verstorbenen Königs Erik ist. Seine Mission ist durch das Land Excalabria zu reisen, um die acht magischen Ringe des Guten zu sammeln und eine Reihe von Boss-Feinden auf dem Weg zur Konfrontation mit dem bösen König Tsarkon zu besiegen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Sword of Vermilion (USA, Europe)-image.png</image>
-		<marquee>./images/Sword of Vermilion (USA, Europe)-marquee.png</marquee>
-		<thumbnail>./images/Sword of Vermilion (USA, Europe)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910128T000000</releasedate>
 		<developer>SEGA</developer>
@@ -2240,15 +1749,11 @@ Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu 
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosId>4466</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102513" />
 	</game>
 	<game id="18434">
 		<name>Sonic 3D Flickies' Island</name>
 		<desc>Sonic 3D ist das letzte Sonic-Spiel für den Mega Drive, Sonics einziger Plattformauftritt auf dem Sega Saturn und eine seiner seltenen PC-Erscheinungen. Trotz des Namens handelt es sich nicht um echtes 3D, sondern um ein isometrisches Abenteuer, in dem sich Sonic in alle Richtungen bewegen kann. Auf Flicky Island entdeckt er, dass Dr. Robotnik seine kleinen Vogel-Freunde in Badniks verwandelt hat, um die Chaos Emeralds zu finden. In sieben großen Levels muss Sonic die Flickies befreien, indem er Badniks zerstört und die Vögel durch interdimensionale Ringe führt. Das Spieltempo ist deutlich langsamer als in früheren Teilen, aber Erkundung wird belohnt – wer alle Flickies sammelt, kann geheime Bonusmarken finden. Zeitdruck gibt es keinen, und um die Chaos Emeralds zu erhalten, müssen Tails oder Knuckles mit mindestens 50 Ringen aufgesucht werden.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Sonic 3D Blast (USA, Europe, Korea) (En)-image.png</image>
-		<marquee>./images/Sonic 3D Blast (USA, Europe, Korea) (En)-marquee.png</marquee>
-		<thumbnail>./images/Sonic 3D Blast (USA, Europe, Korea) (En)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19961105T000000</releasedate>
 		<developer>Traveller's Tales</developer>
@@ -2258,6 +1763,5 @@ Wähle zwischen 12 mächtigen Kriegern (und 3 Bonus-Charakteren), um Amakusa zu 
 		<lang>kr,en</lang>
 		<region>eu</region>
 		<cheevosId>326</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T102521" />
 	</game>
 </gameList>

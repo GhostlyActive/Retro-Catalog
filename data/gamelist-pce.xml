@@ -8,9 +8,6 @@ Das Spiel bietet eine Top-Down-Ansicht mit vertikal scrollenden Ebenen, ähnlich
 Das Spiel bietet die folgenden Spielmodi: normales Spiel, Punktespiel, 2-Minuten-Spiel und 5-Minuten-Spiel.
 Jedes Level hat am Ende seinen eigenen harten Boss.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Super Star Soldier (USA)-image.png</image>
-		<marquee>./images/Super Star Soldier (USA)-marquee.png</marquee>
-		<thumbnail>./images/Super Star Soldier (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Inter State</developer>
@@ -19,15 +16,11 @@ Jedes Level hat am Ende seinen eigenen harten Boss.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2328</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012648" />
 	</game>
 	<game id="59779">
 		<name>Bonk III : Bonk's Big Adventure</name>
 		<desc>Der Held mit dem harten Schädel kehrt in dieser dritten Folge der populären Bonk-Serie zu noch mehr horizontal scrollender Action zurück.Erneut muss Bonk den gnadenlosen Plan König Drools vereiteln, indem er sieben Runden im Königreich der Dinosaurier übersteht, von denen jede voller verrückter Fallen und comicartiger Gegner steckt.Schnapp dir zudem eine Propeller-Blume oder tausche 16 „Smileys“ zum Ende einer Runde, um bis zu acht verschiedene Bonusrunden spielen zu können.Mittels neuer roter oder blauer Süßigkeiten-Items lässt sich die Größe von Bonk ändern. Je nach Situation hilft dir das, dir den Weg durch Sackgassen zu bahnen oder schwer erreichbare Objekte zu erhalten.Und das ist noch nicht alles! Besiege im neuen Modus für zwei Spieler König Drool zusammen mit einem Freund!</desc>
 		<genre>Plattform</genre>
-		<image>./images/Bonk 3 - Bonk's Big Adventure (USA)-image.png</image>
-		<marquee>./images/Bonk 3 - Bonk's Big Adventure (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bonk 3 - Bonk's Big Adventure (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>A.I Co</developer>
@@ -37,7 +30,6 @@ Jedes Level hat am Ende seinen eigenen harten Boss.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2278</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012653" />
 	</game>
 	<game id="14543">
 		<name>Alien Crush</name>
@@ -45,9 +37,6 @@ Jedes Level hat am Ende seinen eigenen harten Boss.</desc>
 
 Der Haupttisch hat zahlreiche bewegliche Ziele und Kugelsperren und ist zwei Bildschirme hoch. Es gibt mindestens drei Bonusspiele, die vom oberen Bildschirm aus zugänglich sind. Bonusspiele bestehen darin, sich bewegende Ziele auf einem separaten Bonustisch mit einem Bildschirm auszuschalten.</desc>
 		<genre>Flipper</genre>
-		<image>./images/Alien Crush (USA)-image.png</image>
-		<marquee>./images/Alien Crush (USA)-marquee.png</marquee>
-		<thumbnail>./images/Alien Crush (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890901T000000</releasedate>
 		<developer>Compile</developer>
@@ -56,7 +45,6 @@ Der Haupttisch hat zahlreiche bewegliche Ziele und Kugelsperren und ist zwei Bil
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2271</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012655" />
 	</game>
 	<game id="14568">
 		<name>Neutopia</name>
@@ -64,9 +52,6 @@ Der Haupttisch hat zahlreiche bewegliche Ziele und Kugelsperren und ist zwei Bil
 
 Sehr ähnlich den Zelda-Spielen erlaubt Neutopia dem Spieler, das weite Land frei zu durchstreifen und viele verschiedene Monster in Wildnisgebieten sowie in Kerkern zu bekämpfen. Dungeons erfordern auch das Lösen von Rätseln (Steine schieben, Wände mit Bomben sprengen usw.). Das Spiel hat einen leichten RPG-Geschmack, der es dem Spieler ermöglicht, sich durch das Sammeln verschiedener Gegenstände zu verbessern und verschiedene Waffen und Rüstungen auszurüsten.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Neutopia (USA)-image.png</image>
-		<marquee>./images/Neutopia (USA)-marquee.png</marquee>
-		<thumbnail>./images/Neutopia (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -75,16 +60,12 @@ Sehr ähnlich den Zelda-Spielen erlaubt Neutopia dem Spieler, das weite Land fre
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2309</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012700" />
 	</game>
 	<game id="59810">
 		<name>Magical Chase</name>
 		<desc>Ripple ist eine Zauberschülerin und ihre Lehrerin ist eine furchteinflößende Hexe. Ripple hat im Moment besonders Angst vor ihrer Lehrerin, weil sie gerade ein Versprechen gebrochen hat, das sie der Hexe gegeben hat: Ripple hat einen Blick in das verbotene Buch Sleeping Demons geworfen! Kaum hatte sie den Deckel geöffnet, sprangen sechs Dämonen heraus, die davonrasten! Wenn sie nicht alle sechs Dämonen fangen und wieder in das Buch bringen kann, wird die Hexe Ripple in einen Frosch verwandeln, weil sie ihr Versprechen gebrochen hat! Ripple macht sich mit ihren beiden Elf-Star-Freunden Topsy und Turvy auf die Suche.
 Viel Glück, Ripple!</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Magical Chase (USA)-image.png</image>
-		<marquee>./images/Magical Chase (USA)-marquee.png</marquee>
-		<thumbnail>./images/Magical Chase (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Quest</developer>
@@ -93,15 +74,11 @@ Viel Glück, Ripple!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2306</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012704" />
 	</game>
 	<game id="78805">
 		<name>Youkai Douchuuki</name>
 		<desc>Youkai Dochuuki ist ein seitlich scrollendes 2D Spiel mit mehreren verzweigten Pfaden. Jede Stufe ist voll von Boni, Geheimnissen und alternativen Ausgängen. Der Spieler muss sparsam mit seinen Ersparnissen umgehen, um Gegenstände zu kaufen die ihm dabei helfen zu bestehen. Obwohl Tarosuke nur ein Leben hat, hat er einen Gesundheitsbalken mit sechzehn Segmenten, um mehrere feindliche Angriffe auszuhalten. Der Spieler kann etwas oder die gesamte verlorene Gesundheit von Tarosuke mit Heilgegenständen wiederherstellen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Youkai Douchuuki (Japan)-image.png</image>
-		<marquee>./images/Youkai Douchuuki (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Youkai Douchuuki (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19880205T000000</releasedate>
 		<developer>Namco</developer>
@@ -109,15 +86,11 @@ Viel Glück, Ripple!</desc>
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012705" />
 	</game>
 	<game id="14510">
 		<name>Galaga '90</name>
 		<desc>Galaga '90 on PC Engine ist ein Shooter game, bei der Sie ein Schiff steuern, das mit zahlreichen Feinden in Verbindung steht. Es ist möglich, dass sich Ihr Schiff in zwei oder drei Teile aufteilt, wenn es getroffen wird und sich dann selbst wieder aufbaut. Reise durch verschiedene Dimensionen und sammle Waffen und andere Boni, um lebend herauszufinden. Die Zukunft der Galaxie spielt sich in Ihrem Cockpit ab.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Galaga '90 (USA)-image.png</image>
-		<marquee>./images/Galaga '90 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Galaga '90 (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Namco</developer>
@@ -127,7 +100,6 @@ Viel Glück, Ripple!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2298</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012710" />
 	</game>
 	<game id="59791">
 		<name>Darius Plus</name>
@@ -136,9 +108,6 @@ Nehmen wir jedoch einen kleinen Nachteil an: Sie müssen nicht alle Stufen durch
 An jedem Ende des Levels entscheiden, ob Sie nach oben oder unten fliegen möchten. 
 Das bringt Sie auf zwei verschiedene Ebenen. Konkret tragen Praktika einen Buchstaben von A bis Z. Wenn Sie Stufe A abgeschlossen haben, können Sie in Zone B gehen, wenn Sie die Richtung hoch nehmen, oder in C, wenn Sie den Bass nehmen. Und so weiter, bis der Tod eintritt. Und der Tod, glauben Sie mir, kann in der geringsten Wende passieren.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Darius Plus (Japan) (SG Enhanced)-image.png</image>
-		<marquee>./images/Darius Plus (Japan) (SG Enhanced)-marquee.png</marquee>
-		<thumbnail>./images/Darius Plus (Japan) (SG Enhanced)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900921T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -147,7 +116,6 @@ Das bringt Sie auf zwei verschiedene Ebenen. Konkret tragen Praktika einen Buchs
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012714" />
 	</game>
 	<game id="78675">
 		<name>Jackie Chan's Action Kung Fu</name>
@@ -155,9 +123,6 @@ Das bringt Sie auf zwei verschiedene Ebenen. Konkret tragen Praktika einen Buchs
 
 Jackie Chan's Action Kung Fu ist ein seitlich scrollendes Kampfspiel. Jackies Steuerung ist eine Taste zum Springen und eine andere zum Angreifen oder in Kombination mit einer Richtung für einen Spezialangriff. Auf seiner Suche muss Jackie sich seinen Weg an Fröschen, Ninjas, Vögeln und anderen Feinden vorbei schlagen und treten. Jackie kann sich Spezialbewegungen wie den Tornado-Angriff, den 180-Grad-Drehkick, den 360-Grad-Drehkick und den Himmelsangriff aneignen. Andere Power-Ups beinhalten Energienachfüllungen und Bonuspunkte.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Jackie Chan's Action Kung Fu (USA)-image.png</image>
-		<marquee>./images/Jackie Chan's Action Kung Fu (USA)-marquee.png</marquee>
-		<thumbnail>./images/Jackie Chan's Action Kung Fu (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -167,15 +132,11 @@ Jackie Chan's Action Kung Fu ist ein seitlich scrollendes Kampfspiel. Jackies St
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>8708</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012715" />
 	</game>
 	<game id="78776">
 		<name>Street Fighter II' : Champion Edition</name>
 		<desc>„Street Fighter II“: Special Champion Edition auf Turbografx entführt Sie in die Arena dieser neuen Version der Capcom-Saga. In diesem Kampfspiel finden Sie acht legendäre Kämpfer sowie die vier Bosse, die zu Beginn des Spiels freigeschaltet werden (Balrog, Sagat, Vega und M. Bison). Meistern Sie jede der charakterspezifischen Techniken in diesem Titel mit nervösem Gameplay und verheerenden Bewegungen.</desc>
 		<genre>Kampf</genre>
-		<image>./images/Street Fighter II' - Champion Edition (Japan)-image.png</image>
-		<marquee>./images/Street Fighter II' - Champion Edition (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Street Fighter II' - Champion Edition (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19930612T000000</releasedate>
 		<developer>Capcom</developer>
@@ -185,15 +146,11 @@ Jackie Chan's Action Kung Fu ist ein seitlich scrollendes Kampfspiel. Jackies St
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2417</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012719" />
 	</game>
 	<game id="14531">
 		<name>Tiger Road</name>
 		<desc>Diese Arcade-Konversion ist ein Beat 'em up, bei dem Sie (als Lee Wong) die Dorfkinder vor dem bösen Ryo Ken Oh retten müssen. Viele Ebenen scrollen horizontal, obwohl es hohe Vorsprünge gibt, auf die man springen und denen man einen etwas anderen Pfad folgen kann. Zauberurnen mit verbesserten Waffen tauchen häufig auf. Die meisten Feinde sind leicht anzugreifen und brauchen nur einen Treffer, um sie zu töten, obwohl sie in großen Horden auf dich zukommen. Sobald Sie die Indoor-Bereiche erreicht haben, finden Sie große Feinde mit der Fähigkeit, Sie mit einem Schlag zu töten, in Bereichen, die sich auf mehreren Ebenen befinden, komplett mit Treppen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Tiger Road (USA)-image.png</image>
-		<marquee>./images/Tiger Road (USA)-marquee.png</marquee>
-		<thumbnail>./images/Tiger Road (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Advance Communication Company</developer>
@@ -201,7 +158,6 @@ Jackie Chan's Action Kung Fu ist ein seitlich scrollendes Kampfspiel. Jackies St
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012723" />
 	</game>
 	<game id="14555">
 		<name>New Adventure Island</name>
@@ -209,9 +165,6 @@ Jackie Chan's Action Kung Fu ist ein seitlich scrollendes Kampfspiel. Jackies St
 
 In diesem seitwärts scrollenden Actionspiel macht Master Higgins sich auf, um die Kinder und seine geliebte Tina zu retten! Wirf mit Äxten und Bumerangs, springe auf Skateboards und bring Master Higgins sicher durch jeden Level.</desc>
 		<genre>Plattform</genre>
-		<image>./images/New Adventure Island (USA)-image.png</image>
-		<marquee>./images/New Adventure Island (USA)-marquee.png</marquee>
-		<thumbnail>./images/New Adventure Island (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -221,15 +174,11 @@ In diesem seitwärts scrollenden Actionspiel macht Master Higgins sich auf, um d
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2311</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012725" />
 	</game>
 	<game id="59799">
 		<name>Gradius</name>
 		<desc>Die Menschen von Gradius sind in Schwierigkeiten. Die ameoboiden Bacterions haben einen Großangriff auf den Planeten gestartet, und es liegt an dir, in die Schlacht zu fliegen und sie zu retten. Auf dem Weg dorthin können Sie Ihr Schiff mit Hypergeschwindigkeit, Kraftfeldern, Lasern, Raketen, Doppelstrahlkanonen und vielem mehr aufrüsten, um Sie im Kampf zu unterstützen. Gradius basiert auf dem Arcade-Spiel und ist ein seitlich scrollender Shooter. Wenn Sie bestimmte Feinde abschießen, bleibt ein Power-Up-Pod zurück, den Sie einsammeln können, um Ihrem Schiff mehr Power zu verleihen. In jedem Level gibt es eine Vielzahl von Gegnern, die versuchen, Sie aufzuhalten, mit einem großen Endgegner am Ende. Gameplay ist für einen Spieler oder zwei Spieler abwechselnd.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Gradius (World) (Wii U Virtual Console)-image.png</image>
-		<marquee>./images/Gradius (World) (Wii U Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Gradius (World) (Wii U Virtual Console)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19911115T000000</releasedate>
 		<developer>Konami</developer>
@@ -238,7 +187,6 @@ In diesem seitwärts scrollenden Actionspiel macht Master Higgins sich auf, um d
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012727" />
 	</game>
 	<game id="78766">
 		<name>Sinistron</name>
@@ -250,9 +198,6 @@ Dieses Spiel hat große feindliche Sprites und große Boss-Charaktere. Die Level
 
 Die japanische Version, "Violent Soldier", hatte etwas andere Grafiken.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Sinistron (USA)-image.png</image>
-		<marquee>./images/Sinistron (USA)-marquee.png</marquee>
-		<thumbnail>./images/Sinistron (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>AlfaSystem</developer>
@@ -260,20 +205,16 @@ Die japanische Version, "Violent Soldier", hatte etwas andere Grafiken.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012728" />
 	</game>
 	<game>
 		<name>Power Drift</name>
 		<desc>Segas Automat von 1988, entstanden bei AM2 unter Yu Suzuki. Kleine Buggys auf Achterbahn-artigen Strecken, die sich heben und senken — die Super-Scaler-Technik der Vorlage war der eigentliche Reiz. Die HuCard-Fassung erschien nur in Japan und kommt der Vorlage näher, als es die Hardware vermuten lässt.</desc>
 		<genre>Rennspiel</genre>
-		<image>./images/Power Drift (Japan)-image.png</image>
-		<thumbnail>./images/Power Drift (Japan)-thumb.png</thumbnail>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Asmik</publisher>
 		<players>1</players>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012729" />
 	</game>
 	<game id="78624">
 		<name>Daisenpuu</name>
@@ -281,9 +222,6 @@ Die japanische Version, "Violent Soldier", hatte etwas andere Grafiken.</desc>
 Sie brechen über verschiedene feindliche Landschaften auf und zerstören Flugzeuge, Panzer und Boote. Power-Ups verursachen erhöhten Waffenschaden
 </desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Daisenpuu (Japan)-image.png</image>
-		<marquee>./images/Daisenpuu (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Daisenpuu (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19901214T000000</releasedate>
 		<developer>Center Tech</developer>
@@ -291,16 +229,12 @@ Sie brechen über verschiedene feindliche Landschaften auf und zerstören Flugze
 		<players>1-2</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012731" />
 	</game>
 	<game id="59831">
 		<name>Xevious : Fardraut Saga</name>
 		<desc>Xevious ist ein Shooter mit  zwei Versionen: die Arcade-Version, die völlig identisch mit dem Original ist, und eine spezielle Version für die Nec-Konsole namens Fardraut.In dieser Version wurde der Schwierigkeitsgras deutlich nach oben angepasst.
 Der Spieler kontrolliert das Raumschiff Solvalou und muss die Xevious-Streitkräfte auslöschen, bevor sie die gesamte Menschheit zerstören.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Xevious - Fardraut Saga (Japan)-image.png</image>
-		<marquee>./images/Xevious - Fardraut Saga (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Xevious - Fardraut Saga (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900629T000000</releasedate>
 		<developer>Compile</developer>
@@ -309,15 +243,11 @@ Der Spieler kontrolliert das Raumschiff Solvalou und muss die Xevious-Streitkrä
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012735" />
 	</game>
 	<game id="78633">
 		<name>Dragon Saber : After Story of Dragon Spirit</name>
 		<desc>Dragon Saber ist die Fortsetzung von Dragon Spirit, aber der Titel ist weniger bekannt. Das Gameplay hat sich im Vergleich zum Original kaum verändert. Beide Spiele sind vertikal scrollende Shoot'em Ups, in denen du einen Drachen steuerst. Sie fliegen über bebautes Land mit Flüssen und ihren Ufern. Sie können auf Wellen von Gegnern schießen oder ihnen ausweichen. Wenn Sie auf sie schießen, erhalten Sie zusätzliche Punkte sowie gelegentliche Boni. Auch Bodeneinheiten schießen auf Sie, seien Sie also wachsam.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Dragon Saber (Japan)-image.png</image>
-		<marquee>./images/Dragon Saber (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Dragon Saber (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911227T000000</releasedate>
 		<developer>Namcot</developer>
@@ -327,7 +257,6 @@ Der Spieler kontrolliert das Raumschiff Solvalou und muss die Xevious-Streitkrä
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>14219</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012739" />
 	</game>
 	<game id="78775">
 		<name>Splatterhouse</name>
@@ -337,9 +266,6 @@ Rick und seine Freundin Jennifer betreten das West Mansion (bekannt als Splatter
 
 Rick muss sieben blutgetränkte Level voller Leichen, Dämonen und anderer verstörender Kreaturen in diesem Side-Scrolling-Arcade-Beat-Em-Up überleben. Mehrere Waffen stehen Rick im ganzen Haus zur Verfügung, darunter ein Fleischerbeil, ein Zweimalvierer und eine Schrotflinte. Wenn Rick Jennifer lebend finden will, muss er sich schnell durch die Stockwerke der Villa bewegen … denn ein glückliches Wiedersehen ist nicht immer garantiert.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Splatterhouse (USA)-image.png</image>
-		<marquee>./images/Splatterhouse (USA)-marquee.png</marquee>
-		<thumbnail>./images/Splatterhouse (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Namco</developer>
@@ -349,15 +275,11 @@ Rick muss sieben blutgetränkte Level voller Leichen, Dämonen und anderer verst
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5268</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012741" />
 	</game>
 	<game id="14484">
 		<name>Bomberman '93</name>
 		<desc>Bomberman '93 ist ein Action- Puzzlespiel, bei dem Sie Bomben einsetzen, um Ihre Gegner auf einem mit Boni und Fallen übersäten Spielfeld zur Detonation zu bringen. Sprengen Sie Ihre Bomben aus der Ferne, und schmeißen sie Ihre Gegner vom Spielfeld. Jedes Mittel ist recht.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Bomberman '93 (USA)-image.png</image>
-		<marquee>./images/Bomberman '93 (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman '93 (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>NEC</developer>
@@ -367,7 +289,6 @@ Rick muss sieben blutgetränkte Level voller Leichen, Dämonen und anderer verst
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2277</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012743" />
 	</game>
 	<game id="14527">
 		<name>Cratermaze</name>
@@ -377,9 +298,6 @@ Sie können auch temporäre Waffen-Powerups wie Strahlenkanonen und Jo-Jos erhal
 
 Die japanische Veröffentlichung Doraemon: Meikyu Daisakusen zeigt die beliebte Kinderfigur Doraemon und seine Freunde. Das Spiel ist eine Konvertierung des Nichibutsu-Münzspiels Kid no Hore Hore Daisakusen von 1987, das auch eine modifizierte Famicom-Version namens Booby Kids enthielt.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Cratermaze (USA)-image.png</image>
-		<marquee>./images/Cratermaze (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cratermaze (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -389,7 +307,6 @@ Die japanische Veröffentlichung Doraemon: Meikyu Daisakusen zeigt die beliebte 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2286</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012744" />
 	</game>
 	<game id="59776">
 		<name>Bloody Wolf</name>
@@ -401,9 +318,6 @@ Unterwegs können dem Arsenal neue Waffen wie Schrotflinten, Bazookas, Blitzbomb
 
 Der Präsident und Ihre Kameraden brauchen Sie!</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Bloody Wolf (USA)-image.png</image>
-		<marquee>./images/Bloody Wolf (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bloody Wolf (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Data East</developer>
@@ -412,16 +326,12 @@ Der Präsident und Ihre Kameraden brauchen Sie!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2275</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012749" />
 	</game>
 	<game id="14523">
 		<name>After Burner II</name>
 		<desc>Ähnlich wie beim Vorgänger besteht die Prämisse von After Burner II darin, in die F-14 Tomcat zu steigen und eine Mission nach der anderen zu fliegen und Flugzeuge aus der Luft abzuschießen. Zu Ihrer Verfügung stehen eine Vulkankanone (im Grunde ein Maschinengewehr) und eine begrenzte Anzahl an Raketen. In einigen Versionen des Spiels feuern die Waffen ständig automatisch. Manchmal stößt man auf ein verbündetes Versorgungsflugzeug und wenn man daran andockt, kann man seine Raketen auffüllen.
 Das Spiel wird von der Rückseite des Flugzeugs aus betrachtet, während Sie Welle für Welle feindlicher Jäger bekämpfen. Aber im Kern bietet es die übliche Shooter-Mechanik, was bedeutet, dass Sie die meiste Zeit damit verbringen, auszuweichen und zu schießen. Sie können auch beschleunigen und verlangsamen, um mit Feinden fertig zu werden, die hinter Ihnen auftauchen.</desc>
 		<genre>Shooter / Flugzeug, 3. Pers.</genre>
-		<image>./images/After Burner II (Japan)-image.png</image>
-		<marquee>./images/After Burner II (Japan)-marquee.png</marquee>
-		<thumbnail>./images/After Burner II (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900928T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -430,15 +340,11 @@ Das Spiel wird von der Rückseite des Flugzeugs aus betrachtet, während Sie Wel
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012750" />
 	</game>
 	<game id="14606">
 		<name>Volfied</name>
 		<desc>Im Puzzlespiel Volfied (auch Ultimate Qix genannt) auf PC Engine müssen Sie einen Marker führen, um den Bildschirm nach und nach aufzufressen. Wenn sich der Marker in die Mitte des Bildschirms bewegt, hinterlässt er eine Linie dahinter. Anschließend wird jeder von Ihnen gezeichnete geschlossene Bereich validiert. Ihr Ziel ist es, einen bestimmten Prozentsatz des Bildschirms freizumachen. Aber Vorsicht, es lauern Feinde! Achten Sie also darauf, dass sie Ihren Marker oder Ihre Linie nicht berühren, um kein Leben zu verlieren.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Volfied (Japan)-image.png</image>
-		<marquee>./images/Volfied (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Volfied (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19891222T000000</releasedate>
 		<developer>Taito</developer>
@@ -448,15 +354,11 @@ Das Spiel wird von der Rückseite des Flugzeugs aus betrachtet, während Sie Wel
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>5467</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012754" />
 	</game>
 	<game id="78732">
 		<name>Parodius Da! : Shinwa kara Owarai e</name>
 		<desc>Parodius parodiert Gradius und alle Spiele dieser Art und ist ein Shoot'em-up auf Turbografx. Sie haben die Wahl zwischen vier fliegenden Kreaturen und Objekten und müssen aus der Seitenansicht durch die Level navigieren und auf alles schießen, was sich bewegt. Der Parodie-Aspekt ermöglicht es, die futuristischen und tragischen Universen durch fantasievolle Feinde und Welten voller Farben zu ersetzen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Parodius Da! - Shinwa kara Owarai e (Japan)-image.png</image>
-		<marquee>./images/Parodius Da! - Shinwa kara Owarai e (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Parodius Da! - Shinwa kara Owarai e (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920221T000000</releasedate>
 		<developer>Konami</developer>
@@ -466,7 +368,6 @@ Das Spiel wird von der Rückseite des Flugzeugs aus betrachtet, während Sie Wel
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2189</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012755" />
 	</game>
 	<game id="14583">
 		<name>Legend Of Hero Tonma</name>
@@ -475,9 +376,6 @@ Kämpfe dich durch sieben Level und nutze Tonmas Sprungfähigkeit und Schussfert
 
 Dieses toll detailierte Spiel, mit Optik und Spielgefühl im Comicstil, bringt die Spieler dazu, immer wieder in die rasante und aufregende Action einzutauchen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Legend of Hero Tonma (USA)-image.png</image>
-		<marquee>./images/Legend of Hero Tonma (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legend of Hero Tonma (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Irem Corporation</developer>
@@ -486,15 +384,11 @@ Dieses toll detailierte Spiel, mit Optik und Spielgefühl im Comicstil, bringt d
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2303</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012757" />
 	</game>
 	<game id="59780">
 		<name>Bonk's Adventure</name>
 		<desc>Ein Side-Scrolling-Actionspiel der alten Schule. Das Gameplay ist einfach: Verpasse deinen Feinden einfach einen Kopfstoß, während du durch die einzelnen Level gehst! Du erleidest Schaden, wenn du von einem Feind getroffen wirst oder wenn du etwas Gefährliches berührst. Versuchen Sie, Bonk davon abzuhalten, Leben zu verlieren. Essen Sie Fleisch, das Sie auf dem Weg finden, um Bonk um 2 Stufen zu stärken. Stoße mit dem Kopf auf den Boden, nachdem Bonk sich verwandelt hat, um eine gewaltige Explosion auszulösen – die Erde wird erzittern und deine Feinde werden fassungslos sein! Das ist Bonk-Power! Die Kraft seines mächtigen, steinharten Kopfes! Das Spiel ist vollgepackt mit Bonusspielen und versteckten Stufen. Und wie in jedem großartigen Actionspiel gibt es große Bosskämpfe.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Bonk's Adventure (USA)-image.png</image>
-		<marquee>./images/Bonk's Adventure (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bonk's Adventure (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Atlus</developer>
@@ -504,15 +398,11 @@ Dieses toll detailierte Spiel, mit Optik und Spielgefühl im Comicstil, bringt d
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2279</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012759" />
 	</game>
 	<game id="14519">
 		<name>Out Run</name>
 		<desc>Machen Sie sich bereit für das bisher realistischste Rennerlebnis. Sie sitzen am Steuer eines getunten Rennwagens, der nur Vollgas fahren kann. Sie manövrieren ein Auto, welches bis zu 270 km/h erreichen kann. Weil Sie die Geschwindigkeit und das Fahrverhalten Ihres Autos in einem gefährlichen Tempo kontrollieren müssen, müssen Sie Ihren Kopf und nicht nur Ihre Hände benutzen, um die Strecken zu meistern. Bereiten Sie sich also auf die Fahrt Ihres Lebens vor und bleiben Sie wachsam.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Out Run (Japan)-image.png</image>
-		<marquee>./images/Out Run (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Out Run (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19901221T000000</releasedate>
 		<developer>NEC</developer>
@@ -522,15 +412,11 @@ Dieses toll detailierte Spiel, mit Optik und Spielgefühl im Comicstil, bringt d
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>6076</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012803" />
 	</game>
 	<game id="59794">
 		<name>Dungeon Explorer</name>
 		<desc>Der ehemalige König von Oddesia hat dich mit einer wichtigen und gefährlichen Aufgabe betraut. Sie müssen den heiligen ORA-Stein finden, der die Kräfte des Lebens, des Lichts und des Glücks besitzt, und ihn zurückholen, bevor es der König der außerirdischen Rasse, Natas, tut. Er hat dieses Land erobert und es in ein von Gewalt geplagtes Zeitalter des Schreckens und der Verzweiflung gestürzt. Es liegt an Ihnen, sich gegen ihn zu stellen und Ihrer Welt ihren früheren Glanz zurückzugeben.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dungeon Explorer (USA)-image.png</image>
-		<marquee>./images/Dungeon Explorer (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dungeon Explorer (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Atlus</developer>
@@ -540,7 +426,6 @@ Dieses toll detailierte Spiel, mit Optik und Spielgefühl im Comicstil, bringt d
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2295</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012807" />
 	</game>
 	<game id="189146">
 		<name>Samurai-Ghost</name>
@@ -550,9 +435,6 @@ Die Geschichte von Genpei Touma Den dreht sich angeblich um den historischen Gen
 
 Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschnitt; "Big Mode", eine groß angelegte Kampfsektion, vergleichbar mit dem Taito-Coin-Op-Gladiator und "Flat Mode", ein Abschnitt mit Draufsicht. In allen drei Abschnitten besteht das Ziel darin, Feinde zu zerstören, Gegenstände zu sammeln und das Ende zu erreichen, bevor der Lebensbalken (dargestellt durch brennende Kerzen) erschöpft ist.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Samurai-Ghost (USA)-image.png</image>
-		<marquee>./images/Samurai-Ghost (USA)-marquee.png</marquee>
-		<thumbnail>./images/Samurai-Ghost (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920407T000000</releasedate>
 		<developer>Namco</developer>
@@ -561,15 +443,11 @@ Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschn
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>8465</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012809" />
 	</game>
 	<game id="14554">
 		<name>Military Madness</name>
 		<desc>Military Madness ist ein futuristisches rundenbasiertes Strategie-Kriegsspiel. Wir schreiben das Jahr 2089 und der Schauplatz ist der Mond der Erde, auf dem viele wichtige Ressourcen lagern. Während sich die Regierungen der Erde um ihre Ansprüche auf den Mond streiten, startet das böse Achsen-Imperium einen militärischen Feldzug und übernimmt den Mond, indem es dessen Fabriken zur Produktion fortschrittlicher Waffen nutzt, deren verheerendste die SAM (Supreme Atomic Missile) ist. Als Kommandant der alliierten Streitkräfte ist es die Aufgabe des Spielers, die verbliebenen Armeen der Alliierten in einer verzweifelten Offensive gegen das Achsenimperium auf der Mondoberfläche zu führen, bevor diese die SAM zur Zerstörung der Erde einsetzen können.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Military Madness (USA)-image.png</image>
-		<marquee>./images/Military Madness (USA)-marquee.png</marquee>
-		<thumbnail>./images/Military Madness (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -578,15 +456,11 @@ Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschn
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2307</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012810" />
 	</game>
 	<game id="14529">
 		<name>Moto Roader</name>
 		<desc>Die Action in diesem Rennspiel wird von oben betrachtet und verfügt über Rotationssteuerungen. Es gibt 6 Rennstrecken, darunter echte Rennstrecken wie Laguna Seca. Vor jedem Rennen können Sie ein komplettes Sortiment an Upgrades und Waffen kaufen, wobei jeder Bereich (Motor, Handling, Turbo usw.) mehrere Optionen mit unterschiedlichen Preisen bietet. Das Ungewöhnliche an dem Rennsystem ist, dass die Action immer dem Führenden folgt. Wenn Sie zu weit zurückrutschen, wird Ihr Auto gesprengt und weiter hinten auf die Strecke gestellt, um mitzuhalten (ähnlich wie bei Micro Machines). Dies kann nur eine begrenzte Anzahl von Malen passieren, bevor das Spiel vorbei ist.</desc>
 		<genre>Rennen, Fahren / Motorrad</genre>
-		<image>./images/Moto Roader (USA)-image.png</image>
-		<marquee>./images/Moto Roader (USA)-marquee.png</marquee>
-		<thumbnail>./images/Moto Roader (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19891101T000000</releasedate>
 		<developer>Nippon Computer Systems (NCS)</developer>
@@ -595,15 +469,11 @@ Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschn
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2308</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012812" />
 	</game>
 	<game id="14521">
 		<name>Salamander</name>
 		<desc>Salamander (LifeForce auf anderen Systemen) ist ein Shooter auf der PC Engine. An Bord Ihres schwer bewaffneten Schiffes müssen Sie die Level durchfliegen und alles abschießen was sich Ihnen in den Weg stellt, bis Sie beim Endgegner ankommen. Durch die Multiplayeroption können zwei Spieler gleichzeitig spielen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Salamander (World) (Wii U Virtual Console)-image.png</image>
-		<marquee>./images/Salamander (World) (Wii U Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Salamander (World) (Wii U Virtual Console)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19911206T000000</releasedate>
 		<developer>Konami</developer>
@@ -612,7 +482,6 @@ Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschn
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012814" />
 	</game>
 	<game id="14552">
 		<name>Neutopia II</name>
@@ -620,9 +489,6 @@ Das Spiel bietet drei Spielmodi: "Side Mode", ein kleiner Action-Plattformabschn
 
 Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du steuerst deinen Helden aus der Vogelperspektive, erkundest die weite Landschaft und kämpfst in Echtzeit gegen Monster. Das Spiel ist kein echtes RPG, sondern ein Action-Adventure: Du sammelst keine Erfahrungspunkte im Kampf, sondern sammelst Geld, um Vorräte zu kaufen. In Dungeons müssen Sie Bomben an Wänden einsetzen, um Geheimgänge freizulegen, Steine zu schieben und gegen viele normale Feinde und Bosse zu kämpfen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Neutopia II (USA)-image.png</image>
-		<marquee>./images/Neutopia II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Neutopia II (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -631,15 +497,11 @@ Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2310</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012815" />
 	</game>
 	<game id="78703">
 		<name>Mizubaku Daibouken</name>
 		<desc>In Mizubaku Daibouken spielen Sie Hipopo, das Nilpferd, das sich auf der Suche nach seiner vermissten Freundin durch zahlreiche Levels voller Feinde wagen und dabei auch andere flusspferdähnliche Kreaturen retten muss.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Mizubaku Daibouken (Japan)-image.png</image>
-		<marquee>./images/Mizubaku Daibouken (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Mizubaku Daibouken (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920117T000000</releasedate>
 		<developer>Taito</developer>
@@ -647,15 +509,11 @@ Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du 
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012817" />
 	</game>
 	<game id="78628">
 		<name>Don Doko Don!</name>
 		<desc>Don Doko Don ist ein japanischer Action-Plattformer, der erstmals 1989 von Taito für Spielhallen entwickelt und veröffentlicht wurde. Ein oder zwei Spieler steuern bärtige Zwerge, die sich ihren Weg durch fünfzig Jump'n'Run- und rätselartige Level bahnen, um ihre entführte Freundin zu retten.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Don Doko Don! (Japan)-image.png</image>
-		<marquee>./images/Don Doko Don! (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Don Doko Don! (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19900531T000000</releasedate>
 		<developer>Taito</developer>
@@ -664,15 +522,11 @@ Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du 
 		<players>1-2</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012819" />
 	</game>
 	<game id="14500">
 		<name>Ninja Ryuukenden</name>
 		<desc>Ninja Gaiden (Shadow Warriors auf anderen Medien) ist ein Beat'em All, der auf TurboGrafx-16 veröffentlicht wurde. Du bist Ryu, ein moderner Ninja, und du musst nach Amerika reisen, um herauszufinden, wer deinen Vater getötet hat. Ihre Forschung wird Sie in ein übernatürliches Szenario führen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ninja Ryuukenden (Japan)-image.png</image>
-		<marquee>./images/Ninja Ryuukenden (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Ninja Ryuukenden (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920124T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -682,7 +536,6 @@ Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du 
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>5515</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012822" />
 	</game>
 	<game id="14512">
 		<name>Ninja Spirit</name>
@@ -690,9 +543,6 @@ Die Fortsetzung von „Neutopia“ ähnelt dem Vorgänger in jeder Hinsicht. Du 
 
 Die Coin-Op-Ursprünge des Spiels zeigen sich in der Tatsache, dass die Home-Versionen keine Passwörter oder Speicherungen haben. Um dies auszugleichen, wurden jedoch einstellbare Schwierigkeitseinstellungen hinzugefügt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Ninja Spirit (USA)-image.png</image>
-		<marquee>./images/Ninja Spirit (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ninja Spirit (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Irem</developer>
@@ -701,16 +551,12 @@ Die Coin-Op-Ursprünge des Spiels zeigen sich in der Tatsache, dass die Home-Ver
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2313</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012826" />
 	</game>
 	<game id="59772">
 		<name>Aero Blasters</name>
 		<desc>Aero Blasters ist ein schneller Side-Scrolling-Shooter. Es ist eine Portierung von Air Buster auf einem Arcade Automat.
 Der Spieler steuert ein kleines Schiff durch verschiedene Level mit vielen Feinden. Jedes Level endet mit einem Boss und einige Abschnitte beschleunigen das Gameplay, indem sie schnelle Hindernisparcours mit horizontalem und vertikalem Scrollen bieten. Fliegende orangefarbene Kapseln setzen viele Power-Ups auf einmal frei und verbessern die Schiffe mit neuen oder leistungsstärkeren Lasern, Flügelmännern und Schilden. Der Spieler kann auch die Feuertaste gedrückt halten, um eine Explosion aufzuladen, die alle feindlichen Kugeln vom Bildschirm entfernt und allen Feinden Schaden zufügt. Bei einem unversöhnlichen Schwierigkeitsgrad ist jeder Treffer tödlich, aber das Spiel kann an jedem Punkt fortgesetzt werden, solange noch Leben und Credits übrig sind. Das Spiel kann mit zwei Spielern kooperativ gespielt werden.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Aero Blasters (USA)-image.png</image>
-		<marquee>./images/Aero Blasters (USA)-marquee.png</marquee>
-		<thumbnail>./images/Aero Blasters (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Inter State</developer>
@@ -719,15 +565,11 @@ Der Spieler steuert ein kleines Schiff durch verschiedene Level mit vielen Feind
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2269</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012828" />
 	</game>
 	<game id="14520">
 		<name>Chase H.Q.</name>
 		<desc>Wage dich in Chase HQ hinaus auf die Straße! Deine Aufgabe in diesem innovativen und vor allem schnellen Rennspiel ist es, Ganoven aufzuspüren und sie von der Straße zu fegen! Du schlüpfst in die Rolle eines der beiden Polizisten der New Yorker Spezialeinheit CHASE H.Q. Nach einer halsbrecherischen Verfolgungsjagd zu Beginn jeden Levels bringst du am Ende dein Einsatzfahrzeug an seine Grenzen. Hast du das fliehende Zielfahrzeug eingeholt, schalte Sirene und Blaulicht ein und versuche, den Bösewicht durch wiederholtes Rammen aufzuhalten! Schalte mit Bedacht, wenn du dein Einsatzfahrzeug durch die stark befahrenen und kurvenreichen Straßen manövrierst! Aber vermeide dabei die Kollision mit anderen Autos oder anderen Hindernissen, sonst verlierst du an Geschwindigkeit! Auch ein Turbo steht dir zur Verfügung, mit dem du kurzzeitig beschleunigen und die Wucht deiner Rammattacken steigern kannst!</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Chase H.Q. (USA)-image.png</image>
-		<marquee>./images/Chase H.Q. (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chase H.Q. (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Daiei Seisakusho</developer>
@@ -737,16 +579,12 @@ Der Spieler steuert ein kleines Schiff durch verschiedene Level mit vielen Feind
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2330</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012832" />
 	</game>
 	<game id="78684">
 		<name>KiKi KaiKai</name>
 		<desc>Kiki Kaikai ist vor allem für seine Super-Nintendo-Adaption namens Pocky &amp; Rocky bekannt. Diese früher veröffentlichte PC Engine-Version ist eine Adaption der Arcade-Version, die dem Original viel näher kommt.
 Sie spielen einen Schamanen der Shinto-Schule, der die Dämonen besiegen muss, die in unserer Welt zu schwärmen beginnen. In der Draufsicht bewegen Sie sich in alle Richtungen. Sie können Ihre Churikens auch in alle Richtungen schießen. Mit einem Schwert kannst du einen größeren Schlag ausführen, was nützlich ist, wenn dich eine Horde Monster angreift. Jedes Level wird von einem im Allgemeinen harten Boss abgeschlossen.</desc>
 		<genre>Shooter / Run and Gun</genre>
-		<image>./images/Kiki Kaikai (Japan)-image.png</image>
-		<marquee>./images/Kiki Kaikai (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Kiki Kaikai (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19900327T000000</releasedate>
 		<developer>Taito</developer>
@@ -755,7 +593,6 @@ Sie spielen einen Schamanen der Shinto-Schule, der die Dämonen besiegen muss, d
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>6374</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012833" />
 	</game>
 	<game id="78724">
 		<name>Ordyne</name>
@@ -766,9 +603,6 @@ Während des Spiels können die Spieler Kristalle sammeln, mit denen sie speziel
 Ordyne kann gleichzeitig zu zweit gespielt werden.
 </desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Ordyne (USA)-image.png</image>
-		<marquee>./images/Ordyne (USA)-marquee.png</marquee>
-		<thumbnail>./images/Ordyne (USA)-thumb.png</thumbnail>
 		<rating>0.55</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Namco</developer>
@@ -777,7 +611,6 @@ Ordyne kann gleichzeitig zu zweit gespielt werden.
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2315</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012837" />
 	</game>
 	<game id="78611">
 		<name>Bonk's Revenge</name>
@@ -785,9 +618,6 @@ Ordyne kann gleichzeitig zu zweit gespielt werden.
 
 Das Gameplay in diesem Abenteuer ist dem ersten Spiel sehr ähnlich. Bonk hat Kopfstoß-, Kopfstampf- und Feuerspuckbewegungen, wenn er scharfes Fleisch isst.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Bonk's Revenge (USA)-image.png</image>
-		<marquee>./images/Bonk's Revenge (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bonk's Revenge (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Red Company Corporation</developer>
@@ -797,15 +627,11 @@ Das Gameplay in diesem Abenteuer ist dem ersten Spiel sehr ähnlich. Bonk hat Ko
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2280</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012839" />
 	</game>
 	<game id="59803">
 		<name>Image Fight</name>
 		<desc>Eine mysteriöse außerirdische Lebensform breitet sich in der Galaxie aus und versucht, die Welt zu erobern. Sie hat die Mondbasis unter ihre Kontrolle gebracht und droht, auf die Erde zu stürzen. Die Menschen haben das fortschrittlichste Kampfflugzeug geschickt, um sich den Außerirdischen entgegenzustellen: die OF-1. Die OF-1 hat die Fähigkeit, jederzeit die Geschwindigkeit zu ändern und verschiedene Waffen und Gondeln auszurüsten. Die OF-1 ist die letzte Hoffnung der Menschheit! ImageFight ist ein vertikal scrollender Top-Down-Weltraum-Shooter. In jedem Level gibt es feindliche Raumschiffe, Geschütztürme, Roboter und andere Maschinen, die Projektile abfeuern oder versuchen, dich zu rammen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/ImageFight (Japan)-image.png</image>
-		<marquee>./images/ImageFight (Japan)-marquee.png</marquee>
-		<thumbnail>./images/ImageFight (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900727T000000</releasedate>
 		<developer>Irem Corporation</developer>
@@ -814,7 +640,6 @@ Das Gameplay in diesem Abenteuer ist dem ersten Spiel sehr ähnlich. Bonk hat Ko
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012842" />
 	</game>
 	<game id="14545">
 		<name>Raiden</name>
@@ -822,9 +647,6 @@ Das Gameplay in diesem Abenteuer ist dem ersten Spiel sehr ähnlich. Bonk hat Ko
 
 Raiden (bei Genesis und SNES Raiden Trad genannt) ist ein vertikal scrollender Overhead-Shooter, der auf einem gleichnamigen Arcade-Spiel basiert. Es bietet zwei Arten von Waffen-Upgrades und zwei Arten von Raketen (normal oder zielsuchend). Sie beginnen das Spiel mit mehreren Bomben, mit denen Sie die meisten Feinde auf dem Bildschirm zerstören können, um sich aus einem Stau zu befreien. Jedes Level endet mit einem großen Boss oder Bossen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Raiden (USA)-image.png</image>
-		<marquee>./images/Raiden (USA)-marquee.png</marquee>
-		<thumbnail>./images/Raiden (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>A.I Co</developer>
@@ -834,15 +656,11 @@ Raiden (bei Genesis und SNES Raiden Trad genannt) ist ein vertikal scrollender O
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2320</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012844" />
 	</game>
 	<game id="14526">
 		<name>Air Zonk</name>
 		<desc>Air Zonk auf TurboGrafx ist ein Shoot'em-Up, bei dem Sie Ihre Gegner mit Ihren Schüssen und einer Armada von Bomben eliminieren müssen. Besiege jeden Boss am Ende des Levels, um einen von Air Zonks Freunden zu befreien, der, sobald er bei dir ist, Superangriffe starten kann, besonders wenn sie kombiniert werden. Schieße Blumen einer bestimmten Farbe ab, um Boni zu sammeln, die dich mächtiger machen und somit mehr Punkte verdienen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Air Zonk (USA)-image.png</image>
-		<marquee>./images/Air Zonk (USA)-marquee.png</marquee>
-		<thumbnail>./images/Air Zonk (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Naxat Soft</developer>
@@ -852,7 +670,6 @@ Raiden (bei Genesis und SNES Raiden Trad genannt) ist ein vertikal scrollender O
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2270</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012848" />
 	</game>
 	<game id="14469">
 		<name>Shinobi</name>
@@ -860,9 +677,6 @@ Raiden (bei Genesis und SNES Raiden Trad genannt) ist ein vertikal scrollender O
 Jedes Level ist in kleinere Szenen unterteilt und Geiseln werden von großen Kerlen bewacht, die Schwerter werfen. Achten Sie auf bewaffnete feindliche Handlanger und Ninjas.
 Wenn Sie das Ende jedes Levels erreichen, müssen Sie gegen einen Boss antreten. Diese reichen von 8-Fuß-Riesen bis hin zu Kampfhubschraubern.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Shinobi (Japan)-image.png</image>
-		<marquee>./images/Shinobi (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Shinobi (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19891208T000000</releasedate>
 		<developer>Dual Corporation</developer>
@@ -872,7 +686,6 @@ Wenn Sie das Ende jedes Levels erreichen, müssen Sie gegen einen Boss antreten.
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>6026</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012852" />
 	</game>
 	<game id="14541">
 		<name>Detana!! TwinBee</name>
@@ -884,9 +697,6 @@ Trotzdem geht es immer noch darum, surreale und niedliche Feinde in 6 vertikal s
 Power-Ups und Upgrades erhalten Sie, indem Sie auf die farbigen Glocken schießen, die einige Feinde zurücklassen, bis sie die Farbe behalten, die Sie möchten. 
 Viele Kombinationen sind möglich. Eine neue Charge-Shot-Funktion wurde zu Ihrem Basis-Arsenal hinzugefügt, und das Spiel bietet kooperatives Einzel- und 2-Spieler-Gameplay.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Detana!! TwinBee (Japan)-image.png</image>
-		<marquee>./images/Detana!! TwinBee (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Detana!! TwinBee (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920228T000000</releasedate>
 		<developer>Konami</developer>
@@ -895,15 +705,11 @@ Viele Kombinationen sind möglich. Eine neue Charge-Shot-Funktion wurde zu Ihrem
 		<players>1-2</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012853" />
 	</game>
 	<game id="78626">
 		<name>Devil's Crush</name>
 		<desc>Stellen Sie sich ein Abenteuerspiel im Flipperformat vor, und Sie erhalten Dragon's Fury. Dein Held ist eine kleine silberne Kugel und dein Schlachtfeld ist ein dreistufiger Flipperautomat. Mit deinem Ball kannst du Monster besiegen, Punkte sammeln und Bonusstufen betreten. Wenn Sie mit genügend Geschick spielen, können Sie alle Arten von Boni zum Sammeln von Punkten auslösen. Wenn Sie eine Milliarde Punkte erhalten, können Sie gegen den Endboss kämpfen und das Ende des Spiels sehen.</desc>
 		<genre>Flipper</genre>
-		<image>./images/Devil's Crush (USA)-image.png</image>
-		<marquee>./images/Devil's Crush (USA)-marquee.png</marquee>
-		<thumbnail>./images/Devil's Crush (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Naxat Soft</developer>
@@ -913,7 +719,6 @@ Viele Kombinationen sind möglich. Eine neue Charge-Shot-Funktion wurde zu Ihrem
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2291</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012855" />
 	</game>
 	<game id="78613">
 		<name>Bravoman</name>
@@ -923,9 +728,6 @@ Das Spiel ist ein Side-Scrolling-Action-Platformer. Als Bravoman haben Sie die M
 
 Verfügt über 22 Stufen voller bizarrer Umgebungen und Feinde, die alle mit farbenfrohen 2D-Grafiken gerendert werden.</desc>
 		<genre>Plattform / Kampf Scrolling</genre>
-		<image>./images/Bravoman (USA)-image.png</image>
-		<marquee>./images/Bravoman (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bravoman (USA)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Namco</developer>
@@ -933,7 +735,6 @@ Verfügt über 22 Stufen voller bizarrer Umgebungen und Feinde, die alle mit far
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012856" />
 	</game>
 	<game id="14607">
 		<name>Legendary Axe II</name>
@@ -941,9 +742,6 @@ Verfügt über 22 Stufen voller bizarrer Umgebungen und Feinde, die alle mit far
 
 In diesem Spiel bekämpfst du Monster durch sieben Stufen mit nur einem Schwert, aber drei weitere Waffen können auf dem Weg aufgesammelt werden, darunter Äxte, Kettenspeere und intelligente Bomben. Diese Waffen können nur erhalten werden, indem man das Power-Up sammelt, das ein besiegter Feind zurücklässt. Waffen können unterwegs gewechselt werden. Am Ende jedes Levels musst du einen riesigen Boss besiegen, um zur nächsten Stufe zu gelangen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Legendary Axe II (USA)-image.png</image>
-		<marquee>./images/Legendary Axe II (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legendary Axe II (USA)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Atlus</developer>
@@ -952,15 +750,11 @@ In diesem Spiel bekämpfst du Monster durch sieben Stufen mit nur einem Schwert,
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2304</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012858" />
 	</game>
 	<game id="59848">
 		<name>Tatsujin</name>
 		<desc>Truxton auf TurboGrafx ist ein Shoot'em Up im Weltraum. An Bord seines Schiffes muss der Spieler zahlreiche Feinde besiegen, die zum Kampf gekommen sind. Kapseln können gesammelt werden, um Ihre Maschine zu verbessern, was bei den Konfrontationen mit den Bossen am Ende jedes Levels kein Luxus sein wird.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Tatsujin (Japan)-image.png</image>
-		<marquee>./images/Tatsujin (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Tatsujin (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920724T000000</releasedate>
 		<developer>Sting Entertainment</developer>
@@ -968,15 +762,11 @@ In diesem Spiel bekämpfst du Monster durch sieben Stufen mit nur einem Schwert,
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T012900" />
 	</game>
 	<game id="14560">
 		<name>Vigilante</name>
 		<desc>Begib dich in diesem seitlich scrollenden Beat-'em-up auf die Straßen von New York City.Gangster haben deine Freundin Madonna entführt und es liegt an dir, das Gesetz in die eigene Hand zu nehmen. Kämpfe dich durch gegnerisches Territorium, um sie zu retten, und stelle dich deinen Gegner, die dich mit Eisenrohren, Ketten, Gewehren und sogar auf Motorrädern angreifen.Wehre dich mit Schlägen, Tritten und dem Nunchaku, das du unterwegs finden kannst.Nutze diese Angriffe effektiv, um die Gegner zu schlagen, und besiege den Boss am Levelende, um einen Level abzuschließen. Deine Suche führt dich durch fünf spannende Level, darunter die Straßen New Yorks, ein Schrottplatz und sogar die Brooklyn Bridge.</desc>
 		<genre>Beat'em Up</genre>
-		<image>./images/Vigilante (USA)-image.png</image>
-		<marquee>./images/Vigilante (USA)-marquee.png</marquee>
-		<thumbnail>./images/Vigilante (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Irem Corporation</developer>
@@ -985,7 +775,6 @@ In diesem Spiel bekämpfst du Monster durch sieben Stufen mit nur einem Schwert,
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2339</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012904" />
 	</game>
 	<game id="14514">
 		<name>Space Harrier</name>
@@ -993,9 +782,6 @@ In diesem Spiel bekämpfst du Monster durch sieben Stufen mit nur einem Schwert,
 Der einsame Titelheld bekämpft Aliens mit einer Feuerball-Kanone mit jener er sich auch in eine Rakete transformieren kann. Der Protagonist ist ständig in Bewegung, aber die Geschwindigkeit seiner Bewegung kann vom Spieler jederzeit reguliert werden.
 Bist du bereit gegen die Aliens anzutreten?</desc>
 		<genre>Shooter / 3. Pers.</genre>
-		<image>./images/Space Harrier (USA)-image.png</image>
-		<marquee>./images/Space Harrier (USA)-marquee.png</marquee>
-		<thumbnail>./images/Space Harrier (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19881209T000000</releasedate>
 		<developer>SEGA AM2</developer>
@@ -1005,15 +791,11 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2327</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012908" />
 	</game>
 	<game id="14580">
 		<name>Final Soldier</name>
 		<desc>Im 23. Jahrhundert wird die Erde von Invasoren überfallen. In einem von den besten Wissenschaftlern der Erde gebauten Kampfjäger stellst du dich dem Feind!Sammle Power-Up-Einheiten wie „LASER“, „E-BEAM“, „FIRE“ und „MISSILE“ auf und rüste dein Schiff mit ihnen aus, um auf eine Vielzahl von Waffen zurückgreifen zu können. Jede dieser Waffen hat drei Varianten. Weiche feindlichen Angriffen aus und schalte geschickt zwischen den Waffen hin und her, um die Eindringlinge abzuwehren!Zum „NORMAL GAME“ gesellen sich noch das „2 MINUTE GAME“ und das „5 MINUTE GAME“ zum Sammeln von Zusatzpunkten.„Final Soldier“ ist die perfekte Mischung aus allen Teilen der Serie – ein Titel, den man nicht verpassen sollte!</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Final Soldier (Japan) (En)-image.png</image>
-		<marquee>./images/Final Soldier (Japan) (En)-marquee.png</marquee>
-		<thumbnail>./images/Final Soldier (Japan) (En)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910705T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1022,7 +804,6 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosId>7554</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012912" />
 	</game>
 	<game id="78606">
 		<name>Blazing Lazers</name>
@@ -1030,9 +811,6 @@ Bist du bereit gegen die Aliens anzutreten?</desc>
 
 Das Power-Up-System von Blazing Lazers besteht aus 4 Hauptwaffen, die alle mehrfach verbessert werden können um schließlich eine enorme Feuerkraft zu entfalten. Zusätzlich gibt es Sekundärwaffen, die als Schilde, Zielsuch-Raketen, Mehrfachfeuer oder Superwaffen dienen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Blazing Lazers (USA)-image.png</image>
-		<marquee>./images/Blazing Lazers (USA)-marquee.png</marquee>
-		<thumbnail>./images/Blazing Lazers (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Compile</developer>
@@ -1041,16 +819,12 @@ Das Power-Up-System von Blazing Lazers besteht aus 4 Hauptwaffen, die alle mehrf
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2274</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012914" />
 	</game>
 	<game id="14556">
 		<name>Chew Man Fu</name>
 		<desc>Chew Man Fu hat einen Fluch gesetzt, um der Welt gebratenen Reis, Eierbrötchen und all ihre anderen Lieblingsspeisen zu rauben. Um ihn aufzuhalten, müssen Sie sich durch 550 Runden arbeiten und sie abräumen, indem Sie vier verschiedenfarbige Kugeln in das entsprechend farbige Loch legen.
 Das Gameplay ist so etwas wie eine Pengo-Variante, da die Single-Screen-Levels von Feinden bewohnt werden, die getötet werden können, indem sie mit hoher Geschwindigkeit einen der Bälle auf sie schießen. Wenn es einen trifft, bewegt es sich weiter in die gleiche Richtung, prallt bei Bedarf von Wänden ab und drückt Sie leicht nach hinten, wenn es zu Ihnen zurückkommt - aber es kann sofort wieder unter Kontrolle gebracht werden. Blöcke können auch mit einer lässigeren Geschwindigkeit bewegt werden, einschließlich runder Ecken. Sobald ein Block an seinem Platz platziert ist, kann er wieder als Waffe verwendet werden.</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Chew-Man-Fu (USA)-image.png</image>
-		<marquee>./images/Chew-Man-Fu (USA)-marquee.png</marquee>
-		<thumbnail>./images/Chew-Man-Fu (USA)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Now Production</developer>
@@ -1059,15 +833,11 @@ Das Gameplay ist so etwas wie eine Pengo-Variante, da die Single-Screen-Levels v
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2284</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012918" />
 	</game>
 	<game id="59815">
 		<name>The New Zealand Story</name>
 		<desc>The New Zealand Story auf PC Engine ist ein Plattformspiel. Der Spieler steuert Tiki, einen Kiwi, dessen Ziel es ist, seine von einem Seeleoparden entführten Freunde zu retten. Mit jedem abgeschlossenen Level kann er einen seiner Freunde retten. Um sich zu verteidigen, kann der Spieler Pfeile als Grundwaffe verwenden und sich dann Bomben, Laser oder sogar Feuerbälle besorgen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/NewZealand Story, The (Japan)-image.png</image>
-		<marquee>./images/NewZealand Story, The (Japan)-marquee.png</marquee>
-		<thumbnail>./images/NewZealand Story, The (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19900223T000000</releasedate>
 		<developer>Aisystem Tokyo</developer>
@@ -1077,15 +847,11 @@ Das Gameplay ist so etwas wie eine Pengo-Variante, da die Single-Screen-Levels v
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>2176</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012919" />
 	</game>
 	<game id="78621">
 		<name>Coryoon : Child of Dragon</name>
 		<desc>Horizontales Shoot'em Up, bei dem du in die Rolle eines Drachenbabys schlüpfst und eine Prinzessin aus den Fängen des Bösen befreien musst ... nun, du hast die Idee verstanden. Das Gameplay ist traditionell, mit Power-Up-Waffen, die einen Mehrwegschuss und einen „Miniatur“-Modus umfassen, sowie einer Art umgekehrtem R-Type-Strahl, bei dem man nicht schießen muss, um ihn zu aktivieren. Enthält außerdem 2-Minuten- und 5-Minuten-Zeitangriffsmodi.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Coryoon - Child of Dragon (Japan)-image.png</image>
-		<marquee>./images/Coryoon - Child of Dragon (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Coryoon - Child of Dragon (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19911129T000000</releasedate>
 		<developer>Naxat Soft</developer>
@@ -1094,7 +860,6 @@ Das Gameplay ist so etwas wie eine Pengo-Variante, da die Single-Screen-Levels v
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>7902</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012923" />
 	</game>
 	<game id="59796">
 		<name>Fantasy Zone</name>
@@ -1102,9 +867,6 @@ Das Gameplay ist so etwas wie eine Pengo-Variante, da die Single-Screen-Levels v
 
 Fantasy Zone ist ein Shooter im Arcade-Stil für einen oder zwei Spieler. Das Ziel ist es, alle Kreaturen auf jedem Planeten zu zerstören und so viele der verlorenen Münzen wie möglich zu sammeln. Am Ende jedes Levels steht ein großer Feind, der besiegt werden muss, bevor es in die nächste Welt weitergeht. An verschiedenen Stellen im Spiel findet der Spieler einen Teileladen, der es ihm ermöglicht, Verbesserungen für sein Raumschiff zu kaufen, darunter bessere Waffen und schnellere Maschinen.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Fantasy Zone (USA)-image.png</image>
-		<marquee>./images/Fantasy Zone (USA)-marquee.png</marquee>
-		<thumbnail>./images/Fantasy Zone (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -1113,7 +875,6 @@ Fantasy Zone ist ein Shooter im Arcade-Stil für einen oder zwei Spieler. Das Zi
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012927" />
 	</game>
 	<game id="59777">
 		<name>Bomberman</name>
@@ -1123,9 +884,6 @@ Die Reichweite der Explosion kann mit der Zeit verbessert werden, aber wenn Sie 
 
 Dieses Top-Down-Action-Arcade-Spiel besteht aus neun Levels pro Ebene, jedes härter als das andere, und jedes Finale besteht aus dem Boss, mit dem Sie es zu tun haben. Sie können sich horizontal und vertikal bewegen und Bomben hinter sich legen, wodurch die Feinde verdampft werden, aber seien Sie vorsichtig, denn Sie können sich mit Ihrer eigenen Bombe blockieren und Opfer Ihrer eigenen Tricks werden, wenn Sie verärgert spielen.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Bomberman (USA)-image.png</image>
-		<marquee>./images/Bomberman (USA)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1135,7 +893,6 @@ Dieses Top-Down-Action-Arcade-Spiel besteht aus neun Levels pro Ebene, jedes hä
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2276</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012932" />
 	</game>
 	<game id="14593">
 		<name>Final Lap Twin</name>
@@ -1143,9 +900,6 @@ Dieses Top-Down-Action-Arcade-Spiel besteht aus neun Levels pro Ebene, jedes hä
 Es gibt zwei Grundmodi: Grand Prix und Quest. Der Grand Prix besteht aus einer Meisterschaft mit mehreren Rennpunkten. Für diesen Modus gibt es zwei Fahrzeugtypen: F-3000 und F1. Der Grand Prix-Modus kann mit einem oder zwei Spielern gespielt werden. Der Quest-Modus hat mehr Tiefe und bildet den Kern von Final Lap Twin. Dies ist im Wesentlichen ein Renn-Rollenspiel. Sie übernehmen die Rolle eines Jungen, der Weltmeister werden möchte. Um dies zu tun, müssen Sie von Stadt zu Stadt reisen, um Herausforderungen zu finden und diese zu gewinnen, um Geld und somit besondere Gegenstände zu verdienen und Ihr Auto zu verbessern. 
 </desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Final Lap Twin (USA)-image.png</image>
-		<marquee>./images/Final Lap Twin (USA)-marquee.png</marquee>
-		<thumbnail>./images/Final Lap Twin (USA)-thumb.png</thumbnail>
 		<rating>0.95</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Namco</developer>
@@ -1154,15 +908,11 @@ Es gibt zwei Grundmodi: Grand Prix und Quest. Der Grand Prix besteht aus einer M
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2297</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012933" />
 	</game>
 	<game id="14481">
 		<name>Bomberman '94</name>
 		<desc>Mega Bomberman ist ein Actionspiel auf Turbografx. Im Einzelspielermodus liegt es an Ihnen, Ihre Bomben zu destillieren, um den Durchgang freizumachen, Ihre Feinde zu vernichten und die Boni einzusammeln, die die Level schmücken. Verschiedene Arten von Kängurus können Ihnen an bestimmten Tischen zur Hand gehen und im Mehrspielermodus können Sie aus neun verschiedenen Charakteren wählen.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Bomberman '94 (World) (Wii U Virtual Console)-image.png</image>
-		<marquee>./images/Bomberman '94 (World) (Wii U Virtual Console)-marquee.png</marquee>
-		<thumbnail>./images/Bomberman '94 (World) (Wii U Virtual Console)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19931210T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1171,7 +921,6 @@ Es gibt zwei Grundmodi: Grand Prix und Quest. Der Grand Prix besteht aus einer M
 		<players>1-5</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T012935" />
 	</game>
 	<game id="141201">
 		<name>Psychosis</name>
@@ -1179,9 +928,6 @@ Es gibt zwei Grundmodi: Grand Prix und Quest. Der Grand Prix besteht aus einer M
 
 Psychosis ist ein Side-Scrolling-Shooter, bei dem jedes Level einen anderen Ort in deinem Kopf darstellen soll. Einer sieht aus wie der Himmel, ein anderer voller Wasserpflanzen, einer mit Tetris-Blöcken. In diesen Phasen müssen Sie alles in Sichtweite sprengen, während Sie Power-Ups sammeln, um Ihre Waffe und Ihren Schild zu verbessern. Sie können zwei schwimmende Kugeln erhalten, die mechanischen Augen ähneln und um 360 Grad um Ihr Schiff herum gerichtet werden können, um entweder als Schild zu fungieren oder Ihre Waffe zu lenken. Kämpfe dich durch jede Stufe und besiege den Boss am Ende und schließlich kämpfst du gegen den Teufel höchstpersönlich.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Psychosis (USA)-image.png</image>
-		<marquee>./images/Psychosis (USA)-marquee.png</marquee>
-		<thumbnail>./images/Psychosis (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Dual</developer>
@@ -1190,7 +936,6 @@ Psychosis ist ein Side-Scrolling-Shooter, bei dem jedes Level einen anderen Ort 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2319</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012939" />
 	</game>
 	<game id="14601">
 		<name>Shockman</name>
@@ -1198,9 +943,6 @@ Psychosis ist ein Side-Scrolling-Shooter, bei dem jedes Level einen anderen Ort 
 
 Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, die das Tempo des Spiels ein wenig verändern, aber dennoch ein aktionsorientiertes, seitwärts scrollendes Plattformspiel bleiben, bei dem es Ihr Ziel ist, die Bühne von allen Feinden und Bossen zu säubern, während Sie welche einsammeln Power-Ups, die dir bei deiner Suche helfen können. Das Spiel macht einen linearen Fortschritt von Stufe zu Stufe, wobei die Weltkarte des Originals sowie der Kauf von Upgrades zwischen den Levels verloren gehen (da "Doc", der Erfinder beider Cyborgs und Anbieter von Upgrades, von den Außerirdischen entführt wurde), obwohl neu Shooter-Phasen hinzugefügt wurden, um die Dinge aufzupeppen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Shockman (USA)-image.png</image>
-		<marquee>./images/Shockman (USA)-marquee.png</marquee>
-		<thumbnail>./images/Shockman (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Winds</developer>
@@ -1209,14 +951,11 @@ Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, di
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2322</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012940" />
 	</game>
 	<game>
 		<name>Dragon Spirit</name>
 		<desc>Namcos Automat von 1987 als HuCard-Umsetzung. Der Krieger Amul wird in einen Drachen verwandelt, um Prinzessin Alicia zu befreien. Gegner greifen auf zwei Ebenen an: Der Feueratem trifft alles in der Luft, Bomben treffen den Boden — beides muss getrennt anvisiert werden. Aufwertungen geben dem Drachen einen zweiten und dritten Kopf und verbreitern damit das Schussfeld.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Dragon Spirit (USA)-image.png</image>
-		<thumbnail>./images/Dragon Spirit (USA)-thumb.png</thumbnail>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>NEC</publisher>
@@ -1224,15 +963,11 @@ Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, di
 		<players>1</players>
 		<region>us</region>
 		<cheevosId>2242</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012943" />
 	</game>
 	<game id="14479">
 		<name>Valkyrie no Densetsu</name>
 		<desc>„Legend of Valkyrie“ versetzt Sie in die Lage einer jungen Walküre aus der nordischen Mythologie, die sich auf den Weg macht, den sagenumwobenen goldenen Samen zurückzugewinnen, der von einem bösen Gott gestohlen wurde.nnDas Spiel spielt sich als Top-Down-Action-/Adventure-Titel mit einigen RPG- und Platformer-Elementen ab. Sie müssen durch die vielen Level navigieren, aus denen Walhalla besteht, und alle Feinde auf Ihrem Weg besiegen, während Sie Abgründe und andere Hindernisse im Platformer-Stil überwinden.nnIn jeder Phase finden Sie außerdem mehrere NPCs, die Spielhinweise, Hinweise und Gegenstände anbieten, die Sie mit dem von gefallenen Feinden gestohlenen Gold kaufen können. Sie können Gesundheits-Power-Ups, verbesserte Waffen und sogar Zaubersprüche für zusätzliche Feuerkraft kaufen.</desc>
 		<genre>Abenteuer</genre>
-		<image>./images/Valkyrie no Densetsu (Japan)-image.png</image>
-		<marquee>./images/Valkyrie no Densetsu (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Valkyrie no Densetsu (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19900809T000000</releasedate>
 		<developer>Namcot</developer>
@@ -1241,7 +976,6 @@ Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, di
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>7222</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012947" />
 	</game>
 	<game id="14550">
 		<name>The Legendary Axe</name>
@@ -1249,9 +983,6 @@ Beide Cyborgs haben ihre Energieklingen gegen Fernkampfangriffe eingetauscht, di
 
 Es gibt sechs Zonen im Spiel und Gogan erkundet Wälder, Höhlen, Berge, Verliese und Burgen, während er mit seiner Axt Feinde besiegt, die sich ihm in den Weg stellen. Idole können zerbrochen werden, um Power-Ups freizulegen, die die Kraft der Axt erhöhen und ihren Schwung beschleunigen. Diese Power-Ups können Ihnen auch zusätzliche Leben, mehr Punkte und die Möglichkeit geben, auf geheime Bereiche zuzugreifen. Am Ende jeder Zone musst du einen Boss besiegen, um fortzufahren.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Legendary Axe, The (USA)-image.png</image>
-		<marquee>./images/Legendary Axe, The (USA)-marquee.png</marquee>
-		<thumbnail>./images/Legendary Axe, The (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19890901T000000</releasedate>
 		<developer>Victor Musical Industrie</developer>
@@ -1260,7 +991,6 @@ Es gibt sechs Zonen im Spiel und Gogan erkundet Wälder, Höhlen, Berge, Verlies
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2305</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012951" />
 	</game>
 	<game id="14565">
 		<name>Soldier Blade</name>
@@ -1270,9 +1000,6 @@ Soldier Blade gibt Ihnen die direkte Kontrolle über einen Starfighter, während
 
 Das Spiel bietet auch ein einzigartiges Waffensystem mit drei anpassbaren Waffengehäusen, in denen Sie jede der verschiedenen verfügbaren Waffentypen montieren können. Zusätzlich können Sie jede Ihrer Kapseln opfern, um „optionale“ Satelliten, Bomben und andere Superbewegungen einzubauen, abhängig von der Kombination aus Kapsel und Waffe, die Sie ausgerüstet haben.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Soldier Blade (USA)-image.png</image>
-		<marquee>./images/Soldier Blade (USA)-marquee.png</marquee>
-		<thumbnail>./images/Soldier Blade (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19920901T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1281,7 +1008,6 @@ Das Spiel bietet auch ein einzigartiges Waffensystem mit drei anpassbaren Waffen
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2326</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012955" />
 	</game>
 	<game id="78731">
 		<name>Parasol Stars : The Story of Bubble Bobble III</name>
@@ -1291,9 +1017,6 @@ Die Jungs müssen eine Reihe von Bildschirmen von Bösewichten räumen – die e
 
 Aber diesmal sind sie mit Regenschirmen bewaffnet! Oh, okay, dann Sonnenschirme...</desc>
 		<genre>Plattform</genre>
-		<image>./images/Parasol Stars - The Story of Bubble Bobble III (USA)-image.png</image>
-		<marquee>./images/Parasol Stars - The Story of Bubble Bobble III (USA)-marquee.png</marquee>
-		<thumbnail>./images/Parasol Stars - The Story of Bubble Bobble III (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910502T000000</releasedate>
 		<developer>Taito</developer>
@@ -1303,16 +1026,12 @@ Aber diesmal sind sie mit Regenschirmen bewaffnet! Oh, okay, dann Sonnenschirme.
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2318</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T012957" />
 	</game>
 	<game id="195409">
 		<name>Genpei Toumaden</name>
 		<desc>Sie spielen einen Samurai, Taira no Kagekiyo, der in Japan historisch bekannt ist und gerade wieder auferstanden ist. Anschließend werden Sie in die Schlacht von Dan-no-ura verwickelt, eine der großen Schlachten des Genpei-Krieges im Jahr 1185. Wir werden andere bekannte Orte wie den Sanzu-Fluss überqueren, eine Art Fluss des Lebens in Final Fantasie VII oder der Styx der griechischen Mythologie, also die Vorkammer des Todes.
 Das Spiel basiert daher auf einer historischen Handlung, was sicherlich eine der Stärken ist und die Spieler fesselt.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Genpei Toumaden (Japan)-image.png</image>
-		<marquee>./images/Genpei Toumaden (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Genpei Toumaden (Japan)-thumb.png</thumbnail>
 		<releasedate>19900316T000000</releasedate>
 		<developer>Namcot</developer>
 		<publisher>Namcot</publisher>
@@ -1320,15 +1039,11 @@ Das Spiel basiert daher auf einer historischen Handlung, was sicherlich eine der
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>22765</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013000" />
 	</game>
 	<game id="78690">
 		<name>Kyuukyoku Tiger</name>
 		<desc>Twin Cobra auf TurboGrafx ist ein vertikal scrollendes Shoot'em Up, in dem Sie einen Hubschrauber steuern und alles zerstören müssen, was Ihnen im Weg steht: Panzer, Geschütztürme, Kampfhubschrauber ... Sie haben auch die Möglichkeit, die Art des Spiels zu ändern, Waffen wann immer Sie wollen zwischen omnidirektionalem Feuer, Laser usw.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Kyuukyoku Tiger (Japan)-image.png</image>
-		<marquee>./images/Kyuukyoku Tiger (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Kyuukyoku Tiger (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890331T000000</releasedate>
 		<developer>A.I Co</developer>
@@ -1337,15 +1052,11 @@ Das Spiel basiert daher auf einer historischen Handlung, was sicherlich eine der
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>18743</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013002" />
 	</game>
 	<game id="59785">
 		<name>Cyber-Core</name>
 		<desc>Cyber-Core ist ein vertikal scrollender Shooter, in dem der Spieler Insekten bekämpft. Die Grundidee ist traditionell: auf alles schießen, bevor sie den Spieler schießen/berühren können: Nach drei Treffern bricht die Chitin-Rüstung und ein Leben ist verloren. Neben fliegenden Feinden, die mit der Standardwaffe beseitigt werden, muss der Spieler auch mit Feinden am Boden fertig werden, die mit einer der unbegrenzten Bomben getroffen werden müssen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Cyber-Core (USA)-image.png</image>
-		<marquee>./images/Cyber-Core (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cyber-Core (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Alfa System</developer>
@@ -1354,16 +1065,12 @@ Das Spiel basiert daher auf einer historischen Handlung, was sicherlich eine der
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2287</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013006" />
 	</game>
 	<game id="14602">
 		<name>Puzznic</name>
 		<desc>Die Herausforderung in jedem Level von Puzznic besteht darin, eine Auswahl von Blöcken an ihren Platz zu manövrieren, um sie alle zu beseitigen, indem man sie mit Blöcken desselben Designs in Kontakt bringt. Sie steuern ein Fadenkreuz, das einen Block nach links oder rechts bewegen kann, was dazu führen kann, dass er herunterfällt, wenn sich unter dem Platz, den er einnehmen würde, kein Block befindet.
 Es gibt viele Komplikationen beim Lösen der Level. Das Verschieben von Plattformen bedeutet, dass Sie einen Block zu einem bestimmten Zeitpunkt oder in einer bestimmten Reihenfolge verschieben müssen, um zu verhindern, dass er blockiert wird. In manchen Situationen gibt es eine ungerade Anzahl einer bestimmten Art von Blöcken – um diese zu lösen, müssen zwei der Blöcke einen Abstand voneinander entfernt positioniert werden, so dass ein Zug dazu führt, dass eine Figur mit zwei anderen in Kontakt kommt und sofort alle drei entfernt. Das wird passieren stoßen auch auf Blöcke, die auf im Raum schwebenden Plattformen positioniert sind, und auf Lücken in der Ebenenanordnung, was bedeutet, dass eine bestimmte Anzahl von Blöcken vorhanden sein muss, um eine bestimmte Bewegung zu ermöglichen (z. B. durch Bildung eines Stapels).</desc>
 		<genre>Puzzle</genre>
-		<image>./images/Puzznic (Japan)-image.png</image>
-		<marquee>./images/Puzznic (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Puzznic (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900629T000000</releasedate>
 		<developer>Taito</developer>
@@ -1371,7 +1078,6 @@ Es gibt viele Komplikationen beim Lösen der Level. Das Verschieben von Plattfor
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T013009" />
 	</game>
 	<game id="14495">
 		<name>Pac-Land</name>
@@ -1379,9 +1085,6 @@ Es gibt viele Komplikationen beim Lösen der Level. Das Verschieben von Plattfor
 
 Es sind sechzehn Runden mit jeweils vier Fahrten zu absolvieren. In jeder Runde kann er sich ein Power-Pellet schnappen, wodurch Geister blau werden und Pac-Man sie für Punkte fressen kann. Punkte werden auch durch das Sammeln von Früchten vergeben, die erscheinen, wie Kirschen und Erdbeeren. In einigen Runden muss Pac ein Sprungbrett benutzen, um über einen See zu springen. Außerdem muss er es bis zum Ende jeder Runde schaffen, bevor die Zeit abläuft, sonst wird ihn ein Geist verfolgen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Pac-Land (USA)-image.png</image>
-		<marquee>./images/Pac-Land (USA)-marquee.png</marquee>
-		<thumbnail>./images/Pac-Land (USA)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Namco</developer>
@@ -1390,15 +1093,11 @@ Es sind sechzehn Runden mit jeweils vier Fahrten zu absolvieren. In jeder Runde 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2316</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013011" />
 	</game>
 	<game id="14553">
 		<name>R-Type</name>
 		<desc>R-TYPE – einer der beliebtesten Arcade-Shooter aller Zeiten in einer pixelgenauen Umsetzung! Zerstörte POW-Kapseln setzen eines von sechs verschiedenen Extra-Items zum Aufrüsten des eigenen R-9-Jägers frei. Die Force, ein hoch entwickeltes Angriffsmodul, ist ein unerlässliches Hilfsmittel im Kampf gegen die außerirdische Bedrohung: Geschickte Piloten koppeln sie von ihrem R-9 ab und schicken sie auf Gegnerjagd oder bestücken sie mit zahlreichen Extrawaffen wie Reflektor-Laser, Luft-Boden- oder Flugabwehrraketen. Ein längerer Druck auf den Feuerknopf aktiviert die Beam-Kanone: Wer es schafft, diese mächtige Wunderwaffe lange genug aufzuladen, entfesselt einen Energiestoß, in dem jeder Widerstand verglüht! Die unbestrittenen Höhepunkte dieses Meisterwerks sind die bildschirmfüllenden Endgegner und der legendäre dritte Level, in dem der Spieler allein gegen ein monströses Schlachtschiff bestehen muss.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/R-Type (USA)-image.png</image>
-		<marquee>./images/R-Type (USA)-marquee.png</marquee>
-		<thumbnail>./images/R-Type (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Irem Corporation</developer>
@@ -1408,7 +1107,6 @@ Es sind sechzehn Runden mit jeweils vier Fahrten zu absolvieren. In jeder Runde 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2145</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013013" />
 	</game>
 	<game id="59790">
 		<name>Darius Alpha</name>
@@ -1417,9 +1115,6 @@ Ein Spiel, in dem du nur gegen die Bosse eines Spiels oder einer Spielserie käm
 Sie beginnen mit einem nicht ausgerüsteten Schiff und müssen den Boss des ersten Levels, King Fossil, besiegen. 
 Wenn du König Fossil besiegt hast, erhältst du einige leichte Verbesserungen und kommst direkt zum Boss des nächsten Levels.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)-image.png</image>
-		<marquee>./images/Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)-marquee.png</marquee>
-		<thumbnail>./images/Darius Alpha (World) (SG Enhanced) (Darius Cozmic Collection)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -1428,7 +1123,6 @@ Wenn du König Fossil besiegt hast, erhältst du einige leichte Verbesserungen u
 		<players>1</players>
 		<lang>en</lang>
 		<region>wr</region>
-		<scrap name="ScreenScraper" date="20260814T013014" />
 	</game>
 	<game id="78768">
 		<name>Somer Assault</name>
@@ -1436,9 +1130,6 @@ Wenn du König Fossil besiegt hast, erhältst du einige leichte Verbesserungen u
 
 Die Geschichte ist skurril, was zum Konzept des Spiels passt. Eine Zauberin hat Pläne, die Welt zu beherrschen. Dazu hat sie 12 Bestien beschworen, die jeweils auf einem Tierkreiszeichen basieren. Es liegt an dir, Pink Slinky, die 12 astrologischen Zeichen zu besiegen.</desc>
 		<genre>Shooter</genre>
-		<image>./images/Somer Assault (USA)-image.png</image>
-		<marquee>./images/Somer Assault (USA)-marquee.png</marquee>
-		<thumbnail>./images/Somer Assault (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Atlus</developer>
@@ -1447,7 +1138,6 @@ Die Geschichte ist skurril, was zum Konzept des Spiels passt. Eine Zauberin hat 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>5087</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013016" />
 	</game>
 	<game id="14511">
 		<name>Cadash</name>
@@ -1455,9 +1145,6 @@ Die Geschichte ist skurril, was zum Konzept des Spiels passt. Eine Zauberin hat 
 
 Cadash ist ein Plattform-Action-Rollenspiel. Der Spieler wählt zu Beginn des Spiels eine der vier Charakterklassen: Kämpfer, Priesterin, Magier oder Ninja (die Genesis-Version hat nur zwei Charaktere: Kämpfer und Magier). Der Protagonist kämpft sich durch Dungeons, greift körperlich an oder wirkt Zauber (als Priesterin oder Magier). Wie in normalen Plattformspielen gibt es Stellen, an denen der Spieler springen, sich ducken oder klettern muss. Der Protagonist sammelt Erfahrung für das Besiegen von Monstern und sein Level steigt in echter RPG-Manier.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Cadash (USA)-image.png</image>
-		<marquee>./images/Cadash (USA)-marquee.png</marquee>
-		<thumbnail>./images/Cadash (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Taito</developer>
@@ -1466,16 +1153,12 @@ Cadash ist ein Plattform-Action-Rollenspiel. Der Spieler wählt zu Beginn des Sp
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2283</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T013017" />
 	</game>
 	<game id="59802">
 		<name>Heavy Unit</name>
 		<desc>Heavy Unit ist ein „Shoot-'em-up“-Spiel.
 Wir schreiben das Jahr 2014 und die menschliche Kolonie „Le Tau“ wird von seltsamen Außerirdischen angegriffen. Sie erhalten das Kommando über ein spezielles Raumschiff, das im Laufe des Spiels durch den Erwerb verschiedener Power-Ups in einen Mecha (Riesenroboter) verwandelt werden kann. Abgesehen davon ist es ein typisches Schießspiel, bei dem man durch verschiedene Side-Scrolling-Levels fliegen und alles abschießen muss, was man sieht.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Heavy Unit (Japan)-image.png</image>
-		<marquee>./images/Heavy Unit (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Heavy Unit (Japan)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19891222T000000</releasedate>
 		<developer>Inter State</developer>
@@ -1483,15 +1166,11 @@ Wir schreiben das Jahr 2014 und die menschliche Kolonie „Le Tau“ wird von se
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101518" />
 	</game>
 	<game id="59813">
 		<name>Moto Roader II</name>
 		<desc>Moto Roader II ist ein Rennspiel, das in einer Top-Down-Perspektive gezeigt wird. Fünf Fahrzeuge treten auf einer Strecke gegeneinander an, mit dem Ziel, Erster zu werden. Der Bildschirm folgt jedoch immer dem führenden Fahrzeug und wenn ein Fahrzeug zurückbleibt, wird es auf dem aktuellen Bildschirm ersetzt. Jedes Fahrzeug verfügt über einen Tankzähler, der eine Strafe erhält, wenn das Fahrzeug angefahren wird oder ersetzt werden muss. Das Erreichen von Null beendet das Rennen. Spieler können zwischen drei Fahrzeugen mit unterschiedlichem Fahrverhalten (Auto, Panzer oder Luftkissenfahrzeug) wählen und diese, wenn sie genug Preisgeld gesammelt haben, zwischen den Rennen aufrüsten (einschließlich Waffen). Im Gegensatz zum Vorgänger wirkt das Spiel futuristisch.</desc>
 		<genre>Rennen, Fahren</genre>
-		<image>./images/Moto Roader II (Japan)-image.png</image>
-		<marquee>./images/Moto Roader II (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Moto Roader II (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19910329T000000</releasedate>
 		<developer>JTS</developer>
@@ -1499,7 +1178,6 @@ Wir schreiben das Jahr 2014 und die menschliche Kolonie „Le Tau“ wird von se
 		<players>1-5</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101521" />
 	</game>
 	<game id="59828">
 		<name>Silent Debuggers</name>
@@ -1509,9 +1187,6 @@ Silent Debuggers ist ein Actionspiel aus der Ego-Perspektive. Das Spiel schreite
 
 Bekämpfe Monster mit einer Vielzahl von Waffen und schütze die wertvollen Wirtschaftsräume rund um das Zentrum der Station davor, von Monstern abgeschnitten zu werden, während du durch die einzelnen Level der Station vorrückst. Von Leon bereitgestellte Tools verleihen dem Spieler besondere Fähigkeiten.</desc>
 		<genre>Shooter / 1. Pers.</genre>
-		<image>./images/Silent Debuggers (USA)-image.png</image>
-		<marquee>./images/Silent Debuggers (USA)-marquee.png</marquee>
-		<thumbnail>./images/Silent Debuggers (USA)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19910101T000000</releasedate>
 		<developer>Data East</developer>
@@ -1520,16 +1195,12 @@ Bekämpfe Monster mit einer Vielzahl von Waffen und schütze die wertvollen Wirt
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2324</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101523" />
 	</game>
 	<game id="78792">
 		<name>Toilet Kids</name>
 		<desc>Als der Protagonist eines Nachts auf die Toilette geht, wird er plötzlich in die Toilette gespült und in ein geheimnisvolles Reich voller seltsamer Monster versetzt. Der Protagonist steuert ein fliegendes Fahrzeug und hat die Aufgabe, die Bewohner der mysteriösen Welt zu besiegen und einen Weg zu finden, nach Hause zurückzukehren.
 Toilet Kids ist ein exklusiver japanischer PC Engine-Shooter mit vertikalem Bildlauf, der im Gameplay Xevious sehr ähnelt. Das Spiel hat nur vier Abschnitte und macht viel Gebrauch von Toilettenhumor und skatologischen Anspielungen.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Toilet Kids (Japan)-image.png</image>
-		<marquee>./images/Toilet Kids (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Toilet Kids (Japan)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19920306T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -1538,7 +1209,6 @@ Toilet Kids ist ein exklusiver japanischer PC Engine-Shooter mit vertikalem Bild
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>8554</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101527" />
 	</game>
 	<game id="59817">
 		<name>Dungeons &amp; Dragons : Order of the Griffon</name>
@@ -1546,9 +1216,6 @@ Toilet Kids ist ein exklusiver japanischer PC Engine-Shooter mit vertikalem Bild
 Der Kampf mit Monstern ist rundenbasiert und findet auf einem speziellen taktischen Bildschirm statt. 
 </desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Dungeons &amp; Dragons - Order of the Griffon (USA)-image.png</image>
-		<marquee>./images/Dungeons &amp; Dragons - Order of the Griffon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dungeons &amp; Dragons - Order of the Griffon (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Westwood Associates</developer>
@@ -1556,7 +1223,6 @@ Der Kampf mit Monstern ist rundenbasiert und findet auf einem speziellen taktisc
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T101531" />
 	</game>
 	<game id="59792">
 		<name>Dead Moon</name>
@@ -1571,9 +1237,6 @@ Dead Moon ist ein Side-Scrolling-Shooter mit 6 Levels, die auf der Erde, im Welt
  Es verfügt über 4 verschiedene primäre Waffentypen und mehrere sekundäre Waffentypen. 
 In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Dead Moon (USA)-image.png</image>
-		<marquee>./images/Dead Moon (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dead Moon (USA)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Studio Ducks</developer>
@@ -1582,15 +1245,11 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2289</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101533" />
 	</game>
 	<game id="59787">
 		<name>Cyber Knight</name>
 		<desc>Im Jahr 2352 kolonisierte die Menschheit den Weltraum und es kam zu Kriegen zwischen den Kolonien. Nach einem Angriff von Weltraumpiraten findet sich die überlebende Besatzung des Schiffes Swordfish in einer unbekannten Region der Galaxie wieder. Bei der Erkundung von Planeten müssen sie mit ihren Kampfmechaniken gegen mechanische Außerirdische – die Berserker – kämpfen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Cyber Knight (Japan)-image.png</image>
-		<marquee>./images/Cyber Knight (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Cyber Knight (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19901012T000000</releasedate>
 		<developer>Compile</developer>
@@ -1599,15 +1258,11 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101536" />
 	</game>
 	<game id="78602">
 		<name>Barunba</name>
 		<desc>Barunba ist das Spiel seiner Kategorie. Multidirektionales Shoot'em-Up, das Sie in sehr abwechslungsreiche Welten entführt. Seine Spielbarkeit ist vorbildlich. Dank der Auswahltaste können Sie Ihre Waffen auswählen, die sich abhängig von den gesammelten Boni unabhängig voneinander gegenseitig verstärken.</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Barunba (Japan)-image.png</image>
-		<marquee>./images/Barunba (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Barunba (Japan)-thumb.png</thumbnail>
 		<rating>0.5</rating>
 		<releasedate>19900427T000000</releasedate>
 		<developer>ZAP</developer>
@@ -1615,15 +1270,11 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101537" />
 	</game>
 	<game id="78698">
 		<name>Makai Prince Dorabocchan</name>
 		<desc>Makai Prince Dorabocchan ist ein Plattformspiel, das stark an Konamis Kid Dracula angelehnt ist, angefangen bei der überraschend nahen Gestaltung des Helden. Es geht darum, sechs Level zu durchqueren, die natürlich mit dem Kampf gegen einen Boss abgeschlossen werden, und in den meisten Fällen gibt es auch einen Zwischenboss. Durch einen Wald, eine Stadt, eine Wüste oder sogar eine Höhle vernichten Sie die Feinde, die Ihnen in den Weg kommen, angefangen bei den Fledermäusen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Makai Prince Dorabocchan (Japan)-image.png</image>
-		<marquee>./images/Makai Prince Dorabocchan (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Makai Prince Dorabocchan (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19901221T000000</releasedate>
 		<developer>Red Company Corporation</developer>
@@ -1632,15 +1283,11 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>22776</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101540" />
 	</game>
 	<game id="78657">
 		<name>Gekisha Boy</name>
 		<desc>Neuartiges Spiel, in dem Sie Punkte sammeln müssen, indem Sie beim Gehen durch die Straße Fotos von den aktuellsten Ereignissen machen. Dazu gehören umstürzende Menschen, abstürzende Flugzeuge, UFOs und viele andere bizarre Ereignisse. Sie haben nur eine begrenzte Menge an Filmmaterial und müssen vorsichtig sein, um Hindernissen wie springenden Bällen und Skateboards auszuweichen, da der Kontakt dazu führt, dass Sie etwas davon fallen lassen und wenn Sie aufgebraucht sind, ist das Level vorbei.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Gekisha Boy (Japan)-image.png</image>
-		<marquee>./images/Gekisha Boy (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Gekisha Boy (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19921002T000000</releasedate>
 		<developer>Tomcat System</developer>
@@ -1649,15 +1296,11 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>16374</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101541" />
 	</game>
 	<game id="14501">
 		<name>Populous</name>
 		<desc>Populous ist ein Strategiespiel, mit dem du dich in die Lage eines Gottes versetzen kannst. Kommandiere eine Zivilisation und besiege die Bevölkerung anderer Gottheiten. Als Gott kannst du in über 500 Welten nach Belieben Landformen ändern, Zauber wirken, Truppen befehligen und Helden erschaffen, um dein Volk zu beeinflussen.</desc>
 		<genre>Strategie</genre>
-		<image>./images/Populous (Japan)-image.png</image>
-		<marquee>./images/Populous (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Populous (Japan)-thumb.png</thumbnail>
 		<rating>0.85</rating>
 		<releasedate>19910405T000000</releasedate>
 		<developer>AlfaSystem</developer>
@@ -1666,7 +1309,6 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101543" />
 	</game>
 	<game id="78662">
 		<name>Gomola Speed</name>
@@ -1674,9 +1316,6 @@ In jedem Level gibt es Mini-Bosse und End-of-Level-Bosse.</desc>
 Verschiedene Level können unterschiedliche Ziele haben – zum Beispiel müssen Sie möglicherweise einen Schlüssel finden oder Ihre Surround-Fähigkeit auf Bodenfliesen einsetzen, um Gegenstände oder Feinde aufzudecken. Nur der Kopf Ihrer Schlange ist verwundbar; Wenn ein Feind deinen Körper trifft, werden alle Teile zerstreut und du musst sie wieder einsammeln. Nachdem Sie die festgelegten Bedingungen auf jeder Stufe erfüllt haben, öffnet sich eine Tür, die zur nächsten Stufe führt. An diesem Punkt sind Sie wieder nur ein Kopf und müssen erneut nach Ihrem Körper suchen.
 Das Spiel hat den gleichen einzigartigen UPL-Stil, der Fans von Spielen wie Atomic Robo-Kid und Mutant Night bekannt sein wird.</desc>
 		<genre>Action / Labyrinth</genre>
-		<image>./images/Gomola Speed (Japan)-image.png</image>
-		<marquee>./images/Gomola Speed (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Gomola Speed (Japan)-thumb.png</thumbnail>
 		<rating>0.8</rating>
 		<releasedate>19900928T000000</releasedate>
 		<developer>UPL</developer>
@@ -1685,15 +1324,11 @@ Das Spiel hat den gleichen einzigartigen UPL-Stil, der Fans von Spielen wie Atom
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>17335</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101544" />
 	</game>
 	<game id="14468">
 		<name>Dragon's Curse</name>
 		<desc>Bei dem Versuch, dem bösen Drachen Mecha zu entkommen, verwandelt sich der Spieler in den schrecklichen Echsenmenschen! Machen Sie sich bereit, dem Drachen auf den Schwanz zu treten, denn 5 weitere Drachen warten darauf Sie aufzuhalten. Jeder ist bösartiger als der vorherige. Und jeder verwandelt Sie in eine andere Art! Zerschneide sie, verbrenne sie und blase sie die Gegner weg! Erobere das Salamanderkreuz um den Drachenfluch zu brechen.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Dragon's Curse (USA)-image.png</image>
-		<marquee>./images/Dragon's Curse (USA)-marquee.png</marquee>
-		<thumbnail>./images/Dragon's Curse (USA)-thumb.png</thumbnail>
 		<rating>0.9</rating>
 		<releasedate>19901231T000000</releasedate>
 		<developer>Westone</developer>
@@ -1703,16 +1338,12 @@ Das Spiel hat den gleichen einzigartigen UPL-Stil, der Fans von Spielen wie Atom
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2293</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101548" />
 	</game>
 	<game id="59797">
 		<name>Final Blaster</name>
 		<desc>Final Blaster ist ein vertikal scrollender Shooter mit sieben Levels. Wie üblich steuert der Spieler ein Raumschiff und muss am Ende jedes Levels die gegnerische Opposition und einen mächtigen Bossgegner töten. Eine Besonderheit ist der dynamische Schwierigkeitsgrad: Wenn der Spieler in einem Level eine gute Leistung erbringt, steigt er im Rang auf, was sich auf den Schwierigkeitsgrad des nächsten Levels auswirkt. Es gibt vier dieser Ränge.
 Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben dargestellt werden: Waffen-Upgrades und Drohnen, die den Spieler begleiten. Diese sind jeweils zweifach aufrüstbar und untereinander kompatibel. Wenn der Spieler stirbt, werden die Extras in eine grüne Kapsel evakuiert. Es kann dann beim nächsten Leben wieder aufgenommen werden.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Final Blaster (Japan)-image.png</image>
-		<marquee>./images/Final Blaster (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Final Blaster (Japan)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900928T000000</releasedate>
 		<developer>Aisystem Tokyo</developer>
@@ -1720,15 +1351,11 @@ Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben darges
 		<players>1</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101549" />
 	</game>
 	<game id="14532">
 		<name>Son Son II</name>
 		<desc>In diesem Plattformspiel, das lose auf dem klassischen chinesischen Roman Xi You Ji basiert, übernehmen die Spieler die Kontrolle über Son Goku, der seine Freunde vor einem mysteriösen Bösewicht retten muss. In sieben Levels muss Son Goku verschiedene Sprungrätsel bestehen, Feinde mit seinem Stab bekämpfen und Geld in Form von Früchten sammeln. Unterwegs kann er verschiedene hilfreiche Gegenstände einsammeln, die entweder in Geschäften gekauft oder in den Levels versteckt gefunden werden können. Dazu gehören: Medikamente, die die Gesundheit von Son Goku wieder auffüllen, eine magische Lampe, die es ihm ermöglicht, weiterzumachen, nachdem er ein Leben verloren hat, Schlüssel, die Türen öffnen, ein Handschuh, der bestimmte Wände durchbricht, und eine Wolke, mit der Son Goku in Bosskämpfen fliegen kann. Darüber hinaus kann Son Goku längere und stärkere Stäbe kaufen, wenn er jemanden findet, der sie verkauft.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Son Son II (Japan)-image.png</image>
-		<marquee>./images/Son Son II (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Son Son II (Japan)-thumb.png</thumbnail>
 		<rating>0.75</rating>
 		<releasedate>19890127T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1737,15 +1364,11 @@ Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben darges
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>8907</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101553" />
 	</game>
 	<game id="78800">
 		<name>Veigues : Tactical Gladiator</name>
 		<desc>Seit drei Jahren zertrümmern außerirdische Eindringlinge die Erde in eine schwelende Ruine. Es gibt keinen lebenden Mann, der sie aufhalten kann. Aber jetzt gibt es Veigues, eine verheerende Kampfmaschine! Gebaut mit erbeuteter feindlicher Technologie, ist er unsere letzte verzweifelte Überlebenshoffnung ... und du hast die Kontrolle! Vernichte die Eindringlinge mit der Plasma-Kanone! Halten Sie einfach Ihre Feuerkraft heiß und kämpfen Sie, als gäbe es kein Morgen. Zerstöre die Aliens oder es wird keine geben!</desc>
 		<genre>Shoot'em Up</genre>
-		<image>./images/Veigues - Tactical Gladiator (USA)-image.png</image>
-		<marquee>./images/Veigues - Tactical Gladiator (USA)-marquee.png</marquee>
-		<thumbnail>./images/Veigues - Tactical Gladiator (USA)-thumb.png</thumbnail>
 		<rating>0.65</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Bits Laboratory</developer>
@@ -1753,15 +1376,11 @@ Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben darges
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
-		<scrap name="ScreenScraper" date="20260814T101554" />
 	</game>
 	<game id="78679">
 		<name>Kaizou Choujin Shubibinman</name>
 		<desc>Shubibinman ist ein komplexeres Spiel, als es scheint. A priori handelt es sich um ein Spiel mit zwei Charakteren (einem Mann und einem Mädchen), die japanische Schulkinder sind. Wie jedes japanische Schulkind verfügen sie über ein paar kleine Kräfte. In diesem Fall können sie sich mit Rüstungen und Laserschwertern wie X-OR in Superkrieger verwandeln. Sie müssen gegen das böse Imperium kämpfen, das unser Land und insbesondere Japan bedroht.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Kaizou Choujin Shubibinman (Japan)-image.png</image>
-		<marquee>./images/Kaizou Choujin Shubibinman (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Kaizou Choujin Shubibinman (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890318T000000</releasedate>
 		<developer>Nippon Computer Systems (NCS)</developer>
@@ -1769,15 +1388,11 @@ Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben darges
 		<players>1-2</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101557" />
 	</game>
 	<game id="59783">
 		<name>Burning Angels</name>
 		<desc>Die Burning Angels sind zwei knapp bekleidete Frauen, die mit Raumschiffen kämpfen. Ihr aktuelles Ziel ist es, den Leiter eines Wissenschaftsprojekts zu retten, der von Außerirdischen entführt wurde. Jetzt begeben sie sich in ihre Schiffe, fliegen durch die vertikal scrollenden Level und töten alles, was sie sehen, einschließlich mehrerer Bossgegner. Getötete Feinde hinterlassen Power-Ups, die fünf zusätzliche Waffen belohnen, z. B. Raketen oder Drohnen, die gleichzeitig eingesetzt werden können, oder ein intelligentes Bombenäquivalent. Der Spieler verfügt über einen Gesundheitsbalken, der abnimmt, wenn das Schiff von Feinden getroffen wird. Wenn das Schiff vollständig leer ist, ist das Spiel beendet, da es keine Fortsetzungen oder Extraleben mehr gibt. Ebenso beendet der Tod eines Spielers das Spiel im kooperativen Mehrspielermodus.</desc>
 		<genre>Shoot'em Up / Vertikal</genre>
-		<image>./images/Burning Angels (Japan)-image.png</image>
-		<marquee>./images/Burning Angels (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Burning Angels (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19901207T000000</releasedate>
 		<developer>Naxat Soft</developer>
@@ -1787,7 +1402,6 @@ Das Spiel verfügt über zwei Power-Ups, die mit unterschiedlichen Farben darges
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>13674</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101600" />
 	</game>
 	<game id="78683">
 		<name>Keith Courage in Alpha Zones</name>
@@ -1797,9 +1411,6 @@ Während Keith Courage sich seinen Weg durch die verschiedenen Zonen bahnt, grei
 
 Wenn er es in jedem Level bis zu einem bestimmten Punkt schafft, erhält Keith Courage Zugang zum Nova Suit, einem gepanzerten Anzug mit einem mächtigen Schwert, mit dem die Endbosse jedes Levels in der Unterwelt erledigt werden. Sobald Keith Courage den Boss besiegt hat, kehrt er in die Overworld ohne Rüstung zurück, um die nächsten Herausforderungen zu meistern.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Keith Courage in Alpha Zones (USA)-image.png</image>
-		<marquee>./images/Keith Courage in Alpha Zones (USA)-marquee.png</marquee>
-		<thumbnail>./images/Keith Courage in Alpha Zones (USA)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19890101T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1808,15 +1419,11 @@ Wenn er es in jedem Level bis zu einem bestimmten Punkt schafft, erhält Keith C
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2301</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101602" />
 	</game>
 	<game id="78631">
 		<name>Down Load</name>
 		<desc>Download ist ein horizontal scrollender Shooter und überrascht mit seiner Inszenierung; Tatsächlich wird die Geschichte durch animierte Zwischenspiele erzählt. Die Atmosphäre ist typisch Cyberpunk mit einem japanischen Touch. Das erste Level, in dem unser Held auf seinem fliegenden Motorrad eine asphaltierte Straße entlangfährt, erinnert stark an den Film „Akira“. An der Steuerung Ihres fliegenden Motorrads reisen Sie durch die sechs Level, die alle in mehrere Teile (3 oder 4) unterteilt sind, oft unterbrochen von Mittelbossen. Vor jedem Level müssen Sie Ihre Haupt- und Sekundärwaffe auswählen (begrenzte Anzahl für Letztere). Während des Spiels können Sie außerdem drei Arten von Boni mit folgenden Funktionen sammeln: Verbessern Sie Ihr Primärfeuer, laden Sie Ihr Sekundärfeuer auf und geben Sie schließlich ein wenig Leben zurück.</desc>
 		<genre>Shoot'em Up / Horizontal</genre>
-		<image>./images/Down Load (Japan)-image.png</image>
-		<marquee>./images/Down Load (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Down Load (Japan)-thumb.png</thumbnail>
 		<rating>0.7</rating>
 		<releasedate>19900622T000000</releasedate>
 		<developer>Alfa System</developer>
@@ -1825,7 +1432,6 @@ Wenn er es in jedem Level bis zu einem bestimmten Punkt schafft, erhält Keith C
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosId>13235</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101604" />
 	</game>
 	<game id="78630">
 		<name>Double Dungeons</name>
@@ -1833,9 +1439,6 @@ Wenn er es in jedem Level bis zu einem bestimmten Punkt schafft, erhält Keith C
 
 Das grundlegende Gameplay ist sehr einfach. Feinde tauchen an bestimmten Punkten auf (sie können auch wieder erscheinen) und müssen besiegt werden, um fortzufahren. Der Kampf ist im Kern rundenbasiert, obwohl die Runden sehr schnell folgen und die Feinde angreifen, selbst wenn der Spieler nichts tut. Der Angriff erfolgt einfach per Knopfdruck. Es gibt keine anderen Kampfoptionen.</desc>
 		<genre>Rollenspiele</genre>
-		<image>./images/Double Dungeons (USA)-image.png</image>
-		<marquee>./images/Double Dungeons (USA)-marquee.png</marquee>
-		<thumbnail>./images/Double Dungeons (USA)-thumb.png</thumbnail>
 		<rating>0.45</rating>
 		<releasedate>19890929T000000</releasedate>
 		<developer>Nippon Computer Systems (NCS)</developer>
@@ -1844,16 +1447,12 @@ Das grundlegende Gameplay ist sehr einfach. Feinde tauchen an bestimmten Punkten
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosId>2292</cheevosId>
-		<scrap name="ScreenScraper" date="20260814T101605" />
 	</game>
 	<game id="14566">
 		<name>Battle Lode Runner</name>
 		<desc>Battle Lode Runner wurde ursprünglich nur in Japan auf der PC-Engine (TurboGrafx-16) veröffentlicht und ist eine Fortsetzung von Lode Runner. Der Hauptvorteil ist ein 5-Spieler-Modus. Die Spieler bewegen sich auf mehreren Plattformen und sammeln Gold. Verschiedene Feinde bevölkern die Level und der Spieler versucht, mit einer Bohrmaschine bewaffnet, Löcher zu bohren, um die Feinde zu fangen. Leider werden die Feinde dadurch nicht besiegt, sondern nur für kurze Zeit außer Gefecht gesetzt. Nach ein paar Sekunden erscheinen die Feinde wieder und nehmen die Verfolgung des Spielers wieder auf.
 Die Fünf-Spieler-Option war in jeder Version von Lode Runner neu und funktioniert auf sehr ähnliche Weise wie Bomberman, außer dass Löcher gebohrt werden, anstatt zu bombardieren.</desc>
 		<genre>Plattform</genre>
-		<image>./images/Battle Lode Runner (Japan)-image.png</image>
-		<marquee>./images/Battle Lode Runner (Japan)-marquee.png</marquee>
-		<thumbnail>./images/Battle Lode Runner (Japan)-thumb.png</thumbnail>
 		<rating>0.6</rating>
 		<releasedate>19930210T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1862,6 +1461,5 @@ Die Fünf-Spieler-Option war in jeder Version von Lode Runner neu und funktionie
 		<players>1-5</players>
 		<lang>jp</lang>
 		<region>jp</region>
-		<scrap name="ScreenScraper" date="20260814T101608" />
 	</game>
 </gameList>
