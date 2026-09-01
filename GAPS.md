@@ -2,7 +2,7 @@
 
 Written by `tools/build.mjs` on every run — do not edit by hand.
 
-The catalogue as it stands: 1406 titles across 17 systems.
+The catalogue as it stands: 1433 titles across 18 systems.
 
 ## No gamelist entry — 0
 
@@ -22,7 +22,7 @@ Usually two discs of one game sitting in the catalogue as two titles.
 
 _none_
 
-## Not matched by name — 51
+## Not matched by name — 54
 
 Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 
@@ -77,6 +77,9 @@ Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 - [ps2] `Devil May Cry 3 — Dante's Awakening` → `Devil May Cry 3 : Dante's Awakening Special Edition` (subtitle)
 - [ps2] `Need for Speed — Most Wanted — Black Edition` → `Need for Speed : Most Wanted` (subtitle)
 - [ps2] `Lara Croft Tomb Raider — Legend` → `Tomb Raider : Legend` (similar 0.79)
+- [ps3] `Dragon Age — Origins` → `Dragon Age : Origins - Ultimate Edition` (subtitle)
+- [ps3] `LittleBigPlanet` → `LittleBigPlanet : Game of the Year Edition` (subtitle)
+- [ps3] `Journey Collector's Edition` → `Journey` (subtitle)
 
 ## No rating — 19
 

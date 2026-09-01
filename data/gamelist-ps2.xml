@@ -35,6 +35,7 @@
 		<releasedate>20050920T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Electronic Arts</publisher>
+		<family>Katamari</family>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -869,6 +870,7 @@ Im bewährten GTA-Stil geht es zu Fuß oder in vielen typischen Simpsons-Fahrzeu
 		<releasedate>20040922T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
+		<family>Katamari</family>
 		<players>1-2</players>
 		<lang>en</lang>
 		<region>us</region>

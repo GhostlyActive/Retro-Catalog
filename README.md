@@ -1,6 +1,6 @@
 # Retro-Catalog
 
-A curated catalogue of 1406 retro games across 17 systems — tiers, verdicts and
+A curated catalogue of 1433 retro games across 18 systems — tiers, verdicts and
 grouping are mine, ratings and artwork come from ScreenScraper. Single HTML file:
 plain HTML, CSS and a little JavaScript, no dependencies.
 
