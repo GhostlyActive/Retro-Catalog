@@ -2,7 +2,7 @@
 
 Written by `tools/build.mjs` on every run — do not edit by hand.
 
-The catalogue as it stands: 1433 titles across 18 systems.
+The catalogue as it stands: 1432 titles across 18 systems.
 
 ## No gamelist entry — 0
 
@@ -22,7 +22,7 @@ Usually two discs of one game sitting in the catalogue as two titles.
 
 _none_
 
-## Not matched by name — 54
+## Not matched by name — 53
 
 Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 
@@ -79,7 +79,6 @@ Found by subtitle or similarity. Wrong matches belong in `HANDZUORDNUNG`.
 - [ps2] `Lara Croft Tomb Raider — Legend` → `Tomb Raider : Legend` (similar 0.79)
 - [ps3] `Dragon Age — Origins` → `Dragon Age : Origins - Ultimate Edition` (subtitle)
 - [ps3] `LittleBigPlanet` → `LittleBigPlanet : Game of the Year Edition` (subtitle)
-- [ps3] `Journey Collector's Edition` → `Journey` (subtitle)
 
 ## No rating — 19
 
